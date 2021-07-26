@@ -1,0 +1,18 @@
+# landscape short name
+landscapeName: lf
+# Update with your membership structure
+landscapeMemberClasses:
+   - name: Platinum Membership
+     category: Platinum
+   - name: End-User Membership
+     category: Platinum
+   - name: Silver Membership
+     category: Silver
+   - name: Academic Membership
+     category: Academic Institution
+   - name: Associate Membership
+     category: Associate
+# SF Project record ID for your project
+project: a0941000002wBymAAE # Open Mainframe Project
+# Name of category for members 
+landscapeMemberCategory: Open Mainframe Project Member Company

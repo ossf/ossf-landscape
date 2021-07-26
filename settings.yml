@@ -1,0 +1,189 @@
+global:
+  # name of the landscape
+  name: OSPO Landscape
+  # shortname
+  short_name: OSPO
+  # repo where this landscape is hosted ( minus the https://github.com part )
+  repo: cncf/ospolandscape
+  # URL to the landscape
+  website: https://ospolandscape.todogroup.org
+  # Short domain name for the landscape (usually this would change 'l' for 'landscape'
+  short_domain: l.todogroup.org
+  # Your project's website
+  company_url: https://todogroup.org
+  # General contact email for the landscape
+  email: info@todogroup.org
+  # Crunchbase entry for your projec
+  self: https://www.crunchbase.com/organization/todo-group
+  # Slack channel for posting build updates
+  slack_channel: T08PSQ7BQ/BM7M5TKSR/Xjll8jWb2cgpO7aOCGxUtebU
+  meta:
+    # Should match name above
+    title: OSPO Landscape
+    # keep this
+    fb_admin: alex.contini.94
+    # site description
+    description: Filter and sort by GitHub stars, funding, commits, contributors, hq location, and tweets
+    # your project's twitter
+    twitter: '@todogroup'
+    # update if needed
+    google_site_verification: u_xqWIf8_EzRP4UF92px16rTSoIP49D_g9i7M-4rXds
+    ms_validate: 3AF9FFA12CCC3C49C0ABA71CCA222665
+  # Category for members
+  membership: TODO Group Member
+  # Update for the categories where you won't be showing the open source license ( typically done for members or conformance program members )
+  flags:
+    hide_license_for_categories:
+      - OSPO Adopter
+      - TODO Group Member
+# Data for the twitter card
+twitter:
+  search: ospolandscape.todogroup.org
+  url: https://ospolandscape.todogroup.org
+  text: OSPO Landscape
+# Complete this section for identifying hosted projects of your project, along with member projects
+relation:
+  label: TODO Group Relation
+  url: todo
+  values:
+    - id: hosted
+      label: GraphQL Foundation Projects
+      # children to identify maturity levels ( incubation, active, etc ). If there aren't multiple levels, then just complete like below.
+      children:
+        - id: foundationproject
+          label: GraphQL Foundation Projects
+          prefix: GraphQL
+          tag: Foundation Project
+          color: '#3570af'
+          big_picture_order: 1
+          big_picture_label: GraphQL Foundation Project
+          big_picture_color: rgb(24,54,114)
+    - id: company
+      label: TODO Group Member
+      tag: Company
+      big_picture_order: 3
+    - id: member
+      label: TODO Group Member Products/Projects
+      tag: TODO Group Member
+    - id: false
+      label: Non-TODO Group Member Products/Projects
+      url: 'no'
+# membership levels
+membership:
+  # category for project members
+  General:
+    name: TODO Group
+    label: Member
+    funding: General
+  # category for LF members
+  linux_foundation:
+    name: LF
+    label: Project
+    funding: Linux Foundation
+    crunchbase_and_children: https://www.crunchbase.com/organization/linux-foundation
+  'false':
+    funding: 'No'
+home:
+  # update to change the header text
+  header: >
+    <h1>OSPO Landscape</h1> The OSPO landscape (<a target="_blank" href="images/landscape.png">png</a>, <a target="_blank"
+    href="images/landscape.pdf">pdf</a>) is dynamically generated below. It is modeled after the <a href="http://landscape.cncf.io">CNCF landscape</a> and based
+    on the same open source code.
+  # don't change this
+  footer: |
+    Crunchbase data is used under license from Crunchbase to CNCF.
+# ads for the landscape. Good opportunity to advertise your project events
+ads:
+  - url: https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/?utm_source=ospo_landscape&utm_medium=web&utm_campaign=kccnceu20
+    image: /images/info1.jpg
+    title: Kubecon + CloudNativeCon Europe 2020
+# preset searches
+presets:
+  - url: /format=card-mode&grouping=no&license=open-source&sort=first-commit
+    label: Open source cards by age
+  - url: /license=apache-license-2-0
+    label: Apache-2.0 landscape
+  - url: /format=card-mode&grouping=category
+    label: Cards in categories
+  - url: /format=card-mode&grouping=no&sort=stars
+    label: Cards by stars
+  - url: /format=card-mode&grouping=headquarters
+    label: Group by location
+  - url: /format=card-mode&grouping=no&sort=amount
+    label: Cards by MCap/Funding
+# sets the rendering of the landscape
+big_picture:
+  # this is for the main page
+  main:
+    tab_index: -1
+    url: landscape
+    name: Landscape
+    title: OSPO Landscape
+    fullscreen_header: See the interactive landscape at l.todogroup.org
+    # add one element for each category in landscape.yml
+    elements:
+      - type: HorizontalCategory
+        category: OSPO Adopter
+        rows: 6
+        width: 970
+        height: 195
+        top: 0
+        left: 0
+        color: rgb(126,115,14)
+        fit_width: true
+      - type: HorizontalCategory
+        category: TODO Group Member
+        rows: 4
+        width: 650
+        height: 150
+        top: 210
+        left: 0
+        color: rgb(103,66,18)
+        fit_width: true
+      # this is a landscape info box; good idea to keep this one
+      - type: LandscapeInfo
+        width: 310
+        height: 150
+        top: 210
+        left: 665
+        children:
+          - type: text
+            text: |
+              This landscape is intended as a map to explore the OSPO community, and also shows the member organizations of the TODO Group.
+            top: 45
+            left: 140
+            right: 10
+            font_size: 10
+          - type: image
+            image: qr.svg
+            top: 10
+            left: 20
+            width: 90
+            height: 90
+            title: QR Code
+          - type: title
+            title: l.todogroup.org
+            top: 95
+            left: 10
+            font_size: 18
+          - type: image
+            image: left-logo.svg
+            width: 90
+            right: 105
+            top: 10
+            title: Landscape Logo
+          - type: image
+            image: right-logo.svg
+            width: 90
+            right: 10
+            top: 10
+            title: TODO Group Logo
+# test to make sure the build worked. Identify one landscape item that you know will always be there, preferably towards the top of the rendering
+test:
+  header: OSPO Landscape
+  section: TODO Group Member
+  logo: airbnb-member.svg
+# if you have a common view, create a pre-render to speed the render time up
+prerender:
+  # good pre-render to always have; embedable member logo list for a website. Renders to /pages/members
+  members: /card-mode?category=open-mainframe-project-member-company&grouping=category&embed=yes&style=borderless
