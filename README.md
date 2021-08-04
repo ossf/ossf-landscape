@@ -1,9 +1,9 @@
 [![Dependency Status][]][1] [![Netlify Status]][2]
 
 <!-- Change to the name of your landscape -->
-# Landscape Template
+# OpenSSF Landscape
 
-![Landscape Template Logo]
+![OpenSSF Landscape Logo]
 
 -   [Current Version]
 -   [Interactive Version]
@@ -16,17 +16,17 @@
 -   [Vulnerability reporting]
 
 <!-- Change to the description of your landscape -->
-This landscape is intended as a map to explore the OSPO Ecosystem, and also shows the member companies of the TODO Group. 
+This landscape is intended as a map to explore the OpenSSF Ecosystem, and also shows the member companies of the Open Source Security Foundation. 
 
 It is modelled after the [Cloud Native Computing Foundation (CNCF) landscape] and based on the same open source code.
 
 ## Current Version
 
-[![Landscape Template][3]][3]
+[![OpenSSF Landscape][PNG]][PNG]
 
 ## Interactive Version
 
-Please see [ospolandscape.todogroup.org].
+Please see [landscape.openssf.org].
 
 ## New Entries
 
@@ -63,7 +63,7 @@ Everything else is under the Apache License, Version 2.0, except for project and
 
 ## Formats
 
-The Landscape Template is available in these formats:
+The OpenSSF Landscape is available in these formats:
 
 - [PNG]
 - [PDF]
@@ -77,15 +77,15 @@ You can install and run locally with the [install directions]. It's not necessar
 Please open an [issue] or, for sensitive information, email info\@cncf.io.
 
 <!--- Update urls and references in this section -->
-[Dependency Status]: https://img.shields.io/david/jmertic/landscape-template.svg?style=flat-square
-[1]: https://david-dm.org/jmertic/landscape-template``
-[Netlify Status]: https://api.netlify.com/api/v1/badges/9fe8d885-037d-48ce-8bf9-3bfa54152945/deploy-status
-[2]: https://app.netlify.com/sites/graphql-landscape/deploys
-[ospolandscape.todogroup.org]: https://ospolandscape.todogroup.org
-[PDF]: https://ospolandscape.todogroup.org/images/landscape.pdf
-[PNG]: https://ospolandscape.todogroup.org/images/landscape.png
-[issue]: https://github.com/jmertic/landscape-template/issues/new
-[projects sorted by last update]: https://ospolandscape.todogroup.org/format=card-mode&grouping=no&license=open-source&sort=latest-commit
+[Dependency Status]: https://img.shields.io/david/ossf/ossf-landscape.svg?style=flat-square
+[1]: https://david-dm.org/ossf/ossf-landscape
+[Netlify Status]: https://api.netlify.com/api/v1/badges/1fd42f8e-c81e-49ac-ad11-3e24e464ca10/deploy-status
+[2]: https://app.netlify.com/sites/ossflandscape/deploys
+[landscape.openssf.org]: https://landscape.openssf.org
+[PDF]: https://landscape.openssf.org/images/landscape.pdf
+[PNG]: https://landscape.openssf.org/images/landscape.png
+[issue]: https://github.com/ossf/ossf-landscape/issues/new
+[projects sorted by last update]: https://landscape.openssf.org/format=card-mode&grouping=no&license=open-source&sort=latest-commit
 <!--- These shouldn't need updated -->
 [Landscape Template Logo]: images/left-logo.svg
 [Current Version]: #current-version
