@@ -11,6 +11,6 @@ jobs:
       - uses: Amwam/issue-comment-action@v1.3.1
         if: ${{ github.event.issue.pull_request && contains(github.event.issue.labels.*.name, 'automated-update') }}
         with:
-          keywords: '["Deploy preview for *ossf-landscape* ready"]'
+          keywords: '["Deploy preview for *ossflandscape* ready"]'
           labels: '["automerge"]'
           github-token: "${{ secrets.PAT }}"
