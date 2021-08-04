@@ -1,7 +1,7 @@
 # THIS FILE IS GENERATED AUTOMATICALLY!
 landscape:
   - category:
-    name: Members
+    name: OpenSSF Members
     subcategories:
       - subcategory:
         name: General
@@ -830,6 +830,7 @@ landscape:
             logo: citi.svg
             twitter: https://twitter.com/Citibank
             crunchbase: https://www.crunchbase.com/organization/citigroup
+            joined: '2021-01-25'
             crunchbase_data:
               name: Citi
               description: Citigroup is a diversified financial services holding company that provides various financial products and services.
@@ -1492,6 +1493,99 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2021-07-25T18:55:01.000Z
+          - item:
+            name: Goldman Sachs & Co. LLC
+            homepage_url: https://gs.com/
+            logo: goldman_sachs__co_llc.svg
+            twitter: https://twitter.com/GoldmanSachs
+            crunchbase: https://www.crunchbase.com/organization/goldman-sachs
+            crunchbase_data:
+              name: Goldman Sachs
+              description: Goldman Sachs is a multinational financial services firm providing securities, investment banking, and management services.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://www.goldmansachs.com/
+              city: New York
+              region: New York
+              country: United States
+              twitter: http://twitter.com/goldmansachs
+              linkedin: https://www.linkedin.com/company/goldman-sachs
+              acquisitions:
+                - date: '1999-07-13'
+                  acquiree: Hull Group
+                  price: 531000000
+                - date: '2000-09-11'
+                  acquiree: Spear, Leeds & Kellogg
+                  price: 6500000000
+                - date: '2006-04-01'
+                  acquiree: Wall Street On Demand
+                - date: '2007-01-16'
+                  acquiree: USI Holding
+                  price: 1400000000
+                - date: '2007-03-11'
+                  acquiree: Mellon Ventures
+                - date: '2015-04-23'
+                  acquiree: Pacific Global Advisors
+                - date: '2015-11-02'
+                  acquiree: Pantor
+                - date: '2016-03-14'
+                  acquiree: Honest Dollar
+                - date: '2016-07-17'
+                  acquiree: Carver Korea
+                - date: '2016-12-22'
+                  acquiree: Meilleurtaux.com
+                - date: '2017-09-14'
+                  acquiree: Bond Street
+                - date: '2017-10-12'
+                  acquiree: Genesis Capital LLC
+                - date: '2017-10-17'
+                  acquiree: YOHO Manipal
+                  price: 54000000
+                - date: '2017-12-14'
+                  acquiree: Financeit
+                - date: '2018-01-30'
+                  acquiree: Final
+                - date: '2018-06-14'
+                  acquiree: Slickdeals
+                - date: '2018-07-11'
+                  acquiree: Boyd Corporation
+                  price: 3000000000
+                - date: '2018-11-09'
+                  acquiree: ClearFactr
+                - date: '2019-05-16'
+                  acquiree: United Capital
+                  price: 750000000
+                - date: '2019-06-03'
+                  acquiree: Capital Vision Services
+                  price: 2700000000
+                - date: '2020-05-14'
+                  acquiree: Folio Institutional
+                - date: '2020-10-02'
+                  acquiree: General Motors - Credit Card Business
+                  price: 2500000000
+                - date: '2020-12-08'
+                  acquiree: Goldman Sachs Gao Hua Securities
+              parents: []
+              ticker: GS
+              stockExchange: nyse
+              company_type: For Profit
+              industries:
+                - Banking
+                - Finance
+                - Financial Services
+                - Venture Capital
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 129231863808
+              effective_ticker: GS
+            image_data:
+              fileName: goldman-sachs-co-llc.svg
+              hash: aQ4CCgLXKLkWY2oUYmAHwXBTq8POmUQnnsoOcvmzh7s=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-08-04T13:00:13.000Z
           - item:
             name: Google LLC
             homepage_url: https://google.com/
@@ -4952,6 +5046,79 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2021-07-23T13:30:27.000Z
+          - item:
+            name: Xilinx Inc
+            homepage_url: https://xilinx.com/
+            logo: xilinx_inc.svg
+            twitter: https://twitter.com/XilinxInc
+            crunchbase: https://www.crunchbase.com/organization/xilinx
+            crunchbase_data:
+              name: Xilinx
+              description: Xilinx is a technology company that develops flexible and adaptive processing platforms.
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: http://www.xilinx.com
+              city: San Jose
+              region: California
+              country: United States
+              twitter: http://twitter.com/XilinxInc
+              linkedin: https://www.linkedin.com/company/xilinx
+              acquisitions:
+                - date: '1995-04-10'
+                  acquiree: NeoCAD
+                - date: '2000-10-03'
+                  acquiree: RocketChips, Inc.
+                - date: '2004-03-09'
+                  acquiree: Triscend
+                - date: '2004-06-07'
+                  acquiree: Hier Design
+                - date: '2006-01-13'
+                  acquiree: AccelChip
+                  price: 21500000
+                - date: '2011-01-31'
+                  acquiree: AutoESL
+                - date: '2011-03-31'
+                  acquiree: Omiino Ltd
+                - date: '2011-05-17'
+                  acquiree: Sarance Technologies
+                - date: '2012-08-28'
+                  acquiree: PetaLogix Qld Pty Ltd
+                - date: '2012-09-17'
+                  acquiree: Modesat
+                - date: '2016-10-01'
+                  acquiree: Auviz Systems
+                - date: '2018-07-17'
+                  acquiree: DeePhi Tech
+                - date: '2019-04-24'
+                  acquiree: Solarflare Communications
+                - date: '2019-07-01'
+                  acquiree: NGCode
+                - date: '2021-06-10'
+                  acquiree: Silexica
+              parents: []
+              ticker: XLNX.VI
+              funding: 862000
+              stockExchange: vie
+              company_type: For Profit
+              industries:
+                - Electronic Design Automation (EDA)
+                - Field-Programmable Gate Array (FPGA)
+                - Hardware
+                - Semiconductor
+                - Software
+                - Wireless
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 36319171854
+              effective_ticker: XLNX.VI
+            image_data:
+              fileName: xilinx-inc.svg
+              hash: 3EL9LR6Y2E+d0EEmnZdy+9C3yyro6YrtKIe4KZvW8gk=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-08-02T18:45:44.000Z
       - subcategory:
         name: Associate
         items:

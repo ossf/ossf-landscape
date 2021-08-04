@@ -1,6 +1,6 @@
 landscape:
   - category:
-    name: Members
+    name: OpenSSF Members
     subcategories:
       - subcategory:
         name: General
@@ -47,6 +47,7 @@ landscape:
             logo: citi.svg
             twitter: https://twitter.com/Citibank
             crunchbase: https://www.crunchbase.com/organization/citigroup
+            joined: '2021-01-25'
           - item:
             name: Codethink
             homepage_url: https://codethink.co.uk/
@@ -94,6 +95,12 @@ landscape:
             logo: gitlab_inc.svg
             twitter: https://twitter.com/gitlab
             crunchbase: https://www.crunchbase.com/organization/gitlab-com
+          - item:
+            name: Goldman Sachs & Co. LLC
+            homepage_url: https://gs.com/
+            logo: goldman_sachs__co_llc.svg
+            twitter: https://twitter.com/GoldmanSachs
+            crunchbase: https://www.crunchbase.com/organization/goldman-sachs
           - item:
             name: Google LLC
             homepage_url: https://google.com/
@@ -281,6 +288,12 @@ landscape:
             logo: white_source_ltd.svg
             twitter: https://twitter.com/WhiteSourceSoft
             crunchbase: https://www.crunchbase.com/organization/white-source
+          - item:
+            name: Xilinx Inc
+            homepage_url: https://xilinx.com/
+            logo: xilinx_inc.svg
+            twitter: https://twitter.com/XilinxInc
+            crunchbase: https://www.crunchbase.com/organization/xilinx
       - subcategory:
         name: Associate
         items:

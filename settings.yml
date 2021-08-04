@@ -15,9 +15,9 @@ global:
     twitter: '@todogroup'
     google_site_verification: u_xqWIf8_EzRP4UF92px16rTSoIP49D_g9i7M-4rXds
     ms_validate: 3AF9FFA12CCC3C49C0ABA71CCA222665
-  membership: Members
+  membership: OpenSSF Members
   flags:
-    companies: Members
+    companies: OpenSSF Members
 twitter:
   search: landscape.openssf.org
   url: https://landscape.openssf.org
@@ -96,7 +96,7 @@ big_picture:
     fullscreen_header: See the interactive landscape at l.openssf.org
     elements:
       - type: VerticalCategory
-        category: Members
+        category: OpenSSF Members
         rows: 4
         width: 650
         height: 150
