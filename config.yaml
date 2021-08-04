@@ -1,18 +1,12 @@
 # landscape short name
-landscapeName: lf
+landscapeName: ossf 
 # Update with your membership structure
 landscapeMemberClasses:
-   - name: Platinum Membership
-     category: Platinum
-   - name: End-User Membership
-     category: Platinum
-   - name: Silver Membership
-     category: Silver
-   - name: Academic Membership
-     category: Academic Institution
+   - name: OpenSSF Member
+     category: General
    - name: Associate Membership
      category: Associate
 # SF Project record ID for your project
-project: a0941000002wBymAAE # Open Mainframe Project
+project: a092M00001Iw46JQAR # OpenSSF
 # Name of category for members 
-landscapeMemberCategory: Open Mainframe Project Member Company
+landscapeMemberCategory: OpenSSF Members
