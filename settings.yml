@@ -100,14 +100,14 @@ big_picture:
         rows: 4
         width: 650
         height: 150
-        top: 210
+        top: 0
         left: 0
         color: rgb(103,66,18)
         fit_width: true
       - type: LandscapeInfo
         width: 310
         height: 150
-        top: 210
+        top: 0
         left: 665
         children:
           - type: text
