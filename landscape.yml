@@ -30,9 +30,9 @@ landscape:
             twitter: https://twitter.com/AuriStor
             crunchbase: https://www.crunchbase.com/organization/auristor
           - item:
-            name: Canonical Ltd.
+            name: Canonical Group Limited
             homepage_url: https://canonical.com/
-            logo: canonical_ltd.svg
+            logo: canonical_group_limited.svg
             twitter: https://twitter.com/Canonical
             crunchbase: https://www.crunchbase.com/organization/canonical-ltd
           - item:
@@ -62,8 +62,9 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/comcast
           - item:
             name: Cybertrust Japan Co., Ltd.
-            homepage_url: https://miraclelinux.com/
+            homepage_url: https://www.cybertrust.co.jp/
             logo: cybertrust_japan_co_ltd.svg
+            twitter: https://twitter.com/Cybertrust_JP
             crunchbase: https://www.crunchbase.com/organization/cybertrust
           - item:
             name: Debricked
@@ -97,7 +98,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/gitlab-com
           - item:
             name: Goldman Sachs & Co. LLC
-            homepage_url: https://gs.com/
+            homepage_url: https://goldmansachs.com/
             logo: goldman_sachs__co_llc.svg
             twitter: https://twitter.com/GoldmanSachs
             crunchbase: https://www.crunchbase.com/organization/goldman-sachs
@@ -245,7 +246,7 @@ landscape:
             logo: suse_llc.svg
             twitter: https://twitter.com/SUSE
             crunchbase: https://www.crunchbase.com/organization/suse
-            stock_ticker: null
+            stock_ticker:
           - item:
             name: Telefonica
             homepage_url: https://telefonica.com/
