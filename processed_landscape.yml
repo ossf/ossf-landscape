@@ -145,9 +145,9 @@ landscape:
             twitter_data:
               latest_tweet_date: 2021-05-13T18:05:41.000Z
           - item:
-            name: Canonical Ltd.
+            name: Canonical Group Limited
             homepage_url: https://canonical.com/
-            logo: canonical_ltd.svg
+            logo: canonical_group_limited.svg
             twitter: https://twitter.com/Canonical
             crunchbase: https://www.crunchbase.com/organization/canonical-ltd
             crunchbase_data:
@@ -174,7 +174,7 @@ landscape:
                 - Software
               kind: funding
             image_data:
-              fileName: canonical-ltd.svg
+              fileName: canonical-group-limited.svg
               hash: 9AAltScJtlJo62xLgQR58Qgzxxopu8+8nq7mnoZBRdQ=
             best_practice_data:
               badge: false
@@ -1033,20 +1033,21 @@ landscape:
               latest_tweet_date: 2021-07-26T13:37:36.000Z
           - item:
             name: Cybertrust Japan Co., Ltd.
-            homepage_url: https://miraclelinux.com/
+            homepage_url: https://www.cybertrust.co.jp/
             logo: cybertrust_japan_co_ltd.svg
+            twitter: https://twitter.com/Cybertrust_JP
             crunchbase: https://www.crunchbase.com/organization/cybertrust
             crunchbase_data:
               name: Cybertrust
               description: Cybertrust is a provider of a comprehensive security certification services to various public and private entities.
               num_employees_min: 501
               num_employees_max: 1000
-              homepage: https://www.cybertrust.ne.jp/english/
+              homepage: https://www.cybertrust.ne.jp/
               city: Tokyo
               region: Tokyo
               country: Japan
-              twitter: http://twitter.com/Cybertrust_SSL
-              linkedin: https://www.linkedin.com/company/cybertrust
+              twitter: http://twitter.com/Cybertrust_JP
+              linkedin: null
               acquisitions:
                 - date: '2004-09-21'
                   acquiree: Betrusted
@@ -1068,16 +1069,16 @@ landscape:
                 - Service Industry
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 233719529472
+              market_cap: 250407763968
               effective_ticker: CSCO
             image_data:
               fileName: cybertrust-japan-co-ltd.svg
-              hash: Usble+dSKHovd4NWkV12h3KhgshXhA7RWwy94+FfZEI=
+              hash: OI5wPhBxBzL41ATC/8fQ8iMdjzTFsh9/+5ZFAcDct/s=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2018-04-03T04:28:36.000Z
+              latest_tweet_date: 2021-08-30T07:00:01.000Z
           - item:
             name: Debricked
             homepage_url: https://debricked.com/
@@ -1495,7 +1496,7 @@ landscape:
               latest_tweet_date: 2021-07-25T18:55:01.000Z
           - item:
             name: Goldman Sachs & Co. LLC
-            homepage_url: https://gs.com/
+            homepage_url: https://goldmansachs.com/
             logo: goldman_sachs__co_llc.svg
             twitter: https://twitter.com/GoldmanSachs
             crunchbase: https://www.crunchbase.com/organization/goldman-sachs
