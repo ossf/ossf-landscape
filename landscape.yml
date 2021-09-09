@@ -246,7 +246,7 @@ landscape:
             logo: suse_llc.svg
             twitter: https://twitter.com/SUSE
             crunchbase: https://www.crunchbase.com/organization/suse
-            stock_ticker: null
+            stock_ticker:
           - item:
             name: Telefonica
             homepage_url: https://telefonica.com/
