@@ -127,12 +127,6 @@ landscape:
             twitter: https://twitter.com/Huawei
             crunchbase: https://www.crunchbase.com/organization/huawei
           - item:
-            name: iExec Blockchain Tech
-            homepage_url: https://iex.ec/
-            logo: iexec_blockchain_tech.svg
-            twitter: https://twitter.com/iEx_ec
-            crunchbase: https://www.crunchbase.com/organization/iexec
-          - item:
             name: Intel Corporation
             homepage_url: https://intel.com/
             logo: intel_corporation.svg
@@ -199,12 +193,6 @@ landscape:
             twitter: https://twitter.com/RedHat
             crunchbase: https://www.crunchbase.com/organization/red-hat
           - item:
-            name: Renesas Electronics Corporation
-            homepage_url: https://renesas.com/
-            logo: renesas_electronics_corporation.svg
-            twitter: https://twitter.com/RenesasGlobal
-            crunchbase: https://www.crunchbase.com/organization/renesas-electronics-corporation
-          - item:
             name: Samsung Electronics Co. Ltd.
             homepage_url: https://samsung.com/
             logo: samsung_electronics_co_ltd.svg
@@ -240,13 +228,6 @@ landscape:
             logo: stackhawk.svg
             twitter: https://twitter.com/StackHawk
             crunchbase: https://www.crunchbase.com/organization/stackhawk
-          - item:
-            name: SUSE LLC
-            homepage_url: https://suse.com/
-            logo: suse_llc.svg
-            twitter: https://twitter.com/SUSE
-            crunchbase: https://www.crunchbase.com/organization/suse
-            stock_ticker:
           - item:
             name: Telefonica
             homepage_url: https://telefonica.com/
