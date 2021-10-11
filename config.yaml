@@ -2,10 +2,14 @@
 landscapeName: ossf 
 # Update with your membership structure
 landscapeMemberClasses:
-   - name: OpenSSF Member
-     category: General
-   - name: Associate Membership
-     category: Associate
+  - name: Premier Membership
+    category: Premier
+  - name: General Membership
+    category: General
+  - name: OpenSSF Member
+    category: Member
+  - name: Associate Membership
+    category: Associate
 # SF Project record ID for your project
 project: a092M00001Iw46JQAR # OpenSSF
 # Name of category for members 
