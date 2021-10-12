@@ -6,10 +6,10 @@ landscapeMemberClasses:
     category: Premier
   - name: General Membership
     category: General
-  - name: OpenSSF Member
-    category: Member
   - name: Associate Membership
     category: Associate
+  - name: Founding Member
+    category: Founding
 # SF Project record ID for your project
 project: a092M00001Iw46JQAR # OpenSSF
 # Name of category for members 
