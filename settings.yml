@@ -56,14 +56,14 @@ membership:
     name: General
     label: General Member
     funding: General
-  Member:
-    name: Member
-    label: OpenSSF Member
-    funding: Member
   Associate:
     name: Associate
     label: Associate Member
     funding: Associate
+  Founding:
+    name: Founding
+    label: Founding Member
+    funding: Founding
   linux_foundation:
     name: LF
     label: Project
