@@ -182,6 +182,39 @@ landscape:
             twitter: https://twitter.com/WindRiver
             crunchbase: https://www.crunchbase.com/organization/wind-river
       - subcategory:
+        name: Associate
+        items:
+          - item:
+            name: Carnegie Mellon University
+            homepage_url: https://cmu.edu/
+            logo: carnegie_mellon_university.svg
+            twitter: https://twitter.com/CarnegieMellon
+            crunchbase: https://www.crunchbase.com/organization/carnegie-mellon-university
+          - item:
+            name: Laboratory for Innovation Science at Harvard
+            homepage_url: https://lish.harvard.edu/
+            logo: laboratory_for_innovation_science_at_harvard.svg
+            twitter: https://twitter.com/Harvard
+            crunchbase: https://www.crunchbase.com/organization/harvard-university
+          - item:
+            name: Open Source Technology Improvement Fund, Inc.
+            homepage_url: https://ostif.org/
+            logo: open_source_technology_improvement_fund_inc.svg
+            twitter: https://twitter.com/OSTIFofficial
+            crunchbase: https://www.crunchbase.com/organization/open-source-technology-improvement-fund
+          - item:
+            name: Open Web Application Security Project
+            homepage_url: https://owasp.org/
+            logo: open_web_application_security_project.svg
+            twitter: https://twitter.com/owasp
+            crunchbase: https://www.crunchbase.com/organization/open-web-application-security-project
+          - item:
+            name: SAFECode
+            homepage_url: https://safecode.org/
+            logo: safecode.svg
+            twitter: https://twitter.com/SAFECode
+            crunchbase: https://www.crunchbase.com/organization/safecode-org
+      - subcategory:
         name: Founding
         items:
           - item:
@@ -348,36 +381,3 @@ landscape:
             logo: xilinx_inc.svg
             twitter: https://twitter.com/XilinxInc
             crunchbase: https://www.crunchbase.com/organization/xilinx
-      - subcategory:
-        name: Associate
-        items:
-          - item:
-            name: Carnegie Mellon University
-            homepage_url: https://cmu.edu/
-            logo: carnegie_mellon_university.svg
-            twitter: https://twitter.com/CarnegieMellon
-            crunchbase: https://www.crunchbase.com/organization/carnegie-mellon-university
-          - item:
-            name: Laboratory for Innovation Science at Harvard
-            homepage_url: https://lish.harvard.edu/
-            logo: laboratory_for_innovation_science_at_harvard.svg
-            twitter: https://twitter.com/Harvard
-            crunchbase: https://www.crunchbase.com/organization/harvard-university
-          - item:
-            name: Open Source Technology Improvement Fund, Inc.
-            homepage_url: https://ostif.org/
-            logo: open_source_technology_improvement_fund_inc.svg
-            twitter: https://twitter.com/OSTIFofficial
-            crunchbase: https://www.crunchbase.com/organization/open-source-technology-improvement-fund
-          - item:
-            name: Open Web Application Security Project
-            homepage_url: https://owasp.org/
-            logo: open_web_application_security_project.svg
-            twitter: https://twitter.com/owasp
-            crunchbase: https://www.crunchbase.com/organization/open-web-application-security-project
-          - item:
-            name: SAFECode
-            homepage_url: https://safecode.org/
-            logo: safecode.svg
-            twitter: https://twitter.com/SAFECode
-            crunchbase: https://www.crunchbase.com/organization/safecode-org
