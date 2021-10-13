@@ -4,42 +4,642 @@ landscape:
     name: OpenSSF Members
     subcategories:
       - subcategory:
-        name: General
+        name: Premier
         items:
           - item:
-            name: Accurics
-            homepage_url: https://accurics.com/
-            logo: accurics.svg
-            twitter: https://twitter.com/AccuricsSec
-            crunchbase: https://www.crunchbase.com/organization/accurics
+            name: Microsoft Corporation
+            homepage_url: https://microsoft.com/
+            logo: microsoft_corporation.svg
+            twitter: https://twitter.com/Microsoft
+            crunchbase: https://www.crunchbase.com/organization/microsoft
             crunchbase_data:
-              name: Accurics
-              description: Accurics is a cloud cyber resilience specialist that enables resilient, self-healing cloud-native infrastructure.
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: https://www.accurics.com
-              city: Pleasanton
-              region: California
+              name: Microsoft
+              description: Microsoft is a software corporation that develops, manufactures, licenses, supports, and sells a range of software products and services.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://www.microsoft.com
+              city: Redmond
+              region: Washington
               country: United States
-              twitter: https://twitter.com/AccuricsSec
-              linkedin: https://www.linkedin.com/company/accurics
-              acquisitions: []
+              twitter: http://twitter.com/Microsoft
+              linkedin: https://www.linkedin.com/company/microsoft
+              acquisitions:
+                - date: '1987-07-30'
+                  acquiree: Forethought
+                  price: 14000000
+                - date: '1991-03-08'
+                  acquiree: Consumers Software
+                - date: '1992-03-25'
+                  acquiree: Fox Software
+                - date: '1994-02-15'
+                  acquiree: SoftImage
+                - date: '1994-09-27'
+                  acquiree: Altamira Software
+                - date: '1994-11-01'
+                  acquiree: NextBase
+                - date: '1994-11-16'
+                  acquiree: One Tree Software Ltd
+                - date: '1995-02-23'
+                  acquiree: RenderMorphics
+                - date: '1995-07-10'
+                  acquiree: Network Managers
+                - date: '1995-10-16'
+                  acquiree: Blue Ribbon SoundWorks
+                - date: '1995-11-06'
+                  acquiree: Netwise
+                - date: '1995-12-12'
+                  acquiree: Bruce Artwick Organization
+                - date: '1996-01-16'
+                  acquiree: Vermeer Technologies
+                - date: '1996-03-12'
+                  acquiree: Colusa Software
+                - date: '1996-04-15'
+                  acquiree: EXOS
+                - date: '1996-04-23'
+                  acquiree: Aspect Software Inc
+                - date: '1996-06-11'
+                  acquiree: eShop
+                - date: '1996-06-17'
+                  acquiree: Electric Gravity
+                - date: '1996-12-10'
+                  acquiree: NetCarta
+                - date: '1997-03-03'
+                  acquiree: Interse
+                - date: '1997-04-06'
+                  acquiree: WebTV Networks
+                - date: '1997-05-07'
+                  acquiree: Dimension X
+                - date: '1997-06-13'
+                  acquiree: Cooper & Peters
+                - date: '1997-06-30'
+                  acquiree: LinkAge Software
+                - date: '1997-08-05'
+                  acquiree: VXtreme
+                - date: '1997-12-31'
+                  acquiree: Hotmail
+                - date: '1997-12-31'
+                  acquiree: Windows Live Hotmail
+                - date: '1998-04-09'
+                  acquiree: Firefly Network
+                - date: '1998-04-28'
+                  acquiree: MESA Group
+                - date: '1998-06-23'
+                  acquiree: Merchant Planet
+                - date: '1998-08-25'
+                  acquiree: Valence Research
+                - date: '1998-08-25'
+                  acquiree: Valence Technology
+                - date: '1998-11-05'
+                  acquiree: linkexchange
+                - date: '1999-01-08'
+                  acquiree: FASA Interactive
+                - date: '1999-03-04'
+                  acquiree: CompareNet
+                - date: '1999-03-28'
+                  acquiree: Numinous Technologies
+                - date: '1999-04-26'
+                  acquiree: Jump Networks
+                - date: '1999-06-07'
+                  acquiree: ShadowFactor Software
+                - date: '1999-06-14'
+                  acquiree: OmniBrowse
+                - date: '1999-07-01'
+                  acquiree: Sendit
+                - date: '1999-07-07'
+                  acquiree: Zoomit
+                - date: '1999-07-21'
+                  acquiree: STNC
+                - date: '1999-07-28'
+                  acquiree: Intrinsa
+                  price: 58900000
+                - date: '1999-09-15'
+                  acquiree: Visio Corporation
+                - date: '1999-09-17'
+                  acquiree: Softway Systems
+                - date: '1999-10-29'
+                  acquiree: Entropic
+                - date: '1999-11-01'
+                  acquiree: Entropic Research Laboratories
+                - date: '2000-02-29'
+                  acquiree: Peach Networks
+                - date: '2000-06-19'
+                  acquiree: Bungie
+                - date: '2000-07-12'
+                  acquiree: NetGames
+                - date: '2000-09-13'
+                  acquiree: MongoMusic
+                  price: 65000000
+                - date: '2000-09-18'
+                  acquiree: Pacific Microsonics
+                - date: '2000-12-05'
+                  acquiree: Digital Anvil
+                - date: '2000-12-21'
+                  acquiree: Great Plains Software
+                - date: '2001-04-30'
+                  acquiree: NCompass Labs
+                - date: '2001-09-13'
+                  acquiree: XDegrees
+                - date: '2002-05-07'
+                  acquiree: Navision
+                  price: 1450000000
+                - date: '2002-09-24'
+                  acquiree: Rare
+                  price: 337000000
+                - date: '2002-10-22'
+                  acquiree: Vicinity Corporation
+                  price: 96000000
+                - date: '2003-02-19'
+                  acquiree: Connectix
+                - date: '2003-03-04'
+                  acquiree: Pelican Security
+                  price: 1000000
+                - date: '2003-04-30'
+                  acquiree: PlaceWare
+                - date: '2003-06-10'
+                  acquiree: RAV Antivirus
+                - date: '2004-04-26'
+                  acquiree: ActiveViews
+                - date: '2004-07-17'
+                  acquiree: Lookout Software
+                - date: '2004-12-16'
+                  acquiree: GIANT Company Software
+                - date: '2005-02-08'
+                  acquiree: Sybari
+                - date: '2005-03-10'
+                  acquiree: Groove Networks
+                - date: '2005-05-11'
+                  acquiree: MessageCast
+                - date: '2005-07-20'
+                  acquiree: Frontbridge Technologies
+                - date: '2005-08-30'
+                  acquiree: Teleo
+                - date: '2005-09-19'
+                  acquiree: Alacris
+                - date: '2005-10-06'
+                  acquiree: Unveil Technologies
+                - date: '2005-11-02'
+                  acquiree: Media-Streams.com
+                - date: '2005-11-03'
+                  acquiree: FolderShare
+                - date: '2005-11-17'
+                  acquiree: 5th Finger
+                - date: '2006-01-28'
+                  acquiree: SeaDragon Software
+                - date: '2006-02-13'
+                  acquiree: Motion Bridge
+                - date: '2006-03-07'
+                  acquiree: Apptimum
+                - date: '2006-03-07'
+                  acquiree: Onfolio
+                - date: '2006-04-03'
+                  acquiree: ProClarity
+                - date: '2006-04-06'
+                  acquiree: Lionhead Studios
+                - date: '2006-04-26'
+                  acquiree: AssetMetrix Corporation
+                - date: '2006-05-01'
+                  acquiree: Massive
+                  price: 200000000
+                - date: '2006-05-04'
+                  acquiree: DeepMetrix
+                - date: '2006-05-04'
+                  acquiree: Vexcel
+                - date: '2006-05-18'
+                  acquiree: Whale Communications
+                  price: 75000000
+                - date: '2006-06-27'
+                  acquiree: iView Multimedia
+                - date: '2006-07-17'
+                  acquiree: Softricity
+                - date: '2006-07-18'
+                  acquiree: Winternals
+                - date: '2006-07-26'
+                  acquiree: Azyxxi
+                - date: '2006-09-26'
+                  acquiree: Gteko
+                - date: '2006-10-02'
+                  acquiree: DesktopStandard
+                - date: '2006-10-12'
+                  acquiree: Colloquis
+                - date: '2007-02-26'
+                  acquiree: Medstory
+                - date: '2007-03-14'
+                  acquiree: Tellme
+                  price: 800000000
+                - date: '2007-03-14'
+                  acquiree: Tellme
+                  price: 800000000
+                - date: '2007-03-28'
+                  acquiree: devBiz Business Solutions
+                - date: '2007-05-03'
+                  acquiree: Screen Tonic
+                - date: '2007-05-18'
+                  acquiree: aQuantive
+                  price: 6400000000
+                - date: '2007-06-05'
+                  acquiree: Engyro
+                - date: '2007-06-07'
+                  acquiree: Stratature
+                - date: '2007-07-26'
+                  acquiree: AdECN
+                - date: '2007-08-29'
+                  acquiree: Parlano
+                - date: '2007-10-29'
+                  acquiree: Global Care Solutions
+                - date: '2007-11-15'
+                  acquiree: Musiwave
+                  price: 46000000
+                - date: '2007-11-30'
+                  acquiree: WebFives
+                - date: '2007-12-12'
+                  acquiree: MultiMap
+                - date: '2008-01-08'
+                  acquiree: Fast Search & Transfer
+                - date: '2008-01-21'
+                  acquiree: Calista Technologies
+                - date: '2008-02-07'
+                  acquiree: Caligari Corporation
+                - date: '2008-02-11'
+                  acquiree: Danger
+                  price: 500000000
+                - date: '2008-02-27'
+                  acquiree: YaData
+                - date: '2008-03-08'
+                  acquiree: Credentica
+                - date: '2008-03-12'
+                  acquiree: Kidaro
+                  price: 90000000
+                - date: '2008-03-14'
+                  acquiree: 90 Degree Software
+                - date: '2008-03-14'
+                  acquiree: Rapt
+                - date: '2008-03-20'
+                  acquiree: Komoku
+                - date: '2008-04-09'
+                  acquiree: Farecast
+                  price: 115000000
+                - date: '2008-06-18'
+                  acquiree: Navic Networks
+                - date: '2008-06-18'
+                  acquiree: Navic Systems
+                - date: '2008-06-26'
+                  acquiree: MobiComp
+                - date: '2008-07-01'
+                  acquiree: Powerset
+                  price: 100000000
+                - date: '2008-07-14'
+                  acquiree: Zoomix
+                - date: '2008-07-25'
+                  acquiree: DATAllegro
+                - date: '2008-08-29'
+                  acquiree: Greenfield Online
+                  price: 486000000
+                - date: '2008-08-31'
+                  acquiree: Ciao AG
+                - date: '2009-05-07'
+                  acquiree: BigPark
+                - date: '2009-06-01'
+                  acquiree: Rosetta Biosoftware
+                - date: '2009-06-28'
+                  acquiree: ClickStream Technologies
+                - date: '2009-09-22'
+                  acquiree: Interactive Supercomputing
+                - date: '2009-12-10'
+                  acquiree: Sentillion
+                - date: '2009-12-11'
+                  acquiree: Opalis Software
+                - date: '2010-10-06'
+                  acquiree: AVIcode
+                - date: '2010-10-29'
+                  acquiree: Canesta
+                - date: '2011-05-10'
+                  acquiree: Skype
+                - date: '2011-06-08'
+                  acquiree: Prodiance Corporation
+                - date: '2011-10-12'
+                  acquiree: Twisted Pixel Games
+                - date: '2011-11-23'
+                  acquiree: VideoSurf
+                  price: 100000000
+                - date: '2012-06-25'
+                  acquiree: Yammer
+                  price: 1200000000
+                - date: '2012-07-09'
+                  acquiree: Perceptive Pixel
+                - date: '2012-10-04'
+                  acquiree: PhoneFactor
+                - date: '2012-10-16'
+                  acquiree: StorSimple
+                - date: '2012-10-17'
+                  acquiree: MarketingPilot
+                - date: '2012-12-28'
+                  acquiree: R2 Studios
+                - date: '2013-01-02'
+                  acquiree: id8 Group R2 Studios
+                - date: '2013-02-04'
+                  acquiree: Pando Networks
+                - date: '2013-03-04'
+                  acquiree: MetricsHub
+                - date: '2013-03-19'
+                  acquiree: Netbreeze
+                - date: '2013-06-03'
+                  acquiree: InRelease
+                - date: '2013-09-03'
+                  acquiree: Nokia - Devices & Services Business
+                  price: 7166381241
+                - date: '2013-10-04'
+                  acquiree: Apiphany
+                - date: '2014-01-06'
+                  acquiree: Parature
+                  price: 100000000
+                - date: '2014-04-30'
+                  acquiree: GreenButton
+                - date: '2014-05-28'
+                  acquiree: Capptain
+                - date: '2014-07-03'
+                  acquiree: SyntaxTree
+                - date: '2014-07-11'
+                  acquiree: InMage Systems
+                - date: '2014-09-15'
+                  acquiree: Mojang Studios
+                  price: 2500000000
+                - date: '2014-10-08'
+                  acquiree: Equivio
+                  price: 200000000
+                - date: '2014-11-13'
+                  acquiree: Aorato
+                  price: 200000000
+                - date: '2014-12-01'
+                  acquiree: Acompli
+                  price: 200000000
+                - date: '2014-12-11'
+                  acquiree: Bit Stadium GmbH
+                - date: '2014-12-11'
+                  acquiree: HockeyApp
+                - date: '2015-01-23'
+                  acquiree: Revolution Analytics
+                - date: '2015-02-04'
+                  acquiree: Sunrise
+                  price: 100000000
+                - date: '2015-02-12'
+                  acquiree: N-Trig
+                - date: '2015-03-26'
+                  acquiree: LiveLoop
+                - date: '2015-04-14'
+                  acquiree: Datazen Software
+                - date: '2015-06-02'
+                  acquiree: Wunderlist
+                  price: 150000000
+                - date: '2015-06-10'
+                  acquiree: BlueStripe
+                - date: '2015-07-16'
+                  acquiree: FieldOne Systems
+                - date: '2015-07-19'
+                  acquiree: Adallom
+                  price: 320000000
+                - date: '2015-08-03'
+                  acquiree: FantasySalesTeam
+                - date: '2015-09-10'
+                  acquiree: Double Labs
+                - date: '2015-09-11'
+                  acquiree: VoloMetrix
+                  price: 250000000
+                - date: '2015-09-14'
+                  acquiree: Echo Locker
+                - date: '2015-09-30'
+                  acquiree: Adxstudio
+                - date: '2015-10-02'
+                  acquiree: Havok
+                - date: '2015-11-05'
+                  acquiree: Mobile Data Labs
+                - date: '2015-11-09'
+                  acquiree: Secure Islands Technologies
+                  price: 77500000
+                - date: '2015-12-18'
+                  acquiree: Metanautix
+                - date: '2015-12-21'
+                  acquiree: Talko
+                - date: '2016-01-13'
+                  acquiree: Event Zero
+                - date: '2016-01-19'
+                  acquiree: MinecraftEdu
+                - date: '2016-02-02'
+                  acquiree: SwiftKey
+                  price: 250000000
+                - date: '2016-02-09'
+                  acquiree: Groove (dba Zikera)
+                - date: '2016-02-24'
+                  acquiree: Xamarin
+                - date: '2016-05-03'
+                  acquiree: Solair
+                - date: '2016-06-13'
+                  acquiree: LinkedIn
+                  price: 26200000000
+                - date: '2016-06-16'
+                  acquiree: Wand Labs
+                - date: '2016-06-28'
+                  acquiree: Code Connect
+                - date: '2016-08-11'
+                  acquiree: Mixer
+                - date: '2016-08-22'
+                  acquiree: Genee
+                - date: '2017-01-13'
+                  acquiree: Maluuba
+                - date: '2017-01-17'
+                  acquiree: Donya Labs
+                - date: '2017-04-01'
+                  acquiree: Open Build Service
+                - date: '2017-04-10'
+                  acquiree: Deis.com
+                - date: '2017-04-18'
+                  acquiree: Intentional Software
+                - date: '2017-05-24'
+                  acquiree: Hexadite
+                  price: 100000000
+                - date: '2017-06-28'
+                  acquiree: Cloudyn
+                  price: 60000000
+                - date: '2017-08-15'
+                  acquiree: Cycle Computing
+                - date: '2017-10-04'
+                  acquiree: AltspaceVR
+                - date: '2017-11-07'
+                  acquiree: Swing Technologies
+                - date: '2018-01-03'
+                  acquiree: Avere Systems
+                - date: '2018-01-29'
+                  acquiree: PlayFab
+                - date: '2018-02-13'
+                  acquiree: Chalkup
+                - date: '2018-05-20'
+                  acquiree: Semantic Machines
+                - date: '2018-06-03'
+                  acquiree: GitHub
+                  price: 7500000000
+                - date: '2018-06-10'
+                  acquiree: Compulsion Games
+                - date: '2018-06-10'
+                  acquiree: Ninja Theory
+                - date: '2018-06-10'
+                  acquiree: Playground Games
+                - date: '2018-06-10'
+                  acquiree: Undead Labs
+                - date: '2018-06-18'
+                  acquiree: FlipGrid
+                - date: '2018-06-20'
+                  acquiree: Bonsai
+                - date: '2018-09-13'
+                  acquiree: Lobe
+                - date: '2018-11-10'
+                  acquiree: Obsidian Entertainment
+                - date: '2018-11-10'
+                  acquiree: inXile Entertainment
+                - date: '2018-11-14'
+                  acquiree: XOXCO
+                - date: '2018-11-19'
+                  acquiree: FSLogix
+                - date: '2019-01-24'
+                  acquiree: Citus Data
+                - date: '2019-02-04'
+                  acquiree: DataSense
+                - date: '2019-04-18'
+                  acquiree: Express Logic
+                - date: '2019-07-29'
+                  acquiree: BlueTalon
+                - date: '2019-08-05'
+                  acquiree: PromoteIQ
+                - date: '2019-08-19'
+                  acquiree: jClarity
+                - date: '2019-09-04'
+                  acquiree: Movere
+                - date: '2019-10-21'
+                  acquiree: Mover
+                - date: '2020-03-26'
+                  acquiree: Affirmed Networks
+                  price: 1350000000
+                - date: '2020-05-05'
+                  acquiree: CyberX
+                  price: 165000000
+                - date: '2020-05-14'
+                  acquiree: Metaswitch Networks
+                - date: '2020-05-19'
+                  acquiree: Softomotive
+                - date: '2020-06-18'
+                  acquiree: ADRM Software
+                - date: '2020-07-08'
+                  acquiree: Orions Systems
+                - date: '2020-09-21'
+                  acquiree: ZeniMax
+                  price: 7500000000
+                - date: '2020-12-02'
+                  acquiree: Smash.gg
+                - date: '2021-03-16'
+                  acquiree: The Marsden Group
+                - date: '2021-04-12'
+                  acquiree: Nuance Communications
+                  price: 19700000000
+                - date: '2021-04-29'
+                  acquiree: Kinvolk
+                - date: '2021-06-02'
+                  acquiree: ReFirm Labs
+                - date: '2021-07-11'
+                  acquiree: RiskIQ
+                  price: 500000000
+                - date: '2021-07-21'
+                  acquiree: CloudKnox Security
               parents: []
-              funding: 20000000
-              stockExchange: null
+              ticker: MSFT
+              funding: 1000000
+              stockExchange: nasdaq
               company_type: For Profit
               industries:
-                - Cloud Security
+                - Developer Tools
+                - Enterprise Software
+                - Operating Systems
                 - Software
-              kind: funding
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 2163112148992
+              effective_ticker: MSFT
             image_data:
-              fileName: accurics.svg
-              hash: TkbdX+v07Aux2qC6fuP9qscdbDDhmyi2IU9E0AlYZa0=
+              fileName: microsoft-corporation.svg
+              hash: 8fFf3tCTHX+5TsBQWT3+hZi81xYUBqdd3pZCFAf3LtQ=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-07-22T17:35:19.000Z
+              latest_tweet_date: 2021-07-23T23:06:21.000Z
+          - item:
+            name: Morgan Stanley
+            homepage_url: https://morganstanley.com/
+            logo: morgan_stanley.svg
+            twitter: https://twitter.com/MorganStanley
+            crunchbase: https://www.crunchbase.com/organization/morgan-stanley
+            crunchbase_data:
+              name: Morgan Stanley
+              description: Morgan Stanley is a financial services company that offers securities, asset management, and credit services.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://www.morganstanley.com
+              city: New York
+              region: New York
+              country: United States
+              twitter: http://twitter.com/MorganStanley
+              linkedin: https://www.linkedin.com/company/morgan-stanley
+              acquisitions:
+                - date: '2000-01-01'
+                  acquiree: EnerSys
+                - date: '2010-08-13'
+                  acquiree: Zenith
+                - date: '2013-06-29'
+                  acquiree: Smith Barney Venture
+                - date: '2014-06-18'
+                  acquiree: Hanwha L&C
+                  price: 293000000
+                - date: '2014-09-12'
+                  acquiree: NEWSTAR
+                  price: 8148197
+                - date: '2015-10-09'
+                  acquiree: CoAdvantage
+                - date: '2017-10-02'
+                  acquiree: Mesa West Capital
+                - date: '2019-02-11'
+                  acquiree: Shareworks
+                - date: '2019-02-15'
+                  acquiree: KSH Infra
+                  price: 49064274
+                - date: '2019-03-03'
+                  acquiree: Microlife Corp
+                  price: 302000000
+                - date: '2020-02-20'
+                  acquiree: E*TRADE
+                  price: 13000000000
+                - date: '2020-10-08'
+                  acquiree: Eaton Vance Management
+                  price: 7000000000
+              parents: []
+              ticker: MS
+              stockExchange: nyse
+              company_type: For Profit
+              industries:
+                - Asset Management
+                - Financial Services
+                - Lending
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 183222304768
+              effective_ticker: MS
+            image_data:
+              fileName: morgan-stanley.svg
+              hash: +KWezINYW7r/pAvuVKdt7jA5iQIJak2IQC4a9sydUAc=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-10-10T23:30:00.000Z
+      - subcategory:
+        name: General
+        items:
           - item:
             name: Anchore, Inc
             homepage_url: https://anchore.com/
@@ -78,39 +678,38 @@ landscape:
             twitter_data:
               latest_tweet_date: 2021-07-26T13:03:52.000Z
           - item:
-            name: Arduino
-            homepage_url: https://arduino.org/
-            logo: arduino.svg
-            twitter: https://twitter.com/arduino
-            crunchbase: https://www.crunchbase.com/organization/arduino
+            name: Apiiro
+            homepage_url: https://apiiro.com/
+            logo: apiiro.svg
+            twitter: https://twitter.com/ApiiroSecurity
+            crunchbase: https://www.crunchbase.com/organization/apiiro-ltd
             crunchbase_data:
-              name: Arduino
-              description: Arduino is an open-source electronic prototyping platform allowing users to create interactive electronic objects.
-              num_employees_min: 101
-              num_employees_max: 250
-              homepage: http://www.arduino.cc
-              city: New York
-              region: New York
-              country: United States
-              twitter: http://twitter.com/arduino
-              linkedin: https://www.linkedin.com/company/arduino
+              name: apiiro
+              description: apiiro Ltd. is a Code Risk Platform™ that helps accelerate delivery by automatically reducing application & infrastructure risk.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.apiiro.com
+              city: Tel Aviv
+              region: Tel Aviv
+              country: Israel
+              twitter: https://twitter.com/apiiroSecurity
+              linkedin: https://www.linkedin.com/company/apiiro/
               acquisitions: []
               parents: []
+              funding: 35000000
               stockExchange: null
-              company_type: For Profit
+              company_type: ''
               industries:
-                - Hardware
-                - Human Computer Interaction
-                - Product Design
                 - Software
+              kind: funding
             image_data:
-              fileName: arduino.svg
-              hash: F7ZpmQ9kaOfCK+4w5GX0Mm2PpHjDtQ+Q91YEo3feNfA=
+              fileName: apiiro.svg
+              hash: JQwwbjSY8owdVc2qgKLaO7AVaALa1Pi8cQPVyKxIjWE=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-07-26T12:19:25.000Z
+              latest_tweet_date: 2021-10-08T20:03:00.000Z
           - item:
             name: AuriStor Inc.
             homepage_url: https://auristor.com/
@@ -144,6 +743,334 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2021-05-13T18:05:41.000Z
+          - item:
+            name: Deepfence, Inc
+            homepage_url: https://deepfence.io/
+            logo: deepfence_inc.svg
+            twitter: https://twitter.com/deepfence
+            crunchbase: https://www.crunchbase.com/organization/deepfence
+            crunchbase_data:
+              name: Deepfence Inc
+              description: Kubernetes, Serverless and Virtual Machines, Deepfence protects it all. Pioneering industry's first Cloud Native DPI technology.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://deepfence.io/
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/deepfence
+              linkedin: https://www.linkedin.com/company/10487480/
+              acquisitions: []
+              parents: []
+              funding: 10500000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cloud Security
+                - Cyber Security
+                - Network Security
+                - Security
+              kind: funding
+            image_data:
+              fileName: deepfence-inc.svg
+              hash: qoJoUfYeo4M7F2zTjI3+WUyOKIfwjbqswG1s6FMR4/E=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-10-07T18:36:01.000Z
+          - item:
+            name: Devgistics, LLC
+            homepage_url: https://devgistics.com/
+            logo: devgistics_llc.svg
+            twitter: https://twitter.com/infosiftr
+            crunchbase: https://www.crunchbase.com/organization/infosiftr
+            crunchbase_data:
+              name: InfoSiftr
+              description: InfoSiftr provides professional services and custom software development that offers end-to-end, scalable technology solutions.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: http://www.infosiftr.com/
+              city: Las Vegas
+              region: Nevada
+              country: United States
+              twitter: https://twitter.com/infosiftr
+              linkedin: https://www.linkedin.com/company/infosiftr
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Consulting
+                - Open Source
+                - Professional Services
+                - Software
+            image_data:
+              fileName: devgistics-llc.svg
+              hash: 3V3uLbvnkpVkFY6D3tUeees6NKecAPmVLvIRl4dWL0c=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-10-08T19:46:51.000Z
+          - item:
+            name: GitLab Inc.
+            homepage_url: https://gitlab.com/
+            logo: gitlab_inc.svg
+            twitter: https://twitter.com/gitlab
+            crunchbase: https://www.crunchbase.com/organization/gitlab-com
+            crunchbase_data:
+              name: GitLab
+              description: GitLab is a web-based open source Git repository manager with wiki and issue tracking features and built-in CI/CD.
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: http://about.gitlab.com
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: http://twitter.com/gitlab
+              linkedin: https://www.linkedin.com/company/gitlab-com/
+              acquisitions:
+                - date: '2015-05-03'
+                  acquiree: Gitorious
+                - date: '2017-03-15'
+                  acquiree: Gitter
+                - date: '2018-01-30'
+                  acquiree: Gemnasium (acquired by Gitlab)
+                - date: '2020-06-11'
+                  acquiree: Fuzzit
+                - date: '2020-06-11'
+                  acquiree: Peach Tech
+                - date: '2021-06-02'
+                  acquiree: UnReview
+              parents: []
+              funding: 434200000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Information Technology
+                - Open Source
+                - SaaS
+                - Software
+              kind: funding
+            image_data:
+              fileName: git-lab-inc.svg
+              hash: vaslVhQJdTiItMyMLRZvIkQSeDR2BmGQkGNpYOleBHA=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-07-25T18:55:01.000Z
+          - item:
+            name: Nutanix, Inc.
+            homepage_url: https://nutanix.com/
+            logo: nutanix_inc.svg
+            twitter: https://twitter.com/nutanix
+            crunchbase: https://www.crunchbase.com/organization/nutanix
+            crunchbase_data:
+              name: Nutanix
+              description: "Nutanix is a\_virtualized datacenter platform that provides disruptive datacenter infrastructure solutions for business applications."
+              num_employees_min: 5001
+              num_employees_max: 10000
+              homepage: http://www.nutanix.com
+              city: San Jose
+              region: California
+              country: United States
+              twitter: http://twitter.com/nutanix
+              linkedin: https://www.linkedin.com/company/nutanix
+              acquisitions:
+                - date: '2016-08-03'
+                  acquiree: PernixData
+                - date: '2016-08-29'
+                  acquiree: Calm.io
+                - date: '2018-03-01'
+                  acquiree: Minjar
+                - date: '2018-03-12'
+                  acquiree: Netsil
+                - date: '2018-08-02'
+                  acquiree: Frame
+              parents: []
+              ticker: NTNX
+              funding: 1148706044
+              stockExchange: nasdaq
+              company_type: For Profit
+              industries:
+                - Data Center
+                - Enterprise Software
+                - Software
+                - Virtualization
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 7581245440
+              effective_ticker: NTNX
+            image_data:
+              fileName: nutanix-inc.svg
+              hash: RrbeY31dN1jw59HFngrxREpmIDLxGUNs8UICiRZQetM=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-10-08T13:41:05.000Z
+          - item:
+            name: Tidelift, Inc.
+            homepage_url: https://tidelift.com/
+            logo: tidelift_inc.svg
+            twitter: https://twitter.com/tidelift
+            crunchbase: https://www.crunchbase.com/organization/tidelift
+            crunchbase_data:
+              name: Tidelift
+              description: Tidelift makes open source software work better—for everyone.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://tidelift.com/
+              city: Boston
+              region: Massachusetts
+              country: United States
+              twitter: https://twitter.com/tidelift
+              linkedin: https://www.linkedin.com/company/tidelift/
+              acquisitions: []
+              parents: []
+              funding: 40000000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Developer Platform
+                - Information Technology
+                - Software
+              kind: funding
+            image_data:
+              fileName: tidelift-inc.svg
+              hash: NAUJj7+ASVYz8pHwgoUwjVEFH2eY7szaZ6wEQFj1s4o=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-07-22T18:08:17.000Z
+          - item:
+            name: Wind River Systems, Inc.
+            homepage_url: https://windriver.com/
+            logo: wind_river_systems_inc.svg
+            twitter: https://twitter.com/WindRiver
+            crunchbase: https://www.crunchbase.com/organization/wind-river
+            crunchbase_data:
+              name: Wind River
+              description: Wind River enables companies to develop, run and manage device software faster and more reliably at a lower cost.
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: http://www.windriver.com
+              city: Alameda
+              region: California
+              country: United States
+              twitter: http://twitter.com/WindRiver
+              linkedin: https://www.linkedin.com/company/wind-river
+              acquisitions:
+                - date: '2000-03-14'
+                  acquiree: AudeSi Technologies
+                - date: '2000-10-09'
+                  acquiree: Rapid Logic
+                  price: 58300000
+                - date: '2009-02-28'
+                  acquiree: Tilcon Software Ltd.
+                - date: '2010-02-05'
+                  acquiree: Virtutech
+                  price: 45000000
+                - date: '2016-04-04'
+                  acquiree: Arynga
+                - date: '2020-01-16'
+                  acquiree: Star Lab Corp.
+                - date: '2021-09-20'
+                  acquiree: Particle Design
+              parents: []
+              funding: 0
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Developer Tools
+                - Hardware
+                - Linux
+                - Mobile
+                - Operating Systems
+                - Project Management
+                - Software
+            image_data:
+              fileName: wind-river-systems-inc.svg
+              hash: T2a6/3cjncll+Vjjrd9H3bTULlBUVnCOxDwk9xxRRE0=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-10-11T13:05:09.000Z
+      - subcategory:
+        name: Member
+        items:
+          - item:
+            name: Accurics
+            homepage_url: https://accurics.com/
+            logo: accurics.svg
+            twitter: https://twitter.com/AccuricsSec
+            crunchbase: https://www.crunchbase.com/organization/accurics
+            crunchbase_data:
+              name: Accurics
+              description: Accurics is a cloud cyber resilience specialist that enables resilient, self-healing cloud-native infrastructure.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.accurics.com
+              city: Pleasanton
+              region: California
+              country: United States
+              twitter: https://twitter.com/AccuricsSec
+              linkedin: https://www.linkedin.com/company/accurics
+              acquisitions: []
+              parents: []
+              funding: 20000000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cloud Security
+                - Software
+              kind: funding
+            image_data:
+              fileName: accurics.svg
+              hash: TkbdX+v07Aux2qC6fuP9qscdbDDhmyi2IU9E0AlYZa0=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-07-22T17:35:19.000Z
+          - item:
+            name: Arduino
+            homepage_url: https://arduino.org/
+            logo: arduino.svg
+            twitter: https://twitter.com/arduino
+            crunchbase: https://www.crunchbase.com/organization/arduino
+            crunchbase_data:
+              name: Arduino
+              description: Arduino is an open-source electronic prototyping platform allowing users to create interactive electronic objects.
+              num_employees_min: 101
+              num_employees_max: 250
+              homepage: http://www.arduino.cc
+              city: New York
+              region: New York
+              country: United States
+              twitter: http://twitter.com/arduino
+              linkedin: https://www.linkedin.com/company/arduino
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Hardware
+                - Human Computer Interaction
+                - Product Design
+                - Software
+            image_data:
+              fileName: arduino.svg
+              hash: F7ZpmQ9kaOfCK+4w5GX0Mm2PpHjDtQ+Q91YEo3feNfA=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-07-26T12:19:25.000Z
           - item:
             name: Canonical Group Limited
             homepage_url: https://canonical.com/
@@ -1447,54 +2374,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2021-07-23T19:00:16.000Z
           - item:
-            name: GitLab Inc.
-            homepage_url: https://gitlab.com/
-            logo: gitlab_inc.svg
-            twitter: https://twitter.com/gitlab
-            crunchbase: https://www.crunchbase.com/organization/gitlab-com
-            crunchbase_data:
-              name: GitLab
-              description: GitLab is a web-based open source Git repository manager with wiki and issue tracking features and built-in CI/CD.
-              num_employees_min: 1001
-              num_employees_max: 5000
-              homepage: http://about.gitlab.com
-              city: San Francisco
-              region: California
-              country: United States
-              twitter: http://twitter.com/gitlab
-              linkedin: https://www.linkedin.com/company/gitlab-com/
-              acquisitions:
-                - date: '2015-05-03'
-                  acquiree: Gitorious
-                - date: '2017-03-15'
-                  acquiree: Gitter
-                - date: '2018-01-30'
-                  acquiree: Gemnasium (acquired by Gitlab)
-                - date: '2020-06-11'
-                  acquiree: Fuzzit
-                - date: '2020-06-11'
-                  acquiree: Peach Tech
-                - date: '2021-06-02'
-                  acquiree: UnReview
-              parents: []
-              funding: 434200000
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Information Technology
-                - Open Source
-                - SaaS
-                - Software
-              kind: funding
-            image_data:
-              fileName: git-lab-inc.svg
-              hash: vaslVhQJdTiItMyMLRZvIkQSeDR2BmGQkGNpYOleBHA=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-07-25T18:55:01.000Z
-          - item:
             name: Goldman Sachs & Co. LLC
             homepage_url: https://goldmansachs.com/
             logo: goldman_sachs__co_llc.svg
@@ -2346,41 +3225,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2021-07-26T12:22:07.000Z
           - item:
-            name: iExec Blockchain Tech
-            homepage_url: https://iex.ec/
-            logo: iexec_blockchain_tech.svg
-            twitter: https://twitter.com/iEx_ec
-            crunchbase: https://www.crunchbase.com/organization/iexec
-            crunchbase_data:
-              name: iExec
-              description: iExec provides blockchain based decentralized cloud computing platform.
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: http://iex.ec/
-              city: Lyon
-              region: Rhone-Alpes
-              country: France
-              twitter: https://twitter.com/iex_ec?lang=en
-              linkedin: https://www.linkedin.com/company/iex.ec/
-              acquisitions: []
-              parents: []
-              funding: 12000000
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Blockchain
-                - Cloud Computing
-                - Software
-              kind: funding
-            image_data:
-              fileName: i-exec-blockchain-tech.svg
-              hash: fNLAWemil2y51Bm7gYJ6WVVrmIbEmm5oSnfGxQ7VybU=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-07-23T08:41:00.000Z
-          - item:
             name: Intel Corporation
             homepage_url: https://intel.com/
             logo: intel_corporation.svg
@@ -3182,569 +4026,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2021-07-23T22:00:01.000Z
           - item:
-            name: Microsoft Corporation
-            homepage_url: https://microsoft.com/
-            logo: microsoft_corporation.svg
-            twitter: https://twitter.com/Microsoft
-            crunchbase: https://www.crunchbase.com/organization/microsoft
-            crunchbase_data:
-              name: Microsoft
-              description: Microsoft is a software corporation that develops, manufactures, licenses, supports, and sells a range of software products and services.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: http://www.microsoft.com
-              city: Redmond
-              region: Washington
-              country: United States
-              twitter: http://twitter.com/Microsoft
-              linkedin: https://www.linkedin.com/company/microsoft
-              acquisitions:
-                - date: '1987-07-30'
-                  acquiree: Forethought
-                  price: 14000000
-                - date: '1991-03-08'
-                  acquiree: Consumers Software
-                - date: '1992-03-25'
-                  acquiree: Fox Software
-                - date: '1994-02-15'
-                  acquiree: SoftImage
-                - date: '1994-09-27'
-                  acquiree: Altamira Software
-                - date: '1994-11-01'
-                  acquiree: NextBase
-                - date: '1994-11-16'
-                  acquiree: One Tree Software Ltd
-                - date: '1995-02-23'
-                  acquiree: RenderMorphics
-                - date: '1995-07-10'
-                  acquiree: Network Managers
-                - date: '1995-10-16'
-                  acquiree: Blue Ribbon SoundWorks
-                - date: '1995-11-06'
-                  acquiree: Netwise
-                - date: '1995-12-12'
-                  acquiree: Bruce Artwick Organization
-                - date: '1996-01-16'
-                  acquiree: Vermeer Technologies
-                - date: '1996-03-12'
-                  acquiree: Colusa Software
-                - date: '1996-04-15'
-                  acquiree: EXOS
-                - date: '1996-04-23'
-                  acquiree: Aspect Software Inc
-                - date: '1996-06-11'
-                  acquiree: eShop
-                - date: '1996-06-17'
-                  acquiree: Electric Gravity
-                - date: '1996-12-10'
-                  acquiree: NetCarta
-                - date: '1997-03-03'
-                  acquiree: Interse
-                - date: '1997-04-06'
-                  acquiree: WebTV Networks
-                - date: '1997-05-07'
-                  acquiree: Dimension X
-                - date: '1997-06-13'
-                  acquiree: Cooper & Peters
-                - date: '1997-06-30'
-                  acquiree: LinkAge Software
-                - date: '1997-08-05'
-                  acquiree: VXtreme
-                - date: '1997-12-31'
-                  acquiree: Hotmail
-                - date: '1997-12-31'
-                  acquiree: Windows Live Hotmail
-                - date: '1998-04-09'
-                  acquiree: Firefly Network
-                - date: '1998-04-28'
-                  acquiree: MESA Group
-                - date: '1998-06-23'
-                  acquiree: Merchant Planet
-                - date: '1998-08-25'
-                  acquiree: Valence Research
-                - date: '1998-08-25'
-                  acquiree: Valence Technology
-                - date: '1998-11-05'
-                  acquiree: linkexchange
-                - date: '1999-01-08'
-                  acquiree: FASA Interactive
-                - date: '1999-03-04'
-                  acquiree: CompareNet
-                - date: '1999-03-28'
-                  acquiree: Numinous Technologies
-                - date: '1999-04-26'
-                  acquiree: Jump Networks
-                - date: '1999-06-07'
-                  acquiree: ShadowFactor Software
-                - date: '1999-06-14'
-                  acquiree: OmniBrowse
-                - date: '1999-07-01'
-                  acquiree: Sendit
-                - date: '1999-07-07'
-                  acquiree: Zoomit
-                - date: '1999-07-21'
-                  acquiree: STNC
-                - date: '1999-07-28'
-                  acquiree: Intrinsa
-                  price: 58900000
-                - date: '1999-09-15'
-                  acquiree: Visio Corporation
-                - date: '1999-09-17'
-                  acquiree: Softway Systems
-                - date: '1999-10-29'
-                  acquiree: Entropic
-                - date: '1999-11-01'
-                  acquiree: Entropic Research Laboratories
-                - date: '2000-02-29'
-                  acquiree: Peach Networks
-                - date: '2000-06-19'
-                  acquiree: Bungie
-                - date: '2000-07-12'
-                  acquiree: NetGames
-                - date: '2000-09-13'
-                  acquiree: MongoMusic
-                  price: 65000000
-                - date: '2000-09-18'
-                  acquiree: Pacific Microsonics
-                - date: '2000-12-05'
-                  acquiree: Digital Anvil
-                - date: '2000-12-21'
-                  acquiree: Great Plains Software
-                - date: '2001-04-30'
-                  acquiree: NCompass Labs
-                - date: '2001-09-13'
-                  acquiree: XDegrees
-                - date: '2002-05-07'
-                  acquiree: Navision
-                  price: 1450000000
-                - date: '2002-09-24'
-                  acquiree: Rare
-                  price: 337000000
-                - date: '2002-10-22'
-                  acquiree: Vicinity Corporation
-                  price: 96000000
-                - date: '2003-02-19'
-                  acquiree: Connectix
-                - date: '2003-03-04'
-                  acquiree: Pelican Security
-                  price: 1000000
-                - date: '2003-04-30'
-                  acquiree: PlaceWare
-                - date: '2003-06-10'
-                  acquiree: RAV Antivirus
-                - date: '2004-04-26'
-                  acquiree: ActiveViews
-                - date: '2004-07-17'
-                  acquiree: Lookout Software
-                - date: '2004-12-16'
-                  acquiree: GIANT Company Software
-                - date: '2005-02-08'
-                  acquiree: Sybari
-                - date: '2005-03-10'
-                  acquiree: Groove Networks
-                - date: '2005-05-11'
-                  acquiree: MessageCast
-                - date: '2005-07-20'
-                  acquiree: Frontbridge Technologies
-                - date: '2005-08-30'
-                  acquiree: Teleo
-                - date: '2005-09-19'
-                  acquiree: Alacris
-                - date: '2005-10-06'
-                  acquiree: Unveil Technologies
-                - date: '2005-11-02'
-                  acquiree: Media-Streams.com
-                - date: '2005-11-03'
-                  acquiree: FolderShare
-                - date: '2005-11-17'
-                  acquiree: 5th Finger
-                - date: '2006-01-28'
-                  acquiree: SeaDragon Software
-                - date: '2006-02-13'
-                  acquiree: Motion Bridge
-                - date: '2006-03-07'
-                  acquiree: Apptimum
-                - date: '2006-03-07'
-                  acquiree: Onfolio
-                - date: '2006-04-03'
-                  acquiree: ProClarity
-                - date: '2006-04-06'
-                  acquiree: Lionhead Studios
-                - date: '2006-04-26'
-                  acquiree: AssetMetrix Corporation
-                - date: '2006-05-01'
-                  acquiree: Massive
-                  price: 200000000
-                - date: '2006-05-04'
-                  acquiree: DeepMetrix
-                - date: '2006-05-04'
-                  acquiree: Vexcel
-                - date: '2006-05-18'
-                  acquiree: Whale Communications
-                  price: 75000000
-                - date: '2006-06-27'
-                  acquiree: iView Multimedia
-                - date: '2006-07-17'
-                  acquiree: Softricity
-                - date: '2006-07-18'
-                  acquiree: Winternals
-                - date: '2006-07-26'
-                  acquiree: Azyxxi
-                - date: '2006-09-26'
-                  acquiree: Gteko
-                - date: '2006-10-02'
-                  acquiree: DesktopStandard
-                - date: '2006-10-12'
-                  acquiree: Colloquis
-                - date: '2007-02-26'
-                  acquiree: Medstory
-                - date: '2007-03-14'
-                  acquiree: Tellme
-                  price: 800000000
-                - date: '2007-03-14'
-                  acquiree: Tellme
-                  price: 800000000
-                - date: '2007-03-28'
-                  acquiree: devBiz Business Solutions
-                - date: '2007-05-03'
-                  acquiree: Screen Tonic
-                - date: '2007-05-18'
-                  acquiree: aQuantive
-                  price: 6400000000
-                - date: '2007-06-05'
-                  acquiree: Engyro
-                - date: '2007-06-07'
-                  acquiree: Stratature
-                - date: '2007-07-26'
-                  acquiree: AdECN
-                - date: '2007-08-29'
-                  acquiree: Parlano
-                - date: '2007-10-29'
-                  acquiree: Global Care Solutions
-                - date: '2007-11-15'
-                  acquiree: Musiwave
-                  price: 46000000
-                - date: '2007-11-30'
-                  acquiree: WebFives
-                - date: '2007-12-12'
-                  acquiree: MultiMap
-                - date: '2008-01-08'
-                  acquiree: Fast Search & Transfer
-                - date: '2008-01-21'
-                  acquiree: Calista Technologies
-                - date: '2008-02-07'
-                  acquiree: Caligari Corporation
-                - date: '2008-02-11'
-                  acquiree: Danger
-                  price: 500000000
-                - date: '2008-02-27'
-                  acquiree: YaData
-                - date: '2008-03-08'
-                  acquiree: Credentica
-                - date: '2008-03-12'
-                  acquiree: Kidaro
-                  price: 90000000
-                - date: '2008-03-14'
-                  acquiree: 90 Degree Software
-                - date: '2008-03-14'
-                  acquiree: Rapt
-                - date: '2008-03-20'
-                  acquiree: Komoku
-                - date: '2008-04-09'
-                  acquiree: Farecast
-                  price: 115000000
-                - date: '2008-06-18'
-                  acquiree: Navic Networks
-                - date: '2008-06-18'
-                  acquiree: Navic Systems
-                - date: '2008-06-26'
-                  acquiree: MobiComp
-                - date: '2008-07-01'
-                  acquiree: Powerset
-                  price: 100000000
-                - date: '2008-07-14'
-                  acquiree: Zoomix
-                - date: '2008-07-25'
-                  acquiree: DATAllegro
-                - date: '2008-08-29'
-                  acquiree: Greenfield Online
-                  price: 486000000
-                - date: '2008-08-31'
-                  acquiree: Ciao AG
-                - date: '2009-05-07'
-                  acquiree: BigPark
-                - date: '2009-06-01'
-                  acquiree: Rosetta Biosoftware
-                - date: '2009-06-28'
-                  acquiree: ClickStream Technologies
-                - date: '2009-09-22'
-                  acquiree: Interactive Supercomputing
-                - date: '2009-12-10'
-                  acquiree: Sentillion
-                - date: '2009-12-11'
-                  acquiree: Opalis Software
-                - date: '2010-10-06'
-                  acquiree: AVIcode
-                - date: '2010-10-29'
-                  acquiree: Canesta
-                - date: '2011-05-10'
-                  acquiree: Skype
-                - date: '2011-06-08'
-                  acquiree: Prodiance Corporation
-                - date: '2011-10-12'
-                  acquiree: Twisted Pixel Games
-                - date: '2011-11-23'
-                  acquiree: VideoSurf
-                  price: 100000000
-                - date: '2012-06-25'
-                  acquiree: Yammer
-                  price: 1200000000
-                - date: '2012-07-09'
-                  acquiree: Perceptive Pixel
-                - date: '2012-10-04'
-                  acquiree: PhoneFactor
-                - date: '2012-10-16'
-                  acquiree: StorSimple
-                - date: '2012-10-17'
-                  acquiree: MarketingPilot
-                - date: '2012-12-28'
-                  acquiree: R2 Studios
-                - date: '2013-01-02'
-                  acquiree: id8 Group R2 Studios
-                - date: '2013-02-04'
-                  acquiree: Pando Networks
-                - date: '2013-03-04'
-                  acquiree: MetricsHub
-                - date: '2013-03-19'
-                  acquiree: Netbreeze
-                - date: '2013-06-03'
-                  acquiree: InRelease
-                - date: '2013-09-03'
-                  acquiree: Nokia - Devices & Services Business
-                  price: 7166381241
-                - date: '2013-10-04'
-                  acquiree: Apiphany
-                - date: '2014-01-06'
-                  acquiree: Parature
-                  price: 100000000
-                - date: '2014-04-30'
-                  acquiree: GreenButton
-                - date: '2014-05-28'
-                  acquiree: Capptain
-                - date: '2014-07-03'
-                  acquiree: SyntaxTree
-                - date: '2014-07-11'
-                  acquiree: InMage Systems
-                - date: '2014-09-15'
-                  acquiree: Mojang Studios
-                  price: 2500000000
-                - date: '2014-10-08'
-                  acquiree: Equivio
-                  price: 200000000
-                - date: '2014-11-13'
-                  acquiree: Aorato
-                  price: 200000000
-                - date: '2014-12-01'
-                  acquiree: Acompli
-                  price: 200000000
-                - date: '2014-12-11'
-                  acquiree: Bit Stadium GmbH
-                - date: '2014-12-11'
-                  acquiree: HockeyApp
-                - date: '2015-01-23'
-                  acquiree: Revolution Analytics
-                - date: '2015-02-04'
-                  acquiree: Sunrise
-                  price: 100000000
-                - date: '2015-02-12'
-                  acquiree: N-Trig
-                - date: '2015-03-26'
-                  acquiree: LiveLoop
-                - date: '2015-04-14'
-                  acquiree: Datazen Software
-                - date: '2015-06-02'
-                  acquiree: Wunderlist
-                  price: 150000000
-                - date: '2015-06-10'
-                  acquiree: BlueStripe
-                - date: '2015-07-16'
-                  acquiree: FieldOne Systems
-                - date: '2015-07-19'
-                  acquiree: Adallom
-                  price: 320000000
-                - date: '2015-08-03'
-                  acquiree: FantasySalesTeam
-                - date: '2015-09-10'
-                  acquiree: Double Labs
-                - date: '2015-09-11'
-                  acquiree: VoloMetrix
-                  price: 250000000
-                - date: '2015-09-14'
-                  acquiree: Echo Locker
-                - date: '2015-09-30'
-                  acquiree: Adxstudio
-                - date: '2015-10-02'
-                  acquiree: Havok
-                - date: '2015-11-05'
-                  acquiree: Mobile Data Labs
-                - date: '2015-11-09'
-                  acquiree: Secure Islands Technologies
-                  price: 77500000
-                - date: '2015-12-18'
-                  acquiree: Metanautix
-                - date: '2015-12-21'
-                  acquiree: Talko
-                - date: '2016-01-13'
-                  acquiree: Event Zero
-                - date: '2016-01-19'
-                  acquiree: MinecraftEdu
-                - date: '2016-02-02'
-                  acquiree: SwiftKey
-                  price: 250000000
-                - date: '2016-02-09'
-                  acquiree: Groove (dba Zikera)
-                - date: '2016-02-24'
-                  acquiree: Xamarin
-                - date: '2016-05-03'
-                  acquiree: Solair
-                - date: '2016-06-13'
-                  acquiree: LinkedIn
-                  price: 26200000000
-                - date: '2016-06-16'
-                  acquiree: Wand Labs
-                - date: '2016-06-28'
-                  acquiree: Code Connect
-                - date: '2016-08-11'
-                  acquiree: Mixer
-                - date: '2016-08-22'
-                  acquiree: Genee
-                - date: '2017-01-13'
-                  acquiree: Maluuba
-                - date: '2017-01-17'
-                  acquiree: Donya Labs
-                - date: '2017-04-01'
-                  acquiree: Open Build Service
-                - date: '2017-04-10'
-                  acquiree: Deis.com
-                - date: '2017-04-18'
-                  acquiree: Intentional Software
-                - date: '2017-05-24'
-                  acquiree: Hexadite
-                  price: 100000000
-                - date: '2017-06-28'
-                  acquiree: Cloudyn
-                  price: 60000000
-                - date: '2017-08-15'
-                  acquiree: Cycle Computing
-                - date: '2017-10-04'
-                  acquiree: AltspaceVR
-                - date: '2017-11-07'
-                  acquiree: Swing Technologies
-                - date: '2018-01-03'
-                  acquiree: Avere Systems
-                - date: '2018-01-29'
-                  acquiree: PlayFab
-                - date: '2018-02-13'
-                  acquiree: Chalkup
-                - date: '2018-05-20'
-                  acquiree: Semantic Machines
-                - date: '2018-06-03'
-                  acquiree: GitHub
-                  price: 7500000000
-                - date: '2018-06-10'
-                  acquiree: Compulsion Games
-                - date: '2018-06-10'
-                  acquiree: Ninja Theory
-                - date: '2018-06-10'
-                  acquiree: Playground Games
-                - date: '2018-06-10'
-                  acquiree: Undead Labs
-                - date: '2018-06-18'
-                  acquiree: FlipGrid
-                - date: '2018-06-20'
-                  acquiree: Bonsai
-                - date: '2018-09-13'
-                  acquiree: Lobe
-                - date: '2018-11-10'
-                  acquiree: Obsidian Entertainment
-                - date: '2018-11-10'
-                  acquiree: inXile Entertainment
-                - date: '2018-11-14'
-                  acquiree: XOXCO
-                - date: '2018-11-19'
-                  acquiree: FSLogix
-                - date: '2019-01-24'
-                  acquiree: Citus Data
-                - date: '2019-02-04'
-                  acquiree: DataSense
-                - date: '2019-04-18'
-                  acquiree: Express Logic
-                - date: '2019-07-29'
-                  acquiree: BlueTalon
-                - date: '2019-08-05'
-                  acquiree: PromoteIQ
-                - date: '2019-08-19'
-                  acquiree: jClarity
-                - date: '2019-09-04'
-                  acquiree: Movere
-                - date: '2019-10-21'
-                  acquiree: Mover
-                - date: '2020-03-26'
-                  acquiree: Affirmed Networks
-                  price: 1350000000
-                - date: '2020-05-05'
-                  acquiree: CyberX
-                  price: 165000000
-                - date: '2020-05-14'
-                  acquiree: Metaswitch Networks
-                - date: '2020-05-19'
-                  acquiree: Softomotive
-                - date: '2020-06-18'
-                  acquiree: ADRM Software
-                - date: '2020-07-08'
-                  acquiree: Orions Systems
-                - date: '2020-09-21'
-                  acquiree: ZeniMax
-                  price: 7500000000
-                - date: '2020-12-02'
-                  acquiree: Smash.gg
-                - date: '2021-03-16'
-                  acquiree: The Marsden Group
-                - date: '2021-04-12'
-                  acquiree: Nuance Communications
-                  price: 19700000000
-                - date: '2021-04-29'
-                  acquiree: Kinvolk
-                - date: '2021-06-02'
-                  acquiree: ReFirm Labs
-                - date: '2021-07-11'
-                  acquiree: RiskIQ
-                  price: 500000000
-                - date: '2021-07-21'
-                  acquiree: CloudKnox Security
-              parents: []
-              ticker: MSFT
-              funding: 1000000
-              stockExchange: nasdaq
-              company_type: For Profit
-              industries:
-                - Developer Tools
-                - Enterprise Software
-                - Operating Systems
-                - Software
-              kind: market_cap
-            yahoo_finance_data:
-              market_cap: 2163112148992
-              effective_ticker: MSFT
-            image_data:
-              fileName: microsoft-corporation.svg
-              hash: 8fFf3tCTHX+5TsBQWT3+hZi81xYUBqdd3pZCFAf3LtQ=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-07-23T23:06:21.000Z
-          - item:
             name: Mirantis, Inc.
             homepage_url: https://mirantis.com/
             logo: mirantis_inc.svg
@@ -4140,54 +4421,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2021-07-26T12:57:13.000Z
           - item:
-            name: Renesas Electronics Corporation
-            homepage_url: https://renesas.com/
-            logo: renesas_electronics_corporation.svg
-            twitter: https://twitter.com/RenesasGlobal
-            crunchbase: https://www.crunchbase.com/organization/renesas-electronics-corporation
-            crunchbase_data:
-              name: Renesas Electronics Corporation
-              description: Renesas Electronics provides semiconductor solutions, including microcontrollers, SoC solutions, and analog and power devices.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: https://www.renesas.com
-              city: Koto
-              region: Tokyo
-              country: Japan
-              twitter: http://twitter.com/RenesasAmerica
-              linkedin: https://www.linkedin.com/company/renesas
-              acquisitions:
-                - date: '2016-09-13'
-                  acquiree: Intersil
-                  price: 3200000000
-                - date: '2018-09-10'
-                  acquiree: Integrated Device Technology
-                  price: 6700000000
-                - date: '2021-02-08'
-                  acquiree: Dialog Semiconductor
-                  price: 5904987545
-              parents: []
-              ticker: 6723.T
-              stockExchange: tyo
-              company_type: For Profit
-              industries:
-                - Electronics
-                - Manufacturing
-                - Retail
-                - Semiconductor
-              kind: market_cap
-            yahoo_finance_data:
-              market_cap: 20083153669
-              effective_ticker: 6723.T
-            image_data:
-              fileName: renesas-electronics-corporation.svg
-              hash: 6/M2gjUT46HTjCL+koLbtSuI+4AeFKVT3Z+UZLUxVe4=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-07-26T06:00:27.000Z
-          - item:
             name: Samsung Electronics Co. Ltd.
             homepage_url: https://samsung.com/
             logo: samsung_electronics_co_ltd.svg
@@ -4342,7 +4575,7 @@ landscape:
               kind: funding
             image_data:
               fileName: shift-left.svg
-              hash: H4UNGYvWgNSPKJh71VGeAubCCHTGvhY6g0Ip+sj4cKU=
+              hash: +a2cgaXkvS6YfqIaOnSumu623vn1X6CNEJqa8lIs/a4=
             best_practice_data:
               badge: false
               percentage: null
@@ -4504,45 +4737,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2021-07-23T20:05:22.000Z
-          - item:
-            name: SUSE LLC
-            homepage_url: https://suse.com/
-            logo: suse_llc.svg
-            twitter: https://twitter.com/SUSE
-            crunchbase: https://www.crunchbase.com/organization/suse
-            stock_ticker: null
-            crunchbase_data:
-              name: SUSE
-              description: SUSE provides reliable and interoperable Linux and cloud infrastructure solutions that give enterprises greater control and flexibility.
-              num_employees_min: 1001
-              num_employees_max: 5000
-              homepage: http://www.suse.com
-              city: Nuremberg
-              region: Bayern
-              country: Germany
-              twitter: https://twitter.com/SUSE
-              linkedin: https://www.linkedin.com/company/suse
-              acquisitions:
-                - date: '2020-07-08'
-                  acquiree: Rancher Labs
-                  price: 600000000
-              parents: []
-              ticker: SUSE.F
-              stockExchange: fra
-              company_type: For Profit
-              industries:
-                - Cloud Computing
-                - Enterprise Software
-                - Linux
-                - Software
-            image_data:
-              fileName: suse-llc.svg
-              hash: QAm64D8D4cZikorTRFLBsTNwGavSD9D/mpa647CDxpA=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-07-26T11:15:04.000Z
           - item:
             name: Telefonica
             homepage_url: https://telefonica.com/
@@ -4716,41 +4910,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2021-07-21T06:02:01.000Z
-          - item:
-            name: Tidelift, Inc.
-            homepage_url: https://tidelift.com/
-            logo: tidelift_inc.svg
-            twitter: https://twitter.com/tidelift
-            crunchbase: https://www.crunchbase.com/organization/tidelift
-            crunchbase_data:
-              name: Tidelift
-              description: Tidelift makes open source software work better—for everyone.
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: https://tidelift.com/
-              city: Boston
-              region: Massachusetts
-              country: United States
-              twitter: https://twitter.com/tidelift
-              linkedin: https://www.linkedin.com/company/tidelift/
-              acquisitions: []
-              parents: []
-              funding: 40000000
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Developer Platform
-                - Information Technology
-                - Software
-              kind: funding
-            image_data:
-              fileName: tidelift-inc.svg
-              hash: NAUJj7+ASVYz8pHwgoUwjVEFH2eY7szaZ6wEQFj1s4o=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-07-22T18:08:17.000Z
           - item:
             name: Trail of Bits
             homepage_url: https://trailofbits.com/

@@ -48,14 +48,22 @@ relation:
       label: Non-OpenSSF Member Products/Projects
       url: 'no'
 membership:
+  Premier:
+    name: Premier
+    label: Premier Member
+    funding: Premier
   General:
-    name: OpenSSF
-    label: OpenSSF Member
+    name: General
+    label: General Member
     funding: General
   Associate:
-    name: OpenSSF
+    name: Associate
     label: Associate Member
     funding: Associate
+  Founding:
+    name: Founding
+    label: Founding Member
+    funding: Founding
   linux_foundation:
     name: LF
     label: Project
