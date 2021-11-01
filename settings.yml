@@ -152,6 +152,6 @@ big_picture:
 test:
   header: OpenSSF Landscape
   section: OpenSSF Members
-  logo: google-llc.svg
+  logo: ericsson.svg
 prerender:
   members: /card-mode?category=openssf-member-company&grouping=category&embed=yes&style=borderless
