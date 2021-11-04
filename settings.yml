@@ -107,7 +107,7 @@ big_picture:
         category: OpenSSF Members
         rows: 4
         width: 650
-        height: 150
+        height: 400
         top: 0
         left: 0
         color: rgb(103,66,18)
