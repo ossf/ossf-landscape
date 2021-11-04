@@ -12,6 +12,18 @@ landscape:
             twitter: https://twitter.com/1Password
             crunchbase: https://www.crunchbase.com/organization/1password
           - item:
+            name: Amazon Web Services, Inc.
+            homepage_url: https://aws.amazon.com/
+            logo: amazon_web_services_inc.svg
+            twitter: https://twitter.com/amazon
+            crunchbase: https://www.crunchbase.com/organization/amazon-web-services
+          - item:
+            name: Cisco Systems, Inc.
+            homepage_url: https://cisco.com/
+            logo: cisco_systems_inc.svg
+            twitter: https://twitter.com/Cisco
+            crunchbase: https://www.crunchbase.com/organization/cisco
+          - item:
             name: Dell Technologies
             homepage_url: https://delltechnologies.com/
             logo: dell_technologies.svg
@@ -35,6 +47,11 @@ landscape:
             logo: fidelity_investments.svg
             twitter: https://twitter.com/Fidelity
             crunchbase: https://www.crunchbase.com/organization/fidelity-investments
+          - item:
+            name: GitHub, Inc.
+            homepage_url: https://github.com/
+            logo: github_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/github
           - item:
             name: Google LLC
             homepage_url: https://google.com/
