@@ -6,6 +6,12 @@ landscape:
         name: Premier
         items:
           - item:
+            name: 1Password
+            homepage_url: https://https://1password.com/
+            logo: 1p-wordmark.svg
+            twitter: https://twitter.com/1Password
+            crunchbase: https://www.crunchbase.com/organization/1password
+          - item:
             name: Dell Technologies
             homepage_url: https://delltechnologies.com/
             logo: dell_technologies.svg
@@ -122,6 +128,12 @@ landscape:
             twitter: https://twitter.com/codethink
             crunchbase: https://www.crunchbase.com/organization/codethink
           - item:
+            name: Cybertrust Japan Co., Ltd.
+            homepage_url: https://www.cybertrust.co.jp/
+            logo: cybertrust_japan_co_ltd.svg
+            twitter: https://twitter.com/Cybertrust_JP
+            crunchbase: https://www.crunchbase.com/organization/cybertrust
+          - item:
             name: Deepfence, Inc
             homepage_url: https://deepfence.io/
             logo: deepfence_inc.svg
@@ -146,6 +158,12 @@ landscape:
             twitter: https://twitter.com/gitlab
             crunchbase: https://www.crunchbase.com/organization/gitlab-com
           - item:
+            name: Goldman Sachs & Co. LLC
+            homepage_url: https://goldmansachs.com/
+            logo: goldman_sachs__co_llc.svg
+            twitter: https://twitter.com/GoldmanSachs
+            crunchbase: https://www.crunchbase.com/organization/goldman-sachs
+          - item:
             name: Gravitational, Inc “DBA” Teleport
             homepage_url: https://goteleport.com/
             logo: gravitational_inc_dba_teleport.svg
@@ -157,6 +175,12 @@ landscape:
             logo: jfrog_inc.svg
             twitter: https://twitter.com/jfrog
             crunchbase: https://www.crunchbase.com/organization/jfrog-ltd
+          - item:
+            name: NCC Group
+            homepage_url: https://nccgroup.trust/
+            logo: ncc_group.svg
+            twitter: https://twitter.com/NCCGroupplc
+            crunchbase: https://www.crunchbase.com/organization/ncc-group
           - item:
             name: Nutanix, Inc.
             homepage_url: https://nutanix.com/
@@ -175,6 +199,12 @@ landscape:
             logo: stackhawk.svg
             twitter: https://twitter.com/StackHawk
             crunchbase: https://www.crunchbase.com/organization/stackhawk
+          - item:
+            name: Tencent Holdings Limited
+            homepage_url: https://tencent.com/
+            logo: tencent_holdings_limited.svg
+            twitter: https://twitter.com/TencentGlobal
+            crunchbase: https://www.crunchbase.com/organization/tencent
           - item:
             name: Tidelift, Inc.
             homepage_url: https://tidelift.com/
@@ -314,12 +344,6 @@ landscape:
             logo: mirantis_inc.svg
             twitter: https://twitter.com/MirantisIT
             crunchbase: https://www.crunchbase.com/organization/mirantis
-          - item:
-            name: NCC Group
-            homepage_url: https://nccgroup.trust/
-            logo: ncc_group.svg
-            twitter: https://twitter.com/NCCGroupplc
-            crunchbase: https://www.crunchbase.com/organization/ncc-group
           - item:
             name: Okta Inc.
             homepage_url: https://okta.com/
