@@ -7,8 +7,8 @@ landscape:
         items:
           - item:
             name: 1Password
-            homepage_url: https://https://1password.com/
-            logo: 1p-wordmark.svg
+            homepage_url: https://1password.com/
+            logo: 1P-wordmark.svg
             twitter: https://twitter.com/1Password
             crunchbase: https://www.crunchbase.com/organization/1password
           - item:
@@ -291,12 +291,6 @@ landscape:
             twitter: https://twitter.com/Xfinity
             crunchbase: https://www.crunchbase.com/organization/comcast
           - item:
-            name: Cybertrust Japan Co., Ltd.
-            homepage_url: https://cybertrust.co.jp/
-            logo: cybertrust_japan_co_ltd.svg
-            twitter: https://twitter.com/Cybertrust_JP
-            crunchbase: https://www.crunchbase.com/organization/cybertrust
-          - item:
             name: Debricked
             homepage_url: https://debricked.com/
             logo: debricked.svg
@@ -314,12 +308,6 @@ landscape:
             logo: github_inc.svg
             twitter: https://twitter.com/github
             crunchbase: https://www.crunchbase.com/organization/github
-          - item:
-            name: Goldman Sachs & Co. LLC
-            homepage_url: https://goldmansachs.com/
-            logo: goldman_sachs__co_llc.svg
-            twitter: https://twitter.com/GoldmanSachs
-            crunchbase: https://www.crunchbase.com/organization/goldman-sachs
           - item:
             name: HackerOne
             homepage_url: https://hackerone.com/
@@ -399,12 +387,6 @@ landscape:
             logo: telefonica.svg
             twitter: https://twitter.com/Telefonica
             crunchbase: https://www.crunchbase.com/organization/telefonica
-          - item:
-            name: Tencent Holdings Limited
-            homepage_url: https://tencent.com/
-            logo: tencent_holdings_limited.svg
-            twitter: https://twitter.com/TencentGlobal
-            crunchbase: https://www.crunchbase.com/organization/tencent
           - item:
             name: Trail of Bits
             homepage_url: https://trailofbits.com/
