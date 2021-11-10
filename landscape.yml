@@ -8,21 +8,9 @@ landscape:
           - item:
             name: 1Password
             homepage_url: https://1password.com/
-            logo: 1P-wordmark.svg
+            logo: 1password.svg
             twitter: https://twitter.com/1Password
             crunchbase: https://www.crunchbase.com/organization/1password
-          - item:
-            name: Amazon Web Services, Inc.
-            homepage_url: https://aws.amazon.com/
-            logo: amazon_web_services_inc.svg
-            twitter: https://twitter.com/amazon
-            crunchbase: https://www.crunchbase.com/organization/amazon-web-services
-          - item:
-            name: Cisco Systems, Inc.
-            homepage_url: https://cisco.com/
-            logo: cisco_systems_inc.svg
-            twitter: https://twitter.com/Cisco
-            crunchbase: https://www.crunchbase.com/organization/cisco
           - item:
             name: Dell Technologies
             homepage_url: https://delltechnologies.com/
@@ -48,11 +36,6 @@ landscape:
             twitter: https://twitter.com/Fidelity
             crunchbase: https://www.crunchbase.com/organization/fidelity-investments
           - item:
-            name: GitHub, Inc.
-            homepage_url: https://github.com/
-            logo: github_inc.svg
-            crunchbase: https://www.crunchbase.com/organization/github
-          - item:
             name: Google LLC
             homepage_url: https://google.com/
             logo: google_llc.svg
@@ -74,6 +57,7 @@ landscape:
             name: JPMorgan Chase
             homepage_url: https://jpmorganchase.com/
             logo: jpmorgan_chase.svg
+            twitter: https://twitter.com/jpmorgan
             crunchbase: https://www.crunchbase.com/organization/jpmorgan-chase-co
           - item:
             name: Microsoft Corporation
@@ -139,17 +123,17 @@ landscape:
             twitter: https://twitter.com/AuriStor
             crunchbase: https://www.crunchbase.com/organization/auristor
           - item:
+            name: Blockchain Technology Partners
+            homepage_url: https://blockchaintp.com/
+            logo: blockchain_technology_partners.svg
+            twitter: https://twitter.com/blockchaintp
+            crunchbase: https://www.crunchbase.com/organization/blockchain-technology-partners
+          - item:
             name: Codethink
             homepage_url: https://codethink.co.uk/
             logo: codethink.svg
             twitter: https://twitter.com/codethink
             crunchbase: https://www.crunchbase.com/organization/codethink
-          - item:
-            name: Cybertrust Japan Co., Ltd.
-            homepage_url: https://www.cybertrust.co.jp/
-            logo: cybertrust_japan_co_ltd.svg
-            twitter: https://twitter.com/Cybertrust_JP
-            crunchbase: https://www.crunchbase.com/organization/cybertrust
           - item:
             name: Deepfence, Inc
             homepage_url: https://deepfence.io/
@@ -175,12 +159,6 @@ landscape:
             twitter: https://twitter.com/gitlab
             crunchbase: https://www.crunchbase.com/organization/gitlab-com
           - item:
-            name: Goldman Sachs & Co. LLC
-            homepage_url: https://goldmansachs.com/
-            logo: goldman_sachs__co_llc.svg
-            twitter: https://twitter.com/GoldmanSachs
-            crunchbase: https://www.crunchbase.com/organization/goldman-sachs
-          - item:
             name: Gravitational, Inc “DBA” Teleport
             homepage_url: https://goteleport.com/
             logo: gravitational_inc_dba_teleport.svg
@@ -192,12 +170,6 @@ landscape:
             logo: jfrog_inc.svg
             twitter: https://twitter.com/jfrog
             crunchbase: https://www.crunchbase.com/organization/jfrog-ltd
-          - item:
-            name: NCC Group
-            homepage_url: https://nccgroup.trust/
-            logo: ncc_group.svg
-            twitter: https://twitter.com/NCCGroupplc
-            crunchbase: https://www.crunchbase.com/organization/ncc-group
           - item:
             name: Nutanix, Inc.
             homepage_url: https://nutanix.com/
@@ -216,12 +188,6 @@ landscape:
             logo: stackhawk.svg
             twitter: https://twitter.com/StackHawk
             crunchbase: https://www.crunchbase.com/organization/stackhawk
-          - item:
-            name: Tencent Holdings Limited
-            homepage_url: https://tencent.com/
-            logo: tencent_holdings_limited.svg
-            twitter: https://twitter.com/TencentGlobal
-            crunchbase: https://www.crunchbase.com/organization/tencent
           - item:
             name: Tidelift, Inc.
             homepage_url: https://tidelift.com/
@@ -289,6 +255,12 @@ landscape:
             twitter: https://twitter.com/Canonical
             crunchbase: https://www.crunchbase.com/organization/canonical-ltd
           - item:
+            name: Cisco Systems, Inc.
+            homepage_url: https://cisco.com/
+            logo: cisco_systems_inc.svg
+            twitter: https://twitter.com/Cisco
+            crunchbase: https://www.crunchbase.com/organization/cisco
+          - item:
             name: Citi
             homepage_url: https://citi.com/
             logo: citi.svg
@@ -302,6 +274,12 @@ landscape:
             twitter: https://twitter.com/Xfinity
             crunchbase: https://www.crunchbase.com/organization/comcast
           - item:
+            name: Cybertrust Japan Co., Ltd.
+            homepage_url: https://cybertrust.co.jp/
+            logo: cybertrust_japan_co_ltd.svg
+            twitter: https://twitter.com/Cybertrust_JP
+            crunchbase: https://www.crunchbase.com/organization/cybertrust
+          - item:
             name: Debricked
             homepage_url: https://debricked.com/
             logo: debricked.svg
@@ -313,6 +291,18 @@ landscape:
             logo: devsamurai.svg
             twitter: https://twitter.com/it_devsamurai
             crunchbase: https://www.crunchbase.com/organization/devsamurai
+          - item:
+            name: GitHub, Inc.
+            homepage_url: https://github.com/
+            logo: github_inc.svg
+            twitter: https://twitter.com/github
+            crunchbase: https://www.crunchbase.com/organization/github
+          - item:
+            name: Goldman Sachs & Co. LLC
+            homepage_url: https://goldmansachs.com/
+            logo: goldman_sachs__co_llc.svg
+            twitter: https://twitter.com/GoldmanSachs
+            crunchbase: https://www.crunchbase.com/organization/goldman-sachs
           - item:
             name: HackerOne
             homepage_url: https://hackerone.com/
@@ -337,6 +327,12 @@ landscape:
             logo: mirantis_inc.svg
             twitter: https://twitter.com/MirantisIT
             crunchbase: https://www.crunchbase.com/organization/mirantis
+          - item:
+            name: NCC Group
+            homepage_url: https://nccgroup.trust/
+            logo: ncc_group.svg
+            twitter: https://twitter.com/NCCGroupplc
+            crunchbase: https://www.crunchbase.com/organization/ncc-group
           - item:
             name: Okta Inc.
             homepage_url: https://okta.com/
@@ -392,6 +388,12 @@ landscape:
             logo: telefonica.svg
             twitter: https://twitter.com/Telefonica
             crunchbase: https://www.crunchbase.com/organization/telefonica
+          - item:
+            name: Tencent Holdings Limited
+            homepage_url: https://tencent.com/
+            logo: tencent_holdings_limited.svg
+            twitter: https://twitter.com/TencentGlobal
+            crunchbase: https://www.crunchbase.com/organization/tencent
           - item:
             name: Trail of Bits
             homepage_url: https://trailofbits.com/
