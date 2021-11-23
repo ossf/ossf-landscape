@@ -67,6 +67,12 @@ landscape:
             twitter: https://twitter.com/Google
             crunchbase: https://www.crunchbase.com/organization/google
           - item:
+            name: Huawei Technologies Co., Ltd
+            homepage_url: https://huawei.com/
+            logo: huawei_technologies_co_ltd.svg
+            twitter: https://twitter.com/Huawei
+            crunchbase: https://www.crunchbase.com/organization/huawei
+          - item:
             name: Intel Corporation
             homepage_url: https://intel.com/
             logo: intel_corporation.svg
@@ -327,12 +333,6 @@ landscape:
             logo: hewlett_packard_enterprise_development_lp.svg
             twitter: https://twitter.com/HPE
             crunchbase: https://www.crunchbase.com/organization/hewlett-packard-enterprise
-          - item:
-            name: Huawei Technologies Co., Ltd
-            homepage_url: https://huawei.com/
-            logo: huawei_technologies_co_ltd.svg
-            twitter: https://twitter.com/Huawei
-            crunchbase: https://www.crunchbase.com/organization/huawei
           - item:
             name: Mirantis, Inc.
             homepage_url: https://mirantis.com/
