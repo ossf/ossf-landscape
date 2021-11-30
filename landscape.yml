@@ -12,25 +12,6 @@ landscape:
             twitter: https://twitter.com/1Password
             crunchbase: https://www.crunchbase.com/organization/1password
           - item:
-            name: Amazon Web Services, Inc.
-            homepage_url: https://aws.amazon.com/
-            logo: amazon_web_services_inc.svg
-            twitter: https://twitter.com/amazon
-            crunchbase: https://www.crunchbase.com/organization/amazon-web-services
-          - item:
-            name: Cisco Systems, Inc.
-            homepage_url: https://cisco.com/
-            logo: cisco_systems_inc.svg
-            twitter: https://twitter.com/Cisco
-            crunchbase: https://www.crunchbase.com/organization/cisco
-          - item:
-            name: Citi
-            homepage_url: https://citi.com/
-            logo: citi.svg
-            twitter: https://twitter.com/Citibank
-            crunchbase: https://www.crunchbase.com/organization/citigroup
-            joined: '2021-01-25'
-          - item:
             name: Dell Technologies
             homepage_url: https://delltechnologies.com/
             logo: dell_technologies.svg
@@ -55,23 +36,11 @@ landscape:
             twitter: https://twitter.com/Fidelity
             crunchbase: https://www.crunchbase.com/organization/fidelity-investments
           - item:
-            name: GitHub, Inc.
-            homepage_url: https://github.com/
-            logo: github_inc.svg
-            twitter: https://twitter.com/github
-            crunchbase: https://www.crunchbase.com/organization/github
-          - item:
             name: Google LLC
             homepage_url: https://google.com/
             logo: google_llc.svg
             twitter: https://twitter.com/Google
             crunchbase: https://www.crunchbase.com/organization/google
-          - item:
-            name: Huawei Technologies Co., Ltd
-            homepage_url: https://huawei.com/
-            logo: huawei_technologies_co_ltd.svg
-            twitter: https://twitter.com/Huawei
-            crunchbase: https://www.crunchbase.com/organization/huawei
           - item:
             name: Intel Corporation
             homepage_url: https://intel.com/
@@ -190,12 +159,6 @@ landscape:
             twitter: https://twitter.com/gitlab
             crunchbase: https://www.crunchbase.com/organization/gitlab-com
           - item:
-            name: Goldman Sachs & Co. LLC
-            homepage_url: https://goldmansachs.com/
-            logo: goldman_sachs__co_llc.svg
-            twitter: https://twitter.com/GoldmanSachs
-            crunchbase: https://www.crunchbase.com/organization/goldman-sachs
-          - item:
             name: Gravitational, Inc “DBA” Teleport
             homepage_url: https://goteleport.com/
             logo: gravitational_inc_dba_teleport.svg
@@ -207,12 +170,6 @@ landscape:
             logo: jfrog_inc.svg
             twitter: https://twitter.com/jfrog
             crunchbase: https://www.crunchbase.com/organization/jfrog-ltd
-          - item:
-            name: NCC Group
-            homepage_url: https://nccgroup.trust/
-            logo: ncc_group.svg
-            twitter: https://twitter.com/NCCGroupplc
-            crunchbase: https://www.crunchbase.com/organization/ncc-group
           - item:
             name: Nutanix, Inc.
             homepage_url: https://nutanix.com/
@@ -298,6 +255,25 @@ landscape:
             twitter: https://twitter.com/Canonical
             crunchbase: https://www.crunchbase.com/organization/canonical-ltd
           - item:
+            name: Cisco Systems, Inc.
+            homepage_url: https://cisco.com/
+            logo: cisco_systems_inc.svg
+            twitter: https://twitter.com/Cisco
+            crunchbase: https://www.crunchbase.com/organization/cisco
+          - item:
+            name: Citi
+            homepage_url: https://citi.com/
+            logo: citi.svg
+            twitter: https://twitter.com/Citibank
+            crunchbase: https://www.crunchbase.com/organization/citigroup
+            joined: '2021-01-25'
+          - item:
+            name: Codethink
+            homepage_url: https://codethink.co.uk/
+            logo: codethink.svg
+            twitter: https://twitter.com/codethink
+            crunchbase: https://www.crunchbase.com/organization/codethink
+          - item:
             name: Comcast Cable Communications, LLC (Xfinity)
             homepage_url: https://xfinity.com/
             logo: comcast_cable_communications_llc_xfinity.svg
@@ -322,6 +298,30 @@ landscape:
             twitter: https://twitter.com/it_devsamurai
             crunchbase: https://www.crunchbase.com/organization/devsamurai
           - item:
+            name: Facebook, Inc.
+            homepage_url: https://facebook.com/
+            logo: facebook_inc.svg
+            twitter: https://twitter.com/Facebook
+            crunchbase: https://www.crunchbase.com/organization/facebook
+          - item:
+            name: GitHub, Inc.
+            homepage_url: https://github.com/
+            logo: github_inc.svg
+            twitter: https://twitter.com/github
+            crunchbase: https://www.crunchbase.com/organization/github
+          - item:
+            name: Goldman Sachs & Co. LLC
+            homepage_url: https://goldmansachs.com/
+            logo: goldman_sachs__co_llc.svg
+            twitter: https://twitter.com/GoldmanSachs
+            crunchbase: https://www.crunchbase.com/organization/goldman-sachs
+          - item:
+            name: Google LLC
+            homepage_url: https://google.com/
+            logo: google_llc.svg
+            twitter: https://twitter.com/Google
+            crunchbase: https://www.crunchbase.com/organization/google
+          - item:
             name: HackerOne
             homepage_url: https://hackerone.com/
             logo: hackerone.svg
@@ -334,11 +334,41 @@ landscape:
             twitter: https://twitter.com/HPE
             crunchbase: https://www.crunchbase.com/organization/hewlett-packard-enterprise
           - item:
+            name: Huawei Technologies Co., Ltd
+            homepage_url: https://huawei.com/
+            logo: huawei_technologies_co_ltd.svg
+            twitter: https://twitter.com/Huawei
+            crunchbase: https://www.crunchbase.com/organization/huawei
+          - item:
+            name: Intel Corporation
+            homepage_url: https://intel.com/
+            logo: intel_corporation.svg
+            twitter: https://twitter.com/intel
+            crunchbase: https://www.crunchbase.com/organization/intel
+          - item:
+            name: International Business Machines Corporation
+            homepage_url: https://ibm.com/
+            logo: international_business_machines_corporation.svg
+            twitter: https://twitter.com/IBM
+            crunchbase: https://www.crunchbase.com/organization/ibm
+          - item:
+            name: JPMorgan Chase
+            homepage_url: https://jpmorganchase.com/
+            logo: jpmorgan_chase.svg
+            twitter: https://twitter.com/jpmorgan
+            crunchbase: https://www.crunchbase.com/organization/jpmorgan-chase-co
+          - item:
             name: Mirantis, Inc.
             homepage_url: https://mirantis.com/
             logo: mirantis_inc.svg
             twitter: https://twitter.com/MirantisIT
             crunchbase: https://www.crunchbase.com/organization/mirantis
+          - item:
+            name: NCC Group
+            homepage_url: https://nccgroup.trust/
+            logo: ncc_group.svg
+            twitter: https://twitter.com/NCCGroupplc
+            crunchbase: https://www.crunchbase.com/organization/ncc-group
           - item:
             name: Okta Inc.
             homepage_url: https://okta.com/
@@ -365,6 +395,12 @@ landscape:
             twitter: https://twitter.com/LifeAtPurdue
             crunchbase: https://www.crunchbase.com/organization/purdue-university
           - item:
+            name: Red Hat, Inc.
+            homepage_url: https://redhat.com/
+            logo: red_hat_inc.svg
+            twitter: https://twitter.com/RedHat
+            crunchbase: https://www.crunchbase.com/organization/red-hat
+          - item:
             name: Samsung Electronics Co. Ltd.
             homepage_url: https://samsung.com/
             logo: samsung_electronics_co_ltd.svg
@@ -377,6 +413,12 @@ landscape:
             twitter: https://twitter.com/ShiftLeftInc
             crunchbase: https://www.crunchbase.com/organization/shiftleft
           - item:
+            name: Snyk Limited
+            homepage_url: https://snyk.io/
+            logo: snyk_limited.svg
+            twitter: https://twitter.com/snyksec
+            crunchbase: https://www.crunchbase.com/organization/snyk
+          - item:
             name: Sonatype, Inc.
             homepage_url: https://sonatype.com/
             logo: sonatype_inc.svg
@@ -388,6 +430,12 @@ landscape:
             logo: spectral.svg
             twitter: https://twitter.com/getspectral
             crunchbase: https://www.crunchbase.com/organization/spectral-4f70
+          - item:
+            name: StackHawk
+            homepage_url: https://stackhawk.com/
+            logo: stackhawk.svg
+            twitter: https://twitter.com/StackHawk
+            crunchbase: https://www.crunchbase.com/organization/stackhawk
           - item:
             name: Telefonica
             homepage_url: https://telefonica.com/
@@ -412,6 +460,12 @@ landscape:
             logo: uber_technologies_inc.svg
             twitter: https://twitter.com/Uber
             crunchbase: https://www.crunchbase.com/organization/uber
+          - item:
+            name: VMware, Inc.
+            homepage_url: https://vmware.com/
+            logo: vmware_inc.svg
+            twitter: https://twitter.com/VMware
+            crunchbase: https://www.crunchbase.com/organization/vmware
           - item:
             name: WhiteSource Ltd.
             homepage_url: https://whitesourcesoftware.com/
