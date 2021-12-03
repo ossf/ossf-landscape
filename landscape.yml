@@ -183,7 +183,7 @@ landscape:
             logo: cybertrust_japan_co_ltd.svg
             twitter: https://twitter.com/Cybertrust_JP
             crunchbase: https://www.crunchbase.com/organization/cybertrust
-         - item:
+          - item:
             name: Deepfence, Inc
             homepage_url: https://deepfence.io/
             logo: deepfence_inc.svg
@@ -213,7 +213,7 @@ landscape:
             logo: goldman_sachs__co_llc.svg
             twitter: https://twitter.com/GoldmanSachs
             crunchbase: https://www.crunchbase.com/organization/goldman-sachs
-         - item:
+          - item:
             name: Gravitational, Inc “DBA” Teleport
             homepage_url: https://goteleport.com/
             logo: gravitational_inc_dba_teleport.svg
