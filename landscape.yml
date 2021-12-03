@@ -12,24 +12,11 @@ landscape:
             twitter: https://twitter.com/1Password
             crunchbase: https://www.crunchbase.com/organization/1password
           - item:
-            name: Amazon Web Services, Inc.
-            homepage_url: https://aws.amazon.com/
-            logo: amazon_web_services_inc.svg
-            twitter: https://twitter.com/amazon
-            crunchbase: https://www.crunchbase.com/organization/amazon-web-services
-          - item:
             name: Cisco Systems, Inc.
             homepage_url: https://cisco.com/
             logo: cisco_systems_inc.svg
             twitter: https://twitter.com/Cisco
             crunchbase: https://www.crunchbase.com/organization/cisco
-          - item:
-            name: Citi
-            homepage_url: https://citi.com/
-            logo: citi.svg
-            twitter: https://twitter.com/Citibank
-            crunchbase: https://www.crunchbase.com/organization/citigroup
-            joined: '2021-01-25'
           - item:
             name: Dell Technologies
             homepage_url: https://delltechnologies.com/
@@ -43,23 +30,11 @@ landscape:
             twitter: https://twitter.com/ericsson
             crunchbase: https://www.crunchbase.com/organization/ericsson
           - item:
-            name: Facebook, Inc.
-            homepage_url: https://facebook.com/
-            logo: facebook_inc.svg
-            twitter: https://twitter.com/Facebook
-            crunchbase: https://www.crunchbase.com/organization/facebook
-          - item:
             name: Fidelity Investments
             homepage_url: https://fidelity.com/
             logo: fidelity_investments.svg
             twitter: https://twitter.com/Fidelity
             crunchbase: https://www.crunchbase.com/organization/fidelity-investments
-          - item:
-            name: GitHub, Inc.
-            homepage_url: https://github.com/
-            logo: github_inc.svg
-            twitter: https://twitter.com/github
-            crunchbase: https://www.crunchbase.com/organization/github
           - item:
             name: Google LLC
             homepage_url: https://google.com/
@@ -85,11 +60,23 @@ landscape:
             twitter: https://twitter.com/IBM
             crunchbase: https://www.crunchbase.com/organization/ibm
           - item:
+            name: JFrog, Inc
+            homepage_url: https://jfrog.com/
+            logo: jfrog_inc.svg
+            twitter: https://twitter.com/jfrog
+            crunchbase: https://www.crunchbase.com/organization/jfrog-ltd
+          - item:
             name: JPMorgan Chase
             homepage_url: https://jpmorganchase.com/
             logo: jpmorgan_chase.svg
             twitter: https://twitter.com/jpmorgan
             crunchbase: https://www.crunchbase.com/organization/jpmorgan-chase-co
+          - item:
+            name: Meta
+            homepage_url: https://facebook.com/
+            logo: meta.svg
+            twitter: https://twitter.com/Facebook
+            crunchbase: https://www.crunchbase.com/organization/facebook
           - item:
             name: Microsoft Corporation
             homepage_url: https://microsoft.com/
@@ -129,6 +116,12 @@ landscape:
       - subcategory:
         name: General
         items:
+          - item:
+            name: Accuknox
+            homepage_url: https://accuknox.com/
+            logo: accuknox.svg
+            twitter: https://twitter.com/AccuKnox
+            crunchbase: https://www.crunchbase.com/organization/accuknox
           - item:
             name: Aiven Inc
             homepage_url: https://aiven.io/
@@ -190,29 +183,17 @@ landscape:
             twitter: https://twitter.com/gitlab
             crunchbase: https://www.crunchbase.com/organization/gitlab-com
           - item:
-            name: Goldman Sachs & Co. LLC
-            homepage_url: https://goldmansachs.com/
-            logo: goldman_sachs__co_llc.svg
-            twitter: https://twitter.com/GoldmanSachs
-            crunchbase: https://www.crunchbase.com/organization/goldman-sachs
-          - item:
             name: Gravitational, Inc “DBA” Teleport
             homepage_url: https://goteleport.com/
             logo: gravitational_inc_dba_teleport.svg
             twitter: https://twitter.com/goteleport
             crunchbase: https://www.crunchbase.com/organization/gravitational
           - item:
-            name: JFrog, Inc
-            homepage_url: https://jfrog.com/
-            logo: jfrog_inc.svg
-            twitter: https://twitter.com/jfrog
-            crunchbase: https://www.crunchbase.com/organization/jfrog-ltd
-          - item:
-            name: NCC Group
-            homepage_url: https://nccgroup.trust/
-            logo: ncc_group.svg
-            twitter: https://twitter.com/NCCGroupplc
-            crunchbase: https://www.crunchbase.com/organization/ncc-group
+            name: MongoDB Inc
+            homepage_url: https://mongodb.com/
+            logo: mongodb_inc.svg
+            twitter: https://twitter.com/MongoDB
+            crunchbase: https://www.crunchbase.com/organization/mongodb-inc
           - item:
             name: Nutanix, Inc.
             homepage_url: https://nutanix.com/
@@ -298,6 +279,13 @@ landscape:
             twitter: https://twitter.com/Canonical
             crunchbase: https://www.crunchbase.com/organization/canonical-ltd
           - item:
+            name: Citi
+            homepage_url: https://citi.com/
+            logo: citi.svg
+            twitter: https://twitter.com/Citibank
+            crunchbase: https://www.crunchbase.com/organization/citigroup
+            joined: '2021-01-25'
+          - item:
             name: Comcast Cable Communications, LLC (Xfinity)
             homepage_url: https://xfinity.com/
             logo: comcast_cable_communications_llc_xfinity.svg
@@ -322,6 +310,18 @@ landscape:
             twitter: https://twitter.com/it_devsamurai
             crunchbase: https://www.crunchbase.com/organization/devsamurai
           - item:
+            name: GitHub, Inc.
+            homepage_url: https://github.com/
+            logo: github_inc.svg
+            twitter: https://twitter.com/github
+            crunchbase: https://www.crunchbase.com/organization/github
+          - item:
+            name: Goldman Sachs & Co. LLC
+            homepage_url: https://goldmansachs.com/
+            logo: goldman_sachs__co_llc.svg
+            twitter: https://twitter.com/GoldmanSachs
+            crunchbase: https://www.crunchbase.com/organization/goldman-sachs
+          - item:
             name: HackerOne
             homepage_url: https://hackerone.com/
             logo: hackerone.svg
@@ -339,6 +339,12 @@ landscape:
             logo: mirantis_inc.svg
             twitter: https://twitter.com/MirantisIT
             crunchbase: https://www.crunchbase.com/organization/mirantis
+          - item:
+            name: NCC Group
+            homepage_url: https://nccgroup.trust/
+            logo: ncc_group.svg
+            twitter: https://twitter.com/NCCGroupplc
+            crunchbase: https://www.crunchbase.com/organization/ncc-group
           - item:
             name: Okta Inc.
             homepage_url: https://okta.com/
