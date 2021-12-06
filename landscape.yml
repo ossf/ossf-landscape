@@ -18,6 +18,13 @@ landscape:
             twitter: https://twitter.com/Cisco
             crunchbase: https://www.crunchbase.com/organization/cisco
           - item:
+            name: Citi
+            homepage_url: https://citi.com/
+            logo: citi.svg
+            twitter: https://twitter.com/Citibank
+            crunchbase: https://www.crunchbase.com/organization/citigroup
+            joined: '2021-01-25'
+          - item:
             name: Dell Technologies
             homepage_url: https://delltechnologies.com/
             logo: dell_technologies.svg
@@ -189,23 +196,29 @@ landscape:
             twitter: https://twitter.com/gitlab
             crunchbase: https://www.crunchbase.com/organization/gitlab-com
           - item:
+            name: Goldman Sachs & Co. LLC
+            homepage_url: https://goldmansachs.com/
+            logo: goldman_sachs__co_llc.svg
+            twitter: https://twitter.com/GoldmanSachs
+            crunchbase: https://www.crunchbase.com/organization/goldman-sachs
+          - item:
             name: Gravitational, Inc “DBA” Teleport
             homepage_url: https://goteleport.com/
             logo: gravitational_inc_dba_teleport.svg
             twitter: https://twitter.com/goteleport
             crunchbase: https://www.crunchbase.com/organization/gravitational
           - item:
-            name: JFrog, Inc
-            homepage_url: https://jfrog.com/
-            logo: jfrog_inc.svg
-            twitter: https://twitter.com/jfrog
-            crunchbase: https://www.crunchbase.com/organization/jfrog-ltd
-          - item:
             name: MongoDB Inc
             homepage_url: https://mongodb.com/
             logo: mongodb_inc.svg
             twitter: https://twitter.com/MongoDB
             crunchbase: https://www.crunchbase.com/organization/mongodb-inc
+          - item:
+            name: NCC Group
+            homepage_url: https://nccgroup.trust/
+            logo: ncc_group.svg
+            twitter: https://twitter.com/NCCGroupplc
+            crunchbase: https://www.crunchbase.com/organization/ncc-group
           - item:
             name: Nutanix, Inc.
             homepage_url: https://nutanix.com/
@@ -297,13 +310,6 @@ landscape:
             twitter: https://twitter.com/Canonical
             crunchbase: https://www.crunchbase.com/organization/canonical-ltd
           - item:
-            name: Citi
-            homepage_url: https://citi.com/
-            logo: citi.svg
-            twitter: https://twitter.com/Citibank
-            crunchbase: https://www.crunchbase.com/organization/citigroup
-            joined: '2021-01-25'
-          - item:
             name: Comcast Cable Communications, LLC (Xfinity)
             homepage_url: https://xfinity.com/
             logo: comcast_cable_communications_llc_xfinity.svg
@@ -328,18 +334,6 @@ landscape:
             twitter: https://twitter.com/it_devsamurai
             crunchbase: https://www.crunchbase.com/organization/devsamurai
           - item:
-            name: GitHub, Inc.
-            homepage_url: https://github.com/
-            logo: github_inc.svg
-            twitter: https://twitter.com/github
-            crunchbase: https://www.crunchbase.com/organization/github
-          - item:
-            name: Goldman Sachs & Co. LLC
-            homepage_url: https://goldmansachs.com/
-            logo: goldman_sachs__co_llc.svg
-            twitter: https://twitter.com/GoldmanSachs
-            crunchbase: https://www.crunchbase.com/organization/goldman-sachs
-          - item:
             name: HackerOne
             homepage_url: https://hackerone.com/
             logo: hackerone.svg
@@ -357,12 +351,6 @@ landscape:
             logo: mirantis_inc.svg
             twitter: https://twitter.com/MirantisIT
             crunchbase: https://www.crunchbase.com/organization/mirantis
-          - item:
-            name: NCC Group
-            homepage_url: https://nccgroup.trust/
-            logo: ncc_group.svg
-            twitter: https://twitter.com/NCCGroupplc
-            crunchbase: https://www.crunchbase.com/organization/ncc-group
           - item:
             name: Okta Inc.
             homepage_url: https://okta.com/
