@@ -18,18 +18,18 @@ landscape:
             twitter: https://twitter.com/amazon
             crunchbase: https://www.crunchbase.com/organization/amazon-web-services
           - item:
+            name: Cisco Systems, Inc.
+            homepage_url: https://cisco.com/
+            logo: cisco_systems_inc.svg
+            twitter: https://twitter.com/Cisco
+            crunchbase: https://www.crunchbase.com/organization/cisco
+          - item:
             name: Citi
             homepage_url: https://citi.com/
             logo: citi.svg
             twitter: https://twitter.com/Citibank
             crunchbase: https://www.crunchbase.com/organization/citigroup
             joined: '2021-01-25'
-          - item:
-            name: Cisco Systems, Inc.
-            homepage_url: https://cisco.com/
-            logo: cisco_systems_inc.svg
-            twitter: https://twitter.com/Cisco
-            crunchbase: https://www.crunchbase.com/organization/cisco
           - item:
             name: Dell Technologies
             homepage_url: https://delltechnologies.com/
@@ -172,17 +172,18 @@ landscape:
             twitter: https://twitter.com/blockchaintp
             crunchbase: https://www.crunchbase.com/organization/blockchain-technology-partners
           - item:
+            name: Catena cyber
+            homepage_url: https://catenacyber.fr/
+            logo: catena_cyber.svg
+            twitter: https://twitter.com/catenacyber
+            organization:
+              name: Catena cyber
+          - item:
             name: Codethink
             homepage_url: https://codethink.co.uk/
             logo: codethink.svg
             twitter: https://twitter.com/codethink
             crunchbase: https://www.crunchbase.com/organization/codethink
-          - item:
-            name: Cybertrust Japan Co., Ltd.
-            homepage_url: https://cybertrust.co.jp/
-            logo: cybertrust_japan_co_ltd.svg
-            twitter: https://twitter.com/Cybertrust_JP
-            crunchbase: https://www.crunchbase.com/organization/cybertrust
           - item:
             name: Deepfence, Inc
             homepage_url: https://deepfence.io/
@@ -261,6 +262,12 @@ landscape:
             logo: wind_river_systems_inc.svg
             twitter: https://twitter.com/WindRiver
             crunchbase: https://www.crunchbase.com/organization/wind-river
+          - item:
+            name: Wingtecher Technology Co., Ltd.
+            homepage_url: https://shuimuyulin.com/
+            logo: wingtecher_technology_co_ltd.svg
+            organization:
+              name: Wingtecher Technology Co., Ltd.
       - subcategory:
         name: Associate
         items:
@@ -321,6 +328,12 @@ landscape:
             logo: comcast_cable_communications_llc_xfinity.svg
             twitter: https://twitter.com/Xfinity
             crunchbase: https://www.crunchbase.com/organization/comcast
+          - item:
+            name: Cybertrust Japan Co., Ltd.
+            homepage_url: https://cybertrust.co.jp/
+            logo: cybertrust_japan_co_ltd.svg
+            twitter: https://twitter.com/Cybertrust_JP
+            crunchbase: https://www.crunchbase.com/organization/cybertrust
           - item:
             name: Debricked
             homepage_url: https://debricked.com/
