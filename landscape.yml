@@ -185,6 +185,12 @@ landscape:
             twitter: https://twitter.com/codethink
             crunchbase: https://www.crunchbase.com/organization/codethink
           - item:
+            name: Cybertrust Japan Co., Ltd.
+            homepage_url: https://cybertrust.co.jp/
+            logo: cybertrust_japan_co_ltd.svg
+            twitter: https://twitter.com/Cybertrust_JP
+            crunchbase: https://www.crunchbase.com/organization/cybertrust
+          - item:
             name: Deepfence, Inc
             homepage_url: https://deepfence.io/
             logo: deepfence_inc.svg
@@ -328,12 +334,6 @@ landscape:
             logo: comcast_cable_communications_llc_xfinity.svg
             twitter: https://twitter.com/Xfinity
             crunchbase: https://www.crunchbase.com/organization/comcast
-          - item:
-            name: Cybertrust Japan Co., Ltd.
-            homepage_url: https://cybertrust.co.jp/
-            logo: cybertrust_japan_co_ltd.svg
-            twitter: https://twitter.com/Cybertrust_JP
-            crunchbase: https://www.crunchbase.com/organization/cybertrust
           - item:
             name: Debricked
             homepage_url: https://debricked.com/
