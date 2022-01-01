@@ -12,24 +12,11 @@ landscape:
             twitter: https://twitter.com/1Password
             crunchbase: https://www.crunchbase.com/organization/1password
           - item:
-            name: Amazon Web Services, Inc.
-            homepage_url: https://aws.amazon.com/
-            logo: amazon_web_services_inc.svg
-            twitter: https://twitter.com/amazon
-            crunchbase: https://www.crunchbase.com/organization/amazon-web-services
-          - item:
             name: Cisco Systems, Inc.
             homepage_url: https://cisco.com/
             logo: cisco_systems_inc.svg
             twitter: https://twitter.com/Cisco
             crunchbase: https://www.crunchbase.com/organization/cisco
-          - item:
-            name: Citi
-            homepage_url: https://citi.com/
-            logo: citi.svg
-            twitter: https://twitter.com/Citibank
-            crunchbase: https://www.crunchbase.com/organization/citigroup
-            joined: '2021-01-25'
           - item:
             name: Dell Technologies
             homepage_url: https://delltechnologies.com/
@@ -215,12 +202,6 @@ landscape:
             twitter: https://twitter.com/gitlab
             crunchbase: https://www.crunchbase.com/organization/gitlab-com
           - item:
-            name: Goldman Sachs & Co. LLC
-            homepage_url: https://goldmansachs.com/
-            logo: goldman_sachs__co_llc.svg
-            twitter: https://twitter.com/GoldmanSachs
-            crunchbase: https://www.crunchbase.com/organization/goldman-sachs
-          - item:
             name: Gravitational, Inc “DBA” Teleport
             homepage_url: https://goteleport.com/
             logo: gravitational_inc_dba_teleport.svg
@@ -232,12 +213,6 @@ landscape:
             logo: mongodb_inc.svg
             twitter: https://twitter.com/MongoDB
             crunchbase: https://www.crunchbase.com/organization/mongodb-inc
-          - item:
-            name: NCC Group
-            homepage_url: https://nccgroup.trust/
-            logo: ncc_group.svg
-            twitter: https://twitter.com/NCCGroupplc
-            crunchbase: https://www.crunchbase.com/organization/ncc-group
           - item:
             name: Nutanix, Inc.
             homepage_url: https://nutanix.com/
@@ -309,143 +284,4 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/safecode-org
       - subcategory:
         name: Founding
-        items:
-          - item:
-            name: Accurics
-            homepage_url: https://accurics.com/
-            logo: accurics.svg
-            twitter: https://twitter.com/AccuricsSec
-            crunchbase: https://www.crunchbase.com/organization/accurics
-          - item:
-            name: Arduino
-            homepage_url: https://arduino.org/
-            logo: arduino.svg
-            twitter: https://twitter.com/arduino
-            crunchbase: https://www.crunchbase.com/organization/arduino
-          - item:
-            name: Canonical Group Limited
-            homepage_url: https://canonical.com/
-            logo: canonical_group_limited.svg
-            twitter: https://twitter.com/Canonical
-            crunchbase: https://www.crunchbase.com/organization/canonical-ltd
-          - item:
-            name: Comcast Cable Communications, LLC (Xfinity)
-            homepage_url: https://xfinity.com/
-            logo: comcast_cable_communications_llc_xfinity.svg
-            twitter: https://twitter.com/Xfinity
-            crunchbase: https://www.crunchbase.com/organization/comcast
-          - item:
-            name: Debricked
-            homepage_url: https://debricked.com/
-            logo: debricked.svg
-            twitter: https://twitter.com/debrickedab
-            crunchbase: https://www.crunchbase.com/organization/debricked
-          - item:
-            name: DevSamurai
-            homepage_url: https://devsamurai.com/
-            logo: devsamurai.svg
-            twitter: https://twitter.com/it_devsamurai
-            crunchbase: https://www.crunchbase.com/organization/devsamurai
-          - item:
-            name: HackerOne
-            homepage_url: https://hackerone.com/
-            logo: hackerone.svg
-            twitter: https://twitter.com/Hacker0x01
-            crunchbase: https://www.crunchbase.com/organization/hackerone
-          - item:
-            name: Hewlett Packard Enterprise Development LP
-            homepage_url: https://hpe.com/
-            logo: hewlett_packard_enterprise_development_lp.svg
-            twitter: https://twitter.com/HPE
-            crunchbase: https://www.crunchbase.com/organization/hewlett-packard-enterprise
-          - item:
-            name: Mirantis, Inc.
-            homepage_url: https://mirantis.com/
-            logo: mirantis_inc.svg
-            twitter: https://twitter.com/MirantisIT
-            crunchbase: https://www.crunchbase.com/organization/mirantis
-          - item:
-            name: Okta Inc.
-            homepage_url: https://okta.com/
-            logo: okta_inc.svg
-            twitter: https://twitter.com/okta
-            crunchbase: https://www.crunchbase.com/organization/okta
-          - item:
-            name: OpenUK
-            homepage_url: https://openuk.uk/
-            logo: openuk.svg
-            twitter: https://twitter.com/openuk_uk
-            crunchbase: https://www.crunchbase.com/organization/openuk
-            description: Where the UK’s Open communities meet and collaborate
-          - item:
-            name: Polyverse Corporation
-            homepage_url: https://polyverse.com/
-            logo: polyverse_corporation.svg
-            twitter: https://twitter.com/PolyverseCorp
-            crunchbase: https://www.crunchbase.com/organization/polyverse
-          - item:
-            name: Purdue University
-            homepage_url: https://purdue.edu/
-            logo: purdue_university.svg
-            twitter: https://twitter.com/LifeAtPurdue
-            crunchbase: https://www.crunchbase.com/organization/purdue-university
-          - item:
-            name: Samsung Electronics Co. Ltd.
-            homepage_url: https://samsung.com/
-            logo: samsung_electronics_co_ltd.svg
-            twitter: https://twitter.com/Samsung
-            crunchbase: https://www.crunchbase.com/organization/samsung-electronics
-          - item:
-            name: ShiftLeft
-            homepage_url: https://shiftleft.io/
-            logo: shiftleft.svg
-            twitter: https://twitter.com/ShiftLeftInc
-            crunchbase: https://www.crunchbase.com/organization/shiftleft
-          - item:
-            name: Sonatype, Inc.
-            homepage_url: https://sonatype.com/
-            logo: sonatype_inc.svg
-            twitter: https://twitter.com/sonatype
-            crunchbase: https://www.crunchbase.com/organization/sonatype
-          - item:
-            name: Spectral
-            homepage_url: https://spectralops.io/
-            logo: spectral.svg
-            twitter: https://twitter.com/getspectral
-            crunchbase: https://www.crunchbase.com/organization/spectral-4f70
-          - item:
-            name: Telefonica
-            homepage_url: https://telefonica.com/
-            logo: telefonica.svg
-            twitter: https://twitter.com/Telefonica
-            crunchbase: https://www.crunchbase.com/organization/telefonica
-          - item:
-            name: Tencent Holdings Limited
-            homepage_url: https://tencent.com/
-            logo: tencent_holdings_limited.svg
-            twitter: https://twitter.com/TencentGlobal
-            crunchbase: https://www.crunchbase.com/organization/tencent
-          - item:
-            name: Trail of Bits
-            homepage_url: https://trailofbits.com/
-            logo: trail_of_bits.svg
-            twitter: https://twitter.com/trailofbits
-            crunchbase: https://www.crunchbase.com/organization/trail-of-bits
-          - item:
-            name: Uber Technologies Inc.
-            homepage_url: https://uber.com/
-            logo: uber_technologies_inc.svg
-            twitter: https://twitter.com/Uber
-            crunchbase: https://www.crunchbase.com/organization/uber
-          - item:
-            name: WhiteSource Ltd.
-            homepage_url: https://whitesourcesoftware.com/
-            logo: whitesource_ltd.svg
-            twitter: https://twitter.com/WhiteSourceSoft
-            crunchbase: https://www.crunchbase.com/organization/white-source
-          - item:
-            name: Xilinx Inc
-            homepage_url: https://xilinx.com/
-            logo: xilinx_inc.svg
-            twitter: https://twitter.com/XilinxInc
-            crunchbase: https://www.crunchbase.com/organization/xilinx
+        items: []
