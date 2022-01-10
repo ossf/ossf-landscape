@@ -12,11 +12,23 @@ landscape:
             twitter: https://twitter.com/1Password
             crunchbase: https://www.crunchbase.com/organization/1password
           - item:
+            name: Amazon Web Services, Inc.
+            homepage_url: https://aws.amazon.com/
+            logo: amazon_web_services_inc.svg
+            twitter: https://twitter.com/amazon
+            crunchbase: https://www.crunchbase.com/organization/amazon-web-services
+          - item:
             name: Cisco Systems, Inc.
             homepage_url: https://cisco.com/
             logo: cisco_systems_inc.svg
             twitter: https://twitter.com/Cisco
             crunchbase: https://www.crunchbase.com/organization/cisco
+          - item:
+            name: Citi
+            homepage_url: https://citi.com/
+            logo: citi.svg
+            twitter: https://twitter.com/Citibank
+            crunchbase: https://www.crunchbase.com/organization/citigroup
           - item:
             name: Dell Technologies
             homepage_url: https://delltechnologies.com/
@@ -300,6 +312,3 @@ landscape:
             logo: safecode.svg
             twitter: https://twitter.com/SAFECode
             crunchbase: https://www.crunchbase.com/organization/safecode-org
-      - subcategory:
-        name: Founding
-        items: []
