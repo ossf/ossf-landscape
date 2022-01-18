@@ -12,12 +12,6 @@ landscape:
             twitter: https://twitter.com/1Password
             crunchbase: https://www.crunchbase.com/organization/1password
           - item:
-            name: Amazon Web Services, Inc.
-            homepage_url: https://aws.amazon.com/
-            logo: amazon_web_services_inc.svg
-            twitter: https://twitter.com/amazon
-            crunchbase: https://www.crunchbase.com/organization/amazon-web-services
-          - item:
             name: Cisco Systems, Inc.
             homepage_url: https://cisco.com/
             logo: cisco_systems_inc.svg
@@ -29,6 +23,7 @@ landscape:
             logo: citi.svg
             twitter: https://twitter.com/Citibank
             crunchbase: https://www.crunchbase.com/organization/citigroup
+            joined: '2021-01-25'
           - item:
             name: Dell Technologies
             homepage_url: https://delltechnologies.com/
@@ -170,6 +165,12 @@ landscape:
             logo: blockchain_technology_partners.svg
             twitter: https://twitter.com/blockchaintp
             crunchbase: https://www.crunchbase.com/organization/blockchain-technology-partners
+          - item:
+            name: Block, Inc.
+            homepage_url: https://block.xyz/
+            logo: block_inc.svg
+            twitter: https://twitter.com/Square
+            crunchbase: https://www.crunchbase.com/organization/square
           - item:
             name: Catena cyber
             homepage_url: https://catenacyber.fr/
