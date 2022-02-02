@@ -175,7 +175,7 @@ landscape:
             name: Block, Inc.
             homepage_url: https://block.xyz/
             logo: block_inc.svg
-            twitter: https://twitter.com/Square
+            twitter: https://twitter.com/blocks
             crunchbase: https://www.crunchbase.com/organization/square
           - item:
             name: Catena cyber
@@ -224,7 +224,7 @@ landscape:
             name: GitLab Inc.
             homepage_url: https://gitlab.com/
             logo: gitlab_inc.svg
-            twitter: https://twitter.com/gitlab
+            twitter: https://twitter.com/gitlabhq
             crunchbase: https://www.crunchbase.com/organization/gitlab-com
           - item:
             name: Goldman Sachs & Co. LLC
