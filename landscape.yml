@@ -12,12 +12,6 @@ landscape:
             twitter: https://twitter.com/1Password
             crunchbase: https://www.crunchbase.com/organization/1password
           - item:
-            name: Amazon Web Services, Inc.
-            homepage_url: https://aws.amazon.com/
-            logo: amazon_web_services_inc.svg
-            twitter: https://twitter.com/amazon
-            crunchbase: https://www.crunchbase.com/organization/amazon-web-services
-          - item:
             name: Cisco Systems, Inc.
             homepage_url: https://cisco.com/
             logo: cisco_systems_inc.svg
@@ -43,9 +37,9 @@ landscape:
             twitter: https://twitter.com/ericsson
             crunchbase: https://www.crunchbase.com/organization/ericsson
           - item:
-            name: Fidelity Investments
+            name: Fidelity Technology Group, LLC
             homepage_url: https://fidelity.com/
-            logo: fidelity_investments.svg
+            logo: fidelity_technology_group_llc.svg
             twitter: https://twitter.com/Fidelity
             crunchbase: https://www.crunchbase.com/organization/fidelity-investments
           - item:
@@ -132,6 +126,12 @@ landscape:
             logo: vmware_inc.svg
             twitter: https://twitter.com/VMware
             crunchbase: https://www.crunchbase.com/organization/vmware
+          - item:
+            name: Wipro Limited
+            homepage_url: https://wipro.com/
+            logo: wipro_limited.svg
+            twitter: https://twitter.com/Wipro
+            crunchbase: https://www.crunchbase.com/organization/wipro
       - subcategory:
         name: General
         items:
