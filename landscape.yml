@@ -31,6 +31,12 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/citigroup
             joined: '2021-01-25'
           - item:
+            name: Coinbase Inc.
+            homepage_url: https://coinbase.com/
+            logo: coinbase_inc.svg
+            twitter: https://twitter.com/coinbase
+            crunchbase: https://www.crunchbase.com/organization/coinbase
+          - item:
             name: Dell Technologies
             homepage_url: https://delltechnologies.com/
             logo: dell_technologies.svg
@@ -43,9 +49,9 @@ landscape:
             twitter: https://twitter.com/ericsson
             crunchbase: https://www.crunchbase.com/organization/ericsson
           - item:
-            name: Fidelity Investments
+            name: Fidelity Technology Group, LLC
             homepage_url: https://fidelity.com/
-            logo: fidelity_investments.svg
+            logo: fidelity_technology_group_llc.svg
             twitter: https://twitter.com/Fidelity
             crunchbase: https://www.crunchbase.com/organization/fidelity-investments
           - item:
@@ -132,6 +138,12 @@ landscape:
             logo: vmware_inc.svg
             twitter: https://twitter.com/VMware
             crunchbase: https://www.crunchbase.com/organization/vmware
+          - item:
+            name: Wipro Limited
+            homepage_url: https://wipro.com/
+            logo: wipro_limited.svg
+            twitter: https://twitter.com/Wipro
+            crunchbase: https://www.crunchbase.com/organization/wipro
       - subcategory:
         name: General
         items:
@@ -184,6 +196,13 @@ landscape:
             twitter: https://twitter.com/catenacyber
             organization:
               name: Catena cyber
+          - item:
+            name: Chainguard
+            homepage_url: https://chainguard.dev/
+            logo: chainguard.svg
+            twitter: https://twitter.com/chainguard_dev
+            organization:
+              name: Chainguard
           - item:
             name: Codethink
             homepage_url: https://codethink.co.uk/
@@ -313,6 +332,13 @@ landscape:
             logo: open_source_technology_improvement_fund_inc.svg
             twitter: https://twitter.com/OSTIFofficial
             crunchbase: https://www.crunchbase.com/organization/open-source-technology-improvement-fund
+          - item:
+            name: OpenUK
+            homepage_url: https://openuk.uk/
+            logo: openuk.svg
+            twitter: https://twitter.com/openuk_uk
+            crunchbase: https://www.crunchbase.com/organization/openuk
+            description: Where the UK’s Open communities meet and collaborate
           - item:
             name: Open Web Application Security Project
             homepage_url: https://owasp.org/
