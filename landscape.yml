@@ -160,6 +160,12 @@ landscape:
             twitter: https://twitter.com/aiven_io
             crunchbase: https://www.crunchbase.com/organization/aiven
           - item:
+            name: Alibaba Cloud (Singapore) Private LTD
+            homepage_url: https://alibaba-inc.com/
+            logo: alibaba_cloud_singapore_private_ltd.svg
+            twitter: https://twitter.com/AlibabaB2B
+            crunchbase: https://www.crunchbase.com/organization/alibaba-cloud
+          - item:
             name: Anchore, Inc
             homepage_url: https://anchore.com/
             logo: anchore_inc.svg
