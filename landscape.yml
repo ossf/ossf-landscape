@@ -288,6 +288,12 @@ landscape:
             twitter: https://twitter.com/ReversingLabs
             crunchbase: https://www.crunchbase.com/organization/reversinglabs
           - item:
+            name: Spotify AB
+            homepage_url: https://spotify.com/
+            logo: spotify_ab.svg
+            twitter: https://twitter.com/Spotify
+            crunchbase: https://www.crunchbase.com/organization/spotify
+          - item:
             name: StackHawk
             homepage_url: https://stackhawk.com/
             logo: stackhawk.svg
