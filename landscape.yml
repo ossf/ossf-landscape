@@ -97,9 +97,9 @@ landscape:
             twitter: https://twitter.com/jpmorgan
             crunchbase: https://www.crunchbase.com/organization/jpmorgan-chase-co
           - item:
-            name: Meta
+            name: Meta Platforms, Inc.
             homepage_url: https://facebook.com/
-            logo: meta.svg
+            logo: meta_platforms_inc.svg
             twitter: https://twitter.com/Facebook
             crunchbase: https://www.crunchbase.com/organization/facebook
           - item:
