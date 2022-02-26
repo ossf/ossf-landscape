@@ -40,8 +40,8 @@ landscape:
             name: Dell Technologies
             homepage_url: https://delltechnologies.com/
             logo: dell_technologies.svg
-            twitter: https://twitter.com/DellTech
-            crunchbase: https://www.crunchbase.com/organization/dell-emc
+            twitter: https://twitter.com/Dell
+            crunchbase: https://www.crunchbase.com/organization/dell
           - item:
             name: Ericsson
             homepage_url: https://ericsson.com/
