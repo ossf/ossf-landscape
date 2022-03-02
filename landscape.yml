@@ -210,6 +210,12 @@ landscape:
             organization:
               name: Chainguard
           - item:
+            name: Cloudsmith Ltd
+            homepage_url: https://cloudsmith.com/
+            logo: cloudsmith_ltd.svg
+            twitter: https://twitter.com/cloudsmith
+            crunchbase: https://www.crunchbase.com/organization/cloudsmith-io
+          - item:
             name: Codethink
             homepage_url: https://codethink.co.uk/
             logo: codethink.svg
@@ -338,6 +344,13 @@ landscape:
             logo: laboratory_for_innovation_science_at_harvard.svg
             twitter: https://twitter.com/Harvard
             crunchbase: https://www.crunchbase.com/organization/harvard-university
+          - item:
+            name: MITRE
+            homepage_url: https://mitre.org/
+            logo: mitre.svg
+            twitter: https://twitter.com/MITREcorp
+            crunchbase: https://www.crunchbase.com/organization/mitre
+            joined: '2021-03-02'
           - item:
             name: Open Source Technology Improvement Fund, Inc.
             homepage_url: https://ostif.org/
