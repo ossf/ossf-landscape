@@ -210,6 +210,12 @@ landscape:
             organization:
               name: Chainguard
           - item:
+            name: Checkmarx
+            homepage_url: https://checkmarx.com/
+            logo: checkmarx.svg
+            twitter: https://twitter.com/Checkmarx
+            crunchbase: https://www.crunchbase.com/organization/checkmarx
+          - item:
             name: Cloudsmith Ltd
             homepage_url: https://cloudsmith.com/
             logo: cloudsmith_ltd.svg
