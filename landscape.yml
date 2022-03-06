@@ -228,6 +228,12 @@ landscape:
             twitter: https://twitter.com/codethink
             crunchbase: https://www.crunchbase.com/organization/codethink
           - item:
+            name: Comcast Cable Communications, LLC
+            homepage_url: https://xfinity.com/
+            logo: comcast_cable_communications_llc.svg
+            twitter: https://twitter.com/Xfinity
+            crunchbase: https://www.crunchbase.com/organization/comcast
+          - item:
             name: Cybertrust Japan Co., Ltd.
             homepage_url: https://cybertrust.co.jp/
             logo: cybertrust_japan_co_ltd.svg
