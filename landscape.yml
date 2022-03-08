@@ -290,7 +290,7 @@ landscape:
           - item:
             name: MongoDB Inc
             homepage_url: https://mongodb.com/
-            logo: mongodb_inc.svg
+            logo: mongodb.svg
             twitter: https://twitter.com/MongoDB
             crunchbase: https://www.crunchbase.com/organization/mongodb-inc
           - item:
