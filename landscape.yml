@@ -178,6 +178,12 @@ landscape:
             twitter: https://twitter.com/ApiiroSecurity
             crunchbase: https://www.crunchbase.com/organization/apiiro-ltd
           - item:
+            name: Arnica
+            homepage_url: https://arnica.io/
+            logo: arnica.svg
+            organization:
+              name: Arnica
+          - item:
             name: AuriStor Inc.
             homepage_url: https://auristor.com/
             logo: auristor_inc.svg
