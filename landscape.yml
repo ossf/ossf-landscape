@@ -246,6 +246,13 @@ landscape:
             twitter: https://twitter.com/Cybertrust_JP
             crunchbase: https://www.crunchbase.com/organization/cybertrust
           - item:
+            name: Cycode, Inc.
+            homepage_url: https://cycode.com/
+            logo: cycode_inc.svg
+            twitter: https://twitter.com/CycodeHQ
+            organization:
+              name: Cycode, Inc.
+          - item:
             name: Deepfence, Inc
             homepage_url: https://deepfence.io/
             logo: deepfence_inc.svg
@@ -275,6 +282,11 @@ landscape:
             logo: f5_networks_inc.svg
             twitter: https://twitter.com/F5
             crunchbase: https://www.crunchbase.com/organization/f5-networks
+          - item:
+            name: Futurewei Technologies, Inc.
+            homepage_url: https://futurewei.com/
+            logo: futurewei_technologies_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/futurewei-technologies
           - item:
             name: GitLab Inc.
             homepage_url: https://gitlab.com/
