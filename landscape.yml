@@ -250,8 +250,7 @@ landscape:
             homepage_url: https://cycode.com/
             logo: cycode_inc.svg
             twitter: https://twitter.com/CycodeHQ
-            organization:
-              name: Cycode, Inc.
+            crunchbase: https://www.crunchbase.com/organization/cycode
           - item:
             name: Deepfence, Inc
             homepage_url: https://deepfence.io/
