@@ -181,6 +181,7 @@ landscape:
             name: Arnica
             homepage_url: https://arnica.io/
             logo: arnica.svg
+            twitter: https://twitter.com/ArnicaIO
             organization:
               name: Arnica
           - item:
