@@ -18,6 +18,12 @@ landscape:
             twitter: https://twitter.com/amazon
             crunchbase: https://www.crunchbase.com/organization/amazon-web-services
           - item:
+            name: Atlassian Inc
+            homepage_url: https://atlassian.com/
+            logo: atlassian_inc.svg
+            twitter: https://twitter.com/Atlassian
+            crunchbase: https://www.crunchbase.com/organization/atlassian
+          - item:
             name: Cisco Systems, Inc.
             homepage_url: https://cisco.com/
             logo: cisco_systems_inc.svg
@@ -132,6 +138,12 @@ landscape:
             logo: snyk_limited.svg
             twitter: https://twitter.com/snyksec
             crunchbase: https://www.crunchbase.com/organization/snyk
+          - item:
+            name: Sonatype, Inc.
+            homepage_url: https://sonatype.com/
+            logo: sonatype_inc.svg
+            twitter: https://twitter.com/sonatype
+            crunchbase: https://www.crunchbase.com/organization/sonatype
           - item:
             name: VMware, Inc.
             homepage_url: https://vmware.com/
@@ -324,11 +336,23 @@ landscape:
             twitter: https://twitter.com/nutanix
             crunchbase: https://www.crunchbase.com/organization/nutanix
           - item:
+            name: Renesas Electronics Corporation
+            homepage_url: https://renesas.com/
+            logo: renesas_electronics_corporation.svg
+            twitter: https://twitter.com/RenesasGlobal
+            crunchbase: https://www.crunchbase.com/organization/renesas-electronics-corporation
+          - item:
             name: ReversingLabs
             homepage_url: https://reversinglabs.com/
             logo: reversinglabs.svg
             twitter: https://twitter.com/ReversingLabs
             crunchbase: https://www.crunchbase.com/organization/reversinglabs
+          - item:
+            name: Shanghai Sectrend Information Technology Co.,Ltd
+            homepage_url: https://sectrend.com.cn/
+            logo: shanghai_sectrend_information_technology_coltd.svg
+            organization:
+              name: Shanghai Sectrend Information Technology Co.,Ltd
           - item:
             name: Spotify AB
             homepage_url: https://spotify.com/
@@ -341,6 +365,12 @@ landscape:
             logo: stackhawk.svg
             twitter: https://twitter.com/StackHawk
             crunchbase: https://www.crunchbase.com/organization/stackhawk
+          - item:
+            name: Tenable Network Security, Inc.
+            homepage_url: https://tenable.com/
+            logo: tenable_network_security_inc.svg
+            twitter: https://twitter.com/TenableSecurity
+            crunchbase: https://www.crunchbase.com/organization/tenable-network-security
           - item:
             name: Tencent Holdings Limited
             homepage_url: https://tencent.com/
@@ -374,6 +404,11 @@ landscape:
             logo: carnegie_mellon_university.svg
             twitter: https://twitter.com/CarnegieMellon
             crunchbase: https://www.crunchbase.com/organization/carnegie-mellon-university
+          - item:
+            name: China Academy of Information and Communications Technology (CAICT)
+            homepage_url: https://caict.ac.cn/
+            logo: china_academy_of_information_and_communications_technology_caict.svg
+            crunchbase: https://www.crunchbase.com/organization/china-academy-of-information-and-communication-technology
           - item:
             name: Laboratory for Innovation Science at Harvard
             homepage_url: https://lish.harvard.edu/
