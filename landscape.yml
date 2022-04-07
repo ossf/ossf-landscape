@@ -215,6 +215,12 @@ landscape:
             twitter: https://twitter.com/blocks
             crunchbase: https://www.crunchbase.com/organization/square
           - item:
+            name: Bloomberg Finance L.P.
+            homepage_url: https://techatbloomberg.com/
+            logo: bloomberg_finance_lp.svg
+            twitter: https://twitter.com/business
+            crunchbase: https://www.crunchbase.com/organization/bloomberg
+          - item:
             name: Catena cyber
             homepage_url: https://catenacyber.fr/
             logo: catena_cyber.svg
