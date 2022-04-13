@@ -378,9 +378,9 @@ landscape:
             twitter: https://twitter.com/SUSE
             crunchbase: https://www.crunchbase.com/organization/suse
           - item:
-            name: Tenable Network Security, Inc.
+            name: Tenable, Inc.
             homepage_url: https://tenable.com/
-            logo: tenable_network_security_inc.svg
+            logo: tenable_inc.svg
             twitter: https://twitter.com/TenableSecurity
             crunchbase: https://www.crunchbase.com/organization/tenable-network-security
           - item:
