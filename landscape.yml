@@ -422,6 +422,12 @@ landscape:
             logo: china_academy_of_information_and_communications_technology_caict.svg
             crunchbase: https://www.crunchbase.com/organization/china-academy-of-information-and-communication-technology
           - item:
+            name: Eclipse Foundation AISBL.
+            homepage_url: https://eclipse.org/
+            logo: eclipse_foundation_aisbl.svg
+            twitter: https://twitter.com/EclipseFdn
+            crunchbase: https://www.crunchbase.com/organization/eclipse-foundation
+          - item:
             name: Laboratory for Innovation Science at Harvard
             homepage_url: https://lish.harvard.edu/
             logo: laboratory_for_innovation_science_at_harvard.svg
