@@ -465,3 +465,48 @@ landscape:
             logo: safecode.svg
             twitter: https://twitter.com/SAFECode
             crunchbase: https://www.crunchbase.com/organization/safecode-org
+  - category:
+    name: Sigstore
+    subcategories:
+      - subcategory:
+        name: Projects
+        items:
+          - item:
+            name: project-item-1
+            homepage_url: https://www.sigstore.dev/
+            project: null
+            logo: item1.svg
+            organization:
+              name: sigstore
+      - subcategory:
+        name: Services
+        items:
+          - item:
+            name: item-service-1
+            logo: service1.svg
+            organization:
+              name: sigstore
+      - subcategory:
+        name: Integrations
+        items:
+          - item:
+            name: intergrations-item-1
+            logo: integrations1.svg
+            organization:
+              name: sigstore
+      - subcategory:
+        name: Signed With
+        items:
+          - item:
+            name: signed-item-1
+            logo: signed-with-1.svg
+            organization:
+              name: sigstore
+      - subcategory:
+        name: End User Adopters
+        items:
+          - item:
+            name: end-user-1
+            logo: end-user-1.svg
+            organization:
+              name: sigstore
