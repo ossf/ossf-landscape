@@ -483,6 +483,7 @@ landscape:
         items:
           - item:
             name: item-service-1
+            homepage_url: https://www.sigstore.dev/
             logo: service1.svg
             organization:
               name: sigstore
@@ -491,6 +492,7 @@ landscape:
         items:
           - item:
             name: intergrations-item-1
+            homepage_url: https://www.sigstore.dev/
             logo: integrations1.svg
             organization:
               name: sigstore
@@ -499,6 +501,7 @@ landscape:
         items:
           - item:
             name: signed-item-1
+            homepage_url: https://www.sigstore.dev/
             logo: signed-with-1.svg
             organization:
               name: sigstore
@@ -507,6 +510,7 @@ landscape:
         items:
           - item:
             name: end-user-1
+            homepage_url: https://www.sigstore.dev/
             logo: end-user-1.svg
             organization:
               name: sigstore
