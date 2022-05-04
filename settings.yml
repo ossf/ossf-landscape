@@ -160,7 +160,7 @@ big_picture:
         height: 100
         top: 5
         left: 5
-        color: green
+        color: rgb(103,66,18)
       - type: HorizontalCategory
         category: Services
         rows: 1
@@ -168,7 +168,7 @@ big_picture:
         height: 100
         top: 5
         left: 215
-        color: green
+        color: rgb(103,66,18)
 test:
   header: OpenSSF Landscape
   section: OpenSSF Members
