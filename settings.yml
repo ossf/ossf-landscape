@@ -146,7 +146,7 @@ big_picture:
             title: OpenSSF Logo
   sigstore:
     tab_index: 2
-    name: sigstore
+    name: Sigstore
     url: sigstore
     short_name: sigstore
     title: SigStore Landscape
@@ -156,19 +156,43 @@ big_picture:
       - type: HorizontalCategory
         category: Projects
         rows: 1
-        width: 200
-        height: 100
+        width: 300
+        height: 200
         top: 5
         left: 5
         color: rgb(103,66,18)
       - type: HorizontalCategory
         category: Services
         rows: 1
-        width: 100
-        height: 100
+        width: 200
+        height: 200
         top: 5
-        left: 215
+        left: 315
         color: rgb(103,66,18)
+      - type: HorizontalCategory
+        category: Integrations
+        rows: 2
+        width: 515
+        height: 200
+        top: 215
+        left: 5
+        color: rgb(100,100,240)
+      - type: HorizontalCategory
+        category: Signed With
+        rows: 2
+        width: 300
+        height: 200
+        top: 425
+        left: 5
+        color: rgb(100,100,240)
+      - type: HorizontalCategory
+        category: End User Adopters
+        rows: 2
+        width: 200
+        height: 200
+        top: 425
+        left: 315
+        color: rgb(100,100,240)
 test:
   header: OpenSSF Landscape
   section: OpenSSF Members
