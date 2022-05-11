@@ -360,6 +360,13 @@ landscape:
             organization:
               name: Shanghai Sectrend Information Technology Co.,Ltd
           - item:
+            name: Socket
+            homepage_url: https://socket.dev/
+            logo: socket.svg
+            twitter: https://twitter.com/SocketSecurity
+            organization:
+              name: Socket
+          - item:
             name: Spotify AB
             homepage_url: https://spotify.com/
             logo: spotify_ab.svg
