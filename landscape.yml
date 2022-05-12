@@ -324,6 +324,12 @@ landscape:
             twitter: https://twitter.com/goteleport
             crunchbase: https://www.crunchbase.com/organization/gravitational
           - item:
+            name: Indeed, Inc.
+            homepage_url: https://indeed.com/
+            logo: indeed_inc.svg
+            twitter: https://twitter.com/indeed
+            crunchbase: https://www.crunchbase.com/organization/indeed
+          - item:
             name: MongoDB Inc
             homepage_url: https://mongodb.com/
             logo: mongodb_inc.svg
