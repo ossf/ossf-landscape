@@ -172,6 +172,12 @@ landscape:
             twitter: https://twitter.com/aiven_io
             crunchbase: https://www.crunchbase.com/organization/aiven
           - item:
+            name: Akamai Technologies, Inc.
+            homepage_url: https://akamai.com/
+            logo: akamai_technologies_inc.svg
+            twitter: https://twitter.com/Akamai
+            crunchbase: https://www.crunchbase.com/organization/akamai-technologies
+          - item:
             name: Alibaba Cloud (Singapore) Private LTD
             homepage_url: https://alibaba-inc.com/
             logo: alibaba_cloud_singapore_private_ltd.svg
@@ -365,6 +371,13 @@ landscape:
             logo: shanghai_sectrend_information_technology_coltd.svg
             organization:
               name: Shanghai Sectrend Information Technology Co.,Ltd
+          - item:
+            name: SHE BASH
+            homepage_url: https://shebash.io/
+            logo: she_bash.svg
+            twitter: https://twitter.com/SHEBASHIO
+            organization:
+              name: SHE BASH
           - item:
             name: Socket
             homepage_url: https://socket.dev/
