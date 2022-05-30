@@ -336,6 +336,12 @@ landscape:
             twitter: https://twitter.com/indeed
             crunchbase: https://www.crunchbase.com/organization/indeed
           - item:
+            name: Legit Security
+            homepage_url: https://legitsecurity.com/
+            logo: legit_security.svg
+            twitter: https://twitter.com/LegitSecurity1
+            crunchbase: https://www.crunchbase.com/organization/legit-security
+          - item:
             name: MongoDB Inc
             homepage_url: https://mongodb.com/
             logo: mongodb_inc.svg
