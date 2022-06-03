@@ -238,8 +238,7 @@ landscape:
             homepage_url: https://chainguard.dev/
             logo: chainguard.svg
             twitter: https://twitter.com/chainguard_dev
-            organization:
-              name: Chainguard
+            crunchbase: https://www.crunchbase.com/organization/chainguard
           - item:
             name: Checkmarx
             homepage_url: https://checkmarx.com/
