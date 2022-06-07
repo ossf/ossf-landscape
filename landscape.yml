@@ -42,6 +42,7 @@ landscape:
             logo: coinbase_inc.svg
             twitter: https://twitter.com/coinbase
             crunchbase: https://www.crunchbase.com/organization/coinbase
+            joined: '2022-02-17'
           - item:
             name: Dell Technologies
             homepage_url: https://delltechnologies.com/
@@ -490,6 +491,12 @@ landscape:
             logo: open_web_application_security_project.svg
             twitter: https://twitter.com/owasp
             crunchbase: https://www.crunchbase.com/organization/open-web-application-security-project
+          - item:
+            name: Purdue University
+            homepage_url: https://purdue.edu/
+            logo: purdue_university.svg
+            twitter: https://twitter.com/LifeAtPurdue
+            crunchbase: https://www.crunchbase.com/organization/purdue-university
           - item:
             name: SAFECode
             homepage_url: https://safecode.org/
