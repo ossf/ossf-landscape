@@ -460,6 +460,11 @@ landscape:
             twitter: https://twitter.com/EclipseFdn
             crunchbase: https://www.crunchbase.com/organization/eclipse-foundation
           - item:
+            name: Institute of Software Chinese Academy of Sciences
+            homepage_url: https://iscas.ac.cn/
+            logo: institute_of_software_chinese_academy_of_sciences.svg
+            crunchbase: https://www.crunchbase.com/organization/institute-of-software-chinese-academy-of-sciences
+          - item:
             name: Laboratory for Innovation Science at Harvard
             homepage_url: https://lish.harvard.edu/
             logo: laboratory_for_innovation_science_at_harvard.svg
