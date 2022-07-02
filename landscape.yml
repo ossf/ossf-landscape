@@ -372,6 +372,12 @@ landscape:
             twitter: https://twitter.com/ReversingLabs
             crunchbase: https://www.crunchbase.com/organization/reversinglabs
           - item:
+            name: Scantist Pte. Ltd.
+            homepage_url: https://scantist.com/
+            logo: scantist_pte_ltd.svg
+            twitter: https://twitter.com/ScantistSG
+            crunchbase: https://www.crunchbase.com/organization/assay-depot
+          - item:
             name: Shanghai Sectrend Information Technology Co.,Ltd
             homepage_url: https://sectrend.com.cn/
             logo: shanghai_sectrend_information_technology_coltd.svg
@@ -439,6 +445,12 @@ landscape:
             logo: wingtecher_technology_co_ltd.svg
             organization:
               name: Wingtecher Technology Co., Ltd.
+          - item:
+            name: ZTE Corporation
+            homepage_url: https://zte.com.cn/
+            logo: zte_corporation.svg
+            twitter: https://twitter.com/ZTEPress
+            crunchbase: https://www.crunchbase.com/organization/zte-corporation
       - subcategory:
         name: Associate
         items:
