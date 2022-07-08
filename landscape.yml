@@ -520,3 +520,9 @@ landscape:
             logo: safecode.svg
             twitter: https://twitter.com/SAFECode
             crunchbase: https://www.crunchbase.com/organization/safecode-org
+          - item:
+            name: TODO Group
+            homepage_url: https://todogroup.org/
+            logo: todo_group.svg
+            organization:
+              name: TODO Group
