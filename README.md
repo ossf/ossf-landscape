@@ -1,9 +1,9 @@
-[![Dependency Status][]][1] [![Netlify Status]][2]
+[![Netlify Status]][2]
 
 <!-- Change to the name of your landscape -->
 # OpenSSF Landscape
 
-![OpenSSF Landscape Logo]
+![Landscape Template Logo]
 
 -   [Current Version]
 -   [Interactive Version]
