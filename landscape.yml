@@ -472,12 +472,36 @@ landscape:
         name: Projects
         items:
           - item:
-            name: project-item-1
+            name: Sigstore
             homepage_url: https://www.sigstore.dev/
+            repo_url: https://github.com/sigstore/sigstore
             project: null
-            logo: item1.svg
-            organization:
-              name: sigstore
+            crunchbase: https://www.crunchbase.com/organization/sigstore
+            logo: sigstore.svg
+          - item:
+            name: Cosign
+            homepage_url: https://docs.sigstore.dev/cosign/overview
+            repo_url: https://github.com/sigstore/cosign
+            crunchbase: https://www.crunchbase.com/organization/sigstore
+            logo: cosign.svg
+          - item:
+            name: Gitsign
+            homepage_url: https://docs.sigstore.dev/gitsign/overview
+            repo_url: https://github.com/sigstore/gitsign
+            crunchbase: https://www.crunchbase.com/organization/sigstore
+            logo: gitsign.svg
+          - item:
+            name: Fulcio
+            homepage_url: https://docs.sigstore.dev/fulcio/overview
+            repo_url: https://github.com/sigstore/fulcio
+            crunchbase: https://www.crunchbase.com/organization/sigstore
+            logo: fulcio.svg
+          - item:
+            name: Rekor
+            homepage_url: https://docs.sigstore.dev/rekor/overview
+            repo_url: https://github.com/sigstore/rekor
+            crunchbase: https://www.crunchbase.com/organization/sigstore
+            logo: rekor.svg
       - subcategory:
         name: Services
         items:
