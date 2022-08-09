@@ -416,6 +416,12 @@ landscape:
             twitter: https://twitter.com/SUSE
             crunchbase: https://www.crunchbase.com/organization/suse
           - item:
+            name: Sysdig, Inc.
+            homepage_url: https://sysdig.com/
+            logo: sysdig_inc.svg
+            twitter: https://twitter.com/sysdig
+            crunchbase: https://www.crunchbase.com/organization/sysdig
+          - item:
             name: Tenable, Inc.
             homepage_url: https://tenable.com/
             logo: tenable_inc.svg
