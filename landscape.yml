@@ -210,9 +210,9 @@ landscape:
             twitter: https://twitter.com/AuriStor
             crunchbase: https://www.crunchbase.com/organization/auristor
           - item:
-            name: Blockchain Technology Partners
+            name: Blockchain Technology Partners, Inc.
             homepage_url: https://blockchaintp.com/
-            logo: blockchain_technology_partners.svg
+            logo: blockchain_technology_partners_inc.svg
             twitter: https://twitter.com/blockchaintp
             crunchbase: https://www.crunchbase.com/organization/blockchain-technology-partners
           - item:
@@ -336,6 +336,12 @@ landscape:
             twitter: https://twitter.com/indeed
             crunchbase: https://www.crunchbase.com/organization/indeed
           - item:
+            name: Kasten, Inc.
+            homepage_url: https://kasten.io/
+            logo: kasten_inc.svg
+            twitter: https://twitter.com/kastenhq
+            crunchbase: https://www.crunchbase.com/organization/kasten
+          - item:
             name: Legit Security
             homepage_url: https://legitsecurity.com/
             logo: legit_security.svg
@@ -439,6 +445,12 @@ landscape:
             logo: tidelift_inc.svg
             twitter: https://twitter.com/tidelift
             crunchbase: https://www.crunchbase.com/organization/tidelift
+          - item:
+            name: Timesys Corporation
+            homepage_url: https://timesys.com/
+            logo: timesys_corporation.svg
+            twitter: https://twitter.com/Timesys
+            crunchbase: https://www.crunchbase.com/organization/timesys-corporation
           - item:
             name: Wind River Systems, Inc.
             homepage_url: https://windriver.com/
