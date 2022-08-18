@@ -24,6 +24,12 @@ landscape:
             twitter: https://twitter.com/Atlassian
             crunchbase: https://www.crunchbase.com/organization/atlassian
           - item:
+            name: Capital One Services LLC
+            homepage_url: https://capitalone.com/
+            logo: capital_one_services_llc.svg
+            twitter: https://twitter.com/CapitalOne
+            crunchbase: https://www.crunchbase.com/organization/capital-one
+          - item:
             name: Cisco Systems, Inc.
             homepage_url: https://cisco.com/
             logo: cisco_systems_inc.svg
