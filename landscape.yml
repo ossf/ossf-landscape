@@ -173,6 +173,12 @@ landscape:
             twitter: https://twitter.com/AccuKnox
             crunchbase: https://www.crunchbase.com/organization/accuknox
           - item:
+            name: Advanced Micro Devices (AMD)
+            homepage_url: https://amd.com/
+            logo: advanced_micro_devices_amd.svg
+            twitter: https://twitter.com/AMD
+            crunchbase: https://www.crunchbase.com/organization/amd
+          - item:
             name: Aiven Inc
             homepage_url: https://aiven.io/
             logo: aiven_inc.svg
@@ -277,6 +283,12 @@ landscape:
             twitter: https://twitter.com/Cybertrust_JP
             crunchbase: https://www.crunchbase.com/organization/cybertrust
           - item:
+            name: Cybozu, Inc.
+            homepage_url: https://cybozu.com/
+            logo: cybozu_inc.svg
+            twitter: https://twitter.com/cybozu
+            crunchbase: https://www.crunchbase.com/organization/cybozu
+          - item:
             name: Cycode, Inc.
             homepage_url: https://cycode.com/
             logo: cycode_inc.svg
@@ -371,6 +383,12 @@ landscape:
             logo: nutanix_inc.svg
             twitter: https://twitter.com/nutanix
             crunchbase: https://www.crunchbase.com/organization/nutanix
+          - item:
+            name: Qualys, Inc.
+            homepage_url: https://qualys.com/
+            logo: qualys_inc.svg
+            twitter: https://twitter.com/qualys
+            crunchbase: https://www.crunchbase.com/organization/qualys
           - item:
             name: Renesas Electronics Corporation
             homepage_url: https://renesas.com/
@@ -513,6 +531,12 @@ landscape:
             twitter: https://twitter.com/MITREcorp
             crunchbase: https://www.crunchbase.com/organization/mitre
             joined: '2021-03-02'
+          - item:
+            name: Nanyang Technological University
+            homepage_url: https://ntu.edu.sg/
+            logo: nanyang_technological_university.svg
+            twitter: https://twitter.com/NTUsg
+            crunchbase: https://www.crunchbase.com/organization/nanyang-technological-university
           - item:
             name: Open Source Technology Improvement Fund, Inc.
             homepage_url: https://ostif.org/
