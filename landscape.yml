@@ -384,6 +384,13 @@ landscape:
             twitter: https://twitter.com/nutanix
             crunchbase: https://www.crunchbase.com/organization/nutanix
           - item:
+            name: Phylum
+            homepage_url: https://phylum.io/
+            logo: phylum.svg
+            twitter: https://twitter.com/Phylum_IO
+            organization:
+              name: Phylum
+          - item:
             name: Qualys, Inc.
             homepage_url: https://qualys.com/
             logo: qualys_inc.svg
