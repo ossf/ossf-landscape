@@ -185,6 +185,102 @@ landscape:
             twitter_data:
               latest_tweet_date: 2022-04-29T20:31:29.000Z
           - item:
+            name: Capital One Services LLC
+            homepage_url: https://capitalone.com/
+            logo: capital_one_services_llc.svg
+            twitter: https://twitter.com/CapitalOne
+            crunchbase: https://www.crunchbase.com/organization/capital-one
+            crunchbase_data:
+              name: Capital One
+              description: Capital One is a diversified banking company that offers early and later stage venture, and debt financing investments.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://www.capitalone.com
+              city: Mclean
+              region: Virginia
+              country: United States
+              twitter: http://twitter.com/CapitalOne
+              linkedin: https://www.linkedin.com/company/capital-one/
+              acquisitions:
+                - date: '1998-07-01'
+                  acquiree: Summit Acceptance Corp.
+                - date: '2001-05-09'
+                  acquiree: AmeriFee
+                - date: '2001-09-21'
+                  acquiree: PeopleFirst.com
+                - date: '2004-09-22'
+                  acquiree: Onyx Acceptance Corporation
+                - date: '2004-11-03'
+                  acquiree: HFS Group
+                - date: '2004-12-14'
+                  acquiree: eSmartloan
+                - date: '2005-11-16'
+                  acquiree: Hibernia Corporation
+                - date: '2006-12-01'
+                  acquiree: North Fork Bancorporation
+                  price: 14600000000
+                - date: '2009-02-27'
+                  acquiree: Chevy Chase Bank
+                - date: '2012-02-17'
+                  acquiree: ING Direct
+                - date: '2012-05-12'
+                  acquiree: Bankons
+                - date: '2012-11-30'
+                  acquiree: Bundle
+                - date: '2013-11-04'
+                  acquiree: Beech Street Capital
+                - date: '2014-10-02'
+                  acquiree: Adaptive Path
+                - date: '2015-01-12'
+                  acquiree: Level Money
+                - date: '2015-07-08'
+                  acquiree: Monsoon Company
+                - date: '2016-03-10'
+                  acquiree: Critical Stack
+                - date: '2016-10-06'
+                  acquiree: Paribus
+                - date: '2018-01-05'
+                  acquiree: Notch
+                - date: '2018-05-11'
+                  acquiree: Confyrm
+                - date: '2018-11-20'
+                  acquiree: Wikibuy
+                - date: '2019-06-19'
+                  acquiree: Jewel Commerce
+                - date: '2019-06-24'
+                  acquiree: BlueTarp Financial
+                - date: '2019-08-16'
+                  acquiree: United Income
+                - date: '2019-08-19'
+                  acquiree: KippsDeSanto & Co.
+                - date: '2020-08-26'
+                  acquiree: Freebird
+                - date: '2021-10-08'
+                  acquiree: Lola.com
+                - date: '2021-10-14'
+                  acquiree: TripleTree
+              parents: []
+              ticker: COF
+              stockExchange: nyse
+              company_type: For Profit
+              industries:
+                - Banking
+                - Credit Cards
+                - Finance
+                - Financial Services
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 41989689344
+              effective_ticker: COF
+            image_data:
+              fileName: capital-one-services-llc.svg
+              hash: FqnJmTTKY7u5uHHvMRxqbc1T7cWAa+gh1m27qxgYbTU=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-09-08T14:00:00.000Z
+          - item:
             name: Cisco Systems, Inc.
             homepage_url: https://cisco.com/
             logo: cisco_systems_inc.svg
@@ -893,6 +989,7 @@ landscape:
             logo: coinbase_inc.svg
             twitter: https://twitter.com/coinbase
             crunchbase: https://www.crunchbase.com/organization/coinbase
+            joined: '2022-02-17'
             crunchbase_data:
               name: Coinbase
               description: Coinbase is an online platform that allows merchants, consumers, and traders to transact with digital currency.
@@ -4558,6 +4655,64 @@ landscape:
             twitter_data:
               latest_tweet_date: 2022-05-02T11:15:39.000Z
           - item:
+            name: Advanced Micro Devices (AMD)
+            homepage_url: https://amd.com/
+            logo: advanced_micro_devices_amd.svg
+            twitter: https://twitter.com/AMD
+            crunchbase: https://www.crunchbase.com/organization/amd
+            crunchbase_data:
+              name: AMD
+              description: Advanced Micro Devices (AMD) is a semiconductor company that designs and develops graphics units, processors, and media solutions.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://www.amd.com
+              city: Santa Clara
+              region: California
+              country: United States
+              twitter: https://twitter.com/amd
+              linkedin: https://www.linkedin.com/company/amd
+              acquisitions:
+                - date: '2002-02-06'
+                  acquiree: Alchemy Semiconductor
+                - date: '2006-07-24'
+                  acquiree: ATI Technologies
+                  price: 5400000000
+                - date: '2012-02-29'
+                  acquiree: SeaMicro
+                  price: 334000000
+                - date: '2016-06-29'
+                  acquiree: HiAlgo
+                - date: '2017-04-10'
+                  acquiree: Nitero
+                - date: '2020-10-27'
+                  acquiree: Xilinx
+                  price: 35000000000
+                - date: '2022-04-04'
+                  acquiree: AMD Pensando
+                  price: 1900000000
+              parents: []
+              ticker: AMD
+              stockExchange: nasdaq
+              company_type: For Profit
+              industries:
+                - Cloud Computing
+                - Embedded Systems
+                - GPU
+                - Hardware
+                - Semiconductor
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 135005413376
+              effective_ticker: AMD
+            image_data:
+              fileName: advanced-micro-devices-amd.svg
+              hash: 2Za4zJY0wFoO5LflFP238qc7drUBfIwmuqMPxhAaABo=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-09-08T14:00:04.000Z
+          - item:
             name: Aiven Inc
             homepage_url: https://aiven.io/
             logo: aiven_inc.svg
@@ -4593,6 +4748,120 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2021-10-14T13:30:05.000Z
+          - item:
+            name: Akamai Technologies, Inc.
+            homepage_url: https://akamai.com/
+            logo: akamai_technologies_inc.svg
+            twitter: https://twitter.com/Akamai
+            crunchbase: https://www.crunchbase.com/organization/akamai-technologies
+            crunchbase_data:
+              name: Akamai Technologies
+              description: Akamai is a provider of cloud services that help enterprises provide secure, high-performing user experiences on any device.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: https://www.akamai.com/
+              city: Cambridge
+              region: Massachusetts
+              country: United States
+              twitter: http://twitter.com/Akamai
+              linkedin: https://www.linkedin.com/company/akamai-technologies
+              acquisitions:
+                - date: '2000-01-18'
+                  acquiree: Network24 Communications
+                - date: '2000-02-07'
+                  acquiree: Intervu
+                - date: '2000-07-25'
+                  acquiree: CallTheShots
+                - date: '2005-06-01'
+                  acquiree: Speedera Networks
+                  price: 130000000
+                - date: '2006-11-20'
+                  acquiree: Nine Systems Corp
+                - date: '2006-12-13'
+                  acquiree: Streaming Media Corporation
+                - date: '2007-02-05'
+                  acquiree: Netli
+                  price: 170000000
+                - date: '2007-04-12'
+                  acquiree: Red Swoosh
+                  price: 15000000
+                - date: '2008-10-21'
+                  acquiree: acerno
+                - date: '2010-06-10'
+                  acquiree: Velocitude
+                - date: '2011-11-27'
+                  acquiree: Cotendo
+                  price: 268000000
+                - date: '2012-02-08'
+                  acquiree: Blaze.io
+                - date: '2012-09-13'
+                  acquiree: FastSoft
+                - date: '2012-11-13'
+                  acquiree: Verivue
+                  price: 30900000
+                - date: '2013-11-11'
+                  acquiree: Velocius Networks
+                - date: '2013-12-02'
+                  acquiree: Prolexic Technologies
+                  price: 390000000
+                - date: '2015-04-06'
+                  acquiree: Octoshape
+                - date: '2015-11-02'
+                  acquiree: Bloxx
+                - date: '2016-09-28'
+                  acquiree: Concord Systems
+                - date: '2016-10-04'
+                  acquiree: SOHA SYSTEMS
+                - date: '2016-12-19'
+                  acquiree: Cyberfend
+                - date: '2017-03-29'
+                  acquiree: SOASTA
+                - date: '2017-10-11'
+                  acquiree: Nominum
+                - date: '2017-11-03'
+                  acquiree: Xerocole
+                - date: '2019-01-07'
+                  acquiree: Janrain
+                - date: '2019-09-10'
+                  acquiree: Exceda
+                - date: '2019-09-23'
+                  acquiree: krypt.co
+                - date: '2019-10-09'
+                  acquiree: ChameleonX
+                  price: 20000000
+                - date: '2020-10-27'
+                  acquiree: Asavie Technologies
+                - date: '2021-02-01'
+                  acquiree: Inverse
+                - date: '2021-09-29'
+                  acquiree: Guardicore
+                  price: 600000000
+                - date: '2022-02-15'
+                  acquiree: Linode
+                  price: 900000000
+              parents: []
+              ticker: AKAM
+              funding: 35000000
+              stockExchange: nasdaq
+              company_type: For Profit
+              industries:
+                - Cyber Security
+                - Digital Media
+                - SaaS
+                - Software
+                - Video Streaming
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 14671730688
+              effective_ticker: AKAM
+            image_data:
+              fileName: akamai-technologies-inc.svg
+              hash: 05DMnb2hNCfz1RZkdHgEUtUOH1hMkjxvIp70+9XO4Ns=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-09-12T15:15:29.000Z
           - item:
             name: Alibaba Cloud (Singapore) Private LTD
             homepage_url: https://alibaba-inc.com/
@@ -4761,9 +5030,9 @@ landscape:
             twitter_data:
               latest_tweet_date: 2021-10-13T15:57:09.000Z
           - item:
-            name: Blockchain Technology Partners
+            name: Blockchain Technology Partners, Inc.
             homepage_url: https://blockchaintp.com/
-            logo: blockchain_technology_partners.svg
+            logo: blockchain_technology_partners_inc.svg
             twitter: https://twitter.com/blockchaintp
             crunchbase: https://www.crunchbase.com/organization/blockchain-technology-partners
             crunchbase_data:
@@ -4788,7 +5057,7 @@ landscape:
                 - Information Technology
               kind: funding
             image_data:
-              fileName: blockchain-technology-partners.svg
+              fileName: blockchain-technology-partners-inc.svg
               hash: 2FQnJmSX1oE9H6jcn56610mARIGDAPtJfVkL2hm+5Mo=
             best_practice_data:
               badge: false
@@ -4958,11 +5227,30 @@ landscape:
             homepage_url: https://chainguard.dev/
             logo: chainguard.svg
             twitter: https://twitter.com/chainguard_dev
-            organization:
-              name: Chainguard
+            crunchbase: https://www.crunchbase.com/organization/chainguard
             crunchbase_data:
               name: Chainguard
+              description: Chainguard provides solutions to make the software supply chains secure by default.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://chainguard.dev
+              city: Kirkland
+              region: Washington
+              country: United States
+              twitter: https://twitter.com/chainguard_dev
+              linkedin: https://www.linkedin.com/company/chainguard-dev/
+              acquisitions: []
               parents: []
+              funding: 55000000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cloud Security
+                - Developer Tools
+                - Enterprise Software
+                - Open Source
+                - Security
+              kind: funding
             image_data:
               fileName: chainguard.svg
               hash: 5EaTV2UVmjSXvJiogReb8/qEb2RU3gizaRAcEXMjvFA=
@@ -5251,6 +5539,44 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2021-10-14T03:00:00.000Z
+          - item:
+            name: Cybozu, Inc.
+            homepage_url: https://cybozu.com/
+            logo: cybozu_inc.svg
+            twitter: https://twitter.com/cybozu
+            crunchbase: https://www.crunchbase.com/organization/cybozu
+            crunchbase_data:
+              name: Cybozu
+              description: Cybozu is a technology company specializing in application Platform as a Service.
+              num_employees_min: 251
+              num_employees_max: 500
+              homepage: https://www.cybozu.com
+              city: Tokyo
+              region: Tokyo
+              country: Japan
+              twitter: https://twitter.com/cybozucom
+              linkedin: null
+              acquisitions: []
+              parents: []
+              ticker: 4776.T
+              stockExchange: tyo
+              company_type: For Profit
+              industries:
+                - Collaboration
+                - SaaS
+                - Software
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 469538567
+              effective_ticker: 4776.T
+            image_data:
+              fileName: cybozu-inc.svg
+              hash: zNCtzjEWdx4Lkr169qbbmUYoiskmR9v9qKIaPBWS6n8=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-09-12T01:49:41.000Z
           - item:
             name: Cycode, Inc.
             homepage_url: https://cycode.com/
@@ -5571,7 +5897,7 @@ landscape:
               kind: funding
             image_data:
               fileName: git-lab-inc.svg
-              hash: vaslVhQJdTiItMyMLRZvIkQSeDR2BmGQkGNpYOleBHA=
+              hash: fYn4/edweXBTwVPslze8G7IekmX+JjMbno/9K/wI+PU=
             best_practice_data:
               badge: false
               percentage: null
@@ -5715,6 +6041,122 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-05-03T22:36:20.000Z
+          - item:
+            name: Indeed, Inc.
+            homepage_url: https://indeed.com/
+            logo: indeed_inc.svg
+            twitter: https://twitter.com/indeed
+            crunchbase: https://www.crunchbase.com/organization/indeed
+            crunchbase_data:
+              name: Indeed
+              description: Indeed is an employment-related metasearch engine for job listings.
+              num_employees_min: 5001
+              num_employees_max: 10000
+              homepage: http://www.indeed.com
+              city: Austin
+              region: Texas
+              country: United States
+              twitter: http://twitter.com/indeed
+              linkedin: https://www.linkedin.com/company/indeed-com
+              acquisitions:
+                - date: '2014-06-24'
+                  acquiree: MoBolt UK
+                - date: '2017-08-04'
+                  acquiree: Interviewed
+                - date: '2018-05-25'
+                  acquiree: Resume.com
+                - date: '2019-05-30'
+                  acquiree: Syft
+                - date: '2019-07-12'
+                  acquiree: ClickIQ
+              parents: []
+              funding: 5000000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Ad Network
+                - Advertising
+                - Recruiting
+                - Search Engine
+              kind: funding
+            image_data:
+              fileName: indeed-inc.svg
+              hash: l98+zI1c+BCWuZkkc+pm9XIEWvNfNMHNXAeybFLUfds=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-09-12T14:04:54.000Z
+          - item:
+            name: Kasten, Inc.
+            homepage_url: https://kasten.io/
+            logo: kasten_inc.svg
+            twitter: https://twitter.com/kastenhq
+            crunchbase: https://www.crunchbase.com/organization/kasten
+            crunchbase_data:
+              name: Kasten
+              description: Kasten is a software company that simplifies the operational management of stateful cloud-native applications for Kubernetes.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://kasten.io/
+              city: Los Altos
+              region: California
+              country: United States
+              twitter: https://twitter.com/kastenhq
+              linkedin: https://in.linkedin.com/company/kasteninc
+              acquisitions: []
+              parents: []
+              funding: 17000000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cloud Infrastructure
+                - Cloud Storage
+                - SaaS
+                - Software
+              kind: funding
+            image_data:
+              fileName: kasten-inc.svg
+              hash: PWuwNVFAJKFQzCpyhxWSDW6eLlmQpSGKYEB24tm6JkM=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-09-12T16:06:59.000Z
+          - item:
+            name: Legit Security
+            homepage_url: https://legitsecurity.com/
+            logo: legit_security.svg
+            twitter: https://twitter.com/LegitSecurity1
+            crunchbase: https://www.crunchbase.com/organization/legit-security
+            crunchbase_data:
+              name: Legit Security
+              description: Legit Security provides an enterprise SaaS solution that protects an organization’s software supply chain from attack.
+              num_employees_min: 51
+              num_employees_max: 100
+              homepage: https://www.legitsecurity.com
+              city: Palo Alto
+              region: California
+              country: United States
+              twitter: https://twitter.com/legitsecurity1
+              linkedin: https://www.linkedin.com/company/legitsecurity
+              acquisitions: []
+              parents: []
+              funding: 33500000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - SaaS
+                - Software
+              kind: funding
+            image_data:
+              fileName: legit-security.svg
+              hash: vrc2x5LQv9TETi48KEPWAj+SIJie3y5Cgms+OUrhHDM=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-09-09T19:54:45.000Z
           - item:
             name: MongoDB Inc
             homepage_url: https://mongodb.com/
@@ -5913,6 +6355,71 @@ landscape:
             twitter_data:
               latest_tweet_date: 2021-10-13T19:16:10.000Z
           - item:
+            name: Phylum
+            homepage_url: https://phylum.io/
+            logo: phylum.svg
+            twitter: https://twitter.com/Phylum_IO
+            organization:
+              name: Phylum
+            crunchbase_data:
+              name: Phylum
+              parents: []
+            image_data:
+              fileName: phylum.svg
+              hash: vF8vNL5/61MD2W66ViYIzDsj+cd1y3/+mRNwxf/YHdk=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-09-09T17:19:41.000Z
+          - item:
+            name: Qualys, Inc.
+            homepage_url: https://qualys.com/
+            logo: qualys_inc.svg
+            twitter: https://twitter.com/qualys
+            crunchbase: https://www.crunchbase.com/organization/qualys
+            crunchbase_data:
+              name: Qualys
+              description: Qualys is the pioneer and leading provider of information security and compliance cloud solutions.
+              num_employees_min: 251
+              num_employees_max: 500
+              homepage: https://www.qualys.com
+              city: Redwood City
+              region: California
+              country: United States
+              twitter: http://twitter.com/qualys
+              linkedin: https://www.linkedin.com/company/qualys
+              acquisitions:
+                - date: '2018-10-30'
+                  acquiree: Layered Insight
+                - date: '2019-02-11'
+                  acquiree: Adya Inc
+                - date: '2020-07-29'
+                  acquiree: Spell Security
+                - date: '2021-08-09'
+                  acquiree: totalcloud
+              parents: []
+              ticker: QLYS
+              funding: 34000000
+              stockExchange: nasdaq
+              company_type: For Profit
+              industries:
+                - Compliance
+                - Security
+                - Software
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 6100195840
+              effective_ticker: QLYS
+            image_data:
+              fileName: qualys-inc.svg
+              hash: +2K/6konfFkkFtruQzFyaZPw2mxlKqSagC0VJ+U2duY=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-09-12T11:44:00.000Z
+          - item:
             name: Renesas Electronics Corporation
             homepage_url: https://renesas.com/
             logo: renesas_electronics_corporation.svg
@@ -6000,6 +6507,40 @@ landscape:
             twitter_data:
               latest_tweet_date: 2022-05-03T17:24:36.000Z
           - item:
+            name: Scantist Pte. Ltd.
+            homepage_url: https://scantist.com/
+            logo: scantist_pte_ltd.svg
+            twitter: https://twitter.com/ScantistSG
+            crunchbase: https://www.crunchbase.com/organization/scantist
+            crunchbase_data:
+              name: Scantist
+              description: Scantist is a cyber-security spin-off from Nanyang Technological Universiy (Singapore).
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://scantist.com
+              city: Singapore
+              region: Central Region
+              country: Singapore
+              twitter: https://twitter.com/scantistsg?lang=en
+              linkedin: https://www.linkedin.com/company/scantist/
+              acquisitions: []
+              parents: []
+              funding: 5690321
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cyber Security
+                - Information Technology
+              kind: funding
+            image_data:
+              fileName: scantist-pte-ltd.svg
+              hash: xfIjquR5hjPHCcBdmEpKCntvfSO8uNBs+xbYNJS0Xgg=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: null
+          - item:
             name: Shanghai Sectrend Information Technology Co.,Ltd
             homepage_url: https://sectrend.com.cn/
             logo: shanghai_sectrend_information_technology_coltd.svg
@@ -6014,6 +6555,42 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+          - item:
+            name: SHE BASH
+            homepage_url: https://shebash.io/
+            logo: she_bash.svg
+            twitter: https://twitter.com/SHEBASHIO
+            organization:
+              name: SHE BASH
+            crunchbase_data:
+              name: SHE BASH
+              parents: []
+            image_data:
+              fileName: she-bash.svg
+              hash: CfHBwerlUhNJ4NPDxUvsNpbj2owlwKGQPLmZF9MEp0M=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-09-11T15:03:49.000Z
+          - item:
+            name: Socket
+            homepage_url: https://socket.dev/
+            logo: socket.svg
+            twitter: https://twitter.com/SocketSecurity
+            organization:
+              name: Socket
+            crunchbase_data:
+              name: Socket
+              parents: []
+            image_data:
+              fileName: socket.svg
+              hash: TPnrvSHazWfcCbi286e2B6NKLVmD6O0cGTnP/1rjBwA=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-09-12T15:48:01.000Z
           - item:
             name: Spotify AB
             homepage_url: https://spotify.com/
@@ -6185,6 +6762,44 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-05-03T19:00:17.000Z
+          - item:
+            name: Sysdig, Inc.
+            homepage_url: https://sysdig.com/
+            logo: sysdig_inc.svg
+            twitter: https://twitter.com/sysdig
+            crunchbase: https://www.crunchbase.com/organization/sysdig
+            crunchbase_data:
+              name: Sysdig
+              description: Sysdig is driving the standard for cloud and container security.
+              num_employees_min: 501
+              num_employees_max: 1000
+              homepage: https://www.sysdig.com
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: http://twitter.com/sysdig
+              linkedin: https://www.linkedin.com/company/sysdig
+              acquisitions:
+                - date: '2021-07-20'
+                  acquiree: Apolicy
+              parents: []
+              funding: 729500000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cloud Computing
+                - Cloud Security
+                - Cyber Security
+                - SaaS
+              kind: funding
+            image_data:
+              fileName: sysdig-inc.svg
+              hash: rlIF2C0VjH1B359UoViOef0ClHLigFkUZ5ytJAIkOH8=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-09-12T16:00:02.000Z
           - item:
             name: Tenable, Inc.
             homepage_url: https://tenable.com/
@@ -6365,6 +6980,43 @@ landscape:
             twitter_data:
               latest_tweet_date: 2021-10-14T15:09:23.000Z
           - item:
+            name: Timesys Corporation
+            homepage_url: https://timesys.com/
+            logo: timesys_corporation.svg
+            twitter: https://twitter.com/Timesys
+            crunchbase: https://www.crunchbase.com/organization/timesys-corporation
+            crunchbase_data:
+              name: Timesys Corporation
+              description: Timesys builds, secures, and maintains open source embedded software platforms.
+              num_employees_min: 51
+              num_employees_max: 100
+              homepage: http://www.timesys.com/
+              city: Pittsburgh
+              region: Pennsylvania
+              country: United States
+              twitter: https://twitter.com/Timesys
+              linkedin: https://www.linkedin.com/company/timesys-corporation/
+              acquisitions: []
+              parents: []
+              funding: 29500000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cyber Security
+                - Embedded Software
+                - Enterprise Software
+                - Information Technology
+                - Software
+              kind: funding
+            image_data:
+              fileName: timesys-corporation.svg
+              hash: ULnMJ2y09eJoDecDPMcD3JDg3EIEKFkYKaYRNN/MF3I=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-09-01T23:00:13.000Z
+          - item:
             name: Wind River Systems, Inc.
             homepage_url: https://windriver.com/
             logo: wind_river_systems_inc.svg
@@ -6433,6 +7085,43 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+          - item:
+            name: ZTE Corporation
+            homepage_url: https://zte.com.cn/
+            logo: zte_corporation.svg
+            twitter: https://twitter.com/ZTEPress
+            crunchbase: https://www.crunchbase.com/organization/zte-corporation
+            crunchbase_data:
+              name: ZTE
+              description: ZTE provides telecommunications equipment and network solutions.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://zte.com.cn
+              city: Shenzhen
+              region: Guangdong
+              country: China
+              twitter: https://twitter.com/ZTEPress
+              linkedin: https://www.linkedin.com/company/5804
+              acquisitions: []
+              parents: []
+              ticker: 000063.SZ
+              stockExchange: szse
+              company_type: For Profit
+              industries:
+                - Network Hardware
+                - Telecommunications
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 15846651399
+              effective_ticker: 000063.SZ
+            image_data:
+              fileName: zte-corporation.svg
+              hash: IRYqNufKmzvSx2V7mlRdTGB0Wjn8BkrIbKayvH+0KBs=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-09-10T12:00:49.000Z
       - subcategory:
         name: Associate
         items:
@@ -6537,6 +7226,33 @@ landscape:
             twitter_data:
               latest_tweet_date: 2022-05-03T15:07:05.000Z
           - item:
+            name: Institute of Software Chinese Academy of Sciences
+            homepage_url: https://iscas.ac.cn/
+            logo: institute_of_software_chinese_academy_of_sciences.svg
+            crunchbase: https://www.crunchbase.com/organization/institute-of-software-chinese-academy-of-sciences
+            crunchbase_data:
+              name: Institute of Software Chinese Academy of Sciences
+              description: The Institute of Software, Chinese Academy of Sciences (ISCAS) is a research base that focuses on the research and development.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: http://english.is.cas.cn
+              city: Haidian
+              region: Beijing
+              country: China
+              twitter: null
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: ''
+              industries: []
+            image_data:
+              fileName: institute-of-software-chinese-academy-of-sciences.svg
+              hash: yNkgKRiy6bHyz1bjZDBjOrzkMqAJi4Fhc5Uqi2X500c=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Laboratory for Innovation Science at Harvard
             homepage_url: https://lish.harvard.edu/
             logo: laboratory_for_innovation_science_at_harvard.svg
@@ -6604,6 +7320,40 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-05-03T19:00:10.000Z
+          - item:
+            name: Nanyang Technological University
+            homepage_url: https://ntu.edu.sg/
+            logo: nanyang_technological_university.svg
+            twitter: https://twitter.com/NTUsg
+            crunchbase: https://www.crunchbase.com/organization/nanyang-technological-university
+            crunchbase_data:
+              name: Nanyang Technological University
+              description: Nanyang Technological University offers LKCMedicine, Nanyang business school, college of engineering, college of humanities.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: http://www.ntu.edu.sg
+              city: Singapore
+              region: Central Region
+              country: Singapore
+              twitter: http://twitter.com/NTUsg
+              linkedin: https://www.linkedin.com/company/ntusg
+              acquisitions: []
+              parents: []
+              funding: 0
+              stockExchange: null
+              company_type: ''
+              industries:
+                - Education
+                - Information Technology
+                - Universities
+            image_data:
+              fileName: nanyang-technological-university.svg
+              hash: qgjDOQzM/7F94tldN9t613SH5VeF4M7xVX/qBwFRUXU=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-09-12T10:22:00.000Z
           - item:
             name: Open Source Technology Improvement Fund, Inc.
             homepage_url: https://ostif.org/
@@ -6700,6 +7450,43 @@ landscape:
             twitter_data:
               latest_tweet_date: 2021-10-14T13:01:37.000Z
           - item:
+            name: Purdue University
+            homepage_url: https://purdue.edu/
+            logo: purdue_university.svg
+            twitter: https://twitter.com/LifeAtPurdue
+            crunchbase: https://www.crunchbase.com/organization/purdue-university
+            crunchbase_data:
+              name: Purdue University
+              description: Purdue's main campus is located in West Lafayette, Indiana.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: http://purdue.edu
+              city: West Lafayette
+              region: Indiana
+              country: United States
+              twitter: http://twitter.com/LifeAtPurdue
+              linkedin: https://www.linkedin.com/edu/purdue-university-18357
+              acquisitions:
+                - date: '2017-04-27'
+                  acquiree: Kaplan University
+              parents: []
+              funding: 24358245
+              stockExchange: null
+              company_type: ''
+              industries:
+                - Education
+                - Higher Education
+                - Universities
+              kind: funding
+            image_data:
+              fileName: purdue-university.svg
+              hash: uTMA2tUsFePyP+57iSAA6BvCsL7DL2QYM8jo55an3go=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-09-12T12:30:09.000Z
+          - item:
             name: SAFECode
             homepage_url: https://safecode.org/
             logo: safecode.svg
@@ -6732,6 +7519,21 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2021-10-14T12:00:16.000Z
+          - item:
+            name: TODO Group
+            homepage_url: https://todogroup.org/
+            logo: todo_group.svg
+            organization:
+              name: TODO Group
+            crunchbase_data:
+              name: TODO Group
+              parents: []
+            image_data:
+              fileName: todo-group.svg
+              hash: AgEV5CBDHjyc1TTB82g8Hwk3V0UVC/Lnu+k5uQajRUs=
+            best_practice_data:
+              badge: false
+              percentage: null
   - category:
     name: Sigstore
     subcategories:
@@ -6855,7 +7657,7 @@ landscape:
               start_date: '2021-02-04T12:49:41Z'
             image_data:
               fileName: cosign.svg
-              hash: D9jLZxpwaQeQVwmJ5RNb0L8bAZ4p/6bsQh94iY+JN08=
+              hash: 8U2zWUWT36oQW37bzKvf0zR19IW8ikjgND/LYS3yrtU=
             best_practice_data:
               badge: 5715
               percentage: 94

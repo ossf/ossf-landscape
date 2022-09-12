@@ -24,6 +24,12 @@ landscape:
             twitter: https://twitter.com/Atlassian
             crunchbase: https://www.crunchbase.com/organization/atlassian
           - item:
+            name: Capital One Services LLC
+            homepage_url: https://capitalone.com/
+            logo: capital_one_services_llc.svg
+            twitter: https://twitter.com/CapitalOne
+            crunchbase: https://www.crunchbase.com/organization/capital-one
+          - item:
             name: Cisco Systems, Inc.
             homepage_url: https://cisco.com/
             logo: cisco_systems_inc.svg
@@ -42,6 +48,7 @@ landscape:
             logo: coinbase_inc.svg
             twitter: https://twitter.com/coinbase
             crunchbase: https://www.crunchbase.com/organization/coinbase
+            joined: '2022-02-17'
           - item:
             name: Dell Technologies
             homepage_url: https://delltechnologies.com/
@@ -166,11 +173,23 @@ landscape:
             twitter: https://twitter.com/AccuKnox
             crunchbase: https://www.crunchbase.com/organization/accuknox
           - item:
+            name: Advanced Micro Devices (AMD)
+            homepage_url: https://amd.com/
+            logo: advanced_micro_devices_amd.svg
+            twitter: https://twitter.com/AMD
+            crunchbase: https://www.crunchbase.com/organization/amd
+          - item:
             name: Aiven Inc
             homepage_url: https://aiven.io/
             logo: aiven_inc.svg
             twitter: https://twitter.com/aiven_io
             crunchbase: https://www.crunchbase.com/organization/aiven
+          - item:
+            name: Akamai Technologies, Inc.
+            homepage_url: https://akamai.com/
+            logo: akamai_technologies_inc.svg
+            twitter: https://twitter.com/Akamai
+            crunchbase: https://www.crunchbase.com/organization/akamai-technologies
           - item:
             name: Alibaba Cloud (Singapore) Private LTD
             homepage_url: https://alibaba-inc.com/
@@ -203,9 +222,9 @@ landscape:
             twitter: https://twitter.com/AuriStor
             crunchbase: https://www.crunchbase.com/organization/auristor
           - item:
-            name: Blockchain Technology Partners
+            name: Blockchain Technology Partners, Inc.
             homepage_url: https://blockchaintp.com/
-            logo: blockchain_technology_partners.svg
+            logo: blockchain_technology_partners_inc.svg
             twitter: https://twitter.com/blockchaintp
             crunchbase: https://www.crunchbase.com/organization/blockchain-technology-partners
           - item:
@@ -232,8 +251,7 @@ landscape:
             homepage_url: https://chainguard.dev/
             logo: chainguard.svg
             twitter: https://twitter.com/chainguard_dev
-            organization:
-              name: Chainguard
+            crunchbase: https://www.crunchbase.com/organization/chainguard
           - item:
             name: Checkmarx
             homepage_url: https://checkmarx.com/
@@ -264,6 +282,12 @@ landscape:
             logo: cybertrust_japan_co_ltd.svg
             twitter: https://twitter.com/Cybertrust_JP
             crunchbase: https://www.crunchbase.com/organization/cybertrust
+          - item:
+            name: Cybozu, Inc.
+            homepage_url: https://cybozu.com/
+            logo: cybozu_inc.svg
+            twitter: https://twitter.com/cybozu
+            crunchbase: https://www.crunchbase.com/organization/cybozu
           - item:
             name: Cycode, Inc.
             homepage_url: https://cycode.com/
@@ -324,6 +348,24 @@ landscape:
             twitter: https://twitter.com/goteleport
             crunchbase: https://www.crunchbase.com/organization/gravitational
           - item:
+            name: Indeed, Inc.
+            homepage_url: https://indeed.com/
+            logo: indeed_inc.svg
+            twitter: https://twitter.com/indeed
+            crunchbase: https://www.crunchbase.com/organization/indeed
+          - item:
+            name: Kasten, Inc.
+            homepage_url: https://kasten.io/
+            logo: kasten_inc.svg
+            twitter: https://twitter.com/kastenhq
+            crunchbase: https://www.crunchbase.com/organization/kasten
+          - item:
+            name: Legit Security
+            homepage_url: https://legitsecurity.com/
+            logo: legit_security.svg
+            twitter: https://twitter.com/LegitSecurity1
+            crunchbase: https://www.crunchbase.com/organization/legit-security
+          - item:
             name: MongoDB Inc
             homepage_url: https://mongodb.com/
             logo: mongodb_inc.svg
@@ -342,6 +384,19 @@ landscape:
             twitter: https://twitter.com/nutanix
             crunchbase: https://www.crunchbase.com/organization/nutanix
           - item:
+            name: Phylum
+            homepage_url: https://phylum.io/
+            logo: phylum.svg
+            twitter: https://twitter.com/Phylum_IO
+            organization:
+              name: Phylum
+          - item:
+            name: Qualys, Inc.
+            homepage_url: https://qualys.com/
+            logo: qualys_inc.svg
+            twitter: https://twitter.com/qualys
+            crunchbase: https://www.crunchbase.com/organization/qualys
+          - item:
             name: Renesas Electronics Corporation
             homepage_url: https://renesas.com/
             logo: renesas_electronics_corporation.svg
@@ -354,11 +409,31 @@ landscape:
             twitter: https://twitter.com/ReversingLabs
             crunchbase: https://www.crunchbase.com/organization/reversinglabs
           - item:
+            name: Scantist Pte. Ltd.
+            homepage_url: https://scantist.com/
+            logo: scantist_pte_ltd.svg
+            twitter: https://twitter.com/ScantistSG
+            crunchbase: https://www.crunchbase.com/organization/scantist
+          - item:
             name: Shanghai Sectrend Information Technology Co.,Ltd
             homepage_url: https://sectrend.com.cn/
             logo: shanghai_sectrend_information_technology_coltd.svg
             organization:
               name: Shanghai Sectrend Information Technology Co.,Ltd
+          - item:
+            name: SHE BASH
+            homepage_url: https://shebash.io/
+            logo: she_bash.svg
+            twitter: https://twitter.com/SHEBASHIO
+            organization:
+              name: SHE BASH
+          - item:
+            name: Socket
+            homepage_url: https://socket.dev/
+            logo: socket.svg
+            twitter: https://twitter.com/SocketSecurity
+            organization:
+              name: Socket
           - item:
             name: Spotify AB
             homepage_url: https://spotify.com/
@@ -378,6 +453,12 @@ landscape:
             twitter: https://twitter.com/SUSE
             crunchbase: https://www.crunchbase.com/organization/suse
           - item:
+            name: Sysdig, Inc.
+            homepage_url: https://sysdig.com/
+            logo: sysdig_inc.svg
+            twitter: https://twitter.com/sysdig
+            crunchbase: https://www.crunchbase.com/organization/sysdig
+          - item:
             name: Tenable, Inc.
             homepage_url: https://tenable.com/
             logo: tenable_inc.svg
@@ -396,6 +477,12 @@ landscape:
             twitter: https://twitter.com/tidelift
             crunchbase: https://www.crunchbase.com/organization/tidelift
           - item:
+            name: Timesys Corporation
+            homepage_url: https://timesys.com/
+            logo: timesys_corporation.svg
+            twitter: https://twitter.com/Timesys
+            crunchbase: https://www.crunchbase.com/organization/timesys-corporation
+          - item:
             name: Wind River Systems, Inc.
             homepage_url: https://windriver.com/
             logo: wind_river_systems_inc.svg
@@ -407,6 +494,12 @@ landscape:
             logo: wingtecher_technology_co_ltd.svg
             organization:
               name: Wingtecher Technology Co., Ltd.
+          - item:
+            name: ZTE Corporation
+            homepage_url: https://zte.com.cn/
+            logo: zte_corporation.svg
+            twitter: https://twitter.com/ZTEPress
+            crunchbase: https://www.crunchbase.com/organization/zte-corporation
       - subcategory:
         name: Associate
         items:
@@ -428,6 +521,11 @@ landscape:
             twitter: https://twitter.com/EclipseFdn
             crunchbase: https://www.crunchbase.com/organization/eclipse-foundation
           - item:
+            name: Institute of Software Chinese Academy of Sciences
+            homepage_url: https://iscas.ac.cn/
+            logo: institute_of_software_chinese_academy_of_sciences.svg
+            crunchbase: https://www.crunchbase.com/organization/institute-of-software-chinese-academy-of-sciences
+          - item:
             name: Laboratory for Innovation Science at Harvard
             homepage_url: https://lish.harvard.edu/
             logo: laboratory_for_innovation_science_at_harvard.svg
@@ -440,6 +538,12 @@ landscape:
             twitter: https://twitter.com/MITREcorp
             crunchbase: https://www.crunchbase.com/organization/mitre
             joined: '2021-03-02'
+          - item:
+            name: Nanyang Technological University
+            homepage_url: https://ntu.edu.sg/
+            logo: nanyang_technological_university.svg
+            twitter: https://twitter.com/NTUsg
+            crunchbase: https://www.crunchbase.com/organization/nanyang-technological-university
           - item:
             name: Open Source Technology Improvement Fund, Inc.
             homepage_url: https://ostif.org/
@@ -460,11 +564,23 @@ landscape:
             twitter: https://twitter.com/owasp
             crunchbase: https://www.crunchbase.com/organization/open-web-application-security-project
           - item:
+            name: Purdue University
+            homepage_url: https://purdue.edu/
+            logo: purdue_university.svg
+            twitter: https://twitter.com/LifeAtPurdue
+            crunchbase: https://www.crunchbase.com/organization/purdue-university
+          - item:
             name: SAFECode
             homepage_url: https://safecode.org/
             logo: safecode.svg
             twitter: https://twitter.com/SAFECode
             crunchbase: https://www.crunchbase.com/organization/safecode-org
+          - item:
+            name: TODO Group
+            homepage_url: https://todogroup.org/
+            logo: todo_group.svg
+            organization:
+              name: TODO Group
   - category:
     name: Sigstore
     subcategories:
