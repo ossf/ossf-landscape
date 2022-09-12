@@ -101,7 +101,6 @@ big_picture:
     elements:
       - type: VerticalCategory
         category: OpenSSF Members
-        rows: 4
         width: 650
         height: 400
         top: 0
@@ -145,9 +144,59 @@ big_picture:
             right: 10
             top: 10
             title: OpenSSF Logo
+  sigstore:
+    tab_index: 2
+    name: Sigstore
+    url: sigstore
+    short_name: sigstore
+    title: SigStore Landscape
+    fullscreen_header: Header for a sigstore
+    category: Sigstore
+    elements:
+      - type: HorizontalCategory
+        category: Projects
+        rows: 1
+        width: 300
+        height: 200
+        top: 5
+        left: 5
+        color: rgb(103,66,18)
+      - type: HorizontalCategory
+        category: Services
+        rows: 1
+        width: 200
+        height: 200
+        top: 5
+        left: 315
+        color: rgb(103,66,18)
+      - type: HorizontalCategory
+        category: Integrations
+        rows: 2
+        width: 515
+        height: 200
+        top: 215
+        left: 5
+        color: rgb(100,100,240)
+      - type: HorizontalCategory
+        category: Signed With
+        rows: 2
+        width: 300
+        height: 200
+        top: 425
+        left: 5
+        color: rgb(100,100,240)
+      - type: HorizontalCategory
+        category: End User Adopters
+        rows: 2
+        width: 200
+        height: 200
+        top: 425
+        left: 315
+        color: rgb(100,100,240)
 test:
   header: OpenSSF Landscape
   section: OpenSSF Members
   logo: google-llc.svg
 prerender:
   members: /card-mode?category=openssf-member-company&grouping=category&embed=yes&style=borderless
+export: {}
