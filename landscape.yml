@@ -590,7 +590,7 @@ landscape:
           - item:
             name: Sigstore
             homepage_url: https://www.sigstore.dev/
-            repo_url: https://github.com/sigstore/sigstore
+            repo_url: https://github.com/sigstore/community
             project:
             crunchbase: https://www.crunchbase.com/organization/sigstore
             logo: sigstore.svg
@@ -631,11 +631,33 @@ landscape:
         name: Integrations
         items:
           - item:
-            name: intergrations-item-1
+            name: Sigstore client for Python
             homepage_url: https://www.sigstore.dev/
-            logo: integrations1.svg
+            repo_url: https://github.com/sigstore/sigstore-python
+            logo: python.svg
             organization:
               name: sigstore
+          - item:
+            name: Sigstore client for Rust
+            homepage_url: https://www.sigstore.dev/
+            repo_url: https://github.com/sigstore/sigstore-rs
+            logo: rust.svg
+            organization:
+              name: sigstore
+          - item:
+            name: Sigstore client for Go
+            homepage_url: https://www.sigstore.dev/
+            repo_url: https://github.com/sigstore/sigstore
+            logo: go.svg
+            organization:
+              name: sigstore
+          - item:
+            name: Sigstore client for Ruby
+            homepage_url: https://www.sigstore.dev/
+            repo_url: https://github.com/sigstore/ruby-sigstore
+            logo: ruby.svg
+            organization:
+              name: sigstore              
       - subcategory:
         name: Signed With
         items:
