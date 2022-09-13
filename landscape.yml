@@ -173,12 +173,6 @@ landscape:
             twitter: https://twitter.com/AccuKnox
             crunchbase: https://www.crunchbase.com/organization/accuknox
           - item:
-            name: Advanced Micro Devices (AMD)
-            homepage_url: https://amd.com/
-            logo: advanced_micro_devices_amd.svg
-            twitter: https://twitter.com/AMD
-            crunchbase: https://www.crunchbase.com/organization/amd
-          - item:
             name: Aiven Inc
             homepage_url: https://aiven.io/
             logo: aiven_inc.svg
@@ -495,6 +489,12 @@ landscape:
             organization:
               name: Wingtecher Technology Co., Ltd.
           - item:
+            name: Xilinx Inc
+            homepage_url: https://xilinx.com/
+            logo: xilinx_inc.svg
+            twitter: https://twitter.com/XilinxInc
+            crunchbase: https://www.crunchbase.com/organization/xilinx
+          - item:
             name: ZTE Corporation
             homepage_url: https://zte.com.cn/
             logo: zte_corporation.svg
@@ -520,6 +520,12 @@ landscape:
             logo: eclipse_foundation_aisbl.svg
             twitter: https://twitter.com/EclipseFdn
             crunchbase: https://www.crunchbase.com/organization/eclipse-foundation
+          - item:
+            name: FS-ISAC
+            homepage_url: https://fsisac.com/
+            logo: fs-isac.svg
+            organization:
+              name: FS-ISAC
           - item:
             name: Institute of Software Chinese Academy of Sciences
             homepage_url: https://iscas.ac.cn/
