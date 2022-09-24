@@ -39,7 +39,7 @@ landscape:
             name: Citi
             homepage_url: https://citi.com/
             logo: citi.svg
-            twitter: https://twitter.com/Citibank
+            twitter: https://twitter.com/Citi
             crunchbase: https://www.crunchbase.com/organization/citigroup
             joined: '2021-01-25'
           - item:
@@ -113,8 +113,8 @@ landscape:
             name: Meta Platforms, Inc.
             homepage_url: https://meta.com/
             logo: meta_platforms_inc.svg
-            twitter: https://twitter.com/Facebook
-            crunchbase: https://www.crunchbase.com/organization/facebook
+            twitter: https://twitter.com/Meta
+            crunchbase: https://www.crunchbase.com/organization/sciencescape
           - item:
             name: Microsoft Corporation
             homepage_url: https://microsoft.com/
@@ -524,8 +524,8 @@ landscape:
             name: FS-ISAC
             homepage_url: https://fsisac.com/
             logo: fs-isac.svg
-            organization:
-              name: FS-ISAC
+            twitter: https://twitter.com/FSISAC
+            crunchbase: https://www.crunchbase.com/organization/fs-isac
           - item:
             name: Institute of Software Chinese Academy of Sciences
             homepage_url: https://iscas.ac.cn/
@@ -585,8 +585,8 @@ landscape:
             name: TODO Group
             homepage_url: https://todogroup.org/
             logo: todo_group.svg
-            organization:
-              name: TODO Group
+            twitter: https://twitter.com/todogroup
+            crunchbase: https://www.crunchbase.com/organization/todo-group
   - category:
     name: Sigstore
     subcategories:
