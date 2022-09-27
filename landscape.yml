@@ -663,7 +663,7 @@ landscape:
             repo_url: https://github.com/sigstore/ruby-sigstore
             logo: ruby.svg
             organization:
-              name: sigstore              
+              name: sigstore
       - subcategory:
         name: Signed With
         items:
