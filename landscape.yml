@@ -12,12 +12,6 @@ landscape:
             twitter: https://twitter.com/1Password
             crunchbase: https://www.crunchbase.com/organization/1password
           - item:
-            name: Amazon Web Services, Inc.
-            homepage_url: https://aws.amazon.com/
-            logo: amazon_web_services_inc.svg
-            twitter: https://twitter.com/amazon
-            crunchbase: https://www.crunchbase.com/organization/amazon-web-services
-          - item:
             name: Atlassian Inc
             homepage_url: https://atlassian.com/
             logo: atlassian_inc.svg
@@ -173,6 +167,13 @@ landscape:
             twitter: https://twitter.com/AccuKnox
             crunchbase: https://www.crunchbase.com/organization/accuknox
           - item:
+            name: Airbyte
+            homepage_url: https://airbyte.io/
+            logo: airbyte.svg
+            twitter: https://twitter.com/AirbyteHQ
+            organization:
+              name: Airbyte
+          - item:
             name: Aiven Inc
             homepage_url: https://aiven.io/
             logo: aiven_inc.svg
@@ -307,12 +308,6 @@ landscape:
             twitter: https://twitter.com/The_DTCC
             crunchbase: https://www.crunchbase.com/organization/dtcc
           - item:
-            name: Devgistics, LLC
-            homepage_url: https://devgistics.com/
-            logo: devgistics_llc.svg
-            twitter: https://twitter.com/infosiftr
-            crunchbase: https://www.crunchbase.com/organization/infosiftr
-          - item:
             name: F5, Inc.
             homepage_url: https://f5.com/
             logo: f5_inc.svg
@@ -341,6 +336,12 @@ landscape:
             logo: gravitational_inc_dba_teleport.svg
             twitter: https://twitter.com/goteleport
             crunchbase: https://www.crunchbase.com/organization/gravitational
+          - item:
+            name: HackerOne
+            homepage_url: https://hackerone.com/
+            logo: hackerone.svg
+            twitter: https://twitter.com/Hacker0x01
+            crunchbase: https://www.crunchbase.com/organization/hackerone
           - item:
             name: Indeed, Inc.
             homepage_url: https://indeed.com/
@@ -435,12 +436,6 @@ landscape:
             twitter: https://twitter.com/Spotify
             crunchbase: https://www.crunchbase.com/organization/spotify
           - item:
-            name: StackHawk
-            homepage_url: https://stackhawk.com/
-            logo: stackhawk.svg
-            twitter: https://twitter.com/StackHawk
-            crunchbase: https://www.crunchbase.com/organization/stackhawk
-          - item:
             name: SUSE LLC
             homepage_url: https://suse.com/
             logo: suse_llc.svg
@@ -476,6 +471,11 @@ landscape:
             logo: timesys_corporation.svg
             twitter: https://twitter.com/Timesys
             crunchbase: https://www.crunchbase.com/organization/timesys-corporation
+          - item:
+            name: VicOne Inc.
+            homepage_url: https://vicone.com/
+            logo: vicone_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/vicone
           - item:
             name: Wind River Systems, Inc.
             homepage_url: https://windriver.com/
