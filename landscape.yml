@@ -192,6 +192,12 @@ landscape:
             twitter: https://twitter.com/AlibabaB2B
             crunchbase: https://www.crunchbase.com/organization/alibaba-cloud
           - item:
+            name: Anaconda, Inc
+            homepage_url: https://anaconda.com/
+            logo: anaconda_inc.svg
+            twitter: https://twitter.com/anacondainc
+            crunchbase: https://www.crunchbase.com/organization/anaconda-pharma
+          - item:
             name: Anchore, Inc
             homepage_url: https://anchore.com/
             logo: anchore_inc.svg
@@ -313,6 +319,12 @@ landscape:
             logo: f5_inc.svg
             twitter: https://twitter.com/F5
             crunchbase: https://www.crunchbase.com/organization/f5-networks
+          - item:
+            name: FOSSA
+            homepage_url: https://fossa.io/
+            logo: fossa.svg
+            twitter: https://twitter.com/getfossa
+            crunchbase: https://www.crunchbase.com/organization/fossa-2
           - item:
             name: Futurewei Technologies, Inc.
             homepage_url: https://futurewei.com/
