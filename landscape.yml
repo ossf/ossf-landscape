@@ -12,6 +12,12 @@ landscape:
             twitter: https://twitter.com/1Password
             crunchbase: https://www.crunchbase.com/organization/1password
           - item:
+            name: Amazon Web Services, Inc.
+            homepage_url: https://aws.amazon.com/
+            logo: amazon_web_services_inc.svg
+            twitter: https://twitter.com/amazon
+            crunchbase: https://www.crunchbase.com/organization/amazon-web-services
+          - item:
             name: Atlassian Inc
             homepage_url: https://atlassian.com/
             logo: atlassian_inc.svg
@@ -447,6 +453,12 @@ landscape:
             logo: spotify_ab.svg
             twitter: https://twitter.com/Spotify
             crunchbase: https://www.crunchbase.com/organization/spotify
+          - item:
+            name: StackHawk
+            homepage_url: https://stackhawk.com/
+            logo: stackhawk.svg
+            twitter: https://twitter.com/StackHawk
+            crunchbase: https://www.crunchbase.com/organization/stackhawk
           - item:
             name: SUSE LLC
             homepage_url: https://suse.com/
