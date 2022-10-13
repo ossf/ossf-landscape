@@ -198,5 +198,5 @@ test:
   section: OpenSSF Members
   logo: google-llc.svg
 prerender:
-  members: /card-mode?category=openssf-member-company&grouping=category&embed=yes&style=borderless
+  members: /card-mode?category=open-ssf-members&grouping=category&embed=yes&style=borderless
 export: {}
