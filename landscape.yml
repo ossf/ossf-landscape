@@ -285,6 +285,12 @@ landscape:
             twitter: https://twitter.com/Xfinity
             crunchbase: https://www.crunchbase.com/organization/comcast
           - item:
+            name: ControlPlane.io
+            homepage_url: https://control-plane.io/
+            logo: controlplaneio.svg
+            twitter: https://twitter.com/controlplaneio
+            crunchbase: https://www.crunchbase.com/organization/controlplane
+          - item:
             name: Cybertrust Japan Co., Ltd.
             homepage_url: https://cybertrust.co.jp/
             logo: cybertrust_japan_co_ltd.svg
