@@ -39,7 +39,7 @@ landscape:
             name: Citi
             homepage_url: https://citi.com/
             logo: citi.svg
-            twitter: https://twitter.com/Citibank
+            twitter: https://twitter.com/Citi
             crunchbase: https://www.crunchbase.com/organization/citigroup
             joined: '2021-01-25'
           - item:
@@ -62,9 +62,9 @@ landscape:
             twitter: https://twitter.com/ericsson
             crunchbase: https://www.crunchbase.com/organization/ericsson
           - item:
-            name: Fidelity Technology Group, LLC
+            name: Fidelity Investments
             homepage_url: https://fidelity.com/
-            logo: fidelity_technology_group_llc.svg
+            logo: fidelity_investments.svg
             twitter: https://twitter.com/Fidelity
             crunchbase: https://www.crunchbase.com/organization/fidelity-investments
           - item:
@@ -113,8 +113,9 @@ landscape:
             name: Meta Platforms, Inc.
             homepage_url: https://meta.com/
             logo: meta_platforms_inc.svg
-            twitter: https://twitter.com/Facebook
+            twitter: https://twitter.com/Meta
             crunchbase: https://www.crunchbase.com/organization/facebook
+            stock_ticker: META
           - item:
             name: Microsoft Corporation
             homepage_url: https://microsoft.com/
@@ -173,6 +174,13 @@ landscape:
             twitter: https://twitter.com/AccuKnox
             crunchbase: https://www.crunchbase.com/organization/accuknox
           - item:
+            name: Airbyte
+            homepage_url: https://airbyte.io/
+            logo: airbyte.svg
+            twitter: https://twitter.com/AirbyteHQ
+            organization:
+              name: Airbyte
+          - item:
             name: Aiven Inc
             homepage_url: https://aiven.io/
             logo: aiven_inc.svg
@@ -190,6 +198,12 @@ landscape:
             logo: alibaba_cloud_singapore_private_ltd.svg
             twitter: https://twitter.com/AlibabaB2B
             crunchbase: https://www.crunchbase.com/organization/alibaba-cloud
+          - item:
+            name: Anaconda, Inc
+            homepage_url: https://anaconda.com/
+            logo: anaconda_inc.svg
+            twitter: https://twitter.com/anacondainc
+            crunchbase: https://www.crunchbase.com/organization/anaconda-pharma
           - item:
             name: Anchore, Inc
             homepage_url: https://anchore.com/
@@ -271,6 +285,12 @@ landscape:
             twitter: https://twitter.com/Xfinity
             crunchbase: https://www.crunchbase.com/organization/comcast
           - item:
+            name: ControlPlane.io
+            homepage_url: https://control-plane.io/
+            logo: controlplaneio.svg
+            twitter: https://twitter.com/controlplaneio
+            crunchbase: https://www.crunchbase.com/organization/controlplane
+          - item:
             name: Cybertrust Japan Co., Ltd.
             homepage_url: https://cybertrust.co.jp/
             logo: cybertrust_japan_co_ltd.svg
@@ -307,17 +327,17 @@ landscape:
             twitter: https://twitter.com/The_DTCC
             crunchbase: https://www.crunchbase.com/organization/dtcc
           - item:
-            name: Devgistics, LLC
-            homepage_url: https://devgistics.com/
-            logo: devgistics_llc.svg
-            twitter: https://twitter.com/infosiftr
-            crunchbase: https://www.crunchbase.com/organization/infosiftr
-          - item:
             name: F5, Inc.
             homepage_url: https://f5.com/
             logo: f5_inc.svg
             twitter: https://twitter.com/F5
             crunchbase: https://www.crunchbase.com/organization/f5-networks
+          - item:
+            name: FOSSA
+            homepage_url: https://fossa.io/
+            logo: fossa.svg
+            twitter: https://twitter.com/getfossa
+            crunchbase: https://www.crunchbase.com/organization/fossa-2
           - item:
             name: Futurewei Technologies, Inc.
             homepage_url: https://futurewei.com/
@@ -341,6 +361,12 @@ landscape:
             logo: gravitational_inc_dba_teleport.svg
             twitter: https://twitter.com/goteleport
             crunchbase: https://www.crunchbase.com/organization/gravitational
+          - item:
+            name: HackerOne
+            homepage_url: https://hackerone.com/
+            logo: hackerone.svg
+            twitter: https://twitter.com/Hacker0x01
+            crunchbase: https://www.crunchbase.com/organization/hackerone
           - item:
             name: Indeed, Inc.
             homepage_url: https://indeed.com/
@@ -477,6 +503,11 @@ landscape:
             twitter: https://twitter.com/Timesys
             crunchbase: https://www.crunchbase.com/organization/timesys-corporation
           - item:
+            name: VicOne Inc.
+            homepage_url: https://vicone.com/
+            logo: vicone_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/vicone
+          - item:
             name: Wind River Systems, Inc.
             homepage_url: https://windriver.com/
             logo: wind_river_systems_inc.svg
@@ -524,8 +555,8 @@ landscape:
             name: FS-ISAC
             homepage_url: https://fsisac.com/
             logo: fs-isac.svg
-            organization:
-              name: FS-ISAC
+            twitter: https://twitter.com/FSISAC
+            crunchbase: https://www.crunchbase.com/organization/fs-isac
           - item:
             name: Institute of Software Chinese Academy of Sciences
             homepage_url: https://iscas.ac.cn/
@@ -585,8 +616,8 @@ landscape:
             name: TODO Group
             homepage_url: https://todogroup.org/
             logo: todo_group.svg
-            organization:
-              name: TODO Group
+            twitter: https://twitter.com/todogroup
+            crunchbase: https://www.crunchbase.com/organization/todo-group
   - category:
     name: Sigstore
     subcategories:
@@ -596,7 +627,7 @@ landscape:
           - item:
             name: Sigstore
             homepage_url: https://www.sigstore.dev/
-            repo_url: https://github.com/sigstore/sigstore
+            repo_url: https://github.com/sigstore/community
             project: null
             crunchbase: https://www.crunchbase.com/organization/sigstore
             logo: sigstore.svg
@@ -637,9 +668,31 @@ landscape:
         name: Integrations
         items:
           - item:
-            name: intergrations-item-1
+            name: Sigstore client for Python
             homepage_url: https://www.sigstore.dev/
-            logo: integrations1.svg
+            repo_url: https://github.com/sigstore/sigstore-python
+            logo: python.svg
+            organization:
+              name: sigstore
+          - item:
+            name: Sigstore client for Rust
+            homepage_url: https://www.sigstore.dev/
+            repo_url: https://github.com/sigstore/sigstore-rs
+            logo: rust.svg
+            organization:
+              name: sigstore
+          - item:
+            name: Sigstore client for Go
+            homepage_url: https://www.sigstore.dev/
+            repo_url: https://github.com/sigstore/sigstore
+            logo: go.svg
+            organization:
+              name: sigstore
+          - item:
+            name: Sigstore client for Ruby
+            homepage_url: https://www.sigstore.dev/
+            repo_url: https://github.com/sigstore/ruby-sigstore
+            logo: ruby.svg
             organization:
               name: sigstore
       - subcategory:

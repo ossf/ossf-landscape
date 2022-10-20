@@ -930,7 +930,7 @@ landscape:
             name: Citi
             homepage_url: https://citi.com/
             logo: citi.svg
-            twitter: https://twitter.com/Citibank
+            twitter: https://twitter.com/Citi
             crunchbase: https://www.crunchbase.com/organization/citigroup
             joined: '2021-01-25'
             crunchbase_data:
@@ -982,7 +982,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-10-13T21:55:20.000Z
+              latest_tweet_date: 2022-10-20T17:15:02.000Z
           - item:
             name: Coinbase Inc.
             homepage_url: https://coinbase.com/
@@ -1314,9 +1314,9 @@ landscape:
             twitter_data:
               latest_tweet_date: 2021-10-14T08:00:21.000Z
           - item:
-            name: Fidelity Technology Group, LLC
+            name: Fidelity Investments
             homepage_url: https://fidelity.com/
-            logo: fidelity_technology_group_llc.svg
+            logo: fidelity_investments.svg
             twitter: https://twitter.com/Fidelity
             crunchbase: https://www.crunchbase.com/organization/fidelity-investments
             crunchbase_data:
@@ -1348,7 +1348,7 @@ landscape:
                 - Financial Services
               kind: funding
             image_data:
-              fileName: fidelity-technology-group-llc.svg
+              fileName: fidelity-investments.svg
               hash: BOuds5Lr84V1rD272Y7Gp7qBOfgZX3qpk/EdXxfWRuk=
             best_practice_data:
               badge: false
@@ -2916,8 +2916,9 @@ landscape:
             name: Meta Platforms, Inc.
             homepage_url: https://meta.com/
             logo: meta_platforms_inc.svg
-            twitter: https://twitter.com/Facebook
+            twitter: https://twitter.com/Meta
             crunchbase: https://www.crunchbase.com/organization/facebook
+            stock_ticker: META
             crunchbase_data:
               name: Facebook
               description: Facebook is an online social networking service that enables its users to connect with friends and family.
@@ -3149,7 +3150,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-10-13T18:23:18.000Z
+              latest_tweet_date: 2022-10-19T15:23:45.000Z
           - item:
             name: Microsoft Corporation
             homepage_url: https://microsoft.com/
@@ -4655,6 +4656,24 @@ landscape:
             twitter_data:
               latest_tweet_date: 2022-05-02T11:15:39.000Z
           - item:
+            name: Airbyte
+            homepage_url: https://airbyte.io/
+            logo: airbyte.svg
+            twitter: https://twitter.com/AirbyteHQ
+            organization:
+              name: Airbyte
+            crunchbase_data:
+              name: Airbyte
+              parents: []
+            image_data:
+              fileName: airbyte.svg
+              hash: OUnfjgc4VJyvgc9NPelnfrhIaLwV0fT7SEpXcTyLMFM=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-10-20T21:14:20.000Z
+          - item:
             name: Aiven Inc
             homepage_url: https://aiven.io/
             logo: aiven_inc.svg
@@ -4850,6 +4869,41 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-05-03T15:44:30.000Z
+          - item:
+            name: Anaconda, Inc
+            homepage_url: https://anaconda.com/
+            logo: anaconda_inc.svg
+            twitter: https://twitter.com/anacondainc
+            crunchbase: https://www.crunchbase.com/organization/anaconda-pharma
+            crunchbase_data:
+              name: Anaconda Pharma
+              description: Anaconda Pharma is a biopharmaceutical company focusing on the development of treatments for infections by human papillomavirus (HPV).
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: http://www.anacondapharma.com
+              city: Paris
+              region: Ile-de-France
+              country: France
+              twitter: null
+              linkedin: null
+              acquisitions: []
+              parents: []
+              funding: 3240000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Biopharma
+                - Biotechnology
+                - Pharmaceutical
+              kind: funding
+            image_data:
+              fileName: anaconda-inc.svg
+              hash: cgSU6ucN4oQu3HAyF7Z/RY3X+lbBWgRmdOoE6T9/Gm0=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-10-20T20:31:03.000Z
           - item:
             name: Anchore, Inc
             homepage_url: https://anchore.com/
@@ -5434,6 +5488,42 @@ landscape:
             twitter_data:
               latest_tweet_date: 2021-10-14T15:12:29.000Z
           - item:
+            name: ControlPlane.io
+            homepage_url: https://control-plane.io/
+            logo: controlplaneio.svg
+            twitter: https://twitter.com/controlplaneio
+            crunchbase: https://www.crunchbase.com/organization/controlplane
+            crunchbase_data:
+              name: ControlPlane
+              description: Cloud native consultancy, securing Kubernetes from supply-chain and runtime attacks with a zero trust, continuous security approach.
+              num_employees_min: 51
+              num_employees_max: 100
+              homepage: https://control-plane.io/
+              city: London
+              region: England
+              country: United Kingdom
+              twitter: https://twitter.com/controlplaneio
+              linkedin: https://www.linkedin.com/company/controlplane/
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cloud Security
+                - Cyber Security
+                - Network Security
+                - Open Source
+                - Penetration Testing
+                - Supply Chain Management
+            image_data:
+              fileName: control-plane-io.svg
+              hash: K8i0MtatSJSQyA6adVjVGJl5DGT3u9CP9Q7KgcJLT3A=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-10-19T18:21:01.000Z
+          - item:
             name: Cybertrust Japan Co., Ltd.
             homepage_url: https://cybertrust.co.jp/
             logo: cybertrust_japan_co_ltd.svg
@@ -5659,40 +5749,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2021-10-13T19:57:31.000Z
           - item:
-            name: Devgistics, LLC
-            homepage_url: https://devgistics.com/
-            logo: devgistics_llc.svg
-            twitter: https://twitter.com/infosiftr
-            crunchbase: https://www.crunchbase.com/organization/infosiftr
-            crunchbase_data:
-              name: Devgistics
-              description: Devgistics provides professional services and custom software development that offers end-to-end, scalable technology solutions.
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: http://www.infosiftr.com/
-              city: Las Vegas
-              region: Nevada
-              country: United States
-              twitter: https://twitter.com/infosiftr
-              linkedin: https://www.linkedin.com/company/infosiftr
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Consulting
-                - Open Source
-                - Professional Services
-                - Software
-            image_data:
-              fileName: devgistics-llc.svg
-              hash: 3V3uLbvnkpVkFY6D3tUeees6NKecAPmVLvIRl4dWL0c=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-10-13T16:15:13.000Z
-          - item:
             name: F5, Inc.
             homepage_url: https://f5.com/
             logo: f5_inc.svg
@@ -5765,6 +5821,43 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-05-03T17:00:06.000Z
+          - item:
+            name: FOSSA
+            homepage_url: https://fossa.io/
+            logo: fossa.svg
+            twitter: https://twitter.com/getfossa
+            crunchbase: https://www.crunchbase.com/organization/fossa-2
+            crunchbase_data:
+              name: FOSSA
+              description: FOSSA provides a platform that helps enterprises manage and maximize open source use at scale.
+              num_employees_min: 51
+              num_employees_max: 100
+              homepage: http://fossa.com
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/getfossa
+              linkedin: https://www.linkedin.com/company/fossa/
+              acquisitions: []
+              parents: []
+              funding: 33900000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Compliance
+                - Developer Tools
+                - Open Source
+                - SaaS
+                - Software
+              kind: funding
+            image_data:
+              fileName: fossa.svg
+              hash: e6UNV/M6ijdiyIWM4n9bOAD31sEUSFXCgje6qPBQQfw=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-10-18T20:13:37.000Z
           - item:
             name: Futurewei Technologies, Inc.
             homepage_url: https://futurewei.com/
@@ -5983,6 +6076,45 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-05-03T22:36:20.000Z
+          - item:
+            name: HackerOne
+            homepage_url: https://hackerone.com/
+            logo: hackerone.svg
+            twitter: https://twitter.com/Hacker0x01
+            crunchbase: https://www.crunchbase.com/organization/hackerone
+            crunchbase_data:
+              name: HackerOne
+              description: HackerOne is a powered security platform that connects businesses with penetration testers and cybersecurity researchers.
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: https://hackerone.com/
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: http://twitter.com/hacker0x01
+              linkedin: https://www.linkedin.com/company/hackerone
+              acquisitions:
+                - date: '2018-01-24'
+                  acquiree: Breaker 101
+                - date: '2022-04-27'
+                  acquiree: PullRequest
+              parents: []
+              funding: 159400000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Computer
+                - Internet
+                - Network Security
+              kind: funding
+            image_data:
+              fileName: hacker-one.svg
+              hash: i3/YyzQN2rzG88ZZMDn+dw/QiWsLkJUH/GxIykbpbOo=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-10-20T21:00:18.000Z
           - item:
             name: Indeed, Inc.
             homepage_url: https://indeed.com/
@@ -6959,6 +7091,38 @@ landscape:
             twitter_data:
               latest_tweet_date: 2022-09-01T23:00:13.000Z
           - item:
+            name: VicOne Inc.
+            homepage_url: https://vicone.com/
+            logo: vicone_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/vicone
+            crunchbase_data:
+              name: Vicone
+              description: Vicone is manufactures and supplies extruded and molded rubber parts, custom made, to spec and on time and guide and supportin manufacture.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: http://www.viconerubber.com
+              city: Saint-eustache
+              region: Quebec
+              country: Canada
+              twitter: https://www.twitter.com/viconerubber
+              linkedin: https://www.linkedin.com/company/vicone-high-performance-rubber-i
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Consumer Electronics
+                - Electronics
+                - Manufacturing
+            image_data:
+              fileName: vic-one-inc.svg
+              hash: IA8yQJunD8CPRmD1B9MUrwgWedvg0dD3xZACrIGwl7o=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-10-20T14:47:02.000Z
+          - item:
             name: Wind River Systems, Inc.
             homepage_url: https://windriver.com/
             logo: wind_river_systems_inc.svg
@@ -7240,17 +7404,36 @@ landscape:
             name: FS-ISAC
             homepage_url: https://fsisac.com/
             logo: fs-isac.svg
-            organization:
-              name: FS-ISAC
+            twitter: https://twitter.com/FSISAC
+            crunchbase: https://www.crunchbase.com/organization/fs-isac
             crunchbase_data:
               name: FS-ISAC
+              description: An industry consortium dedicated to reducing cyber-risk in the global financial system.
+              num_employees_min: 101
+              num_employees_max: 250
+              homepage: https://www.fsisac.com/
+              city: Reston
+              region: Virginia
+              country: United States
+              twitter: https://twitter.com/FSISAC
+              linkedin: https://www.linkedin.com/company/fs-isac
+              acquisitions: []
               parents: []
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Cyber Security
+                - FinTech
+                - Financial Services
+                - Information Technology
             image_data:
               fileName: fs-isac.svg
               hash: eiBJLf7FtA4Elqz+yqJq6i3dq5uOv4zdLdyZYSy7IO0=
             best_practice_data:
               badge: false
               percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-10-20T13:44:22.000Z
           - item:
             name: Institute of Software Chinese Academy of Sciences
             homepage_url: https://iscas.ac.cn/
@@ -7549,17 +7732,35 @@ landscape:
             name: TODO Group
             homepage_url: https://todogroup.org/
             logo: todo_group.svg
-            organization:
-              name: TODO Group
+            twitter: https://twitter.com/todogroup
+            crunchbase: https://www.crunchbase.com/organization/todo-group
             crunchbase_data:
               name: TODO Group
+              description: TODO Group is an online platform providing open-source programs that enable users to use, contribute, and maintain thousands of projects.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: http://todogroup.org/
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: http://twitter.com/todogroup
+              linkedin: null
+              acquisitions: []
               parents: []
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Communities
+                - Non Profit
+                - Software
             image_data:
               fileName: todo-group.svg
               hash: AgEV5CBDHjyc1TTB82g8Hwk3V0UVC/Lnu+k5uQajRUs=
             best_practice_data:
               badge: false
               percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-10-20T08:53:52.000Z
   - category:
     name: Sigstore
     subcategories:
@@ -7569,7 +7770,7 @@ landscape:
           - item:
             name: Sigstore
             homepage_url: https://www.sigstore.dev/
-            repo_url: https://github.com/sigstore/sigstore
+            repo_url: https://github.com/sigstore/community
             project: null
             crunchbase: https://www.crunchbase.com/organization/sigstore
             logo: sigstore.svg
@@ -7592,39 +7793,28 @@ landscape:
                 - Computer
                 - Network Security
             github_data:
-              languages:
-                - name: Go
-                  value: 445499
-                  color: '#00ADD8'
-                - name: Makefile
-                  value: 3033
-                  color: '#427819'
-                - name: Shell
-                  value: 1561
-                  color: '#89e051'
-              contributions: 7;3;0;0;0;0;0;0;0;0;6;2;0;0;2;11;9;8;14;10;10;5;5;3;5;10;14;4;13;10;10;15;12;11;13;11;18;9;8;13;12;7;20;6;19;9;14;15;13;12;11;8
-              firstWeek: 2021-07-25Z
-              stars: 288
+              languages: []
+              contributions: 0;0;0;0;5;1;2;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;4;0;0;3;1;0;0;9;0;0;0;1;9;3;10;4;5;6;4;3;5;3;10;7;5
+              firstWeek: 2021-10-24Z
+              stars: 27
               license: Apache License 2.0
-              description: Common go library shared across sigstore services and clients
-              latest_commit_date: '2022-07-16T07:32:30Z'
-              latest_commit_link: /sigstore/sigstore/commit/0a6bb89b130e04358d2ccbfb7b31ecbe3b2fcd56
-              release_date: '2022-06-24T08:19:48Z'
-              release_link: https://github.com/sigstore/sigstore/releases
-              contributors_count: 36
-              contributors_link: https://github.com/sigstore/sigstore/graphs/contributors
+              description: General sigstore community repo
+              latest_commit_date: '2022-10-20T17:58:16Z'
+              latest_commit_link: /sigstore/community/commit/01ada6e422e07d385487bc1c12b48bb09a7b02d0
+              contributors_count: 19
+              contributors_link: https://github.com/sigstore/community/graphs/contributors
             repos:
-              - url: https://github.com/sigstore/sigstore
-                stars: 288
+              - url: https://github.com/sigstore/community
+                stars: 27
             github_start_commit_data:
-              start_commit_link: /sigstore/sigstore/commit/bc33de41199dac94cf3cfd028f524cf463f6866f
-              start_date: '2021-02-13T17:55:03Z'
+              start_commit_link: /sigstore/community/commit/ace9b8c95d8cf0c09c125ed6552aa54b34fbc060
+              start_date: '2021-03-01T14:20:20Z'
             image_data:
               fileName: sigstore.svg
               hash: J0Qb88VnDjTmcFSTTqW8a+aalNwLZHCI/CpDgW54Nws=
             best_practice_data:
-              badge: 5716
-              percentage: 100
+              badge: false
+              percentage: null
           - item:
             name: Cosign
             homepage_url: https://docs.sigstore.dev/cosign/overview
@@ -7892,17 +8082,170 @@ landscape:
         name: Integrations
         items:
           - item:
-            name: intergrations-item-1
+            name: Sigstore client for Python
             homepage_url: https://www.sigstore.dev/
-            logo: integrations1.svg
+            repo_url: https://github.com/sigstore/sigstore-python
+            logo: python.svg
             organization:
               name: sigstore
             crunchbase_data:
               name: sigstore
               parents: []
+            github_data:
+              languages:
+                - name: Python
+                  value: 131741
+                  color: '#3572A5'
+                - name: Makefile
+                  value: 2903
+                  color: '#427819'
+                - name: Standard ML
+                  value: 282
+                  color: '#dc566d'
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;6;0;0;0;0;0;0;0;0;12;15;5;4;0;6;18;13;8;1;5;12;9;4;2;6;3;4;5;6;1;2;3;1;3;9;4;2;11;9;0
+              firstWeek: 2021-10-24Z
+              stars: 104
+              license: Other
+              description: A Sigstore client in Python
+              latest_commit_date: '2022-10-20T19:28:19Z'
+              latest_commit_link: /sigstore/sigstore-python/commit/1216ea05d19490f60290ede3bdb13ea9e2ffc53d
+              release_date: '2022-10-11T18:30:44Z'
+              release_link: https://github.com/sigstore/sigstore-python/releases
+              contributors_count: 12
+              contributors_link: https://github.com/sigstore/sigstore-python/graphs/contributors
+            repos:
+              - url: https://github.com/sigstore/sigstore-python
+                stars: 104
+            github_start_commit_data:
+              start_commit_link: /sigstore/sigstore-python/commit/eee7535484e5b200c727363cda48ec9b227ba55b
+              start_date: '2022-01-13T17:44:25Z'
             image_data:
-              fileName: intergrations-item-1.svg
-              hash: nJpLc3hyMpU6TozRdf36oa0h5be45pZLttBXWxXkMjU=
+              fileName: sigstore-client-for-python.svg
+              hash: AwXWsrsuJ2FQLQcuji2xJI29Gpn1H7S0vLnkPEhu9rI=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Sigstore client for Rust
+            homepage_url: https://www.sigstore.dev/
+            repo_url: https://github.com/sigstore/sigstore-rs
+            logo: rust.svg
+            organization:
+              name: sigstore
+            crunchbase_data:
+              name: sigstore
+              parents: []
+            github_data:
+              languages:
+                - name: Rust
+                  value: 374865
+                  color: '#dea584'
+                - name: Makefile
+                  value: 313
+                  color: '#427819'
+              contributions: 6;6;3;3;0;0;2;3;0;0;0;1;8;0;5;8;6;14;6;19;10;0;12;6;3;1;3;1;5;8;8;1;0;2;2;5;6;2;1;2;0;12;0;0;11;7;2;5;2;7;9;8
+              firstWeek: 2021-10-24Z
+              stars: 74
+              license: Apache License 2.0
+              description: An experimental Rust crate for sigstore
+              latest_commit_date: '2022-10-19T21:07:18Z'
+              latest_commit_link: /sigstore/sigstore-rs/commit/ef1121b9f64ac16944cb77b9f7dfce378b99613f
+              release_date: '2022-10-13T15:59:02Z'
+              release_link: https://github.com/sigstore/sigstore-rs/releases
+              contributors_count: 17
+              contributors_link: https://github.com/sigstore/sigstore-rs/graphs/contributors
+            repos:
+              - url: https://github.com/sigstore/sigstore-rs
+                stars: 74
+            github_start_commit_data:
+              start_commit_link: /sigstore/sigstore-rs/commit/58f2a505f804a52bceb9d74df7d596118e4bf3c8
+              start_date: '2021-10-04T09:14:42Z'
+            image_data:
+              fileName: sigstore-client-for-rust.svg
+              hash: mpVJ6gLTTew6YQuCmfG4Ehx7ELFKRNO67Ea6FemgbKI=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Sigstore client for Go
+            homepage_url: https://www.sigstore.dev/
+            repo_url: https://github.com/sigstore/sigstore
+            logo: go.svg
+            organization:
+              name: sigstore
+            crunchbase_data:
+              name: sigstore
+              parents: []
+            github_data:
+              languages:
+                - name: Go
+                  value: 445499
+                  color: '#00ADD8'
+                - name: Makefile
+                  value: 3033
+                  color: '#427819'
+                - name: Shell
+                  value: 1561
+                  color: '#89e051'
+              contributions: 7;3;0;0;0;0;0;0;0;0;6;2;0;0;2;11;9;8;14;10;10;5;5;3;5;10;14;4;13;10;10;15;12;11;13;11;18;9;8;13;12;7;20;6;19;9;14;15;13;12;11;8
+              firstWeek: 2021-07-25Z
+              stars: 288
+              license: Apache License 2.0
+              description: Common go library shared across sigstore services and clients
+              latest_commit_date: '2022-07-16T07:32:30Z'
+              latest_commit_link: /sigstore/sigstore/commit/0a6bb89b130e04358d2ccbfb7b31ecbe3b2fcd56
+              release_date: '2022-06-24T08:19:48Z'
+              release_link: https://github.com/sigstore/sigstore/releases
+              contributors_count: 36
+              contributors_link: https://github.com/sigstore/sigstore/graphs/contributors
+            repos:
+              - url: https://github.com/sigstore/sigstore
+                stars: 288
+            github_start_commit_data:
+              start_commit_link: /sigstore/sigstore/commit/bc33de41199dac94cf3cfd028f524cf463f6866f
+              start_date: '2021-02-13T17:55:03Z'
+            image_data:
+              fileName: sigstore-client-for-go.svg
+              hash: cDiOHA3HYNpiqC3cAsAyfwGKix/8538othihl34cVtA=
+            best_practice_data:
+              badge: 5716
+              percentage: 100
+          - item:
+            name: Sigstore client for Ruby
+            homepage_url: https://www.sigstore.dev/
+            repo_url: https://github.com/sigstore/ruby-sigstore
+            logo: ruby.svg
+            organization:
+              name: sigstore
+            crunchbase_data:
+              name: sigstore
+              parents: []
+            github_data:
+              languages:
+                - name: Ruby
+                  value: 28452
+                  color: '#701516'
+                - name: Shell
+                  value: 718
+                  color: '#89e051'
+              contributions: 0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2021-10-24Z
+              stars: 6
+              license: Apache License 2.0
+              description: Rubygems sigstore signing plugin
+              latest_commit_date: '2022-08-04T19:22:59Z'
+              latest_commit_link: /sigstore/sigstore-ruby/commit/0ea74bed679c052ea16ab7185ce72c7216f4cebd
+              contributors_count: 6
+              contributors_link: https://github.com/sigstore/ruby-sigstore/graphs/contributors
+            repos:
+              - url: https://github.com/sigstore/ruby-sigstore
+                stars: 6
+            github_start_commit_data:
+              start_commit_link: /sigstore/sigstore-ruby/commit/b5206673f86be8deefab50664c6a7d0cd38bd7e3
+              start_date: '2021-03-17T12:33:11Z'
+            image_data:
+              fileName: sigstore-client-for-ruby.svg
+              hash: Nyzhf/ptXHNcqGMKZlLWNjU1tKEIYUFu3wlUMdJ0ZBk=
             best_practice_data:
               badge: false
               percentage: null
