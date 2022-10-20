@@ -699,11 +699,25 @@ landscape:
         name: Signed With
         items:
           - item:
-            name: signed-item-1
-            homepage_url: https://www.sigstore.dev/
-            logo: signed-with-1.svg
-            organization:
-              name: sigstore
+            name: Flux
+            homepage_url: https://fluxcd.io/
+            logo: flux.svg
+            twitter: https://twitter.com/fluxcd
+          - item:
+            name: Keda
+            homepage_url: https://keda.sh/
+            logo: keda.svg
+            twitter: https://twitter.com/kedaorg
+          - item:
+            name: Kubernetes
+            homepage_url: https://kubernetes.io/
+            logo: kubernetes.svg
+            twitter: https://twitter.com/kubernetesio
+          - item:
+            name: Tekton
+            homepage_url: https://tekton.dev/
+            logo: tekton.svg
+            twitter: https://twitter.com/tektoncd            
       - subcategory:
         name: End User Adopters
         items:
