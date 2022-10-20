@@ -2914,7 +2914,7 @@ landscape:
               latest_tweet_date: 2021-10-13T10:55:59.000Z
           - item:
             name: Meta Platforms, Inc.
-            homepage_url: https://facebook.com/
+            homepage_url: https://meta.com/
             logo: meta_platforms_inc.svg
             twitter: https://twitter.com/Facebook
             crunchbase: https://www.crunchbase.com/organization/facebook
@@ -4654,64 +4654,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-05-02T11:15:39.000Z
-          - item:
-            name: Advanced Micro Devices (AMD)
-            homepage_url: https://amd.com/
-            logo: advanced_micro_devices_amd.svg
-            twitter: https://twitter.com/AMD
-            crunchbase: https://www.crunchbase.com/organization/amd
-            crunchbase_data:
-              name: AMD
-              description: Advanced Micro Devices (AMD) is a semiconductor company that designs and develops graphics units, processors, and media solutions.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: http://www.amd.com
-              city: Santa Clara
-              region: California
-              country: United States
-              twitter: https://twitter.com/amd
-              linkedin: https://www.linkedin.com/company/amd
-              acquisitions:
-                - date: '2002-02-06'
-                  acquiree: Alchemy Semiconductor
-                - date: '2006-07-24'
-                  acquiree: ATI Technologies
-                  price: 5400000000
-                - date: '2012-02-29'
-                  acquiree: SeaMicro
-                  price: 334000000
-                - date: '2016-06-29'
-                  acquiree: HiAlgo
-                - date: '2017-04-10'
-                  acquiree: Nitero
-                - date: '2020-10-27'
-                  acquiree: Xilinx
-                  price: 35000000000
-                - date: '2022-04-04'
-                  acquiree: AMD Pensando
-                  price: 1900000000
-              parents: []
-              ticker: AMD
-              stockExchange: nasdaq
-              company_type: For Profit
-              industries:
-                - Cloud Computing
-                - Embedded Systems
-                - GPU
-                - Hardware
-                - Semiconductor
-              kind: market_cap
-            yahoo_finance_data:
-              market_cap: 135005413376
-              effective_ticker: AMD
-            image_data:
-              fileName: advanced-micro-devices-amd.svg
-              hash: 2Za4zJY0wFoO5LflFP238qc7drUBfIwmuqMPxhAaABo=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2022-09-08T14:00:04.000Z
           - item:
             name: Aiven Inc
             homepage_url: https://aiven.io/
@@ -7086,6 +7028,75 @@ landscape:
               badge: false
               percentage: null
           - item:
+            name: Xilinx Inc
+            homepage_url: https://xilinx.com/
+            logo: xilinx_inc.svg
+            twitter: https://twitter.com/XilinxInc
+            crunchbase: https://www.crunchbase.com/organization/xilinx
+            crunchbase_data:
+              name: Xilinx
+              description: Xilinx is a technology company that develops flexible and adaptive processing platforms.
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: http://www.xilinx.com
+              city: San Jose
+              region: California
+              country: United States
+              twitter: http://twitter.com/XilinxInc
+              linkedin: https://www.linkedin.com/company/xilinx
+              acquisitions:
+                - date: '1995-04-10'
+                  acquiree: NeoCAD
+                - date: '2000-10-03'
+                  acquiree: RocketChips, Inc.
+                - date: '2004-03-09'
+                  acquiree: Triscend
+                - date: '2004-06-07'
+                  acquiree: Hier Design
+                - date: '2006-01-13'
+                  acquiree: AccelChip
+                  price: 21500000
+                - date: '2011-01-31'
+                  acquiree: AutoESL
+                - date: '2011-03-31'
+                  acquiree: Omiino Ltd
+                - date: '2011-05-17'
+                  acquiree: Sarance Technologies
+                - date: '2012-08-28'
+                  acquiree: PetaLogix Qld Pty Ltd
+                - date: '2012-09-17'
+                  acquiree: Modesat
+                - date: '2016-10-01'
+                  acquiree: Auviz Systems
+                - date: '2018-07-17'
+                  acquiree: DeePhi Tech
+                - date: '2019-04-24'
+                  acquiree: Solarflare Communications
+                - date: '2019-07-01'
+                  acquiree: NGCode
+                - date: '2021-06-10'
+                  acquiree: Silexica
+              parents: []
+              funding: 862000
+              stockExchange: vie
+              company_type: For Profit
+              industries:
+                - Electronic Design Automation (EDA)
+                - Field-Programmable Gate Array (FPGA)
+                - Hardware
+                - Semiconductor
+                - Software
+                - Wireless
+              kind: funding
+            image_data:
+              fileName: xilinx-inc.svg
+              hash: 2hyStCKKLZ2RkZIlvYPTbD5CSQKLnHo9txdwPo7uwLc=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-10-20T20:21:40.000Z
+          - item:
             name: ZTE Corporation
             homepage_url: https://zte.com.cn/
             logo: zte_corporation.svg
@@ -7225,6 +7236,21 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-05-03T15:07:05.000Z
+          - item:
+            name: FS-ISAC
+            homepage_url: https://fsisac.com/
+            logo: fs-isac.svg
+            organization:
+              name: FS-ISAC
+            crunchbase_data:
+              name: FS-ISAC
+              parents: []
+            image_data:
+              fileName: fs-isac.svg
+              hash: eiBJLf7FtA4Elqz+yqJq6i3dq5uOv4zdLdyZYSy7IO0=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: Institute of Software Chinese Academy of Sciences
             homepage_url: https://iscas.ac.cn/
@@ -7712,7 +7738,7 @@ landscape:
               start_date: '2022-05-12T15:38:24Z'
             image_data:
               fileName: gitsign.svg
-              hash: bmlkgwRuSEi+56A+ZIQZbdGJsCYUlN4cHxtc4AAl7KM=
+              hash: kh69goTPvl/GGlVtldQj9mLir+Xb6Ncg2H78G5jk618=
             best_practice_data:
               badge: false
               percentage: null
@@ -7776,7 +7802,7 @@ landscape:
               start_date: '2021-02-23T15:19:45Z'
             image_data:
               fileName: fulcio.svg
-              hash: q5sUCHC8Ju9fGkeaH81wvVzbWok84XbFqUrc1ZWwfMo=
+              hash: 9s3Roao3oFA3QRBeLc90bJmf75gwTPGOG92//pyeyWs=
             best_practice_data:
               badge: false
               percentage: null
@@ -7840,7 +7866,7 @@ landscape:
               start_date: '2020-06-17T12:44:14Z'
             image_data:
               fileName: rekor.svg
-              hash: 7GXL0/nJJGPFXeAwIfiz3J3UEBazxhK9FdYZTTXG/Cw=
+              hash: Pcg+4Afv71uLY5PcD2VcxzUrEe0ogiEnnjqx4n1Vzqs=
             best_practice_data:
               badge: false
               percentage: null

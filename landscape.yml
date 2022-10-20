@@ -597,7 +597,7 @@ landscape:
             name: Sigstore
             homepage_url: https://www.sigstore.dev/
             repo_url: https://github.com/sigstore/sigstore
-            project:
+            project: null
             crunchbase: https://www.crunchbase.com/organization/sigstore
             logo: sigstore.svg
           - item:

@@ -161,6 +161,7 @@ big_picture:
         top: 5
         left: 5
         color: rgb(103,66,18)
+        is_large: true
       - type: HorizontalCategory
         category: Services
         rows: 1
@@ -169,6 +170,7 @@ big_picture:
         top: 5
         left: 315
         color: rgb(103,66,18)
+        is_large: true
       - type: HorizontalCategory
         category: Integrations
         rows: 2
@@ -177,6 +179,7 @@ big_picture:
         top: 215
         left: 5
         color: rgb(100,100,240)
+        is_large: true
       - type: HorizontalCategory
         category: Signed With
         rows: 2
@@ -185,6 +188,7 @@ big_picture:
         top: 425
         left: 5
         color: rgb(100,100,240)
+        is_large: true
       - type: HorizontalCategory
         category: End User Adopters
         rows: 2
@@ -193,6 +197,7 @@ big_picture:
         top: 425
         left: 315
         color: rgb(100,100,240)
+        is_large: true
 test:
   header: OpenSSF Landscape
   section: OpenSSF Members
