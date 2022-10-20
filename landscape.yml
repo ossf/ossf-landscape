@@ -703,21 +703,25 @@ landscape:
             homepage_url: https://fluxcd.io/
             logo: flux.svg
             twitter: https://twitter.com/fluxcd
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation            
           - item:
             name: Keda
             homepage_url: https://keda.sh/
             logo: keda.svg
             twitter: https://twitter.com/kedaorg
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation            
           - item:
             name: Kubernetes
             homepage_url: https://kubernetes.io/
             logo: kubernetes.svg
             twitter: https://twitter.com/kubernetesio
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation            
           - item:
             name: Tekton
             homepage_url: https://tekton.dev/
             logo: tekton.svg
-            twitter: https://twitter.com/tektoncd            
+            twitter: https://twitter.com/tektoncd
+            crunchbase: https://www.crunchbase.com/organization/continuous-delivery-foundation-cdf            
       - subcategory:
         name: End User Adopters
         items:
