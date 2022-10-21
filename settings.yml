@@ -154,21 +154,30 @@ big_picture:
     category: Sigstore
     elements:
       - type: HorizontalCategory
-        category: Projects
+        category: Architecture/Spec
         rows: 1
-        width: 300
+        width: 100
         height: 200
         top: 5
         left: 5
+        color: rgb(179,208,231)
+        is_large: true    
+      - type: HorizontalCategory
+        category: Projects
+        rows: 1
+        width: 285
+        height: 200
+        top: 5
+        left: 115
         color: rgb(237,106,91)
         is_large: true
       - type: HorizontalCategory
         category: Services
         rows: 1
-        width: 200
+        width: 100
         height: 200
         top: 5
-        left: 315
+        left: 415
         color: rgb(103,66,18)
         is_large: true
       - type: HorizontalCategory
