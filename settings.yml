@@ -165,7 +165,7 @@ big_picture:
       - type: HorizontalCategory
         category: Projects
         rows: 1
-        width: 285
+        width: 280
         height: 200
         top: 5
         left: 115
