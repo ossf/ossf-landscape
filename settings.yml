@@ -186,7 +186,7 @@ big_picture:
         width: 250
         height: 200
         top: 215
-        left: 5
+        left: 265
         color: rgb(46,47,113)
         is_large: true        
       - type: HorizontalCategory
