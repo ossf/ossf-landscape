@@ -668,6 +668,42 @@ landscape:
         name: Integrations
         items:
           - item:
+            name: Artifact Hub
+            homepage_url: https://artifacthub.io/
+            logo: artifact-hub.svg
+            twitter: https://twitter.com/cncfartifacthub
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+            extra:
+              details_url: https://twitter.com/cncfartifacthub/status/1501153362414297094?s=20&t=ro8piH7LTrJVc7S_0bM0HQ
+          - item:
+            name: Harbor
+            homepage_url: https://goharbor.io/
+            logo: harbor.svg
+            twitter: https://twitter.com/project_harbor
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+            extra:
+              details_url: https://goharbor.io/blog/cosign-2.5.0/            
+          - item:
+            name: JReleaser
+            homepage_url: https://jreleaser.org
+            logo: jreleaser.svg
+            twitter: https://twitter.com/jreleaser
+            organization:
+              name: JReleaser
+            extra:
+              details_url: https://jreleaser.org/guide/latest/configuration/signing.html#_cosign          
+          - item:
+            name: Kyverno
+            homepage_url: https://kyverno.io/
+            logo: kyverno.svg
+            twitter: https://twitter.com/kyverno
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+            extra:
+              details_url: https://kyverno.io/docs/writing-policies/verify-images/        
+      - subcategory:
+        name: Language Clients        
+        items:
+          - item:
             name: Sigstore client for Python
             homepage_url: https://www.sigstore.dev/
             repo_url: https://github.com/sigstore/sigstore-python
