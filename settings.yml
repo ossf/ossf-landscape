@@ -160,7 +160,7 @@ big_picture:
         height: 200
         top: 5
         left: 5
-        color: rgb(103,66,18)
+        color: rgb(237,106,91)
         is_large: true
       - type: HorizontalCategory
         category: Services
@@ -174,12 +174,21 @@ big_picture:
       - type: HorizontalCategory
         category: Integrations
         rows: 2
-        width: 515
+        width: 250
         height: 200
         top: 215
         left: 5
-        color: rgb(100,100,240)
+        color: rgb(221,236,197)
         is_large: true
+      - type: HorizontalCategory
+        category: Language Clients
+        rows: 2
+        width: 250
+        height: 200
+        top: 215
+        left: 5
+        color: rgb(46,47,113)
+        is_large: true        
       - type: HorizontalCategory
         category: Signed With
         rows: 2
@@ -187,7 +196,7 @@ big_picture:
         height: 200
         top: 425
         left: 5
-        color: rgb(100,100,240)
+        color: rgb(244,190,55)
         is_large: true
       - type: HorizontalCategory
         category: End User Adopters
@@ -196,7 +205,7 @@ big_picture:
         height: 200
         top: 425
         left: 315
-        color: rgb(100,100,240)
+        color: rgb(17,115,115)
         is_large: true
 test:
   header: OpenSSF Landscape
