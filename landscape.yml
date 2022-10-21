@@ -622,15 +622,20 @@ landscape:
     name: Sigstore
     subcategories:
       - subcategory:
-        name: Projects
+        name: Architecture/Spec
         items:
           - item:
             name: Sigstore
             homepage_url: https://www.sigstore.dev/
-            repo_url: https://github.com/sigstore/community
+            repo_url: https://github.com/sigstore/architecture-docs
             project: null
             crunchbase: https://www.crunchbase.com/organization/sigstore
             logo: sigstore.svg
+            extra:
+              training_course_url: https://www.edx.org/course/securing-your-software-supply-chain-with-sigstore             
+      - subcategory:
+        name: Projects
+        items:
           - item:
             name: Cosign
             homepage_url: https://docs.sigstore.dev/cosign/overview
