@@ -156,7 +156,7 @@ big_picture:
       - type: HorizontalCategory
         category: Architecture/Spec
         rows: 1
-        width: 100
+        width: 120
         height: 200
         top: 5
         left: 5
@@ -168,16 +168,16 @@ big_picture:
         width: 280
         height: 200
         top: 5
-        left: 115
+        left: 135
         color: rgb(237,106,91)
         is_large: true
       - type: HorizontalCategory
         category: Services
         rows: 1
-        width: 100
+        width: 120
         height: 200
         top: 5
-        left: 410
+        left: 430
         color: rgb(103,66,18)
         is_large: true
       - type: HorizontalCategory
@@ -192,10 +192,10 @@ big_picture:
       - type: HorizontalCategory
         category: Language Clients
         rows: 2
-        width: 250
+        width: 270
         height: 200
         top: 215
-        left: 265
+        left: 280
         color: rgb(46,47,113)
         is_large: true        
       - type: HorizontalCategory
@@ -210,10 +210,10 @@ big_picture:
       - type: HorizontalCategory
         category: End User Adopters
         rows: 2
-        width: 200
+        width: 220
         height: 200
         top: 425
-        left: 315
+        left: 330
         color: rgb(17,115,115)
         is_large: true
 test:

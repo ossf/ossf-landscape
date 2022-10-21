@@ -632,7 +632,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/sigstore
             logo: sigstore.svg
             extra:
-              training_course_url: https://www.edx.org/course/securing-your-software-supply-chain-with-sigstore             
+              training_course_url: https://www.edx.org/course/securing-your-software-supply-chain-with-sigstore
       - subcategory:
         name: Projects
         items:
@@ -687,7 +687,7 @@ landscape:
             twitter: https://twitter.com/project_harbor
             crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
             extra:
-              details_url: https://goharbor.io/blog/cosign-2.5.0/            
+              details_url: https://goharbor.io/blog/cosign-2.5.0/
           - item:
             name: JReleaser
             homepage_url: https://jreleaser.org
@@ -696,7 +696,7 @@ landscape:
             organization:
               name: JReleaser
             extra:
-              details_url: https://jreleaser.org/guide/latest/configuration/signing.html#_cosign          
+              details_url: https://jreleaser.org/guide/latest/configuration/signing.html#_cosign
           - item:
             name: Kyverno
             homepage_url: https://kyverno.io/
@@ -704,9 +704,9 @@ landscape:
             twitter: https://twitter.com/kyverno
             crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
             extra:
-              details_url: https://kyverno.io/docs/writing-policies/verify-images/        
+              details_url: https://kyverno.io/docs/writing-policies/verify-images/
       - subcategory:
-        name: Language Clients        
+        name: Language Clients
         items:
           - item:
             name: Sigstore client for Python
@@ -754,7 +754,7 @@ landscape:
             twitter: https://twitter.com/kedaorg
             crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
             extra:
-              how_to_verify_url: https://github.com/kedacore/keda/releases/tag/v2.6.0            
+              how_to_verify_url: https://github.com/kedacore/keda/releases/tag/v2.6.0
           - item:
             name: Kubernetes
             homepage_url: https://kubernetes.io/
@@ -762,7 +762,7 @@ landscape:
             twitter: https://twitter.com/kubernetesio
             crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
             extra:
-              how_to_verify_url: https://kubernetes.io/docs/tasks/administer-cluster/verify-signed-images          
+              how_to_verify_url: https://kubernetes.io/docs/tasks/administer-cluster/verify-signed-images
           - item:
             name: Tekton
             homepage_url: https://tekton.dev/
@@ -770,7 +770,7 @@ landscape:
             twitter: https://twitter.com/tektoncd
             crunchbase: https://www.crunchbase.com/organization/continuous-delivery-foundation-cdf
             extra:
-              how_to_verify_url: https://github.com/tektoncd/pipeline/releases                      
+              how_to_verify_url: https://github.com/tektoncd/pipeline/releases
       - subcategory:
         name: End User Adopters
         items:
