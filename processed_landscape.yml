@@ -7770,7 +7770,7 @@ landscape:
           - item:
             name: Sigstore
             homepage_url: https://www.sigstore.dev/
-            repo_url: https://github.com/sigstore/architecture-docs
+            repo_url: https://github.com/sigstore/community
             project: null
             crunchbase: https://www.crunchbase.com/organization/sigstore
             logo: sigstore.svg
@@ -7796,21 +7796,21 @@ landscape:
                 - Network Security
             github_data:
               languages: []
-              contributions: 0;0;0;0;7;6;1;0;0;0;0;0;0;1;0;0;0;3;1;0;0;0;0;0;0;0;2;2;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0
+              contributions: 0;0;0;5;0;2;1;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;4;0;0;3;1;0;0;9;0;0;0;2;8;7;6;4;9;4;4;1;6;2;10;8;7
               firstWeek: 2021-10-24Z
-              stars: 1
-              license: Other
-              description: Specification of sigstore's architecture in an IETF internet-draft format
-              latest_commit_date: '2022-10-21T14:16:24Z'
-              latest_commit_link: /sigstore/architecture-docs/commit/21f2362f4ec2d7c6f34c18ddb3942a5025c66437
-              contributors_count: 4
-              contributors_link: https://github.com/sigstore/architecture-docs/graphs/contributors
+              stars: 27
+              license: Apache License 2.0
+              description: General sigstore community repo
+              latest_commit_date: '2022-10-21T11:02:25Z'
+              latest_commit_link: /sigstore/community/commit/c84f69f285839245b5205a0fcfde917adbac55d1
+              contributors_count: 20
+              contributors_link: https://github.com/sigstore/community/graphs/contributors
             repos:
-              - url: https://github.com/sigstore/architecture-docs
-                stars: 1
+              - url: https://github.com/sigstore/community
+                stars: 27
             github_start_commit_data:
-              start_commit_link: /sigstore/architecture-docs/commit/ed532a69243607bc984bf485a98a925b56142e8f
-              start_date: '2021-07-15T11:02:24Z'
+              start_commit_link: /sigstore/community/commit/ace9b8c95d8cf0c09c125ed6552aa54b34fbc060
+              start_date: '2021-03-01T14:20:20Z'
             image_data:
               fileName: sigstore.svg
               hash: J0Qb88VnDjTmcFSTTqW8a+aalNwLZHCI/CpDgW54Nws=
