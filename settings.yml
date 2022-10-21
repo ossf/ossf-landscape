@@ -177,7 +177,7 @@ big_picture:
         width: 100
         height: 200
         top: 5
-        left: 415
+        left: 410
         color: rgb(103,66,18)
         is_large: true
       - type: HorizontalCategory
