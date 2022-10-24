@@ -627,8 +627,8 @@ landscape:
           - item:
             name: Sigstore
             homepage_url: https://www.sigstore.dev/
-            repo_url: https://github.com/sigstore/community
-            project:
+            repo_url: https://github.com/sigstore/architecture-docs
+            project: incubating
             crunchbase: https://www.crunchbase.com/organization/sigstore
             logo: sigstore.svg
             extra:
@@ -661,12 +661,12 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/sigstore
             logo: rekor.svg
       - subcategory:
-        name: Services
+        name: Deployments
         items:
           - item:
-            name: item-service-1
-            homepage_url: https://www.sigstore.dev/
-            logo: service1.svg
+            name: Sigstore Public Service
+            homepage_url: https://status.sigstore.dev/
+            logo: sigstore_ps.svg
             organization:
               name: sigstore
       - subcategory:
@@ -675,22 +675,44 @@ landscape:
           - item:
             name: Artifact Hub
             homepage_url: https://artifacthub.io/
+            repo_url: https://github.com/artifacthub/hub
             logo: artifact-hub.svg
             twitter: https://twitter.com/cncfartifacthub
             crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
             extra:
               details_url: https://twitter.com/cncfartifacthub/status/1501153362414297094?s=20&t=ro8piH7LTrJVc7S_0bM0HQ
           - item:
+            name: GoReleaser
+            homepage_url: https://goreleaser.com/
+            repo_url: https://github.com/goreleaser/goreleaser
+            logo: goreleaser.svg
+            twitter: https://twitter.com/GoReleaser
+            organization:
+              name: GoReleaser
+            extra:
+              details_url: https://goreleaser.com/customization/sign/
+          - item:
             name: Harbor
             homepage_url: https://goharbor.io/
+            repo_url: https://github.com/goharbor/harbor
             logo: harbor.svg
             twitter: https://twitter.com/project_harbor
             crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
             extra:
               details_url: https://goharbor.io/blog/cosign-2.5.0/
           - item:
+            name: Helm plugin for Sigstore
+            homepage_url: https://helm.sh/
+            repo_url: https://github.com/sigstore/helm-sigstore
+            logo: helm.svg
+            twitter: https://twitter.com/helmpack
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+            extra:
+              details_url: https://medium.com/@sabre1041/integrating-helm-into-the-sigstore-project-d51564ea001f/
+          - item:
             name: JReleaser
             homepage_url: https://jreleaser.org
+            repo_url: https://github.com/jreleaser/jreleaser
             logo: jreleaser.svg
             twitter: https://twitter.com/jreleaser
             organization:
@@ -700,6 +722,7 @@ landscape:
           - item:
             name: Kyverno
             homepage_url: https://kyverno.io/
+            repo_url: https://github.com/kyverno/kyverno
             logo: kyverno.svg
             twitter: https://twitter.com/kyverno
             crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
@@ -736,20 +759,53 @@ landscape:
             logo: ruby.svg
             organization:
               name: sigstore
+          - item:
+            name: Sigstore client for Java
+            homepage_url: https://repo1.maven.org/maven2/dev/sigstore/sigstore-java/0.1.0/
+            repo_url: https://github.com/sigstore/sigstore-java
+            logo: maven.svg
+            organization:
+              name: sigstore
+          - item:
+            name: Sigstore client for Javascript
+            homepage_url: https://github.com/npm/rfcs/blob/link-packages-to-source-and-build/accepted/0000-link-packages-to-source-and-build.md
+            repo_url: https://github.com/sigstore/sigstore-js
+            logo: js.svg
+            organization:
+              name: sigstore
       - subcategory:
         name: Signed With
         items:
           - item:
+            name: Cert Manager
+            homepage_url: https://cert-manager.io
+            repo_url: https://github.com/cert-manager/cert-manager
+            logo: certmanager.svg
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+            extra:
+              how_to_verify_url: https://cert-manager.io/docs/installation/code-signing/
+          - item:
             name: Flux
             homepage_url: https://fluxcd.io/
+            repo_url: https://github.com/fluxcd/flux
             logo: flux.svg
             twitter: https://twitter.com/fluxcd
             crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
             extra:
               how_to_verify_url: https://fluxcd.io/blog/2022/02/security-image-provenance/
           - item:
+            name: Jenkins X
+            homepage_url: https://jenkins-x.io/
+            repo_url: https://github.com/jenkins-x/jx
+            logo: jenkins-x.svg
+            twitter: https://twitter.com/jenkinsxio
+            crunchbase: https://www.crunchbase.com/organization/continuous-delivery-foundation-cdf
+            extra:
+              how_to_verify_url: https://github.com/jenkins-x/jx/releases
+          - item:
             name: Keda
             homepage_url: https://keda.sh/
+            repo_url: https://github.com/kedacore/keda
             logo: keda.svg
             twitter: https://twitter.com/kedaorg
             crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
@@ -758,25 +814,61 @@ landscape:
           - item:
             name: Kubernetes
             homepage_url: https://kubernetes.io/
+            repo_url: https://github.com/kubernetes/kubernetes
             logo: kubernetes.svg
             twitter: https://twitter.com/kubernetesio
             crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
             extra:
               how_to_verify_url: https://kubernetes.io/docs/tasks/administer-cluster/verify-signed-images
           - item:
+            name: Ockam
+            homepage_url: https://www.ockam.io/
+            repo_url: https://github.com/build-trust/ockam
+            logo: ockam.svg
+            crunchbase: https://www.crunchbase.com/organization/build-trust
+            extra:
+              how_to_verify_url: https://github.com/build-trust/ockam/releases/tag/ockam_v0.76.0
+          - item:
+            name: CPython
+            homepage_url: https://www.python.org/
+            repo_url: https://github.com/python/cpython
+            logo: cpython.svg
+            twitter: https://twitter.com/ThePSF
+            crunchbase: https://www.crunchbase.com/organization/python-software-foundation
+            extra:
+              how_to_verify_url: https://www.python.org/download/sigstore/
+          - item:
             name: Tekton
             homepage_url: https://tekton.dev/
+            repo_url: https://github.com/tektoncd/pipeline
             logo: tekton.svg
             twitter: https://twitter.com/tektoncd
             crunchbase: https://www.crunchbase.com/organization/continuous-delivery-foundation-cdf
             extra:
               how_to_verify_url: https://github.com/tektoncd/pipeline/releases
+          - item:
+            name: urllib3
+            homepage_url: https://urllib3.dev
+            repo_url: https://github.com/urllib3/urllib3
+            logo: urllib.svg
+            twitter: https://twitter.com/urllib3
+            crunchbase: https://www.crunchbase.com/organization/python-software-foundation
+            extra:
+              how_to_verify_url: https://github.com/urllib3/urllib3/releases/tag/1.26.10
       - subcategory:
-        name: End User Adopters
+        name: Case Studies
         items:
           - item:
-            name: end-user-1
-            homepage_url: https://www.sigstore.dev/
-            logo: end-user-1.svg
-            organization:
-              name: sigstore
+            name: Edgeless Systems
+            homepage_url: https://www.edgeless.systems/
+            logo: edgeless-systems.svg
+            crunchbase: https://www.crunchbase.com/organization/edgeless-systems
+            extra:
+              case_study_url: https://blog.sigstore.dev/signing-and-securing-confidential-kubernetes-clusters-in-the-cloud-with-sigstore-aceac3034e70            
+          - item:
+            name: Rancher Government Solutions
+            homepage_url: https://rancherfederal.com/
+            logo: rancher.svg
+            crunchbase: https://www.crunchbase.com/organization/suse
+            extra:
+              case_study_url: https://blog.sigstore.dev/sigstore-proves-that-effective-supply-chain-security-doesnt-have-to-hurt-cf33cf9333c8

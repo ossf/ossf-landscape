@@ -12,7 +12,7 @@ Sigstore is made up of a combination of technologies to handle signing, verifica
 
 </section>
 
-<section data-subcategory="Services">
+<section data-subcategory="Deployments">
 
 In some cases Sigstore services are run as public instance, for example, the public instance of the Rekor transparency log used to verify signatures. This section allows you to discover public instances run by the community and or organizations who host Sigstore services.
 
@@ -27,7 +27,7 @@ Use of Sigstore is sometimes transparent to users as its signing and verificatio
 This section highlights open source and closed source software that use Sigstore for signing artifacts. That means that users of these tools are able to verify the integrity of artifacts using Sigstore.
 
 </section>
-<section data-subcategory="End User Adopters">
+<section data-subcategory="Case Studies">
 
 This section showcases organizations that currently use Sigstore as part of their software supply chain security toolbox. That means the organizations are at a minimum signing internal artifacts with Sigstore. Each organization links to a specific case study to highlight how they are using Sigstore.
 
