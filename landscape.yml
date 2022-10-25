@@ -728,6 +728,15 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
             extra:
               details_url: https://kyverno.io/docs/writing-policies/verify-images/
+          - item:
+            name: Tekton Chains
+            homepage_url: https://tekton.dev
+            repo_url: https://github.com/tektoncd/chains
+            logo: tekton_chains.svg
+            twitter: https://twitter.com/tektoncd
+            crunchbase: https://www.crunchbase.com/organization/continuous-delivery-foundation-cdf
+            extra:
+              how_to_verify_url: https://github.com/tektoncd/chains/releases
       - subcategory:
         name: Language Clients
         items:
