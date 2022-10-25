@@ -864,7 +864,7 @@ landscape:
             logo: edgeless-systems.svg
             crunchbase: https://www.crunchbase.com/organization/edgeless-systems
             extra:
-              case_study_url: https://blog.sigstore.dev/signing-and-securing-confidential-kubernetes-clusters-in-the-cloud-with-sigstore-aceac3034e70            
+              case_study_url: https://blog.sigstore.dev/signing-and-securing-confidential-kubernetes-clusters-in-the-cloud-with-sigstore-aceac3034e70
           - item:
             name: Rancher Government Solutions
             homepage_url: https://rancherfederal.com/
