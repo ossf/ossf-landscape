@@ -701,6 +701,22 @@ landscape:
             extra:
               details_url: https://goharbor.io/blog/cosign-2.5.0/
           - item:
+            name: The Update Framework (TUF)
+            homepage_url: https://theupdateframework.github.io/
+            repo_url: https://github.com/theupdateframework/python-tuf
+            logo: tuf.svg
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+            extra:
+              details_url: https://blog.sigstore.dev/sigstore-bring-your-own-stuf-with-tuf-40febfd2badd
+          - item:
+            name: in-toto
+            homepage_url: https://in-toto.io/
+            repo_url: https://github.com/in-toto/in-toto
+            logo: intoto.svg
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+            extra:
+              details_url: https://docs.sigstore.dev/cosign/attestation/              
+          - item:
             name: Helm plugin for Sigstore
             homepage_url: https://helm.sh/
             repo_url: https://github.com/sigstore/helm-sigstore
@@ -708,7 +724,7 @@ landscape:
             twitter: https://twitter.com/helmpack
             crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
             extra:
-              details_url: https://medium.com/@sabre1041/integrating-helm-into-the-sigstore-project-d51564ea001f/
+              details_url: https://medium.com/@sabre1041/integrating-helm-into-the-sigstore-project-d51564ea001f/              
           - item:
             name: JReleaser
             homepage_url: https://jreleaser.org
