@@ -715,7 +715,7 @@ landscape:
             logo: intoto.svg
             crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
             extra:
-              details_url: https://docs.sigstore.dev/cosign/attestation/              
+              details_url: https://docs.sigstore.dev/cosign/attestation/
           - item:
             name: Helm plugin for Sigstore
             homepage_url: https://helm.sh/
@@ -724,7 +724,7 @@ landscape:
             twitter: https://twitter.com/helmpack
             crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
             extra:
-              details_url: https://medium.com/@sabre1041/integrating-helm-into-the-sigstore-project-d51564ea001f/              
+              details_url: https://medium.com/@sabre1041/integrating-helm-into-the-sigstore-project-d51564ea001f/
           - item:
             name: JReleaser
             homepage_url: https://jreleaser.org
