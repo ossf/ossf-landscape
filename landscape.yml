@@ -205,12 +205,6 @@ landscape:
             twitter: https://twitter.com/anacondainc
             crunchbase: https://www.crunchbase.com/organization/anaconda-pharma
           - item:
-            name: Anchore, Inc
-            homepage_url: https://anchore.com/
-            logo: anchore_inc.svg
-            twitter: https://twitter.com/anchore
-            crunchbase: https://www.crunchbase.com/organization/anchore-inc
-          - item:
             name: Apiiro
             homepage_url: https://apiiro.com/
             logo: apiiro.svg
