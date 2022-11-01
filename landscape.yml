@@ -853,7 +853,7 @@ landscape:
             twitter: https://twitter.com/kyverno
             crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
             extra:
-              how_to_verify_url: https://kyverno.io/docs/security/#verifying-kyverno-container-images
+              how_to_verify_url: https://kyverno.io/docs/security/
           - item:
             name: Ockam
             homepage_url: https://www.ockam.io/
