@@ -846,6 +846,16 @@ landscape:
             extra:
               how_to_verify_url: https://kubernetes.io/docs/tasks/administer-cluster/verify-signed-images
           - item:
+            name: Kyverno (Signed With)
+            homepage_url: https://kyverno.io/
+            # repo_url: https://github.com/kyverno/kyverno
+            logo: kyverno.svg
+            twitter: https://twitter.com/kyverno
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+            # allow_duplicate_repo: true
+            extra:
+              how_to_verify_url: https://kyverno.io/docs/security/
+          - item:
             name: Ockam
             homepage_url: https://www.ockam.io/
             repo_url: https://github.com/build-trust/ockam
