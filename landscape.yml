@@ -846,7 +846,7 @@ landscape:
             extra:
               how_to_verify_url: https://kubernetes.io/docs/tasks/administer-cluster/verify-signed-images
           - item:
-            name: Kyverno
+            name: Kyverno (Signed With)
             homepage_url: https://kyverno.io/
             repo_url: https://github.com/kyverno/kyverno
             logo: kyverno.svg
