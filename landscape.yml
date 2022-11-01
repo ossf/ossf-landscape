@@ -852,6 +852,7 @@ landscape:
             logo: kyverno.svg
             twitter: https://twitter.com/kyverno
             crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+            allow_duplicate_repo: true
             extra:
               how_to_verify_url: https://kyverno.io/docs/security/
           - item:
