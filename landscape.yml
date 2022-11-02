@@ -62,12 +62,6 @@ landscape:
             twitter: https://twitter.com/ericsson
             crunchbase: https://www.crunchbase.com/organization/ericsson
           - item:
-            name: Fidelity Investments
-            homepage_url: https://fidelity.com/
-            logo: fidelity_investments.svg
-            twitter: https://twitter.com/Fidelity
-            crunchbase: https://www.crunchbase.com/organization/fidelity-investments
-          - item:
             name: GitHub, Inc.
             homepage_url: https://github.com/
             logo: github_inc.svg
@@ -230,12 +224,6 @@ landscape:
             twitter: https://twitter.com/AuriStor
             crunchbase: https://www.crunchbase.com/organization/auristor
           - item:
-            name: Blockchain Technology Partners, Inc.
-            homepage_url: https://blockchaintp.com/
-            logo: blockchain_technology_partners_inc.svg
-            twitter: https://twitter.com/blockchaintp
-            crunchbase: https://www.crunchbase.com/organization/blockchain-technology-partners
-          - item:
             name: Block, Inc.
             homepage_url: https://block.xyz/
             logo: block_inc.svg
@@ -326,6 +314,13 @@ landscape:
             logo: depository_trust_and_clearing_corporation_dtcc.svg
             twitter: https://twitter.com/The_DTCC
             crunchbase: https://www.crunchbase.com/organization/dtcc
+          - item:
+            name: Endor Labs
+            homepage_url: https://endor.ai/
+            logo: endor_labs.svg
+            twitter: https://twitter.com/EndorLabs
+            organization:
+              name: Endor Labs
           - item:
             name: F5, Inc.
             homepage_url: https://f5.com/
@@ -581,6 +576,13 @@ landscape:
             logo: nanyang_technological_university.svg
             twitter: https://twitter.com/NTUsg
             crunchbase: https://www.crunchbase.com/organization/nanyang-technological-university
+          - item:
+            name: OpenForum Europe
+            homepage_url: https://openforumeurope.org/
+            logo: openforum_europe.svg
+            twitter: https://twitter.com/OpenForumEurope
+            organization:
+              name: OpenForum Europe
           - item:
             name: Open Source Technology Improvement Fund, Inc.
             homepage_url: https://ostif.org/
@@ -848,11 +850,9 @@ landscape:
           - item:
             name: Kyverno (Signed With)
             homepage_url: https://kyverno.io/
-            # repo_url: https://github.com/kyverno/kyverno
             logo: kyverno.svg
             twitter: https://twitter.com/kyverno
             crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-            # allow_duplicate_repo: true
             extra:
               how_to_verify_url: https://kyverno.io/docs/security/
           - item:
