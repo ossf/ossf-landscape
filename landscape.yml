@@ -328,6 +328,12 @@ landscape:
             twitter: https://twitter.com/F5
             crunchbase: https://www.crunchbase.com/organization/f5-networks
           - item:
+            name: Fidelity Investments
+            homepage_url: https://fidelity.com/
+            logo: fidelity_investments.svg
+            twitter: https://twitter.com/Fidelity
+            crunchbase: https://www.crunchbase.com/organization/fidelity-investments
+          - item:
             name: FOSSA
             homepage_url: https://fossa.io/
             logo: fossa.svg
