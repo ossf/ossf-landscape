@@ -866,7 +866,7 @@ landscape:
             homepage_url: https://www.ockam.io/
             repo_url: https://github.com/build-trust/ockam
             logo: ockam.svg
-            crunchbase: https://www.crunchbase.com/organization/build-trust
+            crunchbase: https://www.crunchbase.com/organization/ockam
             extra:
               how_to_verify_url: https://github.com/build-trust/ockam/releases/tag/ockam_v0.76.0
           - item:
