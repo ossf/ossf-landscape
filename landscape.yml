@@ -717,6 +717,16 @@ landscape:
             extra:
               details_url: https://blog.sigstore.dev/sigstore-bring-your-own-stuf-with-tuf-40febfd2badd
           - item:
+            name: Trivy
+            homepage_url: https://trivy.dev/
+            repo_url: https://github.com/aquasecurity/trivy
+            logo: trivy.svg
+            twitter: https://twitter.com/AquaSecTeam
+            organization:
+              name: AquaSecurity
+            extra:
+              details_url: https://aquasecurity.github.io/trivy/latest/tutorials/signing/vuln-attestation/
+          - item:
             name: in-toto
             homepage_url: https://in-toto.io/
             repo_url: https://github.com/in-toto/in-toto
