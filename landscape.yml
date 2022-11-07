@@ -828,6 +828,14 @@ landscape:
             extra:
               how_to_verify_url: https://cert-manager.io/docs/installation/code-signing/
           - item:
+            name: Cilium
+            homepage_url: https://cilium.io/
+            repo_url: https://github.com/cilium/cilium
+            logo: cilium.svg
+            crunchbase: https://www.crunchbase.com/organization/cilium
+            extra:
+              how_to_verify_url: https://docs.cilium.io/en/latest/configuration/verify-image-signatures/#verifying-image-signatures
+          - item:
             name: Flux
             homepage_url: https://fluxcd.io/
             repo_url: https://github.com/fluxcd/flux
