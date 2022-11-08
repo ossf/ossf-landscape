@@ -820,6 +820,15 @@ landscape:
         name: Signed With
         items:
           - item:
+            name: Caddy Server
+            homepage_url: https://caddyserver.com/
+            repo_url: https://github.com/caddyserver/caddy
+            logo: caddyserver.svg
+            twitter: https://twitter.com/caddyserver
+            crunchbase: https://www.crunchbase.com/organization/ardan-labs
+            extra:
+              how_to_verify_url: https://caddyserver.com/docs/signature-verification        
+          - item:
             name: Cert Manager
             homepage_url: https://cert-manager.io
             repo_url: https://github.com/cert-manager/cert-manager
