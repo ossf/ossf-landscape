@@ -771,6 +771,15 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/continuous-delivery-foundation-cdf
             extra:
               how_to_verify_url: https://github.com/tektoncd/chains/releases
+          - item:
+            name: Flux
+            homepage_url: https://fluxcd.io/
+            repo_url: https://github.com/fluxcd/flux2
+            logo: flux.svg
+            twitter: https://twitter.com/fluxcd
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+            extra:
+              how_to_verify_url: https://fluxcd.io/flux/cheatsheets/oci-artifacts/#signing-and-verification
       - subcategory:
         name: Language Clients
         items:
@@ -836,9 +845,8 @@ landscape:
             extra:
               how_to_verify_url: https://docs.cilium.io/en/latest/configuration/verify-image-signatures/#verifying-image-signatures
           - item:
-            name: Flux
+            name: Flux (Signed With)
             homepage_url: https://fluxcd.io/
-            repo_url: https://github.com/fluxcd/flux
             logo: flux.svg
             twitter: https://twitter.com/fluxcd
             crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
