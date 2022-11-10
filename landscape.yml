@@ -939,3 +939,10 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/suse
             extra:
               case_study_url: https://blog.sigstore.dev/sigstore-proves-that-effective-supply-chain-security-doesnt-have-to-hurt-cf33cf9333c8
+          - item:
+            name: Verizon
+            homepage_url: https://www.verizon.com/business
+            logo: verizon.svg
+            crunchbase: https://www.crunchbase.com/organization/verizon
+            extra:
+              case_study_url: https://blog.sigstore.dev/security-by-default-how-verizon-new-business-incubation-uses-sigstore-to-demonstrate-provenance-7beed5714738
