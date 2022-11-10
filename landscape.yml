@@ -880,6 +880,15 @@ landscape:
             extra:
               how_to_verify_url: https://kubernetes.io/docs/tasks/administer-cluster/verify-signed-images
           - item:
+            name: Kubewarden
+            homepage_url: https://www.kubewarden.io/
+            repo_url: https://github.com/kubewarden/kubewarden-controller
+            logo: kubewarden.svg
+            twitter: https://twitter.com/kubewarden
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+            extra:
+              how_to_verify_url: https://docs.kubewarden.io/distributing-policies/secure-supply-chain              
+          - item:
             name: Kyverno (Signed With)
             homepage_url: https://kyverno.io/
             logo: kyverno.svg
