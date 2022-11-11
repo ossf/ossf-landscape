@@ -887,7 +887,7 @@ landscape:
             twitter: https://twitter.com/kubewarden
             crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
             extra:
-              how_to_verify_url: https://docs.kubewarden.io/distributing-policies/secure-supply-chain              
+              how_to_verify_url: https://docs.kubewarden.io/distributing-policies/secure-supply-chain
           - item:
             name: Kyverno (Signed With)
             homepage_url: https://kyverno.io/
