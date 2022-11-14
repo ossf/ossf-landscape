@@ -315,6 +315,12 @@ landscape:
             twitter: https://twitter.com/The_DTCC
             crunchbase: https://www.crunchbase.com/organization/dtcc
           - item:
+            name: Docker, Inc.
+            homepage_url: https://docker.com/
+            logo: docker_inc.svg
+            twitter: https://twitter.com/Docker
+            crunchbase: https://www.crunchbase.com/organization/docker
+          - item:
             name: Endor Labs
             homepage_url: https://endor.ai/
             logo: endor_labs.svg
