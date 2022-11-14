@@ -868,6 +868,15 @@ landscape:
             extra:
               how_to_verify_url: https://fluxcd.io/blog/2022/02/security-image-provenance/
           - item:
+            name: Istio
+            homepage_url: https://istio.io/
+            repo_url: https://github.com/istio/istio
+            logo: istio.svg
+            twitter: https://twitter.com/IstioMesh
+            crunchbase: https://www.crunchbase.com/organization/istio
+            extra:
+              how_to_verify_url: https://istio.io/latest/docs/ops/best-practices/image-signing-validation/#validating-image
+          - item:
             name: Jenkins X
             homepage_url: https://jenkins-x.io/
             repo_url: https://github.com/jenkins-x/jx
