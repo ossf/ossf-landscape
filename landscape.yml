@@ -771,7 +771,7 @@ landscape:
           - item:
             name: Kubewarden
             homepage_url: https://www.kubewarden.io/
-            repo_url: https://github.com/kubewarden/kubewarden-controller
+            repo_url: https://github.com/kubewarden/verify-image-signatures
             logo: kubewarden.svg
             twitter: https://twitter.com/kubewarden
             crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
