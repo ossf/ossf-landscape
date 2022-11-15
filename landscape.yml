@@ -902,8 +902,6 @@ landscape:
             twitter: https://twitter.com/KnativeProject
             crunchbase: https://www.crunchbase.com/organization/knative
             extra:
-              # While signing has begun, the balance will land in 1.9 (ETA January), which is tracked
-              # here: https://github.com/knative/test-infra/issues/3615
               how_to_verify_url: https://knative.dev
           - item:
             name: Kubernetes
