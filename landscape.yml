@@ -892,6 +892,14 @@ landscape:
             extra:
               how_to_verify_url: https://github.com/jenkins-x/jx/releases
           - item:
+            name: Karpenter
+            homepage_url: https://karpenter.sh/
+            repo_url: https://github.com/aws/karpenter
+            logo: karpenter.svg
+            crunchbase: https://www.crunchbase.com/organization/amazon-web-services
+            extra:
+              details: https://github.com/aws/karpenter/blob/79132317cbac253f16642b7af06f7437b1c68056/hack/release/common.sh            
+          - item:
             name: Keda
             homepage_url: https://keda.sh/
             repo_url: https://github.com/kedacore/keda
