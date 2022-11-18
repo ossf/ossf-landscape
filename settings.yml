@@ -203,14 +203,14 @@ big_picture:
             font_size: 10
           - type: image
             image: qr.svg
-            top: 60
+            top: 30
             left: 20
             width: 90
             height: 90
             title: QR Code
           - type: title
             title: l.openssf.org
-            top: 145
+            top: 115
             left: 10
             font_size: 18
           - type: image
