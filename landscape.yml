@@ -236,6 +236,12 @@ landscape:
             twitter: https://twitter.com/business
             crunchbase: https://www.crunchbase.com/organization/bloomberg
           - item:
+            name: Boost Security
+            homepage_url: https://boostsecurity.io/
+            logo: boost_security.svg
+            organization:
+              name: Boost Security
+          - item:
             name: Catena cyber
             homepage_url: https://catenacyber.fr/
             logo: catena_cyber.svg
@@ -314,6 +320,12 @@ landscape:
             logo: depository_trust_and_clearing_corporation_dtcc.svg
             twitter: https://twitter.com/The_DTCC
             crunchbase: https://www.crunchbase.com/organization/dtcc
+          - item:
+            name: Docker, Inc.
+            homepage_url: https://docker.com/
+            logo: docker_inc.svg
+            twitter: https://twitter.com/Docker
+            crunchbase: https://www.crunchbase.com/organization/docker
           - item:
             name: Endor Labs
             homepage_url: https://endor.ai/
@@ -763,6 +775,15 @@ landscape:
             extra:
               details_url: https://kyverno.io/docs/writing-policies/verify-images/
           - item:
+            name: Kubewarden
+            homepage_url: https://www.kubewarden.io/
+            repo_url: https://github.com/kubewarden/verify-image-signatures
+            logo: kubewarden.svg
+            twitter: https://twitter.com/kubewarden
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+            extra:
+              details_url: https://docs.kubewarden.io/distributing-policies/secure-supply-chain
+          - item:
             name: Tekton Chains
             homepage_url: https://tekton.dev
             repo_url: https://github.com/tektoncd/chains
@@ -853,6 +874,15 @@ landscape:
             extra:
               how_to_verify_url: https://fluxcd.io/blog/2022/02/security-image-provenance/
           - item:
+            name: Istio
+            homepage_url: https://istio.io/
+            repo_url: https://github.com/istio/istio
+            logo: istio.svg
+            twitter: https://twitter.com/IstioMesh
+            crunchbase: https://www.crunchbase.com/organization/istio
+            extra:
+              how_to_verify_url: https://istio.io/latest/docs/ops/best-practices/image-signing-validation/#validating-image
+          - item:
             name: Jenkins X
             homepage_url: https://jenkins-x.io/
             repo_url: https://github.com/jenkins-x/jx
@@ -879,6 +909,15 @@ landscape:
             extra:
               how_to_verify_url: https://github.com/kedacore/keda/releases/tag/v2.6.0
           - item:
+            name: Knative
+            homepage_url: https://knative.dev/
+            repo_url: https://github.com/knative/community
+            logo: knative.svg
+            twitter: https://twitter.com/KnativeProject
+            crunchbase: https://www.crunchbase.com/organization/knative
+            extra:
+              how_to_verify_url: https://knative.dev
+          - item:
             name: Kubernetes
             homepage_url: https://kubernetes.io/
             repo_url: https://github.com/kubernetes/kubernetes
@@ -888,7 +927,7 @@ landscape:
             extra:
               how_to_verify_url: https://kubernetes.io/docs/tasks/administer-cluster/verify-signed-images
           - item:
-            name: Kubewarden
+            name: Kubewarden (Signed With)
             homepage_url: https://www.kubewarden.io/
             repo_url: https://github.com/kubewarden/kubewarden-controller
             logo: kubewarden.svg
@@ -903,7 +942,7 @@ landscape:
             twitter: https://twitter.com/kyverno
             crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
             extra:
-              how_to_verify_url: https://kyverno.io/docs/security/
+              how_to_verify_url: https://github.com/kubewarden/kubewarden-controller/releases/latest
           - item:
             name: Ockam
             homepage_url: https://www.ockam.io/

@@ -182,16 +182,53 @@ big_picture:
       - type: HorizontalCategory
         category: Deployments
         rows: 1
-        width: 270
+        width: 220
         height: 200
         top: 5
         left: 530
         color: rgb(103,66,18)
         is_large: true
+      - type: LandscapeInfo
+        width: 310
+        height: 200
+        top: 5
+        left: 765
+        children:
+          - type: text
+            text: |
+              Sigstore is a new standard for signing, verifying, and protecting software. It is an OpenSSF project and this landscape is intended as a map to explore the Sigstore ecosystem.
+            top: 60
+            left: 140
+            right: 10
+            font_size: 10
+          - type: image
+            image: qr.svg
+            top: 30
+            left: 20
+            width: 90
+            height: 90
+            title: QR Code
+          - type: title
+            title: l.openssf.org
+            top: 115
+            left: 10
+            font_size: 18
+          - type: image
+            image: left-logo.svg
+            width: 90
+            right: 105
+            top: 10
+            title: Landscape Logo
+          - type: image
+            image: right-logo.svg
+            width: 90
+            right: 10
+            top: 10
+            title: OpenSSF Logo        
       - type: HorizontalCategory
         category: Integrations
         rows: 2
-        width: 500
+        width: 775
         height: 200
         top: 215
         left: 5
@@ -203,13 +240,13 @@ big_picture:
         width: 270
         height: 200
         top: 215
-        left: 530
+        left: 805
         color: rgb(46,47,113)
         is_large: true        
       - type: HorizontalCategory
         category: Signed With
         rows: 2
-        width: 550
+        width: 825
         height: 200
         top: 425
         left: 5
@@ -221,7 +258,7 @@ big_picture:
         width: 220
         height: 200
         top: 425
-        left: 580
+        left: 855
         color: rgb(17,115,115)
         is_large: true
 test:
