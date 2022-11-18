@@ -236,6 +236,12 @@ landscape:
             twitter: https://twitter.com/business
             crunchbase: https://www.crunchbase.com/organization/bloomberg
           - item:
+            name: Boost Security
+            homepage_url: https://boostsecurity.io/
+            logo: boost_security.svg
+            organization:
+              name: Boost Security
+          - item:
             name: Catena cyber
             homepage_url: https://catenacyber.fr/
             logo: catena_cyber.svg
