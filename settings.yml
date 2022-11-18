@@ -182,7 +182,7 @@ big_picture:
       - type: HorizontalCategory
         category: Deployments
         rows: 1
-        width: 120
+        width: 220
         height: 200
         top: 5
         left: 530
@@ -190,14 +190,14 @@ big_picture:
         is_large: true
       - type: LandscapeInfo
         width: 310
-        height: 150
+        height: 200
         top: 5
-        left: 665
+        left: 765
         children:
           - type: text
             text: |
               Sigstore is a new standard for signing, verifying, and protecting software. It is an OpenSSF project and this landscape is intended as a map to explore the Sigstore ecosystem.
-            top: 45
+            top: 60
             left: 140
             right: 10
             font_size: 10
