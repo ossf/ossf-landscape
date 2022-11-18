@@ -228,7 +228,7 @@ big_picture:
       - type: HorizontalCategory
         category: Integrations
         rows: 2
-        width: 550
+        width: 775
         height: 200
         top: 215
         left: 5
@@ -240,13 +240,13 @@ big_picture:
         width: 270
         height: 200
         top: 215
-        left: 580
+        left: 805
         color: rgb(46,47,113)
         is_large: true        
       - type: HorizontalCategory
         category: Signed With
         rows: 2
-        width: 600
+        width: 825
         height: 200
         top: 425
         left: 5
@@ -258,7 +258,7 @@ big_picture:
         width: 220
         height: 200
         top: 425
-        left: 630
+        left: 855
         color: rgb(17,115,115)
         is_large: true
 test:
