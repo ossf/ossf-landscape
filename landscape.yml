@@ -898,7 +898,7 @@ landscape:
             logo: karpenter.svg
             crunchbase: https://www.crunchbase.com/organization/amazon-web-services
             extra:
-              details: https://github.com/aws/karpenter/blob/79132317cbac253f16642b7af06f7437b1c68056/hack/release/common.sh            
+              details: https://github.com/aws/karpenter/blob/79132317cbac253f16642b7af06f7437b1c68056/hack/release/common.sh
           - item:
             name: Keda
             homepage_url: https://keda.sh/
