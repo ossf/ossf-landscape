@@ -982,6 +982,13 @@ landscape:
         name: Case Studies
         items:
           - item:
+            name: Autodesk
+            homepage_url: https://www.autodesk.com//
+            logo: autodesk.svg
+            crunchbase: https://www.crunchbase.com/organization/autodesk
+            extra:
+              case_study_url: https://blog.sigstore.dev/using-sigstore-to-meet-fedramp-compliance-at-autodesk-6f645a920abc        
+          - item:
             name: Edgeless Systems
             homepage_url: https://www.edgeless.systems/
             logo: edgeless-systems.svg
