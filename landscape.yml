@@ -39,7 +39,7 @@ landscape:
             name: Citi
             homepage_url: https://citi.com/
             logo: citi.svg
-            twitter: https://twitter.com/Citi
+            twitter: https://twitter.com/BeneficiosCiti
             crunchbase: https://www.crunchbase.com/organization/citigroup
             joined: '2021-01-25'
           - item:
@@ -239,6 +239,7 @@ landscape:
             name: Boost Security
             homepage_url: https://boostsecurity.io/
             logo: boost_security.svg
+            twitter: https://twitter.com/boostsecurityio
             organization:
               name: Boost Security
           - item:
@@ -360,13 +361,13 @@ landscape:
             name: GitLab Inc.
             homepage_url: https://gitlab.com/
             logo: gitlab_inc.svg
-            twitter: https://twitter.com/gitlabhq
+            twitter: https://twitter.com/gitlab
             crunchbase: https://www.crunchbase.com/organization/gitlab-com
           - item:
             name: Goldman Sachs & Co. LLC
             homepage_url: https://goldmansachs.com/
             logo: goldman_sachs__co_llc.svg
-            twitter: https://twitter.com/GoldmanSachs
+            twitter: https://twitter.com/GSCareers
             crunchbase: https://www.crunchbase.com/organization/goldman-sachs
           - item:
             name: Gravitational, Inc
@@ -519,6 +520,7 @@ landscape:
             name: VicOne Inc.
             homepage_url: https://vicone.com/
             logo: vicone_inc.svg
+            twitter: https://twitter.com/VicOneAuto
             crunchbase: https://www.crunchbase.com/organization/vicone
           - item:
             name: Wind River Systems, Inc.
