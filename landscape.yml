@@ -655,6 +655,7 @@ landscape:
             logo: sigstore.svg
             extra:
               training_course_url: https://www.edx.org/course/securing-your-software-supply-chain-with-sigstore
+              academic_paper_url: https://dl.acm.org/doi/10.1145/3548606.3560596
       - subcategory:
         name: Projects
         items:
