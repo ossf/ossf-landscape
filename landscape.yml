@@ -18,6 +18,12 @@ landscape:
             twitter: https://twitter.com/amazon
             crunchbase: https://www.crunchbase.com/organization/amazon-web-services
           - item:
+            name: Apple Inc.
+            homepage_url: https://apple.com/
+            logo: apple_inc.svg
+            twitter: https://twitter.com/Apple
+            crunchbase: https://www.crunchbase.com/organization/apple
+          - item:
             name: Atlassian Inc
             homepage_url: https://atlassian.com/
             logo: atlassian_inc.svg
@@ -91,12 +97,6 @@ landscape:
             logo: international_business_machines_corporation.svg
             twitter: https://twitter.com/IBM
             crunchbase: https://www.crunchbase.com/organization/ibm
-          - item:
-            name: JFrog, Inc
-            homepage_url: https://jfrog.com/
-            logo: jfrog_inc.svg
-            twitter: https://twitter.com/jfrog
-            crunchbase: https://www.crunchbase.com/organization/jfrog-ltd
           - item:
             name: JPMorgan Chase
             homepage_url: https://jpmorganchase.com/
@@ -243,13 +243,6 @@ landscape:
             organization:
               name: Boost Security
           - item:
-            name: Catena cyber
-            homepage_url: https://catenacyber.fr/
-            logo: catena_cyber.svg
-            twitter: https://twitter.com/catenacyber
-            organization:
-              name: Catena cyber
-          - item:
             name: Chainguard
             homepage_url: https://chainguard.dev/
             logo: chainguard.svg
@@ -388,6 +381,12 @@ landscape:
             twitter: https://twitter.com/indeed
             crunchbase: https://www.crunchbase.com/organization/indeed
           - item:
+            name: JFrog, Inc
+            homepage_url: https://jfrog.com/
+            logo: jfrog_inc.svg
+            twitter: https://twitter.com/jfrog
+            crunchbase: https://www.crunchbase.com/organization/jfrog-ltd
+          - item:
             name: Kasten, Inc.
             homepage_url: https://kasten.io/
             logo: kasten_inc.svg
@@ -516,6 +515,12 @@ landscape:
             logo: timesys_corporation.svg
             twitter: https://twitter.com/Timesys
             crunchbase: https://www.crunchbase.com/organization/timesys-corporation
+          - item:
+            name: Trail of Bits
+            homepage_url: https://trailofbits.com/
+            logo: trail_of_bits.svg
+            twitter: https://twitter.com/trailofbits
+            crunchbase: https://www.crunchbase.com/organization/trail-of-bits
           - item:
             name: VicOne Inc.
             homepage_url: https://vicone.com/
