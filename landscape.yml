@@ -424,6 +424,12 @@ landscape:
             organization:
               name: Phylum
           - item:
+            name: Privado
+            homepage_url: https://privado.ai/
+            logo: privado.svg
+            twitter: https://twitter.com/PrivadoHQ
+            crunchbase: https://www.crunchbase.com/organization/privado
+          - item:
             name: Qualys, Inc.
             homepage_url: https://qualys.com/
             logo: qualys_inc.svg
