@@ -992,6 +992,15 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/python-software-foundation
             extra:
               how_to_verify_url: https://github.com/urllib3/urllib3/releases/tag/1.26.10
+          - item:
+            name: Fluent Bit
+            homepage_url: https://fluentbit.io/
+            repo_url: https://github.com/fluent/fluent-bit
+            logo: fluentbit.svg
+            twitter: https://twitter.com/fluentbit
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+            extra:
+              how_to_verify_url: https://docs.fluentbit.io/manual/installation/docker#verify-signed-container-images
       - subcategory:
         name: Case Studies
         items:
