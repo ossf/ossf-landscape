@@ -6,12 +6,6 @@ landscape:
         name: Premier
         items:
           - item:
-            name: 1Password
-            homepage_url: https://1password.com/
-            logo: 1password.svg
-            twitter: https://twitter.com/1Password
-            crunchbase: https://www.crunchbase.com/organization/1password
-          - item:
             name: Amazon Web Services, Inc.
             homepage_url: https://aws.amazon.com/
             logo: amazon_web_services_inc.svg
