@@ -960,6 +960,14 @@ landscape:
             extra:
               how_to_verify_url: https://github.com/build-trust/ockam/releases/tag/ockam_v0.76.0
           - item:
+            name: Pulumi
+            homepage_url: https://www.pulumi.com/
+            repo_url: https://github.com/pulumi/pulumi
+            logo: pulumi.svg
+            crunchbase: https://www.crunchbase.com/organization/pulumi-corporation
+            extra:
+              how_to_verify_url: https://github.com/pulumi/pulumi/releases/latest
+          - item:
             name: CPython
             homepage_url: https://www.python.org/
             repo_url: https://github.com/python/cpython
