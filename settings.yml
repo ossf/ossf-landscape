@@ -182,7 +182,7 @@ big_picture:
       - type: HorizontalCategory
         category: Deployments
         rows: 1
-        width: 220
+        width: 270
         height: 200
         top: 5
         left: 530
@@ -192,7 +192,7 @@ big_picture:
         width: 310
         height: 200
         top: 5
-        left: 765
+        left: 815
         children:
           - type: text
             text: |
@@ -228,7 +228,7 @@ big_picture:
       - type: HorizontalCategory
         category: Integrations
         rows: 2
-        width: 775
+        width: 825
         height: 200
         top: 215
         left: 5
@@ -240,7 +240,7 @@ big_picture:
         width: 270
         height: 200
         top: 215
-        left: 805
+        left: 855
         color: rgb(46,47,113)
         is_large: true        
       - type: HorizontalCategory
@@ -255,7 +255,7 @@ big_picture:
       - type: HorizontalCategory
         category: Case Studies
         rows: 2
-        width: 220
+        width: 270
         height: 200
         top: 425
         left: 855
