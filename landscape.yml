@@ -1007,27 +1007,23 @@ landscape:
             name: Linkerd
             homepage_url: https://linkerd.io/
             repo_url: https://github.com/linkerd/linkerd2
-            logo: knative.svg
+            logo: linkerd.svg
             twitter: https://twitter.com/linkerd
-            crunchbase: https://www.crunchbase.com/organization/linkerd
-            extra:
-              how_to_verify_url: https://linkerd.io
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
           - item:
             name: Shipwright
             homepage_url: https://shipwright.io/
             repo_url: https://github.com/shipwright-io/build
-            logo: knative.svg
+            logo: shipwright.svg
             twitter: https://twitter.com/shipwrightio
-            extra:
-              how_to_verify_url: https://shipwright.io
+            crunchbase: https://www.crunchbase.com/organization/continuous-delivery-foundation-cdf
           - item:
             name: Keptn
             homepage_url: https://keptn.sh
             repo_url: https://github.com/keptn/keptn
             logo: keptn.svg
             twitter: https://twitter.com/keptnProject
-            extra:
-              how_to_verify_url: https://keptn.sh
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
       - subcategory:
         name: Case Studies
         items:
