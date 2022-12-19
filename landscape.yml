@@ -1013,6 +1013,27 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
             extra:
               how_to_verify_url: https://docs.fluentbit.io/manual/installation/docker#verify-signed-container-images
+          - item:
+            name: Linkerd
+            homepage_url: https://linkerd.io/
+            repo_url: https://github.com/linkerd/linkerd2
+            logo: linkerd.svg
+            twitter: https://twitter.com/linkerd
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+          - item:
+            name: Shipwright
+            homepage_url: https://shipwright.io/
+            repo_url: https://github.com/shipwright-io/build
+            logo: shipwright.svg
+            twitter: https://twitter.com/shipwrightio
+            crunchbase: https://www.crunchbase.com/organization/continuous-delivery-foundation-cdf
+          - item:
+            name: Keptn
+            homepage_url: https://keptn.sh
+            repo_url: https://github.com/keptn/keptn
+            logo: keptn.svg
+            twitter: https://twitter.com/keptnProject
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
       - subcategory:
         name: Case Studies
         items:
