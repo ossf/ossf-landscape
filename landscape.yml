@@ -27,7 +27,6 @@ landscape:
             name: Capital One Services LLC
             homepage_url: https://capitalone.com/
             logo: capital_one_services_llc.svg
-            twitter: https://twitter.com/CapitalOne
             crunchbase: https://www.crunchbase.com/organization/capital-one
           - item:
             name: Cisco Systems, Inc.
@@ -46,26 +45,22 @@ landscape:
             name: Coinbase Inc.
             homepage_url: https://coinbase.com/
             logo: coinbase_inc.svg
-            twitter: https://twitter.com/coinbase
             crunchbase: https://www.crunchbase.com/organization/coinbase
             joined: '2022-02-17'
           - item:
             name: Dell Technologies
             homepage_url: https://delltechnologies.com/
             logo: dell_technologies.svg
-            twitter: https://twitter.com/Dell
             crunchbase: https://www.crunchbase.com/organization/dell
           - item:
             name: Ericsson
             homepage_url: https://ericsson.com/
             logo: ericsson.svg
-            twitter: https://twitter.com/ericsson
             crunchbase: https://www.crunchbase.com/organization/ericsson
           - item:
             name: GitHub, Inc.
             homepage_url: https://github.com/
             logo: github_inc.svg
-            twitter: https://twitter.com/github
             crunchbase: https://www.crunchbase.com/organization/github
           - item:
             name: Google LLC
@@ -77,50 +72,41 @@ landscape:
             name: Huawei Technologies Co., Ltd
             homepage_url: https://huawei.com/
             logo: huawei_technologies_co_ltd.svg
-            twitter: https://twitter.com/Huawei
             crunchbase: https://www.crunchbase.com/organization/huawei
           - item:
             name: Intel Corporation
             homepage_url: https://intel.com/
             logo: intel_corporation.svg
-            twitter: https://twitter.com/intel
             crunchbase: https://www.crunchbase.com/organization/intel
           - item:
             name: International Business Machines Corporation
             homepage_url: https://ibm.com/
             logo: international_business_machines_corporation.svg
-            twitter: https://twitter.com/IBM
             crunchbase: https://www.crunchbase.com/organization/ibm
           - item:
             name: JPMorgan Chase
             homepage_url: https://jpmorganchase.com/
             logo: jpmorgan_chase.svg
-            twitter: https://twitter.com/jpmorgan
             crunchbase: https://www.crunchbase.com/organization/jpmorgan-chase-co
           - item:
             name: Meta Platforms, Inc.
             homepage_url: https://meta.com/
             logo: meta_platforms_inc.svg
-            twitter: https://twitter.com/Meta
             crunchbase: https://www.crunchbase.com/organization/facebook
-            stock_ticker: META
           - item:
             name: Microsoft Corporation
             homepage_url: https://microsoft.com/
             logo: microsoft_corporation.svg
-            twitter: https://twitter.com/Microsoft
             crunchbase: https://www.crunchbase.com/organization/microsoft
           - item:
             name: Morgan Stanley
             homepage_url: https://morganstanley.com/
             logo: morgan_stanley.svg
-            twitter: https://twitter.com/MorganStanley
             crunchbase: https://www.crunchbase.com/organization/morgan-stanley
           - item:
             name: Oracle America Inc.
             homepage_url: https://oracle.com/
             logo: oracle_america_inc.svg
-            twitter: https://twitter.com/Oracle
             crunchbase: https://www.crunchbase.com/organization/oracle
           - item:
             name: Red Hat, Inc.
@@ -132,7 +118,6 @@ landscape:
             name: Snyk Limited
             homepage_url: https://snyk.io/
             logo: snyk_limited.svg
-            twitter: https://twitter.com/snyksec
             crunchbase: https://www.crunchbase.com/organization/snyk
           - item:
             name: Sonatype, Inc.
@@ -144,13 +129,11 @@ landscape:
             name: VMware, Inc.
             homepage_url: https://vmware.com/
             logo: vmware_inc.svg
-            twitter: https://twitter.com/VMware
             crunchbase: https://www.crunchbase.com/organization/vmware
           - item:
             name: Wipro Limited
             homepage_url: https://wipro.com/
             logo: wipro_limited.svg
-            twitter: https://twitter.com/Wipro
             crunchbase: https://www.crunchbase.com/organization/wipro
       - subcategory:
         name: General
@@ -172,13 +155,11 @@ landscape:
             name: Aiven Inc
             homepage_url: https://aiven.io/
             logo: aiven_inc.svg
-            twitter: https://twitter.com/aiven_io
             crunchbase: https://www.crunchbase.com/organization/aiven
           - item:
             name: Akamai Technologies, Inc.
             homepage_url: https://akamai.com/
             logo: akamai_technologies_inc.svg
-            twitter: https://twitter.com/Akamai
             crunchbase: https://www.crunchbase.com/organization/akamai-technologies
           - item:
             name: Alibaba Cloud (Singapore) Private LTD
@@ -196,7 +177,6 @@ landscape:
             name: Anchore, Inc
             homepage_url: https://anchore.com/
             logo: anchore_inc.svg
-            twitter: https://twitter.com/anchore
             crunchbase: https://www.crunchbase.com/organization/anchore-inc
           - item:
             name: Apiiro
@@ -240,7 +220,6 @@ landscape:
             name: Chainguard
             homepage_url: https://chainguard.dev/
             logo: chainguard.svg
-            twitter: https://twitter.com/chainguard_dev
             crunchbase: https://www.crunchbase.com/organization/chainguard
           - item:
             name: Checkmarx
@@ -252,13 +231,11 @@ landscape:
             name: Cloudsmith Ltd
             homepage_url: https://cloudsmith.com/
             logo: cloudsmith_ltd.svg
-            twitter: https://twitter.com/cloudsmith
             crunchbase: https://www.crunchbase.com/organization/cloudsmith-io
           - item:
             name: Codethink
             homepage_url: https://codethink.co.uk/
             logo: codethink.svg
-            twitter: https://twitter.com/codethink
             crunchbase: https://www.crunchbase.com/organization/codethink
           - item:
             name: Comcast Cable Communications, LLC
@@ -270,7 +247,6 @@ landscape:
             name: ControlPlane.io
             homepage_url: https://control-plane.io/
             logo: controlplaneio.svg
-            twitter: https://twitter.com/controlplaneio
             crunchbase: https://www.crunchbase.com/organization/controlplane
           - item:
             name: Cybertrust Japan Co., Ltd.
@@ -288,13 +264,11 @@ landscape:
             name: Cycode, Inc.
             homepage_url: https://cycode.com/
             logo: cycode_inc.svg
-            twitter: https://twitter.com/CycodeHQ
             crunchbase: https://www.crunchbase.com/organization/cycode
           - item:
             name: Deepfence, Inc
             homepage_url: https://deepfence.io/
             logo: deepfence_inc.svg
-            twitter: https://twitter.com/deepfence
             crunchbase: https://www.crunchbase.com/organization/deepfence
           - item:
             name: DeployHub, Inc.
@@ -331,13 +305,11 @@ landscape:
             name: Fidelity Investments
             homepage_url: https://fidelity.com/
             logo: fidelity_investments.svg
-            twitter: https://twitter.com/Fidelity
             crunchbase: https://www.crunchbase.com/organization/fidelity-investments
           - item:
             name: FOSSA
             homepage_url: https://fossa.io/
             logo: fossa.svg
-            twitter: https://twitter.com/getfossa
             crunchbase: https://www.crunchbase.com/organization/fossa-2
           - item:
             name: Futurewei Technologies, Inc.
@@ -348,7 +320,6 @@ landscape:
             name: GitLab Inc.
             homepage_url: https://gitlab.com/
             logo: gitlab_inc.svg
-            twitter: https://twitter.com/gitlab
             crunchbase: https://www.crunchbase.com/organization/gitlab-com
           - item:
             name: Goldman Sachs & Co. LLC
@@ -360,7 +331,6 @@ landscape:
             name: Gravitational, Inc
             homepage_url: https://goteleport.com/
             logo: gravitational_inc.svg
-            twitter: https://twitter.com/goteleport
             crunchbase: https://www.crunchbase.com/organization/gravitational
           - item:
             name: HackerOne
@@ -372,19 +342,16 @@ landscape:
             name: Indeed, Inc.
             homepage_url: https://indeed.com/
             logo: indeed_inc.svg
-            twitter: https://twitter.com/indeed
             crunchbase: https://www.crunchbase.com/organization/indeed
           - item:
             name: JFrog, Inc
             homepage_url: https://jfrog.com/
             logo: jfrog_inc.svg
-            twitter: https://twitter.com/jfrog
             crunchbase: https://www.crunchbase.com/organization/jfrog-ltd
           - item:
             name: Kasten, Inc.
             homepage_url: https://kasten.io/
             logo: kasten_inc.svg
-            twitter: https://twitter.com/kastenhq
             crunchbase: https://www.crunchbase.com/organization/kasten
           - item:
             name: Legit Security
@@ -408,7 +375,6 @@ landscape:
             name: Nutanix, Inc.
             homepage_url: https://nutanix.com/
             logo: nutanix_inc.svg
-            twitter: https://twitter.com/nutanix
             crunchbase: https://www.crunchbase.com/organization/nutanix
           - item:
             name: Phylum
@@ -427,13 +393,11 @@ landscape:
             name: Qualys, Inc.
             homepage_url: https://qualys.com/
             logo: qualys_inc.svg
-            twitter: https://twitter.com/qualys
             crunchbase: https://www.crunchbase.com/organization/qualys
           - item:
             name: Renesas Electronics Corporation
             homepage_url: https://renesas.com/
             logo: renesas_electronics_corporation.svg
-            twitter: https://twitter.com/RenesasGlobal
             crunchbase: https://www.crunchbase.com/organization/renesas-electronics-corporation
           - item:
             name: ReversingLabs
@@ -483,19 +447,16 @@ landscape:
             name: SUSE LLC
             homepage_url: https://suse.com/
             logo: suse_llc.svg
-            twitter: https://twitter.com/SUSE
             crunchbase: https://www.crunchbase.com/organization/suse
           - item:
             name: Sysdig, Inc.
             homepage_url: https://sysdig.com/
             logo: sysdig_inc.svg
-            twitter: https://twitter.com/sysdig
             crunchbase: https://www.crunchbase.com/organization/sysdig
           - item:
             name: Tenable, Inc.
             homepage_url: https://tenable.com/
             logo: tenable_inc.svg
-            twitter: https://twitter.com/TenableSecurity
             crunchbase: https://www.crunchbase.com/organization/tenable-network-security
           - item:
             name: Tencent Holdings Limited
@@ -507,19 +468,16 @@ landscape:
             name: Tidelift, Inc.
             homepage_url: https://tidelift.com/
             logo: tidelift_inc.svg
-            twitter: https://twitter.com/tidelift
             crunchbase: https://www.crunchbase.com/organization/tidelift
           - item:
             name: Timesys Corporation
             homepage_url: https://timesys.com/
             logo: timesys_corporation.svg
-            twitter: https://twitter.com/Timesys
             crunchbase: https://www.crunchbase.com/organization/timesys-corporation
           - item:
             name: Trail of Bits
             homepage_url: https://trailofbits.com/
             logo: trail_of_bits.svg
-            twitter: https://twitter.com/trailofbits
             crunchbase: https://www.crunchbase.com/organization/trail-of-bits
           - item:
             name: VicOne Inc.
@@ -531,7 +489,6 @@ landscape:
             name: Wind River Systems, Inc.
             homepage_url: https://windriver.com/
             logo: wind_river_systems_inc.svg
-            twitter: https://twitter.com/WindRiver
             crunchbase: https://www.crunchbase.com/organization/wind-river
           - item:
             name: Wingtecher Technology Co., Ltd.
@@ -543,13 +500,11 @@ landscape:
             name: Xilinx Inc
             homepage_url: https://xilinx.com/
             logo: xilinx_inc.svg
-            twitter: https://twitter.com/XilinxInc
             crunchbase: https://www.crunchbase.com/organization/xilinx
           - item:
             name: ZTE Corporation
             homepage_url: https://zte.com.cn/
             logo: zte_corporation.svg
-            twitter: https://twitter.com/ZTEPress
             crunchbase: https://www.crunchbase.com/organization/zte-corporation
       - subcategory:
         name: Associate
@@ -558,7 +513,6 @@ landscape:
             name: Carnegie Mellon University
             homepage_url: https://cmu.edu/
             logo: carnegie_mellon_university.svg
-            twitter: https://twitter.com/CarnegieMellon
             crunchbase: https://www.crunchbase.com/organization/carnegie-mellon-university
           - item:
             name: China Academy of Information and Communications Technology (CAICT)
@@ -569,13 +523,11 @@ landscape:
             name: Eclipse Foundation AISBL.
             homepage_url: https://eclipse.org/
             logo: eclipse_foundation_aisbl.svg
-            twitter: https://twitter.com/EclipseFdn
             crunchbase: https://www.crunchbase.com/organization/eclipse-foundation
           - item:
             name: FS-ISAC
             homepage_url: https://fsisac.com/
             logo: fs-isac.svg
-            twitter: https://twitter.com/FSISAC
             crunchbase: https://www.crunchbase.com/organization/fs-isac
           - item:
             name: Institute of Software Chinese Academy of Sciences
@@ -586,21 +538,30 @@ landscape:
             name: Laboratory for Innovation Science at Harvard
             homepage_url: https://lish.harvard.edu/
             logo: laboratory_for_innovation_science_at_harvard.svg
-            twitter: https://twitter.com/Harvard
             crunchbase: https://www.crunchbase.com/organization/harvard-university
           - item:
             name: MITRE
             homepage_url: https://mitre.org/
             logo: mitre.svg
-            twitter: https://twitter.com/MITREcorp
             crunchbase: https://www.crunchbase.com/organization/mitre
             joined: '2021-03-02'
           - item:
             name: Nanyang Technological University
             homepage_url: https://ntu.edu.sg/
             logo: nanyang_technological_university.svg
-            twitter: https://twitter.com/NTUsg
             crunchbase: https://www.crunchbase.com/organization/nanyang-technological-university
+          - item:
+            name: Open Source Technology Improvement Fund, Inc.
+            homepage_url: https://ostif.org/
+            logo: open_source_technology_improvement_fund_inc.svg
+            twitter: https://twitter.com/OSTIFofficial
+            crunchbase: https://www.crunchbase.com/organization/open-source-technology-improvement-fund
+          - item:
+            name: Open Web Application Security Project
+            homepage_url: https://owasp.org/
+            logo: open_web_application_security_project.svg
+            twitter: https://twitter.com/owasp
+            crunchbase: https://www.crunchbase.com/organization/open-web-application-security-project
           - item:
             name: OpenForum Europe
             homepage_url: https://openforumeurope.org/
@@ -609,29 +570,15 @@ landscape:
             organization:
               name: OpenForum Europe
           - item:
-            name: Open Source Technology Improvement Fund, Inc.
-            homepage_url: https://ostif.org/
-            logo: open_source_technology_improvement_fund_inc.svg
-            twitter: https://twitter.com/OSTIFofficial
-            crunchbase: https://www.crunchbase.com/organization/open-source-technology-improvement-fund
-          - item:
             name: OpenUK
+            description: Where the UK’s Open communities meet and collaborate
             homepage_url: https://openuk.uk/
             logo: openuk.svg
-            twitter: https://twitter.com/openuk_uk
             crunchbase: https://www.crunchbase.com/organization/openuk
-            description: Where the UK’s Open communities meet and collaborate
-          - item:
-            name: Open Web Application Security Project
-            homepage_url: https://owasp.org/
-            logo: open_web_application_security_project.svg
-            twitter: https://twitter.com/owasp
-            crunchbase: https://www.crunchbase.com/organization/open-web-application-security-project
           - item:
             name: Purdue University
             homepage_url: https://purdue.edu/
             logo: purdue_university.svg
-            twitter: https://twitter.com/LifeAtPurdue
             crunchbase: https://www.crunchbase.com/organization/purdue-university
           - item:
             name: SAFECode
@@ -643,7 +590,6 @@ landscape:
             name: TODO Group
             homepage_url: https://todogroup.org/
             logo: todo_group.svg
-            twitter: https://twitter.com/todogroup
             crunchbase: https://www.crunchbase.com/organization/todo-group
   - category:
     name: Sigstore
@@ -654,10 +600,10 @@ landscape:
           - item:
             name: Sigstore
             homepage_url: https://www.sigstore.dev/
-            repo_url: https://github.com/sigstore/architecture-docs
             project: incubating
-            crunchbase: https://www.crunchbase.com/organization/sigstore
+            repo_url: https://github.com/sigstore/architecture-docs
             logo: sigstore.svg
+            crunchbase: https://www.crunchbase.com/organization/sigstore
             extra:
               training_course_url: https://www.edx.org/course/securing-your-software-supply-chain-with-sigstore
               academic_paper_url: https://dl.acm.org/doi/10.1145/3548606.3560596
@@ -668,26 +614,26 @@ landscape:
             name: Cosign
             homepage_url: https://docs.sigstore.dev/cosign/overview
             repo_url: https://github.com/sigstore/cosign
-            crunchbase: https://www.crunchbase.com/organization/sigstore
             logo: cosign.svg
-          - item:
-            name: Gitsign
-            homepage_url: https://docs.sigstore.dev/gitsign/overview
-            repo_url: https://github.com/sigstore/gitsign
             crunchbase: https://www.crunchbase.com/organization/sigstore
-            logo: gitsign.svg
           - item:
             name: Fulcio
             homepage_url: https://docs.sigstore.dev/fulcio/overview
             repo_url: https://github.com/sigstore/fulcio
-            crunchbase: https://www.crunchbase.com/organization/sigstore
             logo: fulcio.svg
+            crunchbase: https://www.crunchbase.com/organization/sigstore
+          - item:
+            name: Gitsign
+            homepage_url: https://docs.sigstore.dev/gitsign/overview
+            repo_url: https://github.com/sigstore/gitsign
+            logo: gitsign.svg
+            crunchbase: https://www.crunchbase.com/organization/sigstore
           - item:
             name: Rekor
             homepage_url: https://docs.sigstore.dev/rekor/overview
             repo_url: https://github.com/sigstore/rekor
-            crunchbase: https://www.crunchbase.com/organization/sigstore
             logo: rekor.svg
+            crunchbase: https://www.crunchbase.com/organization/sigstore
       - subcategory:
         name: Deployments
         items:
@@ -710,15 +656,24 @@ landscape:
             extra:
               details_url: https://twitter.com/cncfartifacthub/status/1501153362414297094?s=20&t=ro8piH7LTrJVc7S_0bM0HQ
           - item:
+            name: Flux
+            homepage_url: https://fluxcd.io/
+            repo_url: https://github.com/fluxcd/flux2
+            logo: flux.svg
+            twitter: https://twitter.com/fluxcd
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+            extra:
+              how_to_verify_url: https://fluxcd.io/flux/cheatsheets/oci-artifacts/#signing-and-verification
+          - item:
             name: GoReleaser
             homepage_url: https://goreleaser.com/
             repo_url: https://github.com/goreleaser/goreleaser
             logo: goreleaser.svg
             twitter: https://twitter.com/GoReleaser
-            organization:
-              name: GoReleaser
             extra:
               details_url: https://goreleaser.com/customization/sign/
+            organization:
+              name: GoReleaser
           - item:
             name: Harbor
             homepage_url: https://goharbor.io/
@@ -728,6 +683,60 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
             extra:
               details_url: https://goharbor.io/blog/cosign-2.5.0/
+          - item:
+            name: Helm plugin for Sigstore
+            homepage_url: https://helm.sh/
+            repo_url: https://github.com/sigstore/helm-sigstore
+            logo: helm.svg
+            twitter: https://twitter.com/helmpack
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+            extra:
+              details_url: https://medium.com/@sabre1041/integrating-helm-into-the-sigstore-project-d51564ea001f/
+          - item:
+            name: in-toto
+            homepage_url: https://in-toto.io/
+            repo_url: https://github.com/in-toto/in-toto
+            logo: intoto.svg
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+            extra:
+              details_url: https://docs.sigstore.dev/cosign/attestation/
+          - item:
+            name: JReleaser
+            homepage_url: https://jreleaser.org
+            repo_url: https://github.com/jreleaser/jreleaser
+            logo: jreleaser.svg
+            twitter: https://twitter.com/jreleaser
+            extra:
+              details_url: https://jreleaser.org/guide/latest/configuration/signing.html#_cosign
+            organization:
+              name: JReleaser
+          - item:
+            name: Kubewarden
+            homepage_url: https://www.kubewarden.io/
+            repo_url: https://github.com/kubewarden/verify-image-signatures
+            logo: kubewarden.svg
+            twitter: https://twitter.com/kubewarden
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+            extra:
+              details_url: https://docs.kubewarden.io/distributing-policies/secure-supply-chain
+          - item:
+            name: Kyverno
+            homepage_url: https://kyverno.io/
+            repo_url: https://github.com/kyverno/kyverno
+            logo: kyverno.svg
+            twitter: https://twitter.com/kyverno
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+            extra:
+              details_url: https://kyverno.io/docs/writing-policies/verify-images/
+          - item:
+            name: Tekton Chains
+            homepage_url: https://tekton.dev
+            repo_url: https://github.com/tektoncd/chains
+            logo: tekton_chains.svg
+            twitter: https://twitter.com/tektoncd
+            crunchbase: https://www.crunchbase.com/organization/continuous-delivery-foundation-cdf
+            extra:
+              how_to_verify_url: https://github.com/tektoncd/chains/releases
           - item:
             name: The Update Framework (TUF)
             homepage_url: https://theupdateframework.github.io/
@@ -742,102 +751,18 @@ landscape:
             repo_url: https://github.com/aquasecurity/trivy
             logo: trivy.svg
             twitter: https://twitter.com/AquaSecTeam
-            organization:
-              name: AquaSecurity
             extra:
               details_url: https://aquasecurity.github.io/trivy/latest/tutorials/signing/vuln-attestation/
-          - item:
-            name: in-toto
-            homepage_url: https://in-toto.io/
-            repo_url: https://github.com/in-toto/in-toto
-            logo: intoto.svg
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-            extra:
-              details_url: https://docs.sigstore.dev/cosign/attestation/
-          - item:
-            name: Helm plugin for Sigstore
-            homepage_url: https://helm.sh/
-            repo_url: https://github.com/sigstore/helm-sigstore
-            logo: helm.svg
-            twitter: https://twitter.com/helmpack
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-            extra:
-              details_url: https://medium.com/@sabre1041/integrating-helm-into-the-sigstore-project-d51564ea001f/
-          - item:
-            name: JReleaser
-            homepage_url: https://jreleaser.org
-            repo_url: https://github.com/jreleaser/jreleaser
-            logo: jreleaser.svg
-            twitter: https://twitter.com/jreleaser
             organization:
-              name: JReleaser
-            extra:
-              details_url: https://jreleaser.org/guide/latest/configuration/signing.html#_cosign
-          - item:
-            name: Kyverno
-            homepage_url: https://kyverno.io/
-            repo_url: https://github.com/kyverno/kyverno
-            logo: kyverno.svg
-            twitter: https://twitter.com/kyverno
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-            extra:
-              details_url: https://kyverno.io/docs/writing-policies/verify-images/
-          - item:
-            name: Kubewarden
-            homepage_url: https://www.kubewarden.io/
-            repo_url: https://github.com/kubewarden/verify-image-signatures
-            logo: kubewarden.svg
-            twitter: https://twitter.com/kubewarden
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-            extra:
-              details_url: https://docs.kubewarden.io/distributing-policies/secure-supply-chain
-          - item:
-            name: Tekton Chains
-            homepage_url: https://tekton.dev
-            repo_url: https://github.com/tektoncd/chains
-            logo: tekton_chains.svg
-            twitter: https://twitter.com/tektoncd
-            crunchbase: https://www.crunchbase.com/organization/continuous-delivery-foundation-cdf
-            extra:
-              how_to_verify_url: https://github.com/tektoncd/chains/releases
-          - item:
-            name: Flux
-            homepage_url: https://fluxcd.io/
-            repo_url: https://github.com/fluxcd/flux2
-            logo: flux.svg
-            twitter: https://twitter.com/fluxcd
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-            extra:
-              how_to_verify_url: https://fluxcd.io/flux/cheatsheets/oci-artifacts/#signing-and-verification
+              name: AquaSecurity
       - subcategory:
         name: Language Clients
         items:
-          - item:
-            name: Sigstore client for Python
-            homepage_url: https://www.sigstore.dev/
-            repo_url: https://github.com/sigstore/sigstore-python
-            logo: python.svg
-            organization:
-              name: sigstore
-          - item:
-            name: Sigstore client for Rust
-            homepage_url: https://www.sigstore.dev/
-            repo_url: https://github.com/sigstore/sigstore-rs
-            logo: rust.svg
-            organization:
-              name: sigstore
           - item:
             name: Sigstore client for Go
             homepage_url: https://www.sigstore.dev/
             repo_url: https://github.com/sigstore/sigstore
             logo: go.svg
-            organization:
-              name: sigstore
-          - item:
-            name: Sigstore client for Ruby
-            homepage_url: https://www.sigstore.dev/
-            repo_url: https://github.com/sigstore/ruby-sigstore
-            logo: ruby.svg
             organization:
               name: sigstore
           - item:
@@ -852,6 +777,27 @@ landscape:
             homepage_url: https://github.com/npm/rfcs/blob/link-packages-to-source-and-build/accepted/0000-link-packages-to-source-and-build.md
             repo_url: https://github.com/sigstore/sigstore-js
             logo: js.svg
+            organization:
+              name: sigstore
+          - item:
+            name: Sigstore client for Python
+            homepage_url: https://www.sigstore.dev/
+            repo_url: https://github.com/sigstore/sigstore-python
+            logo: python.svg
+            organization:
+              name: sigstore
+          - item:
+            name: Sigstore client for Ruby
+            homepage_url: https://www.sigstore.dev/
+            repo_url: https://github.com/sigstore/ruby-sigstore
+            logo: ruby.svg
+            organization:
+              name: sigstore
+          - item:
+            name: Sigstore client for Rust
+            homepage_url: https://www.sigstore.dev/
+            repo_url: https://github.com/sigstore/sigstore-rs
+            logo: rust.svg
             organization:
               name: sigstore
       - subcategory:
@@ -874,6 +820,23 @@ landscape:
             extra:
               how_to_verify_url: https://docs.cilium.io/en/latest/configuration/verify-image-signatures/#verifying-image-signatures
           - item:
+            name: CPython
+            homepage_url: https://www.python.org/
+            repo_url: https://github.com/python/cpython
+            logo: cpython.svg
+            crunchbase: https://www.crunchbase.com/organization/python-software-foundation
+            extra:
+              how_to_verify_url: https://www.python.org/download/sigstore/
+          - item:
+            name: Fluent Bit
+            homepage_url: https://fluentbit.io/
+            repo_url: https://github.com/fluent/fluent-bit
+            logo: fluentbit.svg
+            twitter: https://twitter.com/fluentbit
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+            extra:
+              how_to_verify_url: https://docs.fluentbit.io/manual/installation/docker#verify-signed-container-images
+          - item:
             name: Flux (Signed With)
             homepage_url: https://fluxcd.io/
             logo: flux.svg
@@ -886,7 +849,6 @@ landscape:
             homepage_url: https://istio.io/
             repo_url: https://github.com/istio/istio
             logo: istio.svg
-            twitter: https://twitter.com/IstioMesh
             crunchbase: https://www.crunchbase.com/organization/istio
             extra:
               how_to_verify_url: https://istio.io/latest/docs/ops/best-practices/image-signing-validation/#validating-image
@@ -917,11 +879,17 @@ landscape:
             extra:
               how_to_verify_url: https://github.com/kedacore/keda/releases/tag/v2.6.0
           - item:
+            name: Keptn
+            homepage_url: https://keptn.sh
+            repo_url: https://github.com/keptn/keptn
+            logo: keptn.svg
+            twitter: https://twitter.com/keptnProject
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+          - item:
             name: Knative
             homepage_url: https://knative.dev/
             repo_url: https://github.com/knative/community
             logo: knative.svg
-            twitter: https://twitter.com/KnativeProject
             crunchbase: https://www.crunchbase.com/organization/knative
             extra:
               how_to_verify_url: https://knative.dev
@@ -952,6 +920,13 @@ landscape:
             extra:
               how_to_verify_url: https://github.com/kubewarden/kubewarden-controller/releases/latest
           - item:
+            name: Linkerd
+            homepage_url: https://linkerd.io/
+            repo_url: https://github.com/linkerd/linkerd2
+            logo: linkerd.svg
+            twitter: https://twitter.com/linkerd
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+          - item:
             name: Ockam
             homepage_url: https://www.ockam.io/
             repo_url: https://github.com/build-trust/ockam
@@ -968,14 +943,12 @@ landscape:
             extra:
               how_to_verify_url: https://github.com/pulumi/pulumi/releases/latest
           - item:
-            name: CPython
-            homepage_url: https://www.python.org/
-            repo_url: https://github.com/python/cpython
-            logo: cpython.svg
-            twitter: https://twitter.com/ThePSF
-            crunchbase: https://www.crunchbase.com/organization/python-software-foundation
-            extra:
-              how_to_verify_url: https://www.python.org/download/sigstore/
+            name: Shipwright
+            homepage_url: https://shipwright.io/
+            repo_url: https://github.com/shipwright-io/build
+            logo: shipwright.svg
+            twitter: https://twitter.com/shipwrightio
+            crunchbase: https://www.crunchbase.com/organization/continuous-delivery-foundation-cdf
           - item:
             name: Tekton
             homepage_url: https://tekton.dev/
@@ -994,36 +967,6 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/python-software-foundation
             extra:
               how_to_verify_url: https://github.com/urllib3/urllib3/releases/tag/1.26.10
-          - item:
-            name: Fluent Bit
-            homepage_url: https://fluentbit.io/
-            repo_url: https://github.com/fluent/fluent-bit
-            logo: fluentbit.svg
-            twitter: https://twitter.com/fluentbit
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-            extra:
-              how_to_verify_url: https://docs.fluentbit.io/manual/installation/docker#verify-signed-container-images
-          - item:
-            name: Linkerd
-            homepage_url: https://linkerd.io/
-            repo_url: https://github.com/linkerd/linkerd2
-            logo: linkerd.svg
-            twitter: https://twitter.com/linkerd
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-          - item:
-            name: Shipwright
-            homepage_url: https://shipwright.io/
-            repo_url: https://github.com/shipwright-io/build
-            logo: shipwright.svg
-            twitter: https://twitter.com/shipwrightio
-            crunchbase: https://www.crunchbase.com/organization/continuous-delivery-foundation-cdf
-          - item:
-            name: Keptn
-            homepage_url: https://keptn.sh
-            repo_url: https://github.com/keptn/keptn
-            logo: keptn.svg
-            twitter: https://twitter.com/keptnProject
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
       - subcategory:
         name: Case Studies
         items:

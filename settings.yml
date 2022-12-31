@@ -44,7 +44,7 @@ relation:
           color: '#3570af'
           big_picture_order: 1
           big_picture_label: OpenSSF Project
-          big_picture_color: rgb(24,54,114)          
+          big_picture_color: rgb(24,54,114)
     - id: company
       label: OpenSSF Members
       tag: Company
@@ -169,7 +169,7 @@ big_picture:
         top: 5
         left: 5
         color: rgb(179,208,231)
-        is_large: true    
+        is_large: true
       - type: HorizontalCategory
         category: Projects
         rows: 1
@@ -195,8 +195,9 @@ big_picture:
         left: 815
         children:
           - type: text
-            text: |
-              Sigstore is a new standard for signing, verifying, and protecting software. It is an OpenSSF project and this landscape is intended as a map to explore the Sigstore ecosystem.
+            text: >
+              Sigstore is a new standard for signing, verifying, and protecting software. It is an OpenSSF project and this landscape is intended as a map to
+              explore the Sigstore ecosystem.
             top: 60
             left: 140
             right: 10
@@ -224,7 +225,7 @@ big_picture:
             width: 90
             right: 10
             top: 10
-            title: OpenSSF Logo        
+            title: OpenSSF Logo
       - type: HorizontalCategory
         category: Integrations
         rows: 2
@@ -242,7 +243,7 @@ big_picture:
         top: 215
         left: 855
         color: rgb(46,47,113)
-        is_large: true        
+        is_large: true
       - type: HorizontalCategory
         category: Signed With
         rows: 2
