@@ -173,7 +173,7 @@ big_picture:
       - type: HorizontalCategory
         category: Projects
         rows: 1
-        width: 280
+        width: 330
         height: 200
         top: 5
         left: 235
@@ -185,13 +185,13 @@ big_picture:
         width: 270
         height: 200
         top: 5
-        left: 530
+        left: 580
         color: rgb(103,66,18)
         is_large: true
       - type: HorizontalCategory
         category: Integrations
         rows: 2
-        width: 500
+        width: 550
         height: 200
         top: 215
         left: 5
@@ -203,13 +203,13 @@ big_picture:
         width: 270
         height: 200
         top: 215
-        left: 530
+        left: 580
         color: rgb(46,47,113)
         is_large: true        
       - type: HorizontalCategory
         category: Signed With
         rows: 2
-        width: 550
+        width: 600
         height: 200
         top: 425
         left: 5
@@ -221,7 +221,7 @@ big_picture:
         width: 220
         height: 200
         top: 425
-        left: 580
+        left: 630
         color: rgb(17,115,115)
         is_large: true
 test:

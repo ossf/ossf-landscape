@@ -1314,48 +1314,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2021-10-14T08:00:21.000Z
           - item:
-            name: Fidelity Investments
-            homepage_url: https://fidelity.com/
-            logo: fidelity_investments.svg
-            twitter: https://twitter.com/Fidelity
-            crunchbase: https://www.crunchbase.com/organization/fidelity-investments
-            crunchbase_data:
-              name: Fidelity
-              description: Fidelity is a privately-owned investment manager focusing on a diverse set of customers.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: https://www.fidelity.com
-              city: Boston
-              region: Massachusetts
-              country: United States
-              twitter: https://twitter.com/Fidelity
-              linkedin: https://www.linkedin.com/company/fidelity-investments
-              acquisitions:
-                - date: '2004-06-03'
-                  acquiree: Production Control Services
-                - date: '2006-04-01'
-                  acquiree: SinoSheen Internet Investments
-                  price: 52500000
-                - date: '2015-02-02'
-                  acquiree: eMoney Advisor
-              parents: []
-              funding: 134325000
-              stockExchange: null
-              company_type: ''
-              industries:
-                - E-Commerce
-                - Finance
-                - Financial Services
-              kind: funding
-            image_data:
-              fileName: fidelity-investments.svg
-              hash: BOuds5Lr84V1rD272Y7Gp7qBOfgZX3qpk/EdXxfWRuk=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-10-14T15:43:11.000Z
-          - item:
             name: GitHub, Inc.
             homepage_url: https://github.com/
             logo: github_inc.svg
@@ -4237,7 +4195,7 @@ landscape:
               effective_ticker: IBM
             image_data:
               fileName: red-hat-inc.svg
-              hash: DP0xJOzNJFgqbN0RMQSYjY7TWaKh09iHDrR5sH3vk2U=
+              hash: L+Nw1jcZLWji/NA8wRLt/pEiSYeQmJVpM8pD2VNT5bU=
             best_practice_data:
               badge: false
               percentage: null
@@ -5026,41 +4984,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2021-10-13T15:57:09.000Z
           - item:
-            name: Blockchain Technology Partners, Inc.
-            homepage_url: https://blockchaintp.com/
-            logo: blockchain_technology_partners_inc.svg
-            twitter: https://twitter.com/blockchaintp
-            crunchbase: https://www.crunchbase.com/organization/blockchain-technology-partners
-            crunchbase_data:
-              name: BTP
-              description: Blockchain Technology Partners is an enterprise blockchain company that enables multiparty innovation
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: https://blockchaintp.com
-              city: Edinburgh
-              region: Edinburgh, City of
-              country: United Kingdom
-              twitter: https://twitter.com/blockchaintp
-              linkedin: https://www.linkedin.com/company/blockchaintp
-              acquisitions: []
-              parents: []
-              funding: 2765674
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Blockchain
-                - Information Services
-                - Information Technology
-              kind: funding
-            image_data:
-              fileName: blockchain-technology-partners-inc.svg
-              hash: 2FQnJmSX1oE9H6jcn56610mARIGDAPtJfVkL2hm+5Mo=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2022-03-31T15:33:47.000Z
-          - item:
             name: Block, Inc.
             homepage_url: https://block.xyz/
             logo: block_inc.svg
@@ -5749,6 +5672,24 @@ landscape:
             twitter_data:
               latest_tweet_date: 2021-10-13T19:57:31.000Z
           - item:
+            name: Endor Labs
+            homepage_url: https://endor.ai/
+            logo: endor_labs.svg
+            twitter: https://twitter.com/EndorLabs
+            organization:
+              name: Endor Labs
+            crunchbase_data:
+              name: Endor Labs
+              parents: []
+            image_data:
+              fileName: endor-labs.svg
+              hash: sn4KUi3oL8JRbkI3dSljN28RaxBESvaVbMZLqYVl2W8=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2023-01-16T16:38:06.000Z
+          - item:
             name: F5, Inc.
             homepage_url: https://f5.com/
             logo: f5_inc.svg
@@ -5821,6 +5762,48 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-05-03T17:00:06.000Z
+          - item:
+            name: Fidelity Investments
+            homepage_url: https://fidelity.com/
+            logo: fidelity_investments.svg
+            twitter: https://twitter.com/Fidelity
+            crunchbase: https://www.crunchbase.com/organization/fidelity-investments
+            crunchbase_data:
+              name: Fidelity
+              description: Fidelity is a privately-owned investment manager focusing on a diverse set of customers.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: https://www.fidelity.com
+              city: Boston
+              region: Massachusetts
+              country: United States
+              twitter: https://twitter.com/Fidelity
+              linkedin: https://www.linkedin.com/company/fidelity-investments
+              acquisitions:
+                - date: '2004-06-03'
+                  acquiree: Production Control Services
+                - date: '2006-04-01'
+                  acquiree: SinoSheen Internet Investments
+                  price: 52500000
+                - date: '2015-02-02'
+                  acquiree: eMoney Advisor
+              parents: []
+              funding: 134325000
+              stockExchange: null
+              company_type: ''
+              industries:
+                - E-Commerce
+                - Finance
+                - Financial Services
+              kind: funding
+            image_data:
+              fileName: fidelity-investments.svg
+              hash: BOuds5Lr84V1rD272Y7Gp7qBOfgZX3qpk/EdXxfWRuk=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-10-14T15:43:11.000Z
           - item:
             name: FOSSA
             homepage_url: https://fossa.io/
@@ -6040,9 +6023,9 @@ landscape:
             twitter_data:
               latest_tweet_date: 2022-05-03T08:30:30.000Z
           - item:
-            name: Gravitational, Inc “DBA” Teleport
+            name: Gravitational, Inc
             homepage_url: https://goteleport.com/
-            logo: gravitational_inc_dba_teleport.svg
+            logo: gravitational_inc.svg
             twitter: https://twitter.com/goteleport
             crunchbase: https://www.crunchbase.com/organization/gravitational
             crunchbase_data:
@@ -6069,7 +6052,7 @@ landscape:
                 - Software
               kind: funding
             image_data:
-              fileName: gravitational-inc-dba-teleport.svg
+              fileName: gravitational-inc.svg
               hash: uYtKCKS4sgCTNIKJvY9+j4YbvJIntNwscJvTUP65bCU=
             best_practice_data:
               badge: false
@@ -7564,6 +7547,24 @@ landscape:
             twitter_data:
               latest_tweet_date: 2022-09-12T10:22:00.000Z
           - item:
+            name: OpenForum Europe
+            homepage_url: https://openforumeurope.org/
+            logo: openforum_europe.svg
+            twitter: https://twitter.com/OpenForumEurope
+            organization:
+              name: OpenForum Europe
+            crunchbase_data:
+              name: OpenForum Europe
+              parents: []
+            image_data:
+              fileName: open-forum-europe.svg
+              hash: 6+an4heQzjcr2oC8joE54BSTSUhlXCMD01F4/yY9o1c=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2023-01-18T11:30:11.000Z
+          - item:
             name: Open Source Technology Improvement Fund, Inc.
             homepage_url: https://ostif.org/
             logo: open_source_technology_improvement_fund_inc.svg
@@ -7770,8 +7771,8 @@ landscape:
           - item:
             name: Sigstore
             homepage_url: https://www.sigstore.dev/
-            repo_url: https://github.com/sigstore/community
-            project: null
+            repo_url: https://github.com/sigstore/architecture-docs
+            project: incubating
             crunchbase: https://www.crunchbase.com/organization/sigstore
             logo: sigstore.svg
             extra:
@@ -7796,24 +7797,24 @@ landscape:
                 - Network Security
             github_data:
               languages: []
-              contributions: 0;0;0;5;0;2;1;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;4;0;0;3;1;0;0;9;0;0;0;2;8;7;6;4;9;4;4;1;6;2;10;8;7
-              firstWeek: 2021-10-24Z
-              stars: 27
-              license: Apache License 2.0
-              description: General sigstore community repo
-              latest_commit_date: '2022-10-21T11:02:25Z'
-              latest_commit_link: /sigstore/community/commit/c84f69f285839245b5205a0fcfde917adbac55d1
-              contributors_count: 20
-              contributors_link: https://github.com/sigstore/community/graphs/contributors
+              contributions: 1;0;0;0;3;1;0;0;0;0;0;0;0;1;3;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2022-01-23Z
+              stars: 1
+              license: Other
+              description: Specification of sigstore's architecture in an IETF internet-draft format
+              latest_commit_date: '2022-10-21T14:16:24Z'
+              latest_commit_link: /sigstore/architecture-docs/commit/21f2362f4ec2d7c6f34c18ddb3942a5025c66437
+              contributors_count: 4
+              contributors_link: https://github.com/sigstore/architecture-docs/graphs/contributors
             repos:
-              - url: https://github.com/sigstore/community
-                stars: 27
+              - url: https://github.com/sigstore/architecture-docs
+                stars: 1
             github_start_commit_data:
-              start_commit_link: /sigstore/community/commit/ace9b8c95d8cf0c09c125ed6552aa54b34fbc060
-              start_date: '2021-03-01T14:20:20Z'
+              start_commit_link: /sigstore/architecture-docs/commit/ed532a69243607bc984bf485a98a925b56142e8f
+              start_date: '2021-07-15T11:02:24Z'
             image_data:
               fileName: sigstore.svg
-              hash: J0Qb88VnDjTmcFSTTqW8a+aalNwLZHCI/CpDgW54Nws=
+              hash: NgaH+B6tfGBrYJNhJf6+EeEK7RNjYm9KohMgp8uLBpE=
             best_practice_data:
               badge: false
               percentage: null
@@ -8066,20 +8067,20 @@ landscape:
               badge: false
               percentage: null
       - subcategory:
-        name: Services
+        name: Deployments
         items:
           - item:
-            name: item-service-1
-            homepage_url: https://www.sigstore.dev/
-            logo: service1.svg
+            name: Sigstore Public Service
+            homepage_url: https://status.sigstore.dev/
+            logo: sigstore_ps.svg
             organization:
               name: sigstore
             crunchbase_data:
               name: sigstore
               parents: []
             image_data:
-              fileName: item-service-1.svg
-              hash: nJpLc3hyMpU6TozRdf36oa0h5be45pZLttBXWxXkMjU=
+              fileName: sigstore-public-service.svg
+              hash: cg2sPUO8xS9LqwTbMpewH/5wUPoaiEIz5Xz1fCpORyo=
             best_practice_data:
               badge: false
               percentage: null
@@ -8089,6 +8090,7 @@ landscape:
           - item:
             name: Artifact Hub
             homepage_url: https://artifacthub.io/
+            repo_url: https://github.com/artifacthub/hub
             logo: artifact-hub.svg
             twitter: https://twitter.com/cncfartifacthub
             crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
@@ -8123,17 +8125,116 @@ landscape:
                 - Open Source
                 - Software
               kind: funding
+            github_data:
+              languages:
+                - name: TypeScript
+                  value: 3466401
+                  color: '#2b7489'
+                - name: Go
+                  value: 1124261
+                  color: '#00ADD8'
+                - name: SQL
+                  value: 547069
+                - name: Mustache
+                  value: 300815
+                - name: CSS
+                  value: 100341
+                  color: '#563d7c'
+                - name: SCSS
+                  value: 25746
+                - name: HTML
+                  value: 12093
+                  color: '#e34c26'
+                - name: Shell
+                  value: 6443
+                  color: '#89e051'
+                - name: Dockerfile
+                  value: 4064
+                  color: '#384d54'
+                - name: JavaScript
+                  value: 3547
+                  color: '#f1e05a'
+              contributions: 3;9;9;4;6;0;11;0;5;8;4;5;3;2;8;10;7;5;14;7;7;4;4;4;4;3;11;7;4;2;6;14;7;12;9;3;12;7;6;9;3;6;6;2;12;8;6;11;3;3;2;7
+              firstWeek: 2022-01-23Z
+              stars: 1142
+              license: Apache License 2.0
+              description: Find, install and publish Kubernetes packages
+              latest_commit_date: '2023-01-18T07:13:47Z'
+              latest_commit_link: /artifacthub/hub/commit/2c211d4b76eb487f56a16f68b13c0b3b7297672e
+              release_date: '2022-12-05T10:15:16Z'
+              release_link: https://github.com/artifacthub/hub/releases
+              contributors_count: 29
+              contributors_link: https://github.com/artifacthub/hub/graphs/contributors
+            repos:
+              - url: https://github.com/artifacthub/hub
+                stars: 1142
+            github_start_commit_data:
+              start_commit_link: /artifacthub/hub/commit/dc194040e697dcc1df730f47962cb89f9f44bb5f
+              start_date: '2020-01-14T09:54:58Z'
             image_data:
               fileName: artifact-hub.svg
               hash: m2/KSJR9SHVwu3zG15frm9jQtS0n4CxS8ZbvlJnKNNQ=
             best_practice_data:
-              badge: false
-              percentage: null
+              badge: 4106
+              percentage: 100
             twitter_data:
               latest_tweet_date: 2022-10-10T08:54:24.000Z
           - item:
+            name: GoReleaser
+            homepage_url: https://goreleaser.com/
+            repo_url: https://github.com/goreleaser/goreleaser
+            logo: goreleaser.svg
+            twitter: https://twitter.com/GoReleaser
+            organization:
+              name: GoReleaser
+            extra:
+              details_url: https://goreleaser.com/customization/sign/
+            crunchbase_data:
+              name: GoReleaser
+              parents: []
+            github_data:
+              languages:
+                - name: Go
+                  value: 1260785
+                  color: '#00ADD8'
+                - name: HTML
+                  value: 4915
+                  color: '#e34c26'
+                - name: Shell
+                  value: 3911
+                  color: '#89e051'
+                - name: Dockerfile
+                  value: 643
+                  color: '#384d54'
+              contributions: 8;21;26;16;5;20;10;2;24;4;8;22;26;10;9;24;16;13;3;10;15;6;36;11;6;1;12;17;24;18;36;16;8;7;22;20;29;27;33;18;12;23;33;21;21;21;10;20;10;27;18;21
+              firstWeek: 2022-01-23Z
+              stars: 11132
+              license: MIT License
+              description: Deliver Go binaries as fast and easily as possible
+              latest_commit_date: '2023-01-17T11:56:54Z'
+              latest_commit_link: /goreleaser/goreleaser/commit/571cde5d9ec09a99d7e39e48579056770cb804b8
+              release_date: '2023-01-02T15:09:28Z'
+              release_link: https://github.com/goreleaser/goreleaser/releases
+              contributors_count: 320
+              contributors_link: https://github.com/goreleaser/goreleaser/graphs/contributors
+            repos:
+              - url: https://github.com/goreleaser/goreleaser
+                stars: 11132
+            github_start_commit_data:
+              start_commit_link: /goreleaser/goreleaser/commit/8b63e6555be45234c4c2a69576ca2ddab705302c
+              start_date: '2016-12-21T12:35:34Z'
+            image_data:
+              fileName: go-releaser.svg
+              hash: XKcQGTlL5/fHfA9clvKV6r0kP1au2i3seaQ270BdUPw=
+            best_practice_data:
+              badge: 5420
+              percentage: 96
+            twitter_data:
+              latest_tweet_date: 2023-01-17T03:12:13.000Z
+          - item:
             name: Harbor
             homepage_url: https://goharbor.io/
+            repo_url: https://github.com/goharbor/harbor
             logo: harbor.svg
             twitter: https://twitter.com/project_harbor
             crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
@@ -8168,17 +8269,340 @@ landscape:
                 - Open Source
                 - Software
               kind: funding
+            github_data:
+              languages:
+                - name: Go
+                  value: 5575063
+                  color: '#00ADD8'
+                - name: TypeScript
+                  value: 2054085
+                  color: '#2b7489'
+                - name: HTML
+                  value: 856274
+                  color: '#e34c26'
+                - name: Python
+                  value: 533726
+                  color: '#3572A5'
+                - name: RobotFramework
+                  value: 482646
+                - name: Jinja
+                  value: 220906
+                - name: SCSS
+                  value: 113914
+                - name: Shell
+                  value: 81779
+                  color: '#89e051'
+                - name: Makefile
+                  value: 41558
+                  color: '#427819'
+                - name: Dockerfile
+                  value: 17013
+                  color: '#384d54'
+                - name: PLpgSQL
+                  value: 11799
+                - name: JavaScript
+                  value: 8987
+                  color: '#f1e05a'
+                - name: CSS
+                  value: 2122
+                  color: '#563d7c'
+                - name: Smarty
+                  value: 1931
+              contributions: 18;14;1;14;5;6;16;16;11;19;6;10;16;10;10;15;10;7;13;9;13;16;17;14;16;6;11;16;15;4;10;6;1;2;5;9;3;1;6;12;11;13;14;10;12;12;11;5;3;1;8;3
+              firstWeek: 2022-01-23Z
+              stars: 19207
+              license: Apache License 2.0
+              description: An open source trusted cloud native registry project that stores, signs, and scans content.
+              latest_commit_date: '2023-01-17T16:39:40Z'
+              latest_commit_link: /goharbor/harbor/commit/341cc4510d97c1fc126ffd4be17074ac6f5bdb9b
+              release_date: '2023-01-16T03:32:23Z'
+              release_link: https://github.com/goharbor/harbor/releases
+              contributors_count: 319
+              contributors_link: https://github.com/goharbor/harbor/graphs/contributors
+            repos:
+              - url: https://github.com/goharbor/harbor
+                stars: 19207
+            github_start_commit_data:
+              start_commit_link: /goharbor/harbor/commit/f859348ac6230bda564f608e934f67359233a4b3
+              start_date: '2016-02-01T11:59:10Z'
             image_data:
               fileName: harbor.svg
               hash: X1sIwTjFqzWzveSoeRaJRHdCxUV8RXj1ZeOLn7/L07w=
             best_practice_data:
-              badge: false
-              percentage: null
+              badge: 2095
+              percentage: 100
             twitter_data:
               latest_tweet_date: 2022-10-19T18:04:50.000Z
           - item:
+            name: The Update Framework (TUF)
+            homepage_url: https://theupdateframework.github.io/
+            repo_url: https://github.com/theupdateframework/python-tuf
+            logo: tuf.svg
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+            extra:
+              details_url: https://blog.sigstore.dev/sigstore-bring-your-own-stuf-with-tuf-40febfd2badd
+            crunchbase_data:
+              name: Cloud Native Computing Foundation (CNCF)
+              description: CNCF is an open source software foundation that hosts and nurtures projects like Kubernetes and Prometheus.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.cncf.io
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/CloudNativeFdn
+              linkedin: https://www.linkedin.com/company/cloud-native-computing-foundation
+              acquisitions:
+                - date: '2016-03-10'
+                  acquiree: Kubernetes
+                - date: '2017-02-06'
+                  acquiree: RethinkDB
+                  price: 25000
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              funding: 3000000
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Cloud Computing
+                - Cloud Infrastructure
+                - Non Profit
+                - Open Source
+                - Software
+              kind: funding
+            github_data:
+              languages:
+                - name: Python
+                  value: 391907
+                  color: '#3572A5'
+              contributions: 27;20;56;36;10;9;8;7;8;30;15;12;11;25;23;12;4;12;4;14;6;15;16;14;5;11;9;5;9;8;9;16;7;13;11;8;10;11;12;13;14;8;7;20;11;20;19;21;19;3;6;16
+              firstWeek: 2022-01-23Z
+              stars: 1477
+              license: Apache License 2.0
+              description: Python reference implementation of The Update Framework (TUF)
+              latest_commit_date: '2023-01-13T11:56:42Z'
+              latest_commit_link: /theupdateframework/python-tuf/commit/10f930997efe98bf954af3cf3eed8d3e8f2ba0e7
+              release_date: '2022-08-16T07:57:46Z'
+              release_link: https://github.com/theupdateframework/python-tuf/releases
+              contributors_count: 92
+              contributors_link: https://github.com/theupdateframework/python-tuf/graphs/contributors
+            repos:
+              - url: https://github.com/theupdateframework/python-tuf
+                stars: 1477
+            github_start_commit_data:
+              start_commit_link: /theupdateframework/python-tuf/commit/0fb43a5e36f40ae7fccd2128e5e0bbb401b3111a
+              start_date: '2013-01-31T18:54:15Z'
+            image_data:
+              fileName: the-update-framework-tuf.svg
+              hash: Ps0caA1fziDPLOpDYy9uewKgPXvOVol24jdjuMPMjnc=
+            best_practice_data:
+              badge: 1351
+              percentage: 100
+            twitter_data:
+              latest_tweet_date: 2023-01-18T16:01:07.000Z
+          - item:
+            name: Trivy
+            homepage_url: https://trivy.dev/
+            repo_url: https://github.com/aquasecurity/trivy
+            logo: trivy.svg
+            twitter: https://twitter.com/AquaSecTeam
+            organization:
+              name: AquaSecurity
+            extra:
+              details_url: https://aquasecurity.github.io/trivy/latest/tutorials/signing/vuln-attestation/
+            crunchbase_data:
+              name: AquaSecurity
+              parents: []
+            github_data:
+              languages:
+                - name: Go
+                  value: 2248710
+                  color: '#00ADD8'
+                - name: Smarty
+                  value: 19308
+                - name: Shell
+                  value: 13025
+                  color: '#89e051'
+                - name: Open Policy Agent
+                  value: 3939
+                - name: Makefile
+                  value: 3823
+                  color: '#427819'
+                - name: Mustache
+                  value: 1759
+                - name: Dockerfile
+                  value: 143
+                  color: '#384d54'
+              contributions: 8;14;8;23;14;7;20;12;15;7;40;13;18;38;24;13;31;10;23;33;28;35;15;27;14;17;18;13;23;14;6;9;11;14;24;4;16;5;10;21;7;0;31;12;7;8;19;11;5;19;13;12
+              firstWeek: 2022-01-23Z
+              stars: 15717
+              license: Apache License 2.0
+              description: Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+              latest_commit_date: '2023-01-18T12:23:56Z'
+              latest_commit_link: /aquasecurity/trivy/commit/07ddc85a4612d6931f5f319fb8c9a87552d7dd87
+              release_date: '2023-01-05T11:23:38Z'
+              release_link: https://github.com/aquasecurity/trivy/releases
+              contributors_count: 276
+              contributors_link: https://github.com/aquasecurity/trivy/graphs/contributors
+            repos:
+              - url: https://github.com/aquasecurity/trivy
+                stars: 15717
+            github_start_commit_data:
+              start_commit_link: /aquasecurity/trivy/commit/7b3bf986e8f502a60d9f743e647c341d430d4d24
+              start_date: '2019-03-27T08:33:38Z'
+            image_data:
+              fileName: trivy.svg
+              hash: FItLCHc0XbCpzhJg9mzF1tBK/ViZdiort04XjR5LrYU=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2023-01-18T17:01:50.000Z
+          - item:
+            name: in-toto
+            homepage_url: https://in-toto.io/
+            repo_url: https://github.com/in-toto/in-toto
+            logo: intoto.svg
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+            extra:
+              details_url: https://docs.sigstore.dev/cosign/attestation/
+            crunchbase_data:
+              name: Cloud Native Computing Foundation (CNCF)
+              description: CNCF is an open source software foundation that hosts and nurtures projects like Kubernetes and Prometheus.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.cncf.io
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/CloudNativeFdn
+              linkedin: https://www.linkedin.com/company/cloud-native-computing-foundation
+              acquisitions:
+                - date: '2016-03-10'
+                  acquiree: Kubernetes
+                - date: '2017-02-06'
+                  acquiree: RethinkDB
+                  price: 25000
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              funding: 3000000
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Cloud Computing
+                - Cloud Infrastructure
+                - Non Profit
+                - Open Source
+                - Software
+              kind: funding
+            github_data:
+              languages:
+                - name: Python
+                  value: 399244
+                  color: '#3572A5'
+              contributions: 0;1;4;2;2;0;3;0;2;1;0;0;0;0;4;2;1;1;0;0;0;0;4;2;2;0;0;2;0;0;0;0;2;2;0;0;2;0;0;2;6;6;7;0;2;0;2;2;2;2;1;5
+              firstWeek: 2022-01-23Z
+              stars: 667
+              license: Other
+              description: in-toto is a framework to protect supply chain integrity.
+              latest_commit_date: '2023-01-13T13:36:45Z'
+              latest_commit_link: /in-toto/in-toto/commit/6bd25002ef2d930b214288c2d8c0ef3f2a917473
+              release_date: '2022-02-08T11:29:03Z'
+              release_link: https://github.com/in-toto/in-toto/releases
+              contributors_count: 35
+              contributors_link: https://github.com/in-toto/in-toto/graphs/contributors
+            repos:
+              - url: https://github.com/in-toto/in-toto
+                stars: 667
+            github_start_commit_data:
+              start_commit_link: /in-toto/in-toto/commit/55371420b738eb9170322eee589852016027657c
+              start_date: '2016-05-24T01:46:38Z'
+            image_data:
+              fileName: in-toto.svg
+              hash: 3zVaKQz1mcWMW3X4sMS6jWcQwceYOXAmr9vyuJbXSFA=
+            best_practice_data:
+              badge: 1523
+              percentage: 100
+            twitter_data:
+              latest_tweet_date: 2023-01-18T16:01:07.000Z
+          - item:
+            name: Helm plugin for Sigstore
+            homepage_url: https://helm.sh/
+            repo_url: https://github.com/sigstore/helm-sigstore
+            logo: helm.svg
+            twitter: https://twitter.com/helmpack
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+            extra:
+              details_url: https://medium.com/@sabre1041/integrating-helm-into-the-sigstore-project-d51564ea001f/
+            crunchbase_data:
+              name: Cloud Native Computing Foundation (CNCF)
+              description: CNCF is an open source software foundation that hosts and nurtures projects like Kubernetes and Prometheus.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.cncf.io
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/CloudNativeFdn
+              linkedin: https://www.linkedin.com/company/cloud-native-computing-foundation
+              acquisitions:
+                - date: '2016-03-10'
+                  acquiree: Kubernetes
+                - date: '2017-02-06'
+                  acquiree: RethinkDB
+                  price: 25000
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              funding: 3000000
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Cloud Computing
+                - Cloud Infrastructure
+                - Non Profit
+                - Open Source
+                - Software
+              kind: funding
+            github_data:
+              languages:
+                - name: Go
+                  value: 30203
+                  color: '#00ADD8'
+                - name: Shell
+                  value: 4322
+                  color: '#89e051'
+                - name: Makefile
+                  value: 2957
+                  color: '#427819'
+              contributions: 1;4;2;0;1;3;2;3;2;0;0;4;2;0;2;1;1;1;0;0;1;1;0;1;0;1;1;0;5;1;3;2;0;1;0;1;1;1;5;5;1;0;2;0;1;1;5;0;3;0;2;1
+              firstWeek: 2022-01-23Z
+              stars: 47
+              license: Apache License 2.0
+              description: Plugin for Helm to integrate the sigstore ecosystem
+              latest_commit_date: '2023-01-16T16:36:25Z'
+              latest_commit_link: /sigstore/helm-sigstore/commit/cc8408e5d805c8b4a5c8d7dcbc9a04ed06cc6d58
+              release_date: '2022-10-20T21:29:51Z'
+              release_link: https://github.com/sigstore/helm-sigstore/releases
+              contributors_count: 7
+              contributors_link: https://github.com/sigstore/helm-sigstore/graphs/contributors
+            repos:
+              - url: https://github.com/sigstore/helm-sigstore
+                stars: 47
+            github_start_commit_data:
+              start_commit_link: /sigstore/helm-sigstore/commit/2ec814fb55563fd2a3ee4ef057a1c4ef07b11e5d
+              start_date: '2021-05-13T17:39:43Z'
+            image_data:
+              fileName: helm-plugin-for-sigstore.svg
+              hash: KhA6o4K6XUSqkzETQq1dSKGteJ7kc7vebZcpB96Rxww=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-11-11T19:21:10.000Z
+          - item:
             name: JReleaser
             homepage_url: https://jreleaser.org
+            repo_url: https://github.com/jreleaser/jreleaser
             logo: jreleaser.svg
             twitter: https://twitter.com/jreleaser
             organization:
@@ -8188,17 +8612,51 @@ landscape:
             crunchbase_data:
               name: JReleaser
               parents: []
+            github_data:
+              languages:
+                - name: Java
+                  value: 4026083
+                  color: '#b07219'
+                - name: Groovy
+                  value: 804857
+                  color: '#e69f56'
+                - name: Smarty
+                  value: 157410
+                - name: Shell
+                  value: 50209
+                  color: '#89e051'
+                - name: Tcl
+                  value: 10204
+                  color: '#e4cc98'
+              contributions: 34;38;13;15;33;23;7;5;7;5;10;13;0;3;0;0;5;7;4;2;3;10;1;7;2;9;1;13;11;44;7;52;31;3;13;1;3;2;4;15;17;37;18;15;19;30;50;37;6;29;22;1
+              firstWeek: 2022-01-23Z
+              stars: 730
+              license: Apache License 2.0
+              description: ':rocket: Release projects quickly and easily with JReleaser'
+              latest_commit_date: '2023-01-14T23:31:28Z'
+              latest_commit_link: /jreleaser/jreleaser/commit/bbc2d6083b39776064c96a0a5ba0fd2e64957889
+              release_date: '2023-01-15T00:16:02Z'
+              release_link: https://github.com/jreleaser/jreleaser/releases
+              contributors_count: 46
+              contributors_link: https://github.com/jreleaser/jreleaser/graphs/contributors
+            repos:
+              - url: https://github.com/jreleaser/jreleaser
+                stars: 730
+            github_start_commit_data:
+              start_commit_link: /jreleaser/jreleaser/commit/f9bfc18c0be821a4fa4009d8acd7dc5dc15afbaa
+              start_date: '2020-11-28T14:32:07Z'
             image_data:
               fileName: j-releaser.svg
               hash: BQKEM7L5RVicriyXdkOhBww2LRhWY7QCe8zM1Jyk1ec=
             best_practice_data:
-              badge: false
-              percentage: null
+              badge: 6393
+              percentage: 100
             twitter_data:
               latest_tweet_date: 2022-10-15T11:06:20.000Z
           - item:
             name: Kyverno
             homepage_url: https://kyverno.io/
+            repo_url: https://github.com/kyverno/kyverno
             logo: kyverno.svg
             twitter: https://twitter.com/kyverno
             crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
@@ -8233,14 +8691,186 @@ landscape:
                 - Open Source
                 - Software
               kind: funding
+            github_data:
+              languages:
+                - name: Go
+                  value: 11176107
+                  color: '#00ADD8'
+                - name: Makefile
+                  value: 36529
+                  color: '#427819'
+                - name: Shell
+                  value: 31135
+                  color: '#89e051'
+                - name: Mustache
+                  value: 12846
+              contributions: >-
+                26;16;13;12;16;24;12;22;36;20;29;20;11;33;59;54;53;28;9;15;4;9;7;9;7;6;12;7;8;4;16;36;46;40;17;18;47;36;65;33;15;37;38;41;40;55;53;32;36;27;54;20
+              firstWeek: 2022-01-23Z
+              stars: 3380
+              license: Apache License 2.0
+              description: Kubernetes Native Policy Management
+              latest_commit_date: '2023-01-18T17:09:37Z'
+              latest_commit_link: /kyverno/kyverno/commit/2785827e77419a7a44917d651ff82eaffe9b4f83
+              release_date: '2023-01-18T15:06:58Z'
+              release_link: https://github.com/kyverno/kyverno/releases
+              contributors_count: 200
+              contributors_link: https://github.com/kyverno/kyverno/graphs/contributors
+            repos:
+              - url: https://github.com/kyverno/kyverno
+                stars: 3380
+            github_start_commit_data:
+              start_commit_link: /kyverno/kyverno/commit/bad7ef25fd99232432cbe3d35d4311d659b8bd76
+              start_date: '2019-02-04T16:25:49Z'
             image_data:
               fileName: kyverno.svg
               hash: i3BcRLPDZaMb7VPMcV3jcyXUvXZzKXRwK898Uh1vd0c=
             best_practice_data:
-              badge: false
-              percentage: null
+              badge: 5327
+              percentage: 100
             twitter_data:
               latest_tweet_date: 2022-10-21T21:07:00.000Z
+          - item:
+            name: Tekton Chains
+            homepage_url: https://tekton.dev
+            repo_url: https://github.com/tektoncd/chains
+            logo: tekton_chains.svg
+            twitter: https://twitter.com/tektoncd
+            crunchbase: https://www.crunchbase.com/organization/continuous-delivery-foundation-cdf
+            extra:
+              how_to_verify_url: https://github.com/tektoncd/chains/releases
+            crunchbase_data:
+              name: Continuous Delivery Foundation (CDF)
+              description: A Neutral Home for the Next Generation of Continuous Delivery Collaboration
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://cd.foundation
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/CDeliveryFdn
+              linkedin: null
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Cloud Computing
+                - Open Source
+                - Software
+            github_data:
+              languages:
+                - name: Go
+                  value: 440967
+                  color: '#00ADD8'
+                - name: Shell
+                  value: 12485
+                  color: '#89e051'
+              contributions: 5;5;8;4;3;22;3;3;1;2;10;7;2;9;3;3;5;1;2;0;0;4;8;17;5;3;4;2;9;3;1;4;15;3;3;11;9;0;7;5;0;5;0;9;10;3;6;7;2;2;4;6
+              firstWeek: 2022-01-23Z
+              stars: 193
+              license: Apache License 2.0
+              description: Supply Chain Security in Tekton Pipelines
+              latest_commit_date: '2023-01-18T17:04:00Z'
+              latest_commit_link: /tektoncd/chains/commit/6a00ef92e87ddd6a0d18182b7adab49d3e9687ce
+              release_date: '2022-12-20T18:55:53Z'
+              release_link: https://github.com/tektoncd/chains/releases
+              contributors_count: 51
+              contributors_link: https://github.com/tektoncd/chains/graphs/contributors
+            repos:
+              - url: https://github.com/tektoncd/chains
+                stars: 193
+            github_start_commit_data:
+              start_commit_link: /tektoncd/chains/commit/43b68029eebf4d4bf08c24d4a3e6bf0ccbe5ef7d
+              start_date: '2020-06-15T11:59:11Z'
+            image_data:
+              fileName: tekton-chains.svg
+              hash: dGfJz7dSbjIRb3EUfRngALSP3cqZNNvkhWDLr1v3Vv0=
+            best_practice_data:
+              badge: 6408
+              percentage: 100
+            twitter_data:
+              latest_tweet_date: 2022-10-17T16:35:50.000Z
+          - item:
+            name: Flux
+            homepage_url: https://fluxcd.io/
+            repo_url: https://github.com/fluxcd/flux2
+            logo: flux.svg
+            twitter: https://twitter.com/fluxcd
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+            extra:
+              how_to_verify_url: https://fluxcd.io/flux/cheatsheets/oci-artifacts/#signing-and-verification
+            crunchbase_data:
+              name: Cloud Native Computing Foundation (CNCF)
+              description: CNCF is an open source software foundation that hosts and nurtures projects like Kubernetes and Prometheus.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.cncf.io
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/CloudNativeFdn
+              linkedin: https://www.linkedin.com/company/cloud-native-computing-foundation
+              acquisitions:
+                - date: '2016-03-10'
+                  acquiree: Kubernetes
+                - date: '2017-02-06'
+                  acquiree: RethinkDB
+                  price: 25000
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              funding: 3000000
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Cloud Computing
+                - Cloud Infrastructure
+                - Non Profit
+                - Open Source
+                - Software
+              kind: funding
+            github_data:
+              languages:
+                - name: Go
+                  value: 832027
+                  color: '#00ADD8'
+                - name: HCL
+                  value: 14030
+                - name: Shell
+                  value: 7613
+                  color: '#89e051'
+                - name: Makefile
+                  value: 3633
+                  color: '#427819'
+                - name: Dockerfile
+                  value: 540
+                  color: '#384d54'
+              contributions: 8;14;24;18;12;11;4;5;6;24;17;5;12;14;12;7;1;9;17;25;10;3;22;5;10;11;1;12;9;11;15;21;5;21;1;3;14;6;17;34;2;8;10;16;6;10;6;25;15;2;6;9
+              firstWeek: 2022-01-23Z
+              stars: 4344
+              license: Apache License 2.0
+              description: Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
+              latest_commit_date: '2023-01-16T15:11:38Z'
+              latest_commit_link: /fluxcd/flux2/commit/043915456420d8883ce8c36343767f1954acb742
+              release_date: '2023-01-10T16:10:41Z'
+              release_link: https://github.com/fluxcd/flux2/releases
+              contributors_count: 123
+              contributors_link: https://github.com/fluxcd/flux2/graphs/contributors
+            repos:
+              - url: https://github.com/fluxcd/flux2
+                stars: 4344
+            github_start_commit_data:
+              start_commit_link: /fluxcd/flux2/commit/ebdabaf98d8c94092dadcf88a959795d4e06b651
+              start_date: '2020-04-24T09:38:22Z'
+            image_data:
+              fileName: flux.svg
+              hash: h7GovC0iLE2tsMuXuZcw68F0M5/FzvhCVNGxMCC04bw=
+            best_practice_data:
+              badge: 4782
+              percentage: 100
+            twitter_data:
+              latest_tweet_date: 2022-10-21T19:30:00.000Z
       - subcategory:
         name: Language Clients
         items:
@@ -8412,11 +9042,275 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+          - item:
+            name: Sigstore client for Java
+            homepage_url: https://repo1.maven.org/maven2/dev/sigstore/sigstore-java/0.1.0/
+            repo_url: https://github.com/sigstore/sigstore-java
+            logo: maven.svg
+            organization:
+              name: sigstore
+            crunchbase_data:
+              name: sigstore
+              parents: []
+            github_data:
+              languages:
+                - name: Java
+                  value: 384114
+                  color: '#b07219'
+                - name: Kotlin
+                  value: 79415
+                  color: '#F18E33'
+                - name: Shell
+                  value: 1590
+                  color: '#89e051'
+              contributions: 0;1;0;0;4;4;0;0;0;0;0;1;0;0;3;2;29;17;3;11;13;4;4;2;3;3;0;4;14;10;2;3;28;64;15;11;4;0;14;29;15;11;7;5;0;1;13;38;10;7;1;37
+              firstWeek: 2022-01-23Z
+              stars: 19
+              license: Apache License 2.0
+              description: java clients for sigstore
+              latest_commit_date: '2023-01-18T16:40:06Z'
+              latest_commit_link: /sigstore/sigstore-java/commit/c2906924ece30bb11f336f9b0feeeda1ff63edc0
+              release_date: '2022-11-02T21:08:38Z'
+              release_link: https://github.com/sigstore/sigstore-java/releases
+              contributors_count: 6
+              contributors_link: https://github.com/sigstore/sigstore-java/graphs/contributors
+            repos:
+              - url: https://github.com/sigstore/sigstore-java
+                stars: 19
+            github_start_commit_data:
+              start_commit_link: /sigstore/sigstore-java/commit/5b13ff4a98d409ff67b194e90adc9cf96e223f6a
+              start_date: '2022-01-28T16:49:30Z'
+            image_data:
+              fileName: sigstore-client-for-java.svg
+              hash: QOZ67RWsmAljIp/d3w0jQ+QKtxh4oUciUqaHO5KX59g=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Sigstore client for Javascript
+            homepage_url: https://github.com/npm/rfcs/blob/link-packages-to-source-and-build/accepted/0000-link-packages-to-source-and-build.md
+            repo_url: https://github.com/sigstore/sigstore-js
+            logo: js.svg
+            organization:
+              name: sigstore
+            crunchbase_data:
+              name: sigstore
+              parents: []
+            github_data:
+              languages:
+                - name: TypeScript
+                  value: 478842
+                  color: '#2b7489'
+                - name: Makefile
+                  value: 4279
+                  color: '#427819'
+                - name: Shell
+                  value: 2192
+                  color: '#89e051'
+                - name: JavaScript
+                  value: 2098
+                  color: '#f1e05a'
+                - name: Dockerfile
+                  value: 217
+                  color: '#384d54'
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;8;3;16;6;0;0;0;5;11;5;17;13;5;9;0;6;6;1;7;1;6;15;10;6;10;5;6;3;15;10;10;6;21;13
+              firstWeek: 2022-01-23Z
+              stars: 109
+              license: Apache License 2.0
+              description: Code-signing for npm packages
+              latest_commit_date: '2023-01-18T16:08:51Z'
+              latest_commit_link: /sigstore/sigstore-js/commit/0d24d027168b966209e497726a2d0862029fcdf5
+              release_date: '2023-01-11T17:30:36Z'
+              release_link: https://github.com/sigstore/sigstore-js/releases
+              contributors_count: 11
+              contributors_link: https://github.com/sigstore/sigstore-js/graphs/contributors
+            repos:
+              - url: https://github.com/sigstore/sigstore-js
+                stars: 109
+            github_start_commit_data:
+              start_commit_link: /sigstore/sigstore-js/commit/427713ea400c3fb3f40aa568351d12265d4e3304
+              start_date: '2022-05-23T21:52:17Z'
+            image_data:
+              fileName: sigstore-client-for-javascript.svg
+              hash: mpNdcze+BktAhCwhPWvz2WsoCcMlY+hY1guYu3HjR70=
+            best_practice_data:
+              badge: false
+              percentage: null
       - subcategory:
         name: Signed With
         items:
           - item:
-            name: Flux
+            name: Cert Manager
+            homepage_url: https://cert-manager.io
+            repo_url: https://github.com/cert-manager/cert-manager
+            logo: certmanager.svg
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+            extra:
+              how_to_verify_url: https://cert-manager.io/docs/installation/code-signing/
+            crunchbase_data:
+              name: Cloud Native Computing Foundation (CNCF)
+              description: CNCF is an open source software foundation that hosts and nurtures projects like Kubernetes and Prometheus.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.cncf.io
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/CloudNativeFdn
+              linkedin: https://www.linkedin.com/company/cloud-native-computing-foundation
+              acquisitions:
+                - date: '2016-03-10'
+                  acquiree: Kubernetes
+                - date: '2017-02-06'
+                  acquiree: RethinkDB
+                  price: 25000
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              funding: 3000000
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Cloud Computing
+                - Cloud Infrastructure
+                - Non Profit
+                - Open Source
+                - Software
+              kind: funding
+            github_data:
+              languages:
+                - name: Go
+                  value: 4850100
+                  color: '#00ADD8'
+                - name: Makefile
+                  value: 119200
+                  color: '#427819'
+                - name: Shell
+                  value: 84952
+                  color: '#89e051'
+                - name: Mustache
+                  value: 7541
+                - name: Python
+                  value: 7134
+                  color: '#3572A5'
+                - name: Dockerfile
+                  value: 1957
+                  color: '#384d54'
+              contributions: 44;60;33;40;27;16;15;39;49;34;25;11;6;10;23;21;23;7;9;13;36;17;18;31;17;7;20;7;40;4;5;24;2;0;5;12;11;15;7;10;4;14;12;15;12;16;14;19;8;12;25;12
+              firstWeek: 2022-01-23Z
+              stars: 9854
+              license: Apache License 2.0
+              description: Automatically provision and manage TLS certificates in Kubernetes
+              latest_commit_date: '2023-01-18T11:31:58Z'
+              latest_commit_link: /cert-manager/cert-manager/commit/d5125b55ce0be0799da79d8062731c4b41fd4b97
+              release_date: '2023-01-11T17:07:28Z'
+              release_link: https://github.com/cert-manager/cert-manager/releases
+              contributors_count: 375
+              contributors_link: https://github.com/cert-manager/cert-manager/graphs/contributors
+            repos:
+              - url: https://github.com/cert-manager/cert-manager
+                stars: 9854
+            github_start_commit_data:
+              start_commit_link: /cert-manager/cert-manager/commit/36308ae891a11a7c4f11839f87d98889c95954fa
+              start_date: '2017-07-19T08:39:13Z'
+            image_data:
+              fileName: cert-manager.svg
+              hash: xhV6ayjpjCe/uQE4DlDx46Ysy2hsUGGKrxAbTcZr4oU=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2023-01-18T16:01:07.000Z
+          - item:
+            name: Cilium
+            homepage_url: https://cilium.io/
+            repo_url: https://github.com/cilium/cilium
+            logo: cilium.svg
+            crunchbase: https://www.crunchbase.com/organization/cilium
+            extra:
+              how_to_verify_url: https://docs.cilium.io/en/latest/configuration/verify-image-signatures/#verifying-image-signatures
+            crunchbase_data:
+              name: Cilium
+              description: eBPF-based Networking, Security, and Observability
+              num_employees_min: 101
+              num_employees_max: 250
+              homepage: https://cilium.io/
+              city: Sunnyvale
+              region: California
+              country: United States
+              twitter: https://twitter.com/ciliumproject
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: ''
+              industries:
+                - Network Security
+                - Software
+            github_data:
+              languages:
+                - name: Go
+                  value: 11714505
+                  color: '#00ADD8'
+                - name: C
+                  value: 1140073
+                  color: '#555555'
+                - name: Shell
+                  value: 387814
+                  color: '#89e051'
+                - name: Makefile
+                  value: 76452
+                  color: '#427819'
+                - name: Dockerfile
+                  value: 25474
+                  color: '#384d54'
+                - name: Smarty
+                  value: 16522
+                - name: Python
+                  value: 14837
+                  color: '#3572A5'
+                - name: SmPL
+                  value: 10748
+                - name: HCL
+                  value: 1525
+                - name: Mustache
+                  value: 1457
+                - name: Lua
+                  value: 1424
+                  color: '#000080'
+                - name: TeX
+                  value: 416
+                  color: '#3D6117'
+                - name: Ruby
+                  value: 394
+                  color: '#701516'
+              contributions: >-
+                69;57;59;55;51;56;84;46;41;39;66;71;43;73;69;79;77;71;56;65;65;62;51;56;92;68;45;68;88;51;73;99;65;51;57;78;103;74;65;67;52;46;81;76;84;91;69;54;18;17;39;24
+              firstWeek: 2022-01-23Z
+              stars: 14089
+              license: Apache License 2.0
+              description: eBPF-based Networking, Security, and Observability
+              latest_commit_date: '2023-01-18T17:25:35Z'
+              latest_commit_link: /cilium/cilium/commit/53bcbe8ae6af4819e2686e95db2e054cac1e420a
+              release_date: '2022-12-23T00:09:43Z'
+              release_link: https://github.com/cilium/cilium/releases
+              contributors_count: 586
+              contributors_link: https://github.com/cilium/cilium/graphs/contributors
+            repos:
+              - url: https://github.com/cilium/cilium
+                stars: 14089
+            github_start_commit_data:
+              start_commit_link: /cilium/cilium/commit/7fa3c60eb7dbe7a5a4caea3aab0396f75a8b10c7
+              start_date: '2015-12-16T12:33:31Z'
+            image_data:
+              fileName: cilium.svg
+              hash: eqfIX2UC2uzY3dALUNbs9KVXZacQ3m9TyC+nH6rXUx0=
+            best_practice_data:
+              badge: 1269
+              percentage: 100
+            twitter_data:
+              latest_tweet_date: 2023-01-18T17:35:51.000Z
+          - item:
+            name: Flux (Signed With)
             homepage_url: https://fluxcd.io/
             logo: flux.svg
             twitter: https://twitter.com/fluxcd
@@ -8453,7 +9347,7 @@ landscape:
                 - Software
               kind: funding
             image_data:
-              fileName: flux.svg
+              fileName: flux-signed-with.svg
               hash: h7GovC0iLE2tsMuXuZcw68F0M5/FzvhCVNGxMCC04bw=
             best_practice_data:
               badge: false
@@ -8461,8 +9355,79 @@ landscape:
             twitter_data:
               latest_tweet_date: 2022-10-21T19:30:00.000Z
           - item:
+            name: Jenkins X
+            homepage_url: https://jenkins-x.io/
+            repo_url: https://github.com/jenkins-x/jx
+            logo: jenkins-x.svg
+            twitter: https://twitter.com/jenkinsxio
+            crunchbase: https://www.crunchbase.com/organization/continuous-delivery-foundation-cdf
+            extra:
+              how_to_verify_url: https://github.com/jenkins-x/jx/releases
+            crunchbase_data:
+              name: Continuous Delivery Foundation (CDF)
+              description: A Neutral Home for the Next Generation of Continuous Delivery Collaboration
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://cd.foundation
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/CDeliveryFdn
+              linkedin: null
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Cloud Computing
+                - Open Source
+                - Software
+            github_data:
+              languages:
+                - name: Go
+                  value: 97951
+                  color: '#00ADD8'
+                - name: Shell
+                  value: 8513
+                  color: '#89e051'
+                - name: Makefile
+                  value: 6892
+                  color: '#427819'
+                - name: Mustache
+                  value: 916
+                - name: Dockerfile
+                  value: 412
+                  color: '#384d54'
+              contributions: 3;3;1;6;6;6;7;0;6;26;20;2;2;27;38;24;4;0;0;4;18;62;36;20;12;2;2;13;2;0;4;8;14;12;23;27;54;2;3;28;5;13;1;8;4;1;1;3;4;13;15;7
+              firstWeek: 2022-01-23Z
+              stars: 4316
+              license: Apache License 2.0
+              description: Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Cloud Native pipelines from Tekton
+              latest_commit_date: '2023-01-17T11:41:42Z'
+              latest_commit_link: /jenkins-x/jx/commit/36061629b2beadb7be407fa7d9a5e7a58b7a023f
+              release_date: '2023-01-17T11:44:45Z'
+              release_link: https://github.com/jenkins-x/jx/releases
+              contributors_count: 230
+              contributors_link: https://github.com/jenkins-x/jx/graphs/contributors
+            repos:
+              - url: https://github.com/jenkins-x/jx
+                stars: 4316
+            github_start_commit_data:
+              start_commit_link: /jenkins-x/jx/commit/e255f7ea050c4a410a21183ec85a510c8e4ca8c6
+              start_date: '2018-01-05T15:46:09Z'
+            image_data:
+              fileName: jenkins-x.svg
+              hash: +bDZsdrfz1O+H77iUB0d3eF8S0qLd9y9isM2GpaRlVc=
+            best_practice_data:
+              badge: 5950
+              percentage: 34
+            twitter_data:
+              latest_tweet_date: 2022-10-22T15:08:21.000Z
+          - item:
             name: Keda
             homepage_url: https://keda.sh/
+            repo_url: https://github.com/kedacore/keda
             logo: keda.svg
             twitter: https://twitter.com/kedaorg
             crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
@@ -8497,17 +9462,49 @@ landscape:
                 - Open Source
                 - Software
               kind: funding
+            github_data:
+              languages:
+                - name: Go
+                  value: 2545087
+                  color: '#00ADD8'
+                - name: Makefile
+                  value: 17371
+                  color: '#427819'
+                - name: Shell
+                  value: 14468
+                  color: '#89e051'
+                - name: Dockerfile
+                  value: 9449
+                  color: '#384d54'
+              contributions: 10;13;6;9;6;11;9;7;15;21;10;8;3;9;19;15;7;1;9;7;5;9;19;15;16;35;13;11;34;10;2;4;12;3;6;7;5;5;3;5;3;12;14;8;7;18;23;5;6;4;5;18
+              firstWeek: 2022-01-23Z
+              stars: 5896
+              license: Apache License 2.0
+              description: ' KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes '
+              latest_commit_date: '2023-01-18T09:33:01Z'
+              latest_commit_link: /kedacore/keda/commit/a25f1a4b951b52f6f76f0b1aaa96e509fce466fb
+              release_date: '2023-01-16T18:15:56Z'
+              release_link: https://github.com/kedacore/keda/releases
+              contributors_count: 248
+              contributors_link: https://github.com/kedacore/keda/graphs/contributors
+            repos:
+              - url: https://github.com/kedacore/keda
+                stars: 5896
+            github_start_commit_data:
+              start_commit_link: /kedacore/keda/commit/169efdc3236c42f079e9db780b628956f2afb459
+              start_date: '2019-02-13T00:12:34Z'
             image_data:
               fileName: keda.svg
               hash: P6iOe3d2zVQg1RsO33AWTuFe3rtYHkRcY6PztJc5e2o=
             best_practice_data:
-              badge: false
-              percentage: null
+              badge: 3791
+              percentage: 100
             twitter_data:
               latest_tweet_date: 2022-10-21T14:32:49.000Z
           - item:
             name: Kubernetes
             homepage_url: https://kubernetes.io/
+            repo_url: https://github.com/kubernetes/kubernetes
             logo: kubernetes.svg
             twitter: https://twitter.com/kubernetesio
             crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
@@ -8542,17 +9539,385 @@ landscape:
                 - Open Source
                 - Software
               kind: funding
+            github_data:
+              languages:
+                - name: Go
+                  value: 64255864
+                  color: '#00ADD8'
+                - name: Shell
+                  value: 1831199
+                  color: '#89e051'
+                - name: PowerShell
+                  value: 144474
+                  color: '#012456'
+                - name: Makefile
+                  value: 64308
+                  color: '#427819'
+                - name: Dockerfile
+                  value: 47376
+                  color: '#384d54'
+                - name: Python
+                  value: 23907
+                  color: '#3572A5'
+                - name: C
+                  value: 3902
+                  color: '#555555'
+                - name: sed
+                  value: 1262
+                  color: '#64b970'
+                - name: Batchfile
+                  value: 833
+                  color: '#C1F12E'
+                - name: HTML
+                  value: 106
+                  color: '#e34c26'
+              contributions: >-
+                127;99;105;135;143;128;121;139;166;324;160;59;60;52;53;266;150;112;88;105;149;96;104;89;125;183;162;253;114;53;80;200;95;122;168;152;100;105;205;202;164;356;161;50;47;47;205;130;80;54;158;91
+              firstWeek: 2022-01-23Z
+              stars: 95224
+              license: Apache License 2.0
+              description: Production-Grade Container Scheduling and Management
+              latest_commit_date: '2023-01-18T17:44:34Z'
+              latest_commit_link: /kubernetes/kubernetes/commit/c63434aaff7bb3e2d89f89e72bb6c9ecc568a0db
+              release_date: '2022-12-09T04:00:59Z'
+              release_link: https://github.com/kubernetes/kubernetes/releases
+              contributors_count: 4594
+              contributors_link: https://github.com/kubernetes/kubernetes/graphs/contributors
+            repos:
+              - url: https://github.com/kubernetes/kubernetes
+                stars: 95224
+            github_start_commit_data:
+              start_commit_link: /kubernetes/kubernetes/commit/2c4b3a562ce34cddc3f8218a2c4d11c7310e6d56
+              start_date: '2014-06-06T23:40:48Z'
             image_data:
               fileName: kubernetes.svg
               hash: M0QmUh0e0dtnyXCH3av83LOjQNlstE6WYfWjfCCdfcA=
             best_practice_data:
-              badge: false
-              percentage: null
+              badge: 569
+              percentage: 100
             twitter_data:
               latest_tweet_date: 2022-09-30T22:17:21.000Z
           - item:
+            name: Kubewarden
+            homepage_url: https://www.kubewarden.io/
+            repo_url: https://github.com/kubewarden/kubewarden-controller
+            logo: kubewarden.svg
+            twitter: https://twitter.com/kubewarden
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+            extra:
+              how_to_verify_url: https://docs.kubewarden.io/distributing-policies/secure-supply-chain
+            crunchbase_data:
+              name: Cloud Native Computing Foundation (CNCF)
+              description: CNCF is an open source software foundation that hosts and nurtures projects like Kubernetes and Prometheus.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.cncf.io
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/CloudNativeFdn
+              linkedin: https://www.linkedin.com/company/cloud-native-computing-foundation
+              acquisitions:
+                - date: '2016-03-10'
+                  acquiree: Kubernetes
+                - date: '2017-02-06'
+                  acquiree: RethinkDB
+                  price: 25000
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              funding: 3000000
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Cloud Computing
+                - Cloud Infrastructure
+                - Non Profit
+                - Open Source
+                - Software
+              kind: funding
+            github_data:
+              languages:
+                - name: Go
+                  value: 241434
+                  color: '#00ADD8'
+                - name: Makefile
+                  value: 6558
+                  color: '#427819'
+                - name: Shell
+                  value: 5062
+                  color: '#89e051'
+                - name: Dockerfile
+                  value: 791
+                  color: '#384d54'
+              contributions: 11;3;4;12;11;14;10;7;5;17;5;3;4;0;8;6;15;12;8;16;9;4;0;0;0;2;5;2;2;0;0;3;2;16;9;9;12;2;0;4;9;10;4;0;0;6;1;6;6;1;1;2
+              firstWeek: 2022-01-23Z
+              stars: 102
+              license: Apache License 2.0
+              description: Manage admission policies in your Kubernetes cluster with ease
+              latest_commit_date: '2023-01-18T14:18:36Z'
+              latest_commit_link: /kubewarden/kubewarden-controller/commit/63bfe43824dc7303eebbade049c75e9cdd647132
+              release_date: '2023-01-18T15:44:39Z'
+              release_link: https://github.com/kubewarden/kubewarden-controller/releases
+              contributors_count: 13
+              contributors_link: https://github.com/kubewarden/kubewarden-controller/graphs/contributors
+            repos:
+              - url: https://github.com/kubewarden/kubewarden-controller
+                stars: 102
+            github_start_commit_data:
+              start_commit_link: /kubewarden/kubewarden-controller/commit/d49476b1064f2a7c4ab0107a3f93548c07f7bf04
+              start_date: '2021-01-15T11:55:09Z'
+            image_data:
+              fileName: kubewarden.svg
+              hash: JCB+kmkFqPijXc475DxNpPjZ6O3qRrK+s8MZ1oV7jno=
+            best_practice_data:
+              badge: 6502
+              percentage: 85
+            twitter_data:
+              latest_tweet_date: 2022-12-29T14:19:33.000Z
+          - item:
+            name: Kyverno (Signed With)
+            homepage_url: https://kyverno.io/
+            logo: kyverno.svg
+            twitter: https://twitter.com/kyverno
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+            extra:
+              how_to_verify_url: https://kyverno.io/docs/security/
+            crunchbase_data:
+              name: Cloud Native Computing Foundation (CNCF)
+              description: CNCF is an open source software foundation that hosts and nurtures projects like Kubernetes and Prometheus.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.cncf.io
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/CloudNativeFdn
+              linkedin: https://www.linkedin.com/company/cloud-native-computing-foundation
+              acquisitions:
+                - date: '2016-03-10'
+                  acquiree: Kubernetes
+                - date: '2017-02-06'
+                  acquiree: RethinkDB
+                  price: 25000
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              funding: 3000000
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Cloud Computing
+                - Cloud Infrastructure
+                - Non Profit
+                - Open Source
+                - Software
+              kind: funding
+            image_data:
+              fileName: kyverno-signed-with.svg
+              hash: i3BcRLPDZaMb7VPMcV3jcyXUvXZzKXRwK898Uh1vd0c=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-10-21T21:07:00.000Z
+          - item:
+            name: Ockam
+            homepage_url: https://www.ockam.io/
+            repo_url: https://github.com/build-trust/ockam
+            logo: ockam.svg
+            crunchbase: https://www.crunchbase.com/organization/ockam
+            extra:
+              how_to_verify_url: https://github.com/build-trust/ockam/releases/tag/ockam_v0.76.0
+            crunchbase_data:
+              name: Ockam
+              description: Trust Data-in-Motion.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.ockam.io
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/Ockam
+              linkedin: https://www.linkedin.com/company/ockam.io/
+              acquisitions: []
+              parents: []
+              funding: 17700000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cloud Computing
+                - Cyber Security
+                - Developer Tools
+                - Enterprise Software
+                - Identity Management
+                - Network Security
+                - Open Source
+                - Security
+                - Software
+              kind: funding
+            github_data:
+              languages:
+                - name: Rust
+                  value: 2192073
+                  color: '#dea584'
+                - name: Elixir
+                  value: 880158
+                  color: '#6e4a7e'
+                - name: Shell
+                  value: 31574
+                  color: '#89e051'
+                - name: Erlang
+                  value: 18833
+                  color: '#B83998'
+                - name: TypeScript
+                  value: 9512
+                  color: '#2b7489'
+                - name: Dockerfile
+                  value: 670
+                  color: '#384d54'
+                - name: Makefile
+                  value: 541
+                  color: '#427819'
+              contributions: >-
+                9;84;31;14;30;11;34;18;43;37;61;55;26;22;14;75;30;40;35;67;58;43;18;38;18;38;34;48;61;56;67;70;41;33;29;19;17;43;27;47;35;40;10;17;41;23;23;35;33;13;18;25
+              firstWeek: 2022-01-23Z
+              stars: 2827
+              license: Apache License 2.0
+              description: Orchestrate end-to-end encryption, mutual authentication, key management, credential management & authorization policy enforcement — at scale.
+              latest_commit_date: '2023-01-18T17:26:24Z'
+              latest_commit_link: /build-trust/ockam/commit/ea7eeb81f9de74a5d9003ed6110eb8574200ba23
+              release_date: '2023-01-18T14:13:05Z'
+              release_link: https://github.com/build-trust/ockam/releases
+              contributors_count: 155
+              contributors_link: https://github.com/build-trust/ockam/graphs/contributors
+            repos:
+              - url: https://github.com/build-trust/ockam
+                stars: 2827
+            github_start_commit_data:
+              start_commit_link: /build-trust/ockam/commit/352a3538aa07f5265385c6c6c4fdd4f3e4484b39
+              start_date: '2018-11-30T19:25:07Z'
+            image_data:
+              fileName: ockam.svg
+              hash: H+wPgGGFFaonltdSm4KkqZI0UZ+smWGnO1CGRvM9GGQ=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2023-01-18T10:00:49.000Z
+          - item:
+            name: CPython
+            homepage_url: https://www.python.org/
+            repo_url: https://github.com/python/cpython
+            logo: cpython.svg
+            twitter: https://twitter.com/ThePSF
+            crunchbase: https://www.crunchbase.com/organization/python-software-foundation
+            extra:
+              how_to_verify_url: https://www.python.org/download/sigstore/
+            crunchbase_data:
+              name: Python Software Foundation
+              description: An organization devoted to advancing open source technology .
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: http://www.python.org/psf-landing/
+              city: Wilmington
+              region: Delaware
+              country: United States
+              twitter: http://twitter.com/ThePSF
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Developer Platform
+                - Enterprise Software
+                - Information Technology
+                - Software
+            github_data:
+              languages:
+                - name: Python
+                  value: 32264887
+                  color: '#3572A5'
+                - name: C
+                  value: 16562257
+                  color: '#555555'
+                - name: C++
+                  value: 328445
+                  color: '#f34b7d'
+                - name: M4
+                  value: 230255
+                - name: HTML
+                  value: 208030
+                  color: '#e34c26'
+                - name: Batchfile
+                  value: 75996
+                  color: '#C1F12E'
+                - name: Shell
+                  value: 59461
+                  color: '#89e051'
+                - name: Roff
+                  value: 41230
+                  color: '#ecdebe'
+                - name: Makefile
+                  value: 36224
+                  color: '#427819'
+                - name: Objective-C
+                  value: 26849
+                  color: '#438eff'
+                - name: Common Lisp
+                  value: 24579
+                  color: '#3fb68b'
+                - name: PLSQL
+                  value: 22886
+                  color: '#dad8d8'
+                - name: PowerShell
+                  value: 20326
+                  color: '#012456'
+                - name: Rich Text Format
+                  value: 6936
+                - name: Assembly
+                  value: 2415
+                  color: '#6E4C13'
+                - name: DTrace
+                  value: 2196
+                - name: JavaScript
+                  value: 1980
+                  color: '#f1e05a'
+                - name: CSS
+                  value: 1325
+                  color: '#563d7c'
+                - name: XSLT
+                  value: 1174
+                  color: '#EB8CEB'
+                - name: VBScript
+                  value: 70
+              contributions: >-
+                115;69;87;67;73;77;74;70;74;57;102;68;96;87;145;133;73;78;56;56;70;91;88;61;46;57;86;71;68;54;55;70;47;46;43;33;85;130;61;83;69;104;97;61;74;57;59;43;60;55;64;42
+              firstWeek: 2022-01-23Z
+              stars: 50125
+              license: Other
+              description: The Python programming language
+              latest_commit_date: '2023-01-18T16:24:56Z'
+              latest_commit_link: /python/cpython/commit/d65f48507045c87000c65dc2c4fa727f483caad6
+              contributors_count: 2332
+              contributors_link: https://github.com/python/cpython/graphs/contributors
+            repos:
+              - url: https://github.com/python/cpython
+                stars: 50125
+            github_start_commit_data:
+              start_commit_link: /python/cpython/commit/7f777ed95a19224294949e1b4ce56bbffcb1fe9f
+              start_date: '1990-08-09T14:25:15Z'
+            image_data:
+              fileName: c-python.svg
+              hash: KuczPbnIwvDARJ74EbnuqoxaoZYqPdgFNMDAlk+CuZk=
+            best_practice_data:
+              badge: 4008
+              percentage: 100
+            twitter_data:
+              latest_tweet_date: 2023-01-10T18:41:05.000Z
+          - item:
             name: Tekton
             homepage_url: https://tekton.dev/
+            repo_url: https://github.com/tektoncd/pipeline
             logo: tekton.svg
             twitter: https://twitter.com/tektoncd
             crunchbase: https://www.crunchbase.com/organization/continuous-delivery-foundation-cdf
@@ -8578,29 +9943,299 @@ landscape:
                 - Cloud Computing
                 - Open Source
                 - Software
+            github_data:
+              languages:
+                - name: Go
+                  value: 5478860
+                  color: '#00ADD8'
+                - name: Shell
+                  value: 37605
+                  color: '#89e051'
+                - name: Makefile
+                  value: 6174
+                  color: '#427819'
+                - name: Smarty
+                  value: 3940
+                - name: Mustache
+                  value: 1078
+                - name: Dockerfile
+                  value: 282
+                  color: '#384d54'
+              contributions: >-
+                9;10;6;11;16;18;7;7;12;13;9;8;18;15;10;19;21;7;9;18;21;22;32;15;16;15;25;16;16;23;16;28;19;25;16;15;17;22;11;16;13;17;11;6;11;15;12;21;12;10;15;3
+              firstWeek: 2022-01-23Z
+              stars: 7547
+              license: Apache License 2.0
+              description: A cloud-native Pipeline resource.
+              latest_commit_date: '2023-01-18T15:00:00Z'
+              latest_commit_link: /tektoncd/pipeline/commit/30b5e96af6293daed68b0b4faa548d75a81254ea
+              release_date: '2023-01-10T19:10:52Z'
+              release_link: https://github.com/tektoncd/pipeline/releases
+              contributors_count: 295
+              contributors_link: https://github.com/tektoncd/pipeline/graphs/contributors
+            repos:
+              - url: https://github.com/tektoncd/pipeline
+                stars: 7547
+            github_start_commit_data:
+              start_commit_link: /tektoncd/pipeline/commit/301b41380e95382a18b391c2165fa3a6a3de93b0
+              start_date: '2018-08-29T18:21:56Z'
             image_data:
               fileName: tekton.svg
               hash: g6L1mfWTs5bsGhAEjaqTqxOaXEVNyHeDp3vm/RkmxKQ=
             best_practice_data:
+              badge: 4020
+              percentage: 100
+            twitter_data:
+              latest_tweet_date: 2022-10-17T16:35:50.000Z
+          - item:
+            name: urllib3
+            homepage_url: https://urllib3.dev
+            repo_url: https://github.com/urllib3/urllib3
+            logo: urllib.svg
+            twitter: https://twitter.com/urllib3
+            crunchbase: https://www.crunchbase.com/organization/python-software-foundation
+            extra:
+              how_to_verify_url: https://github.com/urllib3/urllib3/releases/tag/1.26.10
+            crunchbase_data:
+              name: Python Software Foundation
+              description: An organization devoted to advancing open source technology .
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: http://www.python.org/psf-landing/
+              city: Wilmington
+              region: Delaware
+              country: United States
+              twitter: http://twitter.com/ThePSF
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Developer Platform
+                - Enterprise Software
+                - Information Technology
+                - Software
+            github_data:
+              languages:
+                - name: Python
+                  value: 964351
+                  color: '#3572A5'
+                - name: Shell
+                  value: 326
+                  color: '#89e051'
+              contributions: 8;3;1;5;0;1;4;1;0;2;1;0;0;0;2;0;1;1;4;3;9;5;3;8;2;3;3;3;2;7;6;2;0;2;2;1;3;3;0;5;1;7;12;15;6;1;8;2;1;2;3;8
+              firstWeek: 2022-01-23Z
+              stars: 3258
+              license: MIT License
+              description: Python HTTP library with thread-safe connection pooling, file post support, user friendly, and more.
+              latest_commit_date: '2023-01-17T12:13:58Z'
+              latest_commit_link: /urllib3/urllib3/commit/6089b8d0fca44fc41d030190c577ac3c58eec090
+              release_date: '2023-01-11T13:03:46Z'
+              release_link: https://github.com/urllib3/urllib3/releases
+              contributors_count: 319
+              contributors_link: https://github.com/urllib3/urllib3/graphs/contributors
+            repos:
+              - url: https://github.com/urllib3/urllib3
+                stars: 3258
+            github_start_commit_data:
+              start_commit_link: /urllib3/urllib3/commit/c73bf7c7ba0051cd3e52f2d4760322f62800a736
+              start_date: '2009-12-11T05:33:08Z'
+            image_data:
+              fileName: urllib3.svg
+              hash: KnBbC4m3fe1h7iDh+ENZCtGDKnAQNtk9Q0XwhJMahhg=
+            best_practice_data:
+              badge: 6227
+              percentage: 100
+            twitter_data:
+              latest_tweet_date: 2023-01-04T15:39:03.000Z
+          - item:
+            name: Caddy
+            homepage_url: https://caddyserver.com/
+            repo_url: https://github.com/caddyserver/caddy
+            logo: caddy-logo.svg
+            twitter: https://twitter.com/caddyserver
+            crunchbase: https://www.crunchbase.com/organization/zerossl
+            extra:
+              how_to_verify_url: https://caddyserver.com/docs/signature-verification
+            crunchbase_data:
+              name: ZeroSSL
+              description: The simple but powerful belief that every web application worldwide
+              num_employees_min: null
+              num_employees_max: null
+              homepage: https://zerossl.com/
+              city: Vienna
+              region: Wien
+              country: Austria
+              twitter: null
+              linkedin: https://www.linkedin.com/company/zerossl/
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: ''
+              industries: []
+            github_data:
+              languages:
+                - name: Go
+                  value: 1808398
+                  color: '#00ADD8'
+                - name: HTML
+                  value: 17736
+                  color: '#e34c26'
+                - name: Shell
+                  value: 103
+                  color: '#89e051'
+              contributions: 9;1;3;2;8;6;19;6;8;7;1;6;6;6;9;7;2;4;2;6;3;6;3;2;8;4;5;17;11;7;6;11;35;11;23;9;16;14;4;8;2;2;1;0;3;4;2;8;1;4;7;2
+              firstWeek: 2022-01-23Z
+              stars: 45385
+              license: Apache License 2.0
+              description: Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+              latest_commit_date: '2023-01-17T12:07:07Z'
+              latest_commit_link: /caddyserver/caddy/commit/e8ad9b32c9730ddb162b6fb1443fc0b36fcef7dc
+              release_date: '2022-10-13T18:44:05Z'
+              release_link: https://github.com/caddyserver/caddy/releases
+              contributors_count: 186
+              contributors_link: https://github.com/caddyserver/caddy/graphs/contributors
+            repos:
+              - url: https://github.com/caddyserver/caddy
+                stars: 45385
+            github_start_commit_data:
+              start_commit_link: /caddyserver/caddy/commit/859b5d7ea3b8f660ac68d9aea5a53d25a9a7422c
+              start_date: '2019-03-26T18:00:54Z'
+            image_data:
+              fileName: caddy.svg
+              hash: 1NY5uzyYsi0iJmia8QaB5mSbalDEs+LRHqvend85qjw=
+            best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-10-17T16:35:50.000Z
+              latest_tweet_date: 2023-01-17T17:45:05.000Z
       - subcategory:
-        name: End User Adopters
+        name: Case Studies
         items:
           - item:
-            name: end-user-1
-            homepage_url: https://www.sigstore.dev/
-            logo: end-user-1.svg
-            organization:
-              name: sigstore
+            name: Edgeless Systems
+            homepage_url: https://www.edgeless.systems/
+            logo: edgeless-systems.svg
+            crunchbase: https://www.crunchbase.com/organization/edgeless-systems
+            extra:
+              case_study_url: https://blog.sigstore.dev/signing-and-securing-confidential-kubernetes-clusters-in-the-cloud-with-sigstore-aceac3034e70
             crunchbase_data:
-              name: sigstore
+              name: Edgeless Systems
+              description: Edgeless Systems builds confidential computing technology that turns the public cloud into your private cloud.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.edgeless.systems/
+              city: Bochum
+              region: Nordrhein-Westfalen
+              country: Germany
+              twitter: https://twitter.com/EdgelessSystems
+              linkedin: https://www.linkedin.com/company/edgeless-systems/about/
+              acquisitions: []
               parents: []
+              funding: 1757669
+              stockExchange: null
+              company_type: ''
+              industries:
+                - Computer
+                - Network Security
+              kind: funding
             image_data:
-              fileName: end-user-1.svg
-              hash: nJpLc3hyMpU6TozRdf36oa0h5be45pZLttBXWxXkMjU=
+              fileName: edgeless-systems.svg
+              hash: R6nf/kL7WkDzm5ZyX4EMLDALc2sCMfRSRFMMClAskCM=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2023-01-18T11:24:13.000Z
+          - item:
+            name: Rancher Government Solutions
+            homepage_url: https://rancherfederal.com/
+            logo: rancher.svg
+            crunchbase: https://www.crunchbase.com/organization/suse
+            extra:
+              case_study_url: https://blog.sigstore.dev/sigstore-proves-that-effective-supply-chain-security-doesnt-have-to-hurt-cf33cf9333c8
+            crunchbase_data:
+              name: SUSE
+              description: SUSE provides reliable and interoperable Linux and cloud infrastructure solutions that give enterprises greater control and flexibility.
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: http://www.suse.com
+              city: Nuremberg
+              region: Bayern
+              country: Germany
+              twitter: https://twitter.com/SUSE
+              linkedin: https://www.linkedin.com/company/suse
+              acquisitions:
+                - date: '2020-07-08'
+                  acquiree: Rancher Labs
+                  price: 600000000
+                - date: '2021-10-28'
+                  acquiree: NeuVector
+                  price: 130000000
+              parents: []
+              ticker: SUSE.F
+              stockExchange: fra
+              company_type: For Profit
+              industries:
+                - Cloud Computing
+                - Enterprise Software
+                - Linux
+                - Software
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 5340410302
+              effective_ticker: SUSE.F
+            image_data:
+              fileName: rancher-government-solutions.svg
+              hash: mlb+cZALGp0q8L6loEOp696p7dWaLNFgyHJuarqyAto=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-05-03T19:00:17.000Z
+          - item:
+            name: Verizon
+            homepage_url: https://www.verizon.com/business
+            logo: verizon.svg
+            crunchbase: https://www.crunchbase.com/organization/verizon
+            extra:
+              case_study_url: https://blog.sigstore.dev/security-by-default-how-verizon-new-business-incubation-uses-sigstore-to-demonstrate-provenance-7beed5714738
+            crunchbase_data:
+              name: Verizon Wireless
+              description: Verizon Wireless offers wireless telecommunications services, devices, and solutions.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://www.verizonwireless.com
+              city: Washington
+              region: District of Columbia
+              country: United States
+              twitter: null
+              linkedin: https://www.linkedin.com/company/verizon-wireless
+              acquisitions:
+                - date: '2000-06-30'
+                  acquiree: GTE Corporation
+                - date: '2016-11-17'
+                  acquiree: SocialRadar
+                - date: '2017-02-16'
+                  acquiree: Skyward
+              parents:
+                - https://www.crunchbase.com/organization/verizon-communications
+              ticker: VZ
+              funding: 30103192466
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Communication Hardware
+                - Telecommunications
+                - Wireless
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 168265777152
+              effective_ticker: VZ
+            image_data:
+              fileName: verizon.svg
+              hash: Q/UknHK3qnr3ofRAER3k0mddzL+qC9sz4Kpq0u/8zhk=
             best_practice_data:
               badge: false
               percentage: null
