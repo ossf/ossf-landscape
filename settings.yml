@@ -173,7 +173,7 @@ big_picture:
       - type: HorizontalCategory
         category: Projects
         rows: 1
-        width: 280
+        width: 330
         height: 200
         top: 5
         left: 235
@@ -185,14 +185,14 @@ big_picture:
         width: 270
         height: 200
         top: 5
-        left: 530
+        left: 590
         color: rgb(103,66,18)
         is_large: true
       - type: LandscapeInfo
         width: 310
         height: 200
         top: 5
-        left: 815
+        left: 880
         children:
           - type: text
             text: >
@@ -229,7 +229,7 @@ big_picture:
       - type: HorizontalCategory
         category: Integrations
         rows: 2
-        width: 825
+        width: 875
         height: 200
         top: 215
         left: 5
@@ -241,13 +241,13 @@ big_picture:
         width: 270
         height: 200
         top: 215
-        left: 855
+        left: 905
         color: rgb(46,47,113)
         is_large: true
       - type: HorizontalCategory
         category: Signed With
         rows: 2
-        width: 825
+        width: 875
         height: 200
         top: 425
         left: 5
@@ -259,7 +259,7 @@ big_picture:
         width: 270
         height: 200
         top: 425
-        left: 855
+        left: 905
         color: rgb(17,115,115)
         is_large: true
 test:

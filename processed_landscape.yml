@@ -472,7 +472,6 @@ landscape:
             name: Capital One Services LLC
             homepage_url: https://capitalone.com/
             logo: capital_one_services_llc.svg
-            twitter: https://twitter.com/CapitalOne
             crunchbase: https://www.crunchbase.com/organization/capital-one
             crunchbase_data:
               name: Capital One
@@ -1276,7 +1275,6 @@ landscape:
             name: Coinbase Inc.
             homepage_url: https://coinbase.com/
             logo: coinbase_inc.svg
-            twitter: https://twitter.com/coinbase
             crunchbase: https://www.crunchbase.com/organization/coinbase
             joined: '2022-02-17'
             crunchbase_data:
@@ -1363,7 +1361,6 @@ landscape:
             name: Dell Technologies
             homepage_url: https://delltechnologies.com/
             logo: dell_technologies.svg
-            twitter: https://twitter.com/Dell
             crunchbase: https://www.crunchbase.com/organization/dell
             crunchbase_data:
               name: Dell
@@ -1478,7 +1475,6 @@ landscape:
             name: Ericsson
             homepage_url: https://ericsson.com/
             logo: ericsson.svg
-            twitter: https://twitter.com/ericsson
             crunchbase: https://www.crunchbase.com/organization/ericsson
             crunchbase_data:
               name: Ericsson
@@ -1608,7 +1604,6 @@ landscape:
             name: GitHub, Inc.
             homepage_url: https://github.com/
             logo: github_inc.svg
-            twitter: https://twitter.com/github
             crunchbase: https://www.crunchbase.com/organization/github
             crunchbase_data:
               name: GitHub
@@ -2272,7 +2267,6 @@ landscape:
             name: Huawei Technologies Co., Ltd
             homepage_url: https://huawei.com/
             logo: huawei_technologies_co_ltd.svg
-            twitter: https://twitter.com/Huawei
             crunchbase: https://www.crunchbase.com/organization/huawei
             crunchbase_data:
               name: Huawei Technologies
@@ -2328,7 +2322,6 @@ landscape:
             name: Intel Corporation
             homepage_url: https://intel.com/
             logo: intel_corporation.svg
-            twitter: https://twitter.com/intel
             crunchbase: https://www.crunchbase.com/organization/intel
             crunchbase_data:
               name: Intel
@@ -2625,7 +2618,6 @@ landscape:
             name: International Business Machines Corporation
             homepage_url: https://ibm.com/
             logo: international_business_machines_corporation.svg
-            twitter: https://twitter.com/IBM
             crunchbase: https://www.crunchbase.com/organization/ibm
             crunchbase_data:
               name: IBM
@@ -3111,7 +3103,6 @@ landscape:
             name: JPMorgan Chase
             homepage_url: https://jpmorganchase.com/
             logo: jpmorgan_chase.svg
-            twitter: https://twitter.com/jpmorgan
             crunchbase: https://www.crunchbase.com/organization/jpmorgan-chase-co
             crunchbase_data:
               name: JP Morgan Chase
@@ -3185,7 +3176,6 @@ landscape:
             name: Meta Platforms, Inc.
             homepage_url: https://meta.com/
             logo: meta_platforms_inc.svg
-            twitter: https://twitter.com/Meta
             crunchbase: https://www.crunchbase.com/organization/facebook
             crunchbase_data:
               name: Meta
@@ -3443,7 +3433,6 @@ landscape:
             name: Microsoft Corporation
             homepage_url: https://microsoft.com/
             logo: microsoft_corporation.svg
-            twitter: https://twitter.com/Microsoft
             crunchbase: https://www.crunchbase.com/organization/microsoft
             crunchbase_data:
               name: Microsoft
@@ -4035,7 +4024,6 @@ landscape:
             name: Morgan Stanley
             homepage_url: https://morganstanley.com/
             logo: morgan_stanley.svg
-            twitter: https://twitter.com/MorganStanley
             crunchbase: https://www.crunchbase.com/organization/morgan-stanley
             crunchbase_data:
               name: Morgan Stanley
@@ -4108,7 +4096,6 @@ landscape:
             name: Oracle America Inc.
             homepage_url: https://oracle.com/
             logo: oracle_america_inc.svg
-            twitter: https://twitter.com/Oracle
             crunchbase: https://www.crunchbase.com/organization/oracle
             crunchbase_data:
               name: Oracle
@@ -4568,7 +4555,6 @@ landscape:
             name: Snyk Limited
             homepage_url: https://snyk.io/
             logo: snyk_limited.svg
-            twitter: https://twitter.com/snyksec
             crunchbase: https://www.crunchbase.com/organization/snyk
             crunchbase_data:
               name: Snyk
@@ -4658,7 +4644,6 @@ landscape:
             name: VMware, Inc.
             homepage_url: https://vmware.com/
             logo: vmware_inc.svg
-            twitter: https://twitter.com/VMware
             crunchbase: https://www.crunchbase.com/organization/vmware
             crunchbase_data:
               name: VMware
@@ -4810,7 +4795,6 @@ landscape:
             name: Wipro Limited
             homepage_url: https://wipro.com/
             logo: wipro_limited.svg
-            twitter: https://twitter.com/Wipro
             crunchbase: https://www.crunchbase.com/organization/wipro
             crunchbase_data:
               name: Wipro Technologies
@@ -5000,7 +4984,6 @@ landscape:
             name: Aiven Inc
             homepage_url: https://aiven.io/
             logo: aiven_inc.svg
-            twitter: https://twitter.com/aiven_io
             crunchbase: https://www.crunchbase.com/organization/aiven
             crunchbase_data:
               name: Aiven
@@ -5038,7 +5021,6 @@ landscape:
             name: Akamai Technologies, Inc.
             homepage_url: https://akamai.com/
             logo: akamai_technologies_inc.svg
-            twitter: https://twitter.com/Akamai
             crunchbase: https://www.crunchbase.com/organization/akamai-technologies
             crunchbase_data:
               name: Akamai Technologies
@@ -5233,7 +5215,6 @@ landscape:
             name: Anchore, Inc
             homepage_url: https://anchore.com/
             logo: anchore_inc.svg
-            twitter: https://twitter.com/anchore
             crunchbase: https://www.crunchbase.com/organization/anchore-inc
             crunchbase_data:
               name: Anchore
@@ -5306,7 +5287,6 @@ landscape:
             name: Arnica
             homepage_url: https://arnica.io/
             logo: arnica.svg
-            twitter: https://twitter.com/ArnicaIO
             crunchbase: https://www.crunchbase.com/organization/arnica-io
             crunchbase_data:
               name: Arnica
@@ -5536,7 +5516,6 @@ landscape:
             name: Chainguard
             homepage_url: https://chainguard.dev/
             logo: chainguard.svg
-            twitter: https://twitter.com/chainguard_dev
             crunchbase: https://www.crunchbase.com/organization/chainguard
             crunchbase_data:
               name: Chainguard
@@ -5615,7 +5594,6 @@ landscape:
             name: Cloudsmith Ltd
             homepage_url: https://cloudsmith.com/
             logo: cloudsmith_ltd.svg
-            twitter: https://twitter.com/cloudsmith
             crunchbase: https://www.crunchbase.com/organization/cloudsmith-io
             crunchbase_data:
               name: Cloudsmith
@@ -5654,7 +5632,6 @@ landscape:
             name: Codethink
             homepage_url: https://codethink.co.uk/
             logo: codethink.svg
-            twitter: https://twitter.com/codethink
             crunchbase: https://www.crunchbase.com/organization/codethink
             crunchbase_data:
               name: Codethink
@@ -5811,7 +5788,6 @@ landscape:
             name: ControlPlane.io
             homepage_url: https://control-plane.io/
             logo: controlplaneio.svg
-            twitter: https://twitter.com/controlplaneio
             crunchbase: https://www.crunchbase.com/organization/controlplane
             crunchbase_data:
               name: ControlPlane
@@ -5933,7 +5909,6 @@ landscape:
             name: Cycode, Inc.
             homepage_url: https://cycode.com/
             logo: cycode_inc.svg
-            twitter: https://twitter.com/CycodeHQ
             crunchbase: https://www.crunchbase.com/organization/cycode
             crunchbase_data:
               name: Cycode
@@ -5967,7 +5942,6 @@ landscape:
             name: Deepfence, Inc
             homepage_url: https://deepfence.io/
             logo: deepfence_inc.svg
-            twitter: https://twitter.com/deepfence
             crunchbase: https://www.crunchbase.com/organization/deepfence
             crunchbase_data:
               name: Deepfence Inc
@@ -6217,7 +6191,6 @@ landscape:
             name: Fidelity Investments
             homepage_url: https://fidelity.com/
             logo: fidelity_investments.svg
-            twitter: https://twitter.com/Fidelity
             crunchbase: https://www.crunchbase.com/organization/fidelity-investments
             crunchbase_data:
               name: Fidelity
@@ -6262,7 +6235,6 @@ landscape:
             name: FOSSA
             homepage_url: https://fossa.io/
             logo: fossa.svg
-            twitter: https://twitter.com/getfossa
             crunchbase: https://www.crunchbase.com/organization/fossa-2
             crunchbase_data:
               name: FOSSA
@@ -6330,7 +6302,6 @@ landscape:
             name: GitLab Inc.
             homepage_url: https://gitlab.com/
             logo: gitlab_inc.svg
-            twitter: https://twitter.com/gitlab
             crunchbase: https://www.crunchbase.com/organization/gitlab-com
             crunchbase_data:
               name: GitLab
@@ -6529,7 +6500,6 @@ landscape:
             name: Indeed, Inc.
             homepage_url: https://indeed.com/
             logo: indeed_inc.svg
-            twitter: https://twitter.com/indeed
             crunchbase: https://www.crunchbase.com/organization/indeed
             crunchbase_data:
               name: Indeed
@@ -6575,7 +6545,6 @@ landscape:
             name: JFrog, Inc
             homepage_url: https://jfrog.com/
             logo: jfrog_inc.svg
-            twitter: https://twitter.com/jfrog
             crunchbase: https://www.crunchbase.com/organization/jfrog-ltd
             crunchbase_data:
               name: JFrog
@@ -6630,7 +6599,6 @@ landscape:
             name: Kasten, Inc.
             homepage_url: https://kasten.io/
             logo: kasten_inc.svg
-            twitter: https://twitter.com/kastenhq
             crunchbase: https://www.crunchbase.com/organization/kasten
             crunchbase_data:
               name: Kasten
@@ -6865,7 +6833,6 @@ landscape:
             name: Nutanix, Inc.
             homepage_url: https://nutanix.com/
             logo: nutanix_inc.svg
-            twitter: https://twitter.com/nutanix
             crunchbase: https://www.crunchbase.com/organization/nutanix
             crunchbase_data:
               name: Nutanix
@@ -6967,7 +6934,6 @@ landscape:
             name: Qualys, Inc.
             homepage_url: https://qualys.com/
             logo: qualys_inc.svg
-            twitter: https://twitter.com/qualys
             crunchbase: https://www.crunchbase.com/organization/qualys
             crunchbase_data:
               name: Qualys
@@ -7016,7 +6982,6 @@ landscape:
             name: Renesas Electronics Corporation
             homepage_url: https://renesas.com/
             logo: renesas_electronics_corporation.svg
-            twitter: https://twitter.com/RenesasGlobal
             crunchbase: https://www.crunchbase.com/organization/renesas-electronics-corporation
             crunchbase_data:
               name: Renesas Electronics Corporation
@@ -7326,7 +7291,6 @@ landscape:
             name: SUSE LLC
             homepage_url: https://suse.com/
             logo: suse_llc.svg
-            twitter: https://twitter.com/SUSE
             crunchbase: https://www.crunchbase.com/organization/suse
             crunchbase_data:
               name: SUSE
@@ -7371,7 +7335,6 @@ landscape:
             name: Sysdig, Inc.
             homepage_url: https://sysdig.com/
             logo: sysdig_inc.svg
-            twitter: https://twitter.com/sysdig
             crunchbase: https://www.crunchbase.com/organization/sysdig
             crunchbase_data:
               name: Sysdig
@@ -7411,7 +7374,6 @@ landscape:
             name: Tenable, Inc.
             homepage_url: https://tenable.com/
             logo: tenable_inc.svg
-            twitter: https://twitter.com/TenableSecurity
             crunchbase: https://www.crunchbase.com/organization/tenable-network-security
             crunchbase_data:
               name: Tenable
@@ -7566,7 +7528,6 @@ landscape:
             name: Tidelift, Inc.
             homepage_url: https://tidelift.com/
             logo: tidelift_inc.svg
-            twitter: https://twitter.com/tidelift
             crunchbase: https://www.crunchbase.com/organization/tidelift
             crunchbase_data:
               name: Tidelift
@@ -7601,7 +7562,6 @@ landscape:
             name: Timesys Corporation
             homepage_url: https://timesys.com/
             logo: timesys_corporation.svg
-            twitter: https://twitter.com/Timesys
             crunchbase: https://www.crunchbase.com/organization/timesys-corporation
             crunchbase_data:
               name: Timesys Corporation
@@ -7638,7 +7598,6 @@ landscape:
             name: Trail of Bits
             homepage_url: https://trailofbits.com/
             logo: trail_of_bits.svg
-            twitter: https://twitter.com/trailofbits
             crunchbase: https://www.crunchbase.com/organization/trail-of-bits
             crunchbase_data:
               name: Trail of Bits
@@ -7705,7 +7664,6 @@ landscape:
             name: Wind River Systems, Inc.
             homepage_url: https://windriver.com/
             logo: wind_river_systems_inc.svg
-            twitter: https://twitter.com/WindRiver
             crunchbase: https://www.crunchbase.com/organization/wind-river
             crunchbase_data:
               name: Wind River
@@ -7772,7 +7730,6 @@ landscape:
             name: Xilinx Inc
             homepage_url: https://xilinx.com/
             logo: xilinx_inc.svg
-            twitter: https://twitter.com/XilinxInc
             crunchbase: https://www.crunchbase.com/organization/xilinx
             crunchbase_data:
               name: Xilinx
@@ -7841,7 +7798,6 @@ landscape:
             name: ZTE Corporation
             homepage_url: https://zte.com.cn/
             logo: zte_corporation.svg
-            twitter: https://twitter.com/ZTEPress
             crunchbase: https://www.crunchbase.com/organization/zte-corporation
             crunchbase_data:
               name: ZTE
@@ -7881,7 +7837,6 @@ landscape:
             name: Carnegie Mellon University
             homepage_url: https://cmu.edu/
             logo: carnegie_mellon_university.svg
-            twitter: https://twitter.com/CarnegieMellon
             crunchbase: https://www.crunchbase.com/organization/carnegie-mellon-university
             crunchbase_data:
               name: Carnegie Mellon University
@@ -7944,7 +7899,6 @@ landscape:
             name: Eclipse Foundation AISBL.
             homepage_url: https://eclipse.org/
             logo: eclipse_foundation_aisbl.svg
-            twitter: https://twitter.com/EclipseFdn
             crunchbase: https://www.crunchbase.com/organization/eclipse-foundation
             crunchbase_data:
               name: Eclipse Foundation
@@ -7981,7 +7935,6 @@ landscape:
             name: FS-ISAC
             homepage_url: https://fsisac.com/
             logo: fs-isac.svg
-            twitter: https://twitter.com/FSISAC
             crunchbase: https://www.crunchbase.com/organization/fs-isac
             crunchbase_data:
               name: FS-ISAC
@@ -8042,7 +7995,6 @@ landscape:
             name: Laboratory for Innovation Science at Harvard
             homepage_url: https://lish.harvard.edu/
             logo: laboratory_for_innovation_science_at_harvard.svg
-            twitter: https://twitter.com/Harvard
             crunchbase: https://www.crunchbase.com/organization/harvard-university
             crunchbase_data:
               name: Harvard University
@@ -8077,7 +8029,6 @@ landscape:
             name: MITRE
             homepage_url: https://mitre.org/
             logo: mitre.svg
-            twitter: https://twitter.com/MITREcorp
             crunchbase: https://www.crunchbase.com/organization/mitre
             joined: '2021-03-02'
             crunchbase_data:
@@ -8110,7 +8061,6 @@ landscape:
             name: Nanyang Technological University
             homepage_url: https://ntu.edu.sg/
             logo: nanyang_technological_university.svg
-            twitter: https://twitter.com/NTUsg
             crunchbase: https://www.crunchbase.com/organization/nanyang-technological-university
             crunchbase_data:
               name: Nanyang Technological University
@@ -8144,7 +8094,6 @@ landscape:
             name: Open Source Business Alliance - Bundesverband für digitale Souveränität e.V.
             homepage_url: https://osb-alliance.com/
             logo: open_source_business_alliance_-_bundesverband_fur_digitale_souveranitat_ev.svg
-            twitter: https://twitter.com/osballiance
             crunchbase: https://www.crunchbase.com/organization/open-source-business-alliance
             crunchbase_data:
               name: Open Source Business Alliance
@@ -8259,7 +8208,6 @@ landscape:
             description: Where the UK’s Open communities meet and collaborate
             homepage_url: https://openuk.uk/
             logo: openuk.svg
-            twitter: https://twitter.com/openuk_uk
             crunchbase: https://www.crunchbase.com/organization/openuk
             crunchbase_data:
               name: OpenUK
@@ -8289,7 +8237,6 @@ landscape:
             name: Purdue University
             homepage_url: https://purdue.edu/
             logo: purdue_university.svg
-            twitter: https://twitter.com/LifeAtPurdue
             crunchbase: https://www.crunchbase.com/organization/purdue-university
             crunchbase_data:
               name: Purdue University Krannert School of Management
@@ -8359,7 +8306,6 @@ landscape:
             name: TODO Group
             homepage_url: https://todogroup.org/
             logo: todo_group.svg
-            twitter: https://twitter.com/todogroup
             crunchbase: https://www.crunchbase.com/organization/todo-group
             crunchbase_data:
               name: TODO Group
@@ -11511,6 +11457,67 @@ landscape:
               percentage: 100
             twitter_data:
               latest_tweet_date: 2023-01-04T15:39:03.000Z
+          - item:
+            name: Caddy
+            homepage_url: https://caddyserver.com/
+            repo_url: https://github.com/caddyserver/caddy
+            logo: caddy-logo.svg
+            twitter: https://twitter.com/caddyserver
+            crunchbase: https://www.crunchbase.com/organization/zerossl
+            extra:
+              how_to_verify_url: https://caddyserver.com/docs/signature-verification
+            crunchbase_data:
+              name: ZeroSSL
+              description: The simple but powerful belief that every web application worldwide
+              num_employees_min: null
+              num_employees_max: null
+              homepage: https://zerossl.com/
+              city: Vienna
+              region: Wien
+              country: Austria
+              twitter: null
+              linkedin: https://www.linkedin.com/company/zerossl/
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: ''
+              industries: []
+            github_data:
+              languages:
+                - name: Go
+                  value: 1808398
+                  color: '#00ADD8'
+                - name: HTML
+                  value: 17736
+                  color: '#e34c26'
+                - name: Shell
+                  value: 103
+                  color: '#89e051'
+              contributions: 9;1;3;2;8;6;19;6;8;7;1;6;6;6;9;7;2;4;2;6;3;6;3;2;8;4;5;17;11;7;6;11;35;11;23;9;16;14;4;8;2;2;1;0;3;4;2;8;1;4;7;2
+              firstWeek: 2022-01-23Z
+              stars: 45386
+              license: Apache License 2.0
+              description: Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+              latest_commit_date: '2023-01-17T12:07:07Z'
+              latest_commit_link: /caddyserver/caddy/commit/e8ad9b32c9730ddb162b6fb1443fc0b36fcef7dc
+              release_date: '2022-10-13T18:44:05Z'
+              release_link: https://github.com/caddyserver/caddy/releases
+              contributors_count: 186
+              contributors_link: https://github.com/caddyserver/caddy/graphs/contributors
+            repos:
+              - url: https://github.com/caddyserver/caddy
+                stars: 45386
+            github_start_commit_data:
+              start_commit_link: /caddyserver/caddy/commit/859b5d7ea3b8f660ac68d9aea5a53d25a9a7422c
+              start_date: '2019-03-26T18:00:54Z'
+            image_data:
+              fileName: caddy.svg
+              hash: 1NY5uzyYsi0iJmia8QaB5mSbalDEs+LRHqvend85qjw=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2023-01-17T17:45:05.000Z
       - subcategory:
         name: Case Studies
         items:
