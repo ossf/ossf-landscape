@@ -788,6 +788,15 @@ landscape:
             extra:
               details_url: https://kyverno.io/docs/writing-policies/verify-images/
           - item:
+            name: Open Policy Containers
+            homepage_url: https://openpolicycontainers.com/
+            repo_url: https://github.com/opcr-io/policy
+            logo: open-policy-containers.svg
+            twitter: https://twitter.com/openpolicyreg
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+            extra:
+              details_url: https://openpolicycontainers.com/docs/cli/sign
+          - item:
             name: Tekton Chains
             homepage_url: https://tekton.dev
             repo_url: https://github.com/tektoncd/chains
