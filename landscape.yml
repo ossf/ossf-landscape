@@ -712,7 +712,7 @@ landscape:
             logo: jreleaser.svg
             twitter: https://twitter.com/jreleaser
             extra:
-              details_url: https://jreleaser.org/guide/latest/configuration/signing.html#_cosign
+              details_url: https://jreleaser.org/guide/latest/reference/signing.html#_cosign
             organization:
               name: JReleaser
           - item:
