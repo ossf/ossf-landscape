@@ -104,11 +104,6 @@ landscape:
             logo: morgan_stanley.svg
             crunchbase: https://www.crunchbase.com/organization/morgan-stanley
           - item:
-            name: Oracle America Inc.
-            homepage_url: https://oracle.com/
-            logo: oracle_america_inc.svg
-            crunchbase: https://www.crunchbase.com/organization/oracle
-          - item:
             name: Red Hat, Inc.
             homepage_url: https://redhat.com/
             logo: red_hat_inc.svg
