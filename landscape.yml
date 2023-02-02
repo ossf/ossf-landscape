@@ -42,12 +42,6 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/citigroup
             joined: '2021-01-25'
           - item:
-            name: Coinbase Inc.
-            homepage_url: https://coinbase.com/
-            logo: coinbase_inc.svg
-            crunchbase: https://www.crunchbase.com/organization/coinbase
-            joined: '2022-02-17'
-          - item:
             name: Dell Technologies
             homepage_url: https://delltechnologies.com/
             logo: dell_technologies.svg
@@ -161,12 +155,6 @@ landscape:
             homepage_url: https://akamai.com/
             logo: akamai_technologies_inc.svg
             crunchbase: https://www.crunchbase.com/organization/akamai-technologies
-          - item:
-            name: Alibaba Cloud (Singapore) Private LTD
-            homepage_url: https://alibaba-inc.com/
-            logo: alibaba_cloud_singapore_private_ltd.svg
-            twitter: https://twitter.com/AlibabaB2B
-            crunchbase: https://www.crunchbase.com/organization/alibaba-cloud
           - item:
             name: Anaconda, Inc
             homepage_url: https://anaconda.com/
