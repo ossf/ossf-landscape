@@ -348,12 +348,6 @@ landscape:
             twitter: https://twitter.com/LegitSecurity1
             crunchbase: https://www.crunchbase.com/organization/legit-security
           - item:
-            name: MongoDB Inc
-            homepage_url: https://mongodb.com/
-            logo: mongodb_inc.svg
-            twitter: https://twitter.com/MongoDB
-            crunchbase: https://www.crunchbase.com/organization/mongodb-inc
-          - item:
             name: NCC Group
             homepage_url: https://nccgroup.trust/
             logo: ncc_group.svg
