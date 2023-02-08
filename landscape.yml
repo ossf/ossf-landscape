@@ -574,6 +574,12 @@ landscape:
             logo: purdue_university.svg
             crunchbase: https://www.crunchbase.com/organization/purdue-university
           - item:
+            name: Python Software Foundation
+            homepage_url: https://python.org/
+            logo: python_software_foundation.svg
+            twitter: https://twitter.com/ThePSF
+            crunchbase: https://www.crunchbase.com/organization/python-software-foundation
+          - item:
             name: SAFECode
             homepage_url: https://safecode.org/
             logo: safecode.svg
