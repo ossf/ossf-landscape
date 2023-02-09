@@ -348,12 +348,6 @@ landscape:
             twitter: https://twitter.com/LegitSecurity1
             crunchbase: https://www.crunchbase.com/organization/legit-security
           - item:
-            name: MongoDB Inc
-            homepage_url: https://mongodb.com/
-            logo: mongodb_inc.svg
-            twitter: https://twitter.com/MongoDB
-            crunchbase: https://www.crunchbase.com/organization/mongodb-inc
-          - item:
             name: NCC Group
             homepage_url: https://nccgroup.trust/
             logo: ncc_group.svg
@@ -441,6 +435,13 @@ landscape:
             homepage_url: https://sysdig.com/
             logo: sysdig_inc.svg
             crunchbase: https://www.crunchbase.com/organization/sysdig
+          - item:
+            name: Technology Innovation Institute
+            homepage_url: https://tii.ae/
+            logo: technology_innovation_institute.svg
+            twitter: https://twitter.com/TIIuae
+            organization:
+              name: Technology Innovation Institute
           - item:
             name: Tenable, Inc.
             homepage_url: https://tenable.com/
