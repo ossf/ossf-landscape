@@ -578,7 +578,6 @@ landscape:
             name: Python Software Foundation
             homepage_url: https://python.org/
             logo: python_software_foundation.svg
-            twitter: https://twitter.com/ThePSF
             crunchbase: https://www.crunchbase.com/organization/python-software-foundation
           - item:
             name: SAFECode
