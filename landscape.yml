@@ -240,7 +240,6 @@ landscape:
             name: Coinbase Inc.
             homepage_url: https://coinbase.com/
             logo: coinbase_inc.svg
-            twitter: https://twitter.com/coinbase
             crunchbase: https://www.crunchbase.com/organization/coinbase
             joined: '2022-02-17'
           - item:
