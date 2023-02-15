@@ -156,6 +156,12 @@ landscape:
             logo: akamai_technologies_inc.svg
             crunchbase: https://www.crunchbase.com/organization/akamai-technologies
           - item:
+            name: Amesto Fortytwo
+            homepage_url: https://amestofortytwo.com/
+            logo: amesto_fortytwo.svg
+            organization:
+              name: Amesto Fortytwo
+          - item:
             name: Anaconda, Inc
             homepage_url: https://anaconda.com/
             logo: anaconda_inc.svg
@@ -219,10 +225,24 @@ landscape:
             logo: cloudsmith_ltd.svg
             crunchbase: https://www.crunchbase.com/organization/cloudsmith-io
           - item:
+            name: Code Intelligence
+            homepage_url: https://code-intelligence.com/
+            logo: code_intelligence.svg
+            twitter: https://twitter.com/CI_Fuzz
+            organization:
+              name: Code Intelligence
+          - item:
             name: Codethink
             homepage_url: https://codethink.co.uk/
             logo: codethink.svg
             crunchbase: https://www.crunchbase.com/organization/codethink
+          - item:
+            name: Coinbase Inc.
+            homepage_url: https://coinbase.com/
+            logo: coinbase_inc.svg
+            twitter: https://twitter.com/coinbase
+            crunchbase: https://www.crunchbase.com/organization/coinbase
+            joined: '2022-02-17'
           - item:
             name: Comcast Cable Communications, LLC
             homepage_url: https://xfinity.com/
