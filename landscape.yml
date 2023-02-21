@@ -930,6 +930,15 @@ landscape:
             extra:
               how_to_verify_url: https://knative.dev
           - item:
+            name: KubeEdge
+            homepage_url: https://kubeedge.io
+            repo_url: https://github.com/kubeedge/kubeedge
+            logo: kubeedge.svg
+            twitter: https://twitter.com/KubeEdge
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+            extra:
+              how_to_verify_url: https://github.com/kubeedge/kubeedge/releases/latest
+          - item:
             name: Kubernetes
             homepage_url: https://kubernetes.io/
             repo_url: https://github.com/kubernetes/kubernetes
