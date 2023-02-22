@@ -159,8 +159,7 @@ landscape:
             name: Amesto Fortytwo
             homepage_url: https://amestofortytwo.com/
             logo: amesto_fortytwo.svg
-            organization:
-              name: Amesto Fortytwo
+            crunchbase: https://www.crunchbase.com/organization/amesto-fortytwo
           - item:
             name: Anaconda, Inc
             homepage_url: https://anaconda.com/
