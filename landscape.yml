@@ -159,6 +159,7 @@ landscape:
             name: Amesto Fortytwo
             homepage_url: https://amestofortytwo.com/
             logo: amesto_fortytwo.svg
+            twitter: https://twitter.com/AmestoFortytwo
             crunchbase: https://www.crunchbase.com/organization/amesto-fortytwo
           - item:
             name: Anaconda, Inc
@@ -252,12 +253,6 @@ landscape:
             homepage_url: https://control-plane.io/
             logo: controlplaneio.svg
             crunchbase: https://www.crunchbase.com/organization/controlplane
-          - item:
-            name: Cybertrust Japan Co., Ltd.
-            homepage_url: https://cybertrust.co.jp/
-            logo: cybertrust_japan_co_ltd.svg
-            twitter: https://twitter.com/Cybertrust_JP
-            crunchbase: https://www.crunchbase.com/organization/cybertrust
           - item:
             name: Cybozu, Inc.
             homepage_url: https://cybozu.com/
