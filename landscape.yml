@@ -254,6 +254,12 @@ landscape:
             logo: controlplaneio.svg
             crunchbase: https://www.crunchbase.com/organization/controlplane
           - item:
+            name: Cybertrust Japan Co., Ltd.
+            homepage_url: https://cybertrust.co.jp/
+            logo: cybertrust_japan_co_ltd.svg
+            twitter: https://twitter.com/Cybertrust_JP
+            crunchbase: https://www.crunchbase.com/organization/cybertrust
+          - item:
             name: Cybozu, Inc.
             homepage_url: https://cybozu.com/
             logo: cybozu_inc.svg
