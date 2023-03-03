@@ -413,6 +413,12 @@ landscape:
             twitter: https://twitter.com/ScantistSG
             crunchbase: https://www.crunchbase.com/organization/scantist
           - item:
+            name: Scotiabank
+            homepage_url: https://scotiabank.com/
+            logo: scotiabank.svg
+            twitter: https://twitter.com/ScotiabankHelps
+            crunchbase: https://www.crunchbase.com/organization/bank-of-nova-scotia
+          - item:
             name: Shanghai Sectrend Information Technology Co.,Ltd
             homepage_url: https://sectrend.com.cn/
             logo: shanghai_sectrend_information_technology_coltd.svg
