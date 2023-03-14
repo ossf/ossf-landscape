@@ -166,7 +166,7 @@ landscape:
             homepage_url: https://anaconda.com/
             logo: anaconda_inc.svg
             twitter: https://twitter.com/anacondainc
-            crunchbase: https://www.crunchbase.com/organization/anaconda-pharma
+            crunchbase: https://www.crunchbase.com/organization/continuum-analytics
           - item:
             name: Anchore, Inc
             homepage_url: https://anchore.com/
@@ -270,11 +270,6 @@ landscape:
             homepage_url: https://cycode.com/
             logo: cycode_inc.svg
             crunchbase: https://www.crunchbase.com/organization/cycode
-          - item:
-            name: Deepfence, Inc
-            homepage_url: https://deepfence.io/
-            logo: deepfence_inc.svg
-            crunchbase: https://www.crunchbase.com/organization/deepfence
           - item:
             name: DeployHub, Inc.
             homepage_url: https://deployhub.com/
