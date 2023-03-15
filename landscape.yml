@@ -271,6 +271,11 @@ landscape:
             logo: cycode_inc.svg
             crunchbase: https://www.crunchbase.com/organization/cycode
           - item:
+            name: Deepfence, Inc
+            homepage_url: https://deepfence.io/
+            logo: deepfence_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/deepfence
+          - item:
             name: DeployHub, Inc.
             homepage_url: https://deployhub.com/
             logo: deployhub_inc.svg
