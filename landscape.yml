@@ -165,7 +165,6 @@ landscape:
             name: Anaconda, Inc
             homepage_url: https://anaconda.com/
             logo: anaconda_inc.svg
-            twitter: https://twitter.com/anacondainc
             crunchbase: https://www.crunchbase.com/organization/continuum-analytics
           - item:
             name: Anchore, Inc
