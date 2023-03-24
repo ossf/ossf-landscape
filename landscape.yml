@@ -109,11 +109,6 @@ landscape:
             twitter: https://twitter.com/RedHat
             crunchbase: https://www.crunchbase.com/organization/red-hat
           - item:
-            name: Snyk Limited
-            homepage_url: https://snyk.io/
-            logo: snyk_limited.svg
-            crunchbase: https://www.crunchbase.com/organization/snyk
-          - item:
             name: Sonatype, Inc.
             homepage_url: https://sonatype.com/
             logo: sonatype_inc.svg
