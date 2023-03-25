@@ -112,7 +112,6 @@ landscape:
             name: Snyk Limited
             homepage_url: https://snyk.io/
             logo: snyk_limited.svg
-            twitter: https://twitter.com/snyksec
             crunchbase: https://www.crunchbase.com/organization/snyk
           - item:
             name: Sonatype, Inc.
