@@ -1026,6 +1026,16 @@ landscape:
             extra:
               how_to_verify_url: https://github.com/tektoncd/pipeline/releases
           - item:
+            name: Tracee
+            homepage_url: https://aquasecurity.github.io/tracee
+            repo_url: https://github.com/aquasecurity/tracee
+            logo: tracee.svg
+            twitter: https://twitter.com/AquaTracee
+            extra:
+              how_to_verify_url: https://github.com/aquasecurity/tracee/releases
+            organization:
+              name: AquaSecurity
+          - item:
             name: urllib3
             homepage_url: https://urllib3.dev
             repo_url: https://github.com/urllib3/urllib3
