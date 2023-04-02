@@ -338,6 +338,12 @@ landscape:
             twitter: https://twitter.com/Hacker0x01
             crunchbase: https://www.crunchbase.com/organization/hackerone
           - item:
+            name: Hitachi, Ltd.
+            homepage_url: https://hitachi.com/
+            logo: hitachi_ltd.svg
+            twitter: https://twitter.com/HitachiGlobal
+            crunchbase: https://www.crunchbase.com/organization/hitachi
+          - item:
             name: Indeed, Inc.
             homepage_url: https://indeed.com/
             logo: indeed_inc.svg
@@ -395,6 +401,13 @@ landscape:
             logo: qualys_inc.svg
             crunchbase: https://www.crunchbase.com/organization/qualys
           - item:
+            name: Raytheon Technologies
+            homepage_url: https://rtx.com/
+            logo: raytheon_technologies.svg
+            twitter: https://twitter.com/RaytheonTech
+            organization:
+              name: Raytheon Technologies
+          - item:
             name: Renesas Electronics Corporation
             homepage_url: https://renesas.com/
             logo: renesas_electronics_corporation.svg
@@ -405,6 +418,12 @@ landscape:
             logo: reversinglabs.svg
             twitter: https://twitter.com/ReversingLabs
             crunchbase: https://www.crunchbase.com/organization/reversinglabs
+          - item:
+            name: Salesforce.com, Inc.
+            homepage_url: https://salesforce.com/
+            logo: salesforcecom_inc.svg
+            twitter: https://twitter.com/salesforce
+            crunchbase: https://www.crunchbase.com/organization/salesforce
           - item:
             name: Scantist Pte. Ltd.
             homepage_url: https://scantist.com/
