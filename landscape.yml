@@ -341,7 +341,6 @@ landscape:
             name: Hitachi, Ltd.
             homepage_url: https://hitachi.com/
             logo: hitachi_ltd.svg
-            twitter: https://twitter.com/HitachiGlobal
             crunchbase: https://www.crunchbase.com/organization/hitachi
           - item:
             name: Indeed, Inc.
@@ -422,7 +421,6 @@ landscape:
             name: Salesforce.com, Inc.
             homepage_url: https://salesforce.com/
             logo: salesforcecom_inc.svg
-            twitter: https://twitter.com/salesforce
             crunchbase: https://www.crunchbase.com/organization/salesforce
           - item:
             name: Scantist Pte. Ltd.
