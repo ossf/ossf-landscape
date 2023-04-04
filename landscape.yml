@@ -133,12 +133,6 @@ landscape:
         name: General
         items:
           - item:
-            name: Accuknox
-            homepage_url: https://accuknox.com/
-            logo: accuknox.svg
-            twitter: https://twitter.com/AccuKnox
-            crunchbase: https://www.crunchbase.com/organization/accuknox
-          - item:
             name: Airbyte
             homepage_url: https://airbyte.io/
             logo: airbyte.svg
