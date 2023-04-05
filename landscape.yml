@@ -380,7 +380,6 @@ landscape:
             name: Lockheed Martin
             homepage_url: https://lmco.com/
             logo: lockheed_martin.svg
-            twitter: https://twitter.com/LockheedMartin
             crunchbase: https://www.crunchbase.com/organization/lockheed-martin
             joined: '2022-02-14'
           - item:
@@ -439,7 +438,6 @@ landscape:
             name: SAP
             homepage_url: https://sap.com/
             logo: sap.svg
-            twitter: https://twitter.com/SAP
             crunchbase: https://www.crunchbase.com/organization/sap
           - item:
             name: Scantist Pte. Ltd.
