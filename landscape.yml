@@ -133,6 +133,12 @@ landscape:
         name: General
         items:
           - item:
+            name: Accuknox
+            homepage_url: https://accuknox.com/
+            logo: accuknox.svg
+            twitter: https://twitter.com/AccuKnox
+            crunchbase: https://www.crunchbase.com/organization/accuknox
+          - item:
             name: Airbyte
             homepage_url: https://airbyte.io/
             logo: airbyte.svg
@@ -149,6 +155,12 @@ landscape:
             homepage_url: https://akamai.com/
             logo: akamai_technologies_inc.svg
             crunchbase: https://www.crunchbase.com/organization/akamai-technologies
+          - item:
+            name: Alibaba Cloud (Singapore) Private LTD
+            homepage_url: https://alibaba-inc.com/
+            logo: alibaba_cloud_singapore_private_ltd.svg
+            twitter: https://twitter.com/AlibabaB2B
+            crunchbase: https://www.crunchbase.com/organization/alibaba-cloud
           - item:
             name: Amesto Fortytwo
             homepage_url: https://amestofortytwo.com/
@@ -365,6 +377,13 @@ landscape:
             twitter: https://twitter.com/LegitSecurity1
             crunchbase: https://www.crunchbase.com/organization/legit-security
           - item:
+            name: Lockheed Martin
+            homepage_url: https://lmco.com/
+            logo: lockheed_martin.svg
+            twitter: https://twitter.com/LockheedMartin
+            crunchbase: https://www.crunchbase.com/organization/lockheed-martin
+            joined: '2022-02-14'
+          - item:
             name: NCC Group
             homepage_url: https://nccgroup.trust/
             logo: ncc_group.svg
@@ -416,6 +435,12 @@ landscape:
             homepage_url: https://salesforce.com/
             logo: salesforcecom_inc.svg
             crunchbase: https://www.crunchbase.com/organization/salesforce
+          - item:
+            name: SAP
+            homepage_url: https://sap.com/
+            logo: sap.svg
+            twitter: https://twitter.com/SAP
+            crunchbase: https://www.crunchbase.com/organization/sap
           - item:
             name: Scantist Pte. Ltd.
             homepage_url: https://scantist.com/
