@@ -465,6 +465,12 @@ landscape:
             organization:
               name: SHE BASH
           - item:
+            name: Shopify Inc.
+            homepage_url: https://shopify.com/
+            logo: shopify_inc.svg
+            twitter: https://twitter.com/Shopify
+            crunchbase: https://www.crunchbase.com/organization/shopify
+          - item:
             name: Socket
             homepage_url: https://socket.dev/
             logo: socket.svg
