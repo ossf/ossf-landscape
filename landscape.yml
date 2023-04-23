@@ -544,6 +544,12 @@ landscape:
             logo: wind_river_systems_inc.svg
             crunchbase: https://www.crunchbase.com/organization/wind-river
           - item:
+            name: Wingtecher Technology Co., Ltd.
+            homepage_url: https://shuimuyulin.com/
+            logo: wingtecher_technology_co_ltd.svg
+            organization:
+              name: Wingtecher Technology Co., Ltd.
+          - item:
             name: Xilinx Inc
             homepage_url: https://xilinx.com/
             logo: xilinx_inc.svg
