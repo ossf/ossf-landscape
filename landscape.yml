@@ -40,7 +40,7 @@ landscape:
             logo: citi.svg
             twitter: https://twitter.com/BeneficiosCiti
             crunchbase: https://www.crunchbase.com/organization/citigroup
-            joined: '2021-01-25'
+            joined: "2021-01-25"
           - item:
             name: Dell Technologies
             homepage_url: https://delltechnologies.com/
@@ -246,7 +246,7 @@ landscape:
             homepage_url: https://coinbase.com/
             logo: coinbase_inc.svg
             crunchbase: https://www.crunchbase.com/organization/coinbase
-            joined: '2022-02-17'
+            joined: "2022-02-17"
           - item:
             name: Comcast Cable Communications, LLC
             homepage_url: https://xfinity.com/
@@ -381,7 +381,7 @@ landscape:
             homepage_url: https://lmco.com/
             logo: lockheed_martin.svg
             crunchbase: https://www.crunchbase.com/organization/lockheed-martin
-            joined: '2022-02-14'
+            joined: "2022-02-14"
           - item:
             name: NCC Group
             homepage_url: https://nccgroup.trust/
@@ -411,13 +411,6 @@ landscape:
             homepage_url: https://qualys.com/
             logo: qualys_inc.svg
             crunchbase: https://www.crunchbase.com/organization/qualys
-          - item:
-            name: Raytheon Technologies
-            homepage_url: https://rtx.com/
-            logo: raytheon_technologies.svg
-            twitter: https://twitter.com/RaytheonTech
-            organization:
-              name: Raytheon Technologies
           - item:
             name: Renesas Electronics Corporation
             homepage_url: https://renesas.com/
@@ -597,7 +590,7 @@ landscape:
             homepage_url: https://mitre.org/
             logo: mitre.svg
             crunchbase: https://www.crunchbase.com/organization/mitre
-            joined: '2021-03-02'
+            joined: "2021-03-02"
           - item:
             name: Nanyang Technological University
             homepage_url: https://ntu.edu.sg/
