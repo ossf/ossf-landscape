@@ -412,13 +412,6 @@ landscape:
             logo: qualys_inc.svg
             crunchbase: https://www.crunchbase.com/organization/qualys
           - item:
-            name: Raytheon Technologies
-            homepage_url: https://rtx.com/
-            logo: raytheon_technologies.svg
-            twitter: https://twitter.com/RaytheonTech
-            organization:
-              name: Raytheon Technologies
-          - item:
             name: Renesas Electronics Corporation
             homepage_url: https://renesas.com/
             logo: renesas_electronics_corporation.svg

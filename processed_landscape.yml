@@ -7186,24 +7186,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-21T16:54:18.000Z
           - item:
-            name: Raytheon Technologies
-            homepage_url: https://rtx.com/
-            logo: raytheon_technologies.svg
-            twitter: https://twitter.com/RaytheonTech
-            organization:
-              name: Raytheon Technologies
-            crunchbase_data:
-              name: Raytheon Technologies
-              parents: []
-            image_data:
-              fileName: raytheon-technologies.svg
-              hash: 7JPZ98GKFNCXU4dQEP7LxI40uRZ3+zrZc/zMCYqFnn8=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-20T13:09:00.000Z
-          - item:
             name: Renesas Electronics Corporation
             homepage_url: https://renesas.com/
             logo: renesas_electronics_corporation.svg
