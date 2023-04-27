@@ -368,8 +368,7 @@ landscape:
             homepage_url: https://kusari.dev/
             logo: kusari_inc.svg
             twitter: https://twitter.com/kusaridev
-            organization:
-              name: Kusari Inc
+            crunchbase: https://www.crunchbase.com/organization/kusari
           - item:
             name: Legit Security
             homepage_url: https://legitsecurity.com/
