@@ -449,8 +449,7 @@ landscape:
             homepage_url: https://shebash.io/
             logo: she_bash.svg
             twitter: https://twitter.com/SHEBASHIO
-            organization:
-              name: SHE BASH
+            crunchbase: https://www.crunchbase.com/organization/she-bash-llc
           - item:
             name: Shopify Inc.
             homepage_url: https://shopify.com/
