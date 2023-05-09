@@ -571,6 +571,7 @@ landscape:
           - item:
             name: Institute of Software Chinese Academy of Sciences
             homepage_url: https://iscas.ac.cn/
+            project: null
             logo: institute_of_software_chinese_academy_of_sciences.svg
             crunchbase: https://www.crunchbase.com/organization/institute-of-software-chinese-academy-of-sciences
           - item:
