@@ -248,7 +248,7 @@ big_picture:
         category: Signed With
         rows: 2
         width: 875
-        height: 200
+        height: 300
         top: 425
         left: 5
         color: rgb(244,190,55)
@@ -257,7 +257,7 @@ big_picture:
         category: Case Studies
         rows: 2
         width: 270
-        height: 200
+        height: 300
         top: 425
         left: 905
         color: rgb(17,115,115)
