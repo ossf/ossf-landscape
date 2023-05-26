@@ -1071,7 +1071,7 @@ landscape:
             logo: smallstep.svg
             crunchbase: https://www.crunchbase.com/organization/smallstep
             extra:
-              case_study_url: https://blog.sigstore.dev/case-study-smallstep/            
+              case_study_url: https://blog.sigstore.dev/case-study-smallstep/
           - item:
             name: Verizon
             homepage_url: https://www.verizon.com/business
