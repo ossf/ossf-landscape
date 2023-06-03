@@ -446,6 +446,12 @@ landscape:
             twitter: https://twitter.com/Shopify
             crunchbase: https://www.crunchbase.com/organization/shopify
           - item:
+            name: Snyk Limited
+            homepage_url: https://snyk.io/
+            logo: snyk_limited.svg
+            twitter: https://twitter.com/snyksec
+            crunchbase: https://www.crunchbase.com/organization/snyk
+          - item:
             name: Socket
             homepage_url: https://socket.dev/
             logo: socket.svg
