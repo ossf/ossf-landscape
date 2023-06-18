@@ -15,7 +15,7 @@ landscape:
             name: Apple Inc.
             homepage_url: https://apple.com/
             logo: apple_inc.svg
-            twitter: https://twitter.com/Apple
+            twitter: https://twitter.com/AppleSupport
             crunchbase: https://www.crunchbase.com/organization/apple
           - item:
             name: Atlassian Inc
@@ -419,6 +419,7 @@ landscape:
             name: SAP
             homepage_url: https://sap.com/
             logo: sap.svg
+            twitter: https://twitter.com/sapcp
             crunchbase: https://www.crunchbase.com/organization/sap
           - item:
             name: Scantist Pte. Ltd.
