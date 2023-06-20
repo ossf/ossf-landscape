@@ -167,11 +167,6 @@ landscape:
             logo: anaconda_inc.svg
             crunchbase: https://www.crunchbase.com/organization/continuum-analytics
           - item:
-            name: Anchore, Inc
-            homepage_url: https://anchore.com/
-            logo: anchore_inc.svg
-            crunchbase: https://www.crunchbase.com/organization/anchore-inc
-          - item:
             name: Apiiro
             homepage_url: https://apiiro.com/
             logo: apiiro.svg
@@ -201,12 +196,12 @@ landscape:
             twitter: https://twitter.com/business
             crunchbase: https://www.crunchbase.com/organization/bloomberg
           - item:
-            name: Boost Security
+            name: Boostsecurity
             homepage_url: https://boostsecurity.io/
-            logo: boost_security.svg
+            logo: boostsecurity.svg
             twitter: https://twitter.com/boostsecurityio
             organization:
-              name: Boost Security
+              name: Boostsecurity
           - item:
             name: Chainguard
             homepage_url: https://chainguard.dev/
@@ -224,12 +219,12 @@ landscape:
             logo: cloudsmith_ltd.svg
             crunchbase: https://www.crunchbase.com/organization/cloudsmith-io
           - item:
-            name: Code Intelligence
+            name: Code Intelligence GmbH
             homepage_url: https://code-intelligence.com/
-            logo: code_intelligence.svg
+            logo: code_intelligence_gmbh.svg
             twitter: https://twitter.com/CI_Fuzz
             organization:
-              name: Code Intelligence
+              name: Code Intelligence GmbH
           - item:
             name: Codethink
             homepage_url: https://codethink.co.uk/
@@ -377,6 +372,11 @@ landscape:
             twitter: https://twitter.com/NCCGroupplc
             crunchbase: https://www.crunchbase.com/organization/ncc-group
           - item:
+            name: Novarese
+            homepage_url: https://anchore.com/
+            logo: novarese.svg
+            crunchbase: https://www.crunchbase.com/organization/anchore-inc
+          - item:
             name: Nutanix, Inc.
             homepage_url: https://nutanix.com/
             logo: nutanix_inc.svg
@@ -388,6 +388,11 @@ landscape:
             twitter: https://twitter.com/Phylum_IO
             organization:
               name: Phylum
+          - item:
+            name: Practical Productions, LLC
+            homepage_url: https://tidelift.com/
+            logo: practical_productions_llc.svg
+            crunchbase: https://www.crunchbase.com/organization/tidelift
           - item:
             name: Privado
             homepage_url: https://privado.ai/
@@ -504,11 +509,6 @@ landscape:
             logo: tencent_holdings_limited.svg
             twitter: https://twitter.com/TencentGlobal
             crunchbase: https://www.crunchbase.com/organization/tencent
-          - item:
-            name: Tidelift, Inc.
-            homepage_url: https://tidelift.com/
-            logo: tidelift_inc.svg
-            crunchbase: https://www.crunchbase.com/organization/tidelift
           - item:
             name: Timesys Corporation
             homepage_url: https://timesys.com/
