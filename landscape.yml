@@ -701,6 +701,12 @@ landscape:
             extra:
               details_url: https://twitter.com/cncfartifacthub/status/1501153362414297094?s=20&t=ro8piH7LTrJVc7S_0bM0HQ
           - item:
+            name: Enterprise Contract
+            homepage_url: https://enterprisecontract.dev/
+            repo_url: https://github.com/enterprise-contract/ec-cli
+            logo: enterprise-contract.svg
+            crunchbase: https://www.crunchbase.com/organization/red-hat
+          - item:
             name: Flux
             homepage_url: https://fluxcd.io/
             repo_url: https://github.com/fluxcd/flux2
