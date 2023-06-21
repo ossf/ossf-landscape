@@ -559,21 +559,21 @@ landscape:
             logo: eclipse_foundation_aisbl.svg
             crunchbase: https://www.crunchbase.com/organization/eclipse-foundation
           - item:
-            name: FS-ISAC
+            name: FS-ISAC, Inc.
             homepage_url: https://fsisac.com/
-            logo: fs-isac.svg
+            logo: fs-isac_inc.svg
             crunchbase: https://www.crunchbase.com/organization/fs-isac
+          - item:
+            name: Harvard Business School
+            homepage_url: https://lish.harvard.edu/
+            logo: harvard_business_school.svg
+            crunchbase: https://www.crunchbase.com/organization/harvard-university
           - item:
             name: Institute of Software Chinese Academy of Sciences
             homepage_url: https://iscas.ac.cn/
             project: null
             logo: institute_of_software_chinese_academy_of_sciences.svg
             crunchbase: https://www.crunchbase.com/organization/institute-of-software-chinese-academy-of-sciences
-          - item:
-            name: Laboratory for Innovation Science at Harvard
-            homepage_url: https://lish.harvard.edu/
-            logo: laboratory_for_innovation_science_at_harvard.svg
-            crunchbase: https://www.crunchbase.com/organization/harvard-university
           - item:
             name: MITRE
             homepage_url: https://mitre.org/
@@ -591,9 +591,9 @@ landscape:
             logo: open_source_business_alliance_-_bundesverband_fur_digitale_souveranitat_ev.svg
             crunchbase: https://www.crunchbase.com/organization/open-source-business-alliance
           - item:
-            name: Open Source Technology Improvement Fund, Inc.
+            name: Open Source Technology Improvement Fund
             homepage_url: https://ostif.org/
-            logo: open_source_technology_improvement_fund_inc.svg
+            logo: open_source_technology_improvement_fund.svg
             twitter: https://twitter.com/OSTIFofficial
             crunchbase: https://www.crunchbase.com/organization/open-source-technology-improvement-fund
           - item:
@@ -621,9 +621,9 @@ landscape:
             logo: purdue_university.svg
             crunchbase: https://www.crunchbase.com/organization/purdue-university
           - item:
-            name: Python Software Foundation
+            name: Python
             homepage_url: https://python.org/
-            logo: python_software_foundation.svg
+            logo: python.svg
             crunchbase: https://www.crunchbase.com/organization/python-software-foundation
           - item:
             name: SAFECode
