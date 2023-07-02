@@ -482,6 +482,11 @@ landscape:
             logo: suse_llc.svg
             crunchbase: https://www.crunchbase.com/organization/suse
           - item:
+            name: Suzuki Motor Corporation
+            homepage_url: https://suzuki.com/
+            logo: suzuki_motor_corporation.svg
+            crunchbase: https://www.crunchbase.com/organization/suzuki-motor-of-america
+          - item:
             name: Sysdig, Inc.
             homepage_url: https://sysdig.com/
             logo: sysdig_inc.svg
