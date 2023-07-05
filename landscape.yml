@@ -167,6 +167,11 @@ landscape:
             logo: anaconda_inc.svg
             crunchbase: https://www.crunchbase.com/organization/continuum-analytics
           - item:
+            name: Anchore, Inc
+            homepage_url: https://anchore.com/
+            logo: anchore_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/anchore-inc
+          - item:
             name: Apiiro
             homepage_url: https://apiiro.com/
             logo: apiiro.svg
@@ -371,11 +376,6 @@ landscape:
             logo: ncc_group.svg
             twitter: https://twitter.com/NCCGroupplc
             crunchbase: https://www.crunchbase.com/organization/ncc-group
-          - item:
-            name: Novarese
-            homepage_url: https://anchore.com/
-            logo: novarese.svg
-            crunchbase: https://www.crunchbase.com/organization/anchore-inc
           - item:
             name: Nutanix, Inc.
             homepage_url: https://nutanix.com/
