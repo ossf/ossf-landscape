@@ -201,12 +201,12 @@ landscape:
             twitter: https://twitter.com/business
             crunchbase: https://www.crunchbase.com/organization/bloomberg
           - item:
-            name: Boostsecurity
+            name: Boost Security
             homepage_url: https://boostsecurity.io/
-            logo: boostsecurity.svg
+            logo: boost_security.svg
             twitter: https://twitter.com/boostsecurityio
             organization:
-              name: Boostsecurity
+              name: Boost Security
           - item:
             name: Chainguard
             homepage_url: https://chainguard.dev/
@@ -224,12 +224,12 @@ landscape:
             logo: cloudsmith_ltd.svg
             crunchbase: https://www.crunchbase.com/organization/cloudsmith-io
           - item:
-            name: Code Intelligence GmbH
+            name: Code Intelligence
             homepage_url: https://code-intelligence.com/
-            logo: code_intelligence_gmbh.svg
+            logo: code_intelligence.svg
             twitter: https://twitter.com/CI_Fuzz
             organization:
-              name: Code Intelligence GmbH
+              name: Code Intelligence
           - item:
             name: Codethink
             homepage_url: https://codethink.co.uk/
@@ -384,11 +384,6 @@ landscape:
             organization:
               name: Phylum
           - item:
-            name: Practical Productions, LLC
-            homepage_url: https://tidelift.com/
-            logo: practical_productions_llc.svg
-            crunchbase: https://www.crunchbase.com/organization/tidelift
-          - item:
             name: Privado
             homepage_url: https://privado.ai/
             logo: privado.svg
@@ -510,6 +505,11 @@ landscape:
             twitter: https://twitter.com/TencentGlobal
             crunchbase: https://www.crunchbase.com/organization/tencent
           - item:
+            name: Tidelift, Inc.
+            homepage_url: https://tidelift.com/
+            logo: tidelift_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/tidelift
+          - item:
             name: Timesys Corporation
             homepage_url: https://timesys.com/
             logo: timesys_corporation.svg
@@ -559,21 +559,21 @@ landscape:
             logo: eclipse_foundation_aisbl.svg
             crunchbase: https://www.crunchbase.com/organization/eclipse-foundation
           - item:
-            name: FS-ISAC, Inc.
+            name: FS-ISAC
             homepage_url: https://fsisac.com/
-            logo: fs-isac_inc.svg
+            logo: fs-isac.svg
             crunchbase: https://www.crunchbase.com/organization/fs-isac
-          - item:
-            name: Harvard Business School
-            homepage_url: https://lish.harvard.edu/
-            logo: harvard_business_school.svg
-            crunchbase: https://www.crunchbase.com/organization/harvard-university
           - item:
             name: Institute of Software Chinese Academy of Sciences
             homepage_url: https://iscas.ac.cn/
             project: null
             logo: institute_of_software_chinese_academy_of_sciences.svg
             crunchbase: https://www.crunchbase.com/organization/institute-of-software-chinese-academy-of-sciences
+          - item:
+            name: Laboratory for Innovation Science at Harvard
+            homepage_url: https://lish.harvard.edu/
+            logo: laboratory_for_innovation_science_at_harvard.svg
+            crunchbase: https://www.crunchbase.com/organization/harvard-university
           - item:
             name: MITRE
             homepage_url: https://mitre.org/
@@ -591,9 +591,9 @@ landscape:
             logo: open_source_business_alliance_-_bundesverband_fur_digitale_souveranitat_ev.svg
             crunchbase: https://www.crunchbase.com/organization/open-source-business-alliance
           - item:
-            name: Open Source Technology Improvement Fund
+            name: Open Source Technology Improvement Fund, Inc.
             homepage_url: https://ostif.org/
-            logo: open_source_technology_improvement_fund.svg
+            logo: open_source_technology_improvement_fund_inc.svg
             twitter: https://twitter.com/OSTIFofficial
             crunchbase: https://www.crunchbase.com/organization/open-source-technology-improvement-fund
           - item:
@@ -621,9 +621,9 @@ landscape:
             logo: purdue_university.svg
             crunchbase: https://www.crunchbase.com/organization/purdue-university
           - item:
-            name: Python
+            name: Python Software Foundation
             homepage_url: https://python.org/
-            logo: python.svg
+            logo: python_software_foundation.svg
             crunchbase: https://www.crunchbase.com/organization/python-software-foundation
           - item:
             name: SAFECode
