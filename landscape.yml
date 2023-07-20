@@ -18,6 +18,12 @@ landscape:
             twitter: https://twitter.com/AppleSupport
             crunchbase: https://www.crunchbase.com/organization/apple
           - item:
+            name: Atlassian Inc
+            homepage_url: https://atlassian.com/
+            logo: atlassian_inc.svg
+            twitter: https://twitter.com/Atlassian
+            crunchbase: https://www.crunchbase.com/organization/atlassian
+          - item:
             name: Capital One Services LLC
             homepage_url: https://capitalone.com/
             logo: capital_one_services_llc.svg
