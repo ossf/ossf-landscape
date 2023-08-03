@@ -18,9 +18,9 @@ landscape:
             twitter: https://twitter.com/AppleSupport
             crunchbase: https://www.crunchbase.com/organization/apple
           - item:
-            name: Atlassian Inc
+            name: Atlassian US, Inc
             homepage_url: https://atlassian.com/
-            logo: atlassian_inc.svg
+            logo: atlassian_us_inc.svg
             twitter: https://twitter.com/Atlassian
             crunchbase: https://www.crunchbase.com/organization/atlassian
           - item:
