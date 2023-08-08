@@ -127,12 +127,6 @@ landscape:
         name: General
         items:
           - item:
-            name: Accuknox
-            homepage_url: https://accuknox.com/
-            logo: accuknox.svg
-            twitter: https://twitter.com/AccuKnox
-            crunchbase: https://www.crunchbase.com/organization/accuknox
-          - item:
             name: Airbyte
             homepage_url: https://airbyte.io/
             logo: airbyte.svg
@@ -338,11 +332,6 @@ landscape:
             logo: hitachi_ltd.svg
             twitter: https://twitter.com/Hitachi
             crunchbase: https://www.crunchbase.com/organization/hitachi
-          - item:
-            name: Indeed, Inc.
-            homepage_url: https://indeed.com/
-            logo: indeed_inc.svg
-            crunchbase: https://www.crunchbase.com/organization/indeed
           - item:
             name: JFrog, Inc
             homepage_url: https://jfrog.com/
