@@ -97,11 +97,6 @@ landscape:
             logo: morgan_stanley.svg
             crunchbase: https://www.crunchbase.com/organization/morgan-stanley
           - item:
-            name: Oracle America Inc.
-            homepage_url: https://oracle.com/
-            logo: oracle_america_inc.svg
-            crunchbase: https://www.crunchbase.com/organization/oracle
-          - item:
             name: Red Hat, Inc.
             homepage_url: https://redhat.com/
             logo: red_hat_inc.svg
@@ -126,11 +121,6 @@ landscape:
       - subcategory:
         name: General
         items:
-          - item:
-            name: Accuknox
-            homepage_url: https://accuknox.com/
-            logo: accuknox.svg
-            crunchbase: https://www.crunchbase.com/organization/accuknox
           - item:
             name: Airbyte
             homepage_url: https://airbyte.io/
@@ -165,11 +155,6 @@ landscape:
             homepage_url: https://anaconda.com/
             logo: anaconda_inc.svg
             crunchbase: https://www.crunchbase.com/organization/continuum-analytics
-          - item:
-            name: Anchore, Inc
-            homepage_url: https://anchore.com/
-            logo: anchore_inc.svg
-            crunchbase: https://www.crunchbase.com/organization/anchore-inc
           - item:
             name: Apiiro
             homepage_url: https://apiiro.com/
