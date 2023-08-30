@@ -476,8 +476,7 @@ landscape:
             homepage_url: https://tii.ae/
             logo: technology_innovation_institute.svg
             twitter: https://twitter.com/TIIuae
-            organization:
-              name: Technology Innovation Institute
+            crunchbase: https://www.crunchbase.com/organization/technology-innovation-institute
           - item:
             name: Tenable, Inc.
             homepage_url: https://tenable.com/
