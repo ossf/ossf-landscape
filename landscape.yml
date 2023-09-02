@@ -18,12 +18,6 @@ landscape:
             twitter: https://twitter.com/AppleSupport
             crunchbase: https://www.crunchbase.com/organization/apple
           - item:
-            name: Atlassian US, Inc
-            homepage_url: https://atlassian.com/
-            logo: atlassian_us_inc.svg
-            twitter: https://twitter.com/Atlassian
-            crunchbase: https://www.crunchbase.com/organization/atlassian
-          - item:
             name: Capital One Services LLC
             homepage_url: https://capitalone.com/
             logo: capital_one_services_llc.svg
@@ -185,13 +179,6 @@ landscape:
             twitter: https://twitter.com/business
             crunchbase: https://www.crunchbase.com/organization/bloomberg
           - item:
-            name: Boost Security
-            homepage_url: https://boostsecurity.io/
-            logo: boost_security.svg
-            twitter: https://twitter.com/boostsecurityio
-            organization:
-              name: Boost Security
-          - item:
             name: Chainguard
             homepage_url: https://chainguard.dev/
             logo: chainguard.svg
@@ -242,12 +229,6 @@ landscape:
             logo: cybertrust_japan_co_ltd.svg
             twitter: https://twitter.com/Cybertrust_JP
             crunchbase: https://www.crunchbase.com/organization/cybertrust
-          - item:
-            name: Cybozu, Inc.
-            homepage_url: https://cybozu.com/
-            logo: cybozu_inc.svg
-            twitter: https://twitter.com/cybozu
-            crunchbase: https://www.crunchbase.com/organization/cybozu
           - item:
             name: Cycode, Inc.
             homepage_url: https://cycode.com/
@@ -362,23 +343,11 @@ landscape:
             logo: nutanix_inc.svg
             crunchbase: https://www.crunchbase.com/organization/nutanix
           - item:
-            name: Phylum
-            homepage_url: https://phylum.io/
-            logo: phylum.svg
-            twitter: https://twitter.com/Phylum_IO
-            organization:
-              name: Phylum
-          - item:
             name: Privado
             homepage_url: https://privado.ai/
             logo: privado.svg
             twitter: https://twitter.com/PrivadoHQ
             crunchbase: https://www.crunchbase.com/organization/privado
-          - item:
-            name: Qualys, Inc.
-            homepage_url: https://qualys.com/
-            logo: qualys_inc.svg
-            crunchbase: https://www.crunchbase.com/organization/qualys
           - item:
             name: Renesas Electronics Corporation
             homepage_url: https://renesas.com/
@@ -509,6 +478,12 @@ landscape:
             logo: vicone_inc.svg
             twitter: https://twitter.com/VicOneAuto
             crunchbase: https://www.crunchbase.com/organization/vicone
+          - item:
+            name: White Source Ltd., d.b.a mend.io
+            homepage_url: https://mend.io/
+            logo: white_source_ltd_dba_mendio.svg
+            twitter: https://twitter.com/Mend_io
+            crunchbase: https://www.crunchbase.com/organization/white-source
           - item:
             name: Wind River Systems, Inc.
             homepage_url: https://windriver.com/
