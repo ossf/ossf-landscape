@@ -18,6 +18,12 @@ landscape:
             twitter: https://twitter.com/AppleSupport
             crunchbase: https://www.crunchbase.com/organization/apple
           - item:
+            name: Atlassian US, Inc
+            homepage_url: https://atlassian.com/
+            logo: atlassian_us_inc.svg
+            twitter: https://twitter.com/Atlassian
+            crunchbase: https://www.crunchbase.com/organization/atlassian
+          - item:
             name: Capital One Services LLC
             homepage_url: https://capitalone.com/
             logo: capital_one_services_llc.svg
@@ -400,6 +406,12 @@ landscape:
             logo: shopify_inc.svg
             twitter: https://twitter.com/Shopify
             crunchbase: https://www.crunchbase.com/organization/shopify
+          - item:
+            name: Slim.AI
+            homepage_url: https://slim.ai/
+            logo: slimai.svg
+            twitter: https://twitter.com/SlimDevOps
+            crunchbase: https://www.crunchbase.com/organization/slim-ai
           - item:
             name: Snyk Limited
             homepage_url: https://snyk.io/
