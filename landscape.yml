@@ -185,6 +185,13 @@ landscape:
             twitter: https://twitter.com/business
             crunchbase: https://www.crunchbase.com/organization/bloomberg
           - item:
+            name: Boost Security
+            homepage_url: https://boostsecurity.io/
+            logo: boost_security.svg
+            twitter: https://twitter.com/boostsecurityio
+            organization:
+              name: Boost Security
+          - item:
             name: Chainguard
             homepage_url: https://chainguard.dev/
             logo: chainguard.svg
