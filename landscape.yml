@@ -1033,6 +1033,14 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/python-software-foundation
             extra:
               how_to_verify_url: https://github.com/urllib3/urllib3/releases/tag/1.26.10
+          - item:
+            name: OpenTF
+            homepage_url: https://opentf.org/
+            repo_url: https://github.com/opentffoundation/opentf
+            logo: opentf.svg
+            twitter: https://twitter.com/opentf
+            organization:
+              name: OpenTF
       - subcategory:
         name: Case Studies
         items:
