@@ -628,7 +628,7 @@ landscape:
           - item:
             name: Rust Foundation
             homepage_url: https://foundation.rust-lang.org/
-            logo: rust_roundation.svg
+            logo: rust_foundation.svg
             crunchbase: https://www.crunchbase.com/organization/rust-foundation
           - item:
             name: SAFECode
