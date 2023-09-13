@@ -126,7 +126,7 @@ landscape:
       - subcategory:
         name: General
         items:
-         - item:
+          - item:
             name: Accuknox
             homepage_url: https://accuknox.com/
             logo: accuknox.svg
