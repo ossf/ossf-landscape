@@ -39,7 +39,7 @@ landscape:
             homepage_url: https://citi.com/
             logo: citi.svg
             crunchbase: https://www.crunchbase.com/organization/citigroup
-            joined: '2021-01-25'
+            joined: "2021-01-25"
           - item:
             name: Dell Technologies
             homepage_url: https://delltechnologies.com/
@@ -126,7 +126,7 @@ landscape:
       - subcategory:
         name: General
         items:
-         - item:
+          - item:
             name: Accuknox
             homepage_url: https://accuknox.com/
             logo: accuknox.svg
@@ -240,7 +240,7 @@ landscape:
             homepage_url: https://coinbase.com/
             logo: coinbase_inc.svg
             crunchbase: https://www.crunchbase.com/organization/coinbase
-            joined: '2022-02-17'
+            joined: "2022-02-17"
           - item:
             name: Comcast Cable Communications, LLC
             homepage_url: https://xfinity.com/
@@ -359,7 +359,7 @@ landscape:
             homepage_url: https://lmco.com/
             logo: lockheed_martin.svg
             crunchbase: https://www.crunchbase.com/organization/lockheed-martin
-            joined: '2022-02-14'
+            joined: "2022-02-14"
           - item:
             name: NCC Group
             homepage_url: https://nccgroup.trust/
@@ -460,12 +460,6 @@ landscape:
             logo: stackhawk.svg
             twitter: https://twitter.com/StackHawk
             crunchbase: https://www.crunchbase.com/organization/stackhawk
-         - item:
-            name: Stacklok
-            homepage_url: https://www.stacklok.com/
-            logo: stacklok.svg
-            twitter: https://twitter.com/stacklokhq
-            crunchbase: https://www.crunchbase.com/organization/stacklok          
           - item:
             name: SUSE LLC
             homepage_url: https://suse.com/
@@ -579,7 +573,7 @@ landscape:
             homepage_url: https://mitre.org/
             logo: mitre.svg
             crunchbase: https://www.crunchbase.com/organization/mitre
-            joined: '2021-03-02'
+            joined: "2021-03-02"
           - item:
             name: Nanyang Technological University
             homepage_url: https://ntu.edu.sg/
@@ -628,7 +622,7 @@ landscape:
           - item:
             name: Rust Foundation
             homepage_url: https://foundation.rust-lang.org/
-            logo: rust_roundation.svg
+            logo: rust_foundation.svg
             crunchbase: https://www.crunchbase.com/organization/rust-foundation
           - item:
             name: SAFECode
