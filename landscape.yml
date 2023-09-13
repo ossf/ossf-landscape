@@ -39,7 +39,7 @@ landscape:
             homepage_url: https://citi.com/
             logo: citi.svg
             crunchbase: https://www.crunchbase.com/organization/citigroup
-            joined: "2021-01-25"
+            joined: '2021-01-25'
           - item:
             name: Dell Technologies
             homepage_url: https://delltechnologies.com/
@@ -97,11 +97,6 @@ landscape:
             logo: morgan_stanley.svg
             crunchbase: https://www.crunchbase.com/organization/morgan-stanley
           - item:
-            name: Oracle America Inc.
-            homepage_url: https://oracle.com/
-            logo: oracle_america_inc.svg
-            crunchbase: https://www.crunchbase.com/organization/oracle
-          - item:
             name: Red Hat, Inc.
             homepage_url: https://redhat.com/
             logo: red_hat_inc.svg
@@ -126,12 +121,6 @@ landscape:
       - subcategory:
         name: General
         items:
-          - item:
-            name: Accuknox
-            homepage_url: https://accuknox.com/
-            logo: accuknox.svg
-            twitter: https://twitter.com/AccuKnox
-            crunchbase: https://www.crunchbase.com/organization/accuknox
           - item:
             name: Airbyte
             homepage_url: https://airbyte.io/
@@ -166,11 +155,6 @@ landscape:
             homepage_url: https://anaconda.com/
             logo: anaconda_inc.svg
             crunchbase: https://www.crunchbase.com/organization/continuum-analytics
-          - item:
-            name: Anchore, Inc
-            homepage_url: https://anchore.com/
-            logo: anchore_inc.svg
-            crunchbase: https://www.crunchbase.com/organization/anchore-inc
           - item:
             name: Apiiro
             homepage_url: https://apiiro.com/
@@ -240,7 +224,7 @@ landscape:
             homepage_url: https://coinbase.com/
             logo: coinbase_inc.svg
             crunchbase: https://www.crunchbase.com/organization/coinbase
-            joined: "2022-02-17"
+            joined: '2022-02-17'
           - item:
             name: Comcast Cable Communications, LLC
             homepage_url: https://xfinity.com/
@@ -359,7 +343,7 @@ landscape:
             homepage_url: https://lmco.com/
             logo: lockheed_martin.svg
             crunchbase: https://www.crunchbase.com/organization/lockheed-martin
-            joined: "2022-02-14"
+            joined: '2022-02-14'
           - item:
             name: NCC Group
             homepage_url: https://nccgroup.trust/
@@ -460,12 +444,6 @@ landscape:
             logo: stackhawk.svg
             twitter: https://twitter.com/StackHawk
             crunchbase: https://www.crunchbase.com/organization/stackhawk
-          - item:
-            name: Stacklok
-            homepage_url: https://www.stacklok.com/
-            logo: stacklok.svg
-            twitter: https://twitter.com/stacklokhq
-            crunchbase: https://www.crunchbase.com/organization/stacklok
           - item:
             name: SUSE LLC
             homepage_url: https://suse.com/
@@ -579,7 +557,7 @@ landscape:
             homepage_url: https://mitre.org/
             logo: mitre.svg
             crunchbase: https://www.crunchbase.com/organization/mitre
-            joined: "2021-03-02"
+            joined: '2021-03-02'
           - item:
             name: Nanyang Technological University
             homepage_url: https://ntu.edu.sg/
@@ -625,11 +603,6 @@ landscape:
             homepage_url: https://python.org/
             logo: python_software_foundation.svg
             crunchbase: https://www.crunchbase.com/organization/python-software-foundation
-          - item:
-            name: Rust Foundation
-            homepage_url: https://foundation.rust-lang.org/
-            logo: rust_foundation.svg
-            crunchbase: https://www.crunchbase.com/organization/rust-foundation
           - item:
             name: SAFECode
             homepage_url: https://safecode.org/
