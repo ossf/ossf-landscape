@@ -97,7 +97,7 @@ landscape:
             logo: morgan_stanley.svg
             crunchbase: https://www.crunchbase.com/organization/morgan-stanley
           - item:
-            name: Oracle America Inc.
+            name: Oracle America Inc. 
             homepage_url: https://oracle.com/
             logo: oracle_america_inc.svg
             crunchbase: https://www.crunchbase.com/organization/oracle
