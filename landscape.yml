@@ -460,7 +460,7 @@ landscape:
             logo: stackhawk.svg
             twitter: https://twitter.com/StackHawk
             crunchbase: https://www.crunchbase.com/organization/stackhawk
-         - item:
+          - item:
             name: Stacklok
             homepage_url: https://www.stacklok.com/
             logo: stacklok.svg
