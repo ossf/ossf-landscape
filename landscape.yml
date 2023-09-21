@@ -39,7 +39,7 @@ landscape:
             homepage_url: https://citi.com/
             logo: citi.svg
             crunchbase: https://www.crunchbase.com/organization/citigroup
-            joined: "2021-01-25"
+            joined: '2021-01-25'
           - item:
             name: Dell Technologies
             homepage_url: https://delltechnologies.com/
@@ -49,6 +49,7 @@ landscape:
             name: Ericsson
             homepage_url: https://ericsson.com/
             logo: ericsson.svg
+            twitter: https://twitter.com/ericsson
             crunchbase: https://www.crunchbase.com/organization/ericsson
           - item:
             name: GitHub, Inc.
@@ -65,16 +66,19 @@ landscape:
             name: Huawei Technologies Co., Ltd
             homepage_url: https://huawei.com/
             logo: huawei_technologies_co_ltd.svg
+            twitter: https://twitter.com/Huawei
             crunchbase: https://www.crunchbase.com/organization/huawei
           - item:
             name: Intel Corporation
             homepage_url: https://intel.com/
             logo: intel_corporation.svg
+            twitter: https://twitter.com/intel
             crunchbase: https://www.crunchbase.com/organization/intel
           - item:
             name: International Business Machines Corporation
             homepage_url: https://ibm.com/
             logo: international_business_machines_corporation.svg
+            twitter: https://twitter.com/IBM
             crunchbase: https://www.crunchbase.com/organization/ibm
           - item:
             name: JPMorgan Chase
@@ -240,7 +244,7 @@ landscape:
             homepage_url: https://coinbase.com/
             logo: coinbase_inc.svg
             crunchbase: https://www.crunchbase.com/organization/coinbase
-            joined: "2022-02-17"
+            joined: '2022-02-17'
           - item:
             name: Comcast Cable Communications, LLC
             homepage_url: https://xfinity.com/
@@ -359,7 +363,7 @@ landscape:
             homepage_url: https://lmco.com/
             logo: lockheed_martin.svg
             crunchbase: https://www.crunchbase.com/organization/lockheed-martin
-            joined: "2022-02-14"
+            joined: '2022-02-14'
           - item:
             name: NCC Group
             homepage_url: https://nccgroup.trust/
@@ -529,6 +533,7 @@ landscape:
             name: Wind River Systems, Inc.
             homepage_url: https://windriver.com/
             logo: wind_river_systems_inc.svg
+            twitter: https://twitter.com/WindRiver
             crunchbase: https://www.crunchbase.com/organization/wind-river
           - item:
             name: Xilinx Inc
@@ -539,6 +544,7 @@ landscape:
             name: ZTE Corporation
             homepage_url: https://zte.com.cn/
             logo: zte_corporation.svg
+            twitter: https://twitter.com/ZTEPress
             crunchbase: https://www.crunchbase.com/organization/zte-corporation
       - subcategory:
         name: Associate
@@ -566,9 +572,9 @@ landscape:
           - item:
             name: Institute of Software Chinese Academy of Sciences
             homepage_url: https://iscas.ac.cn/
-            project: null
             logo: institute_of_software_chinese_academy_of_sciences.svg
             crunchbase: https://www.crunchbase.com/organization/institute-of-software-chinese-academy-of-sciences
+            project:
           - item:
             name: Laboratory for Innovation Science at Harvard
             homepage_url: https://lish.harvard.edu/
@@ -579,12 +585,19 @@ landscape:
             homepage_url: https://mitre.org/
             logo: mitre.svg
             crunchbase: https://www.crunchbase.com/organization/mitre
-            joined: "2021-03-02"
+            joined: '2021-03-02'
           - item:
             name: Nanyang Technological University
             homepage_url: https://ntu.edu.sg/
             logo: nanyang_technological_university.svg
             crunchbase: https://www.crunchbase.com/organization/nanyang-technological-university
+          - item:
+            name: OpenForum Europe
+            homepage_url: https://openforumeurope.org/
+            logo: openforum_europe.svg
+            twitter: https://twitter.com/OpenForumEurope
+            organization:
+              name: OpenForum Europe
           - item:
             name: Open Source Business Alliance - Bundesverband für digitale Souveränität e.V.
             homepage_url: https://osb-alliance.com/
@@ -597,24 +610,17 @@ landscape:
             twitter: https://twitter.com/OSTIFofficial
             crunchbase: https://www.crunchbase.com/organization/open-source-technology-improvement-fund
           - item:
+            name: OpenUK
+            homepage_url: https://openuk.uk/
+            logo: openuk.svg
+            crunchbase: https://www.crunchbase.com/organization/openuk
+            description: Where the UK’s Open communities meet and collaborate
+          - item:
             name: Open Web Application Security Project
             homepage_url: https://owasp.org/
             logo: open_web_application_security_project.svg
             twitter: https://twitter.com/owasp
             crunchbase: https://www.crunchbase.com/organization/open-web-application-security-project
-          - item:
-            name: OpenForum Europe
-            homepage_url: https://openforumeurope.org/
-            logo: openforum_europe.svg
-            twitter: https://twitter.com/OpenForumEurope
-            organization:
-              name: OpenForum Europe
-          - item:
-            name: OpenUK
-            description: Where the UK’s Open communities meet and collaborate
-            homepage_url: https://openuk.uk/
-            logo: openuk.svg
-            crunchbase: https://www.crunchbase.com/organization/openuk
           - item:
             name: Purdue University
             homepage_url: https://purdue.edu/
