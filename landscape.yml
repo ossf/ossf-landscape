@@ -365,6 +365,12 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/lockheed-martin
             joined: '2022-02-14'
           - item:
+            name: Mend.io
+            homepage_url: https://mend.io/
+            logo: mendio.svg
+            twitter: https://twitter.com/Mend_io
+            crunchbase: https://www.crunchbase.com/organization/white-source
+          - item:
             name: NCC Group
             homepage_url: https://nccgroup.trust/
             logo: ncc_group.svg
@@ -523,12 +529,6 @@ landscape:
             logo: vicone_inc.svg
             twitter: https://twitter.com/VicOneAuto
             crunchbase: https://www.crunchbase.com/organization/vicone
-          - item:
-            name: White Source Ltd., d.b.a mend.io
-            homepage_url: https://mend.io/
-            logo: white_source_ltd_dba_mendio.svg
-            twitter: https://twitter.com/Mend_io
-            crunchbase: https://www.crunchbase.com/organization/white-source
           - item:
             name: Wind River Systems, Inc.
             homepage_url: https://windriver.com/
