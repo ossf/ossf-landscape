@@ -162,11 +162,6 @@ landscape:
             twitter: https://twitter.com/AmestoFortytwo
             crunchbase: https://www.crunchbase.com/organization/amesto-fortytwo
           - item:
-            name: Anaconda, Inc
-            homepage_url: https://anaconda.com/
-            logo: anaconda_inc.svg
-            crunchbase: https://www.crunchbase.com/organization/continuum-analytics
-          - item:
             name: Anchore, Inc
             homepage_url: https://anchore.com/
             logo: anchore_inc.svg
@@ -454,6 +449,12 @@ landscape:
             twitter: https://twitter.com/SocketSecurity
             organization:
               name: Socket
+          - item:
+            name: Sparkfabrik srl
+            homepage_url: https://sparkfabrik.com/
+            logo: sparkfabrik_srl.svg
+            twitter: https://twitter.com/SparkFabrik
+            crunchbase: https://www.crunchbase.com/organization/sparkfabrik
           - item:
             name: Spotify AB
             homepage_url: https://spotify.com/
