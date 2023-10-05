@@ -162,6 +162,11 @@ landscape:
             twitter: https://twitter.com/AmestoFortytwo
             crunchbase: https://www.crunchbase.com/organization/amesto-fortytwo
           - item:
+            name: Anaconda, Inc
+            homepage_url: https://anaconda.com/
+            logo: anaconda_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/continuum-analytics
+          - item:
             name: Anchore, Inc
             homepage_url: https://anchore.com/
             logo: anchore_inc.svg
@@ -505,11 +510,6 @@ landscape:
             logo: tencent_holdings_limited.svg
             twitter: https://twitter.com/TencentGlobal
             crunchbase: https://www.crunchbase.com/organization/tencent
-          - item:
-            name: Tidelift, Inc.
-            homepage_url: https://tidelift.com/
-            logo: tidelift_inc.svg
-            crunchbase: https://www.crunchbase.com/organization/tidelift
           - item:
             name: Timesys Corporation
             homepage_url: https://timesys.com/
