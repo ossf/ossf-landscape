@@ -511,6 +511,11 @@ landscape:
             twitter: https://twitter.com/TencentGlobal
             crunchbase: https://www.crunchbase.com/organization/tencent
           - item:
+            name: Tidelift, Inc.
+            homepage_url: https://tidelift.com/
+            logo: tidelift_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/tidelift
+          - item:
             name: Timesys Corporation
             homepage_url: https://timesys.com/
             logo: timesys_corporation.svg
