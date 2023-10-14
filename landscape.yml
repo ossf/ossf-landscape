@@ -526,6 +526,11 @@ landscape:
             logo: trail_of_bits.svg
             crunchbase: https://www.crunchbase.com/organization/trail-of-bits
           - item:
+            name: VicOne Inc.
+            homepage_url: https://vicone.com/
+            logo: vicone_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/vicone
+          - item:
             name: Wind River Systems, Inc.
             homepage_url: https://windriver.com/
             logo: wind_river_systems_inc.svg
