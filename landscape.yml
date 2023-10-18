@@ -11,12 +11,14 @@ landscape:
             logo: amazon_web_services_inc.svg
             twitter: https://twitter.com/amazon
             crunchbase: https://www.crunchbase.com/organization/amazon-web-services
+            joined: '2017-08-01'
           - item:
             name: Apple Inc.
             homepage_url: https://apple.com/
             logo: apple_inc.svg
             twitter: https://twitter.com/AppleSupport
             crunchbase: https://www.crunchbase.com/organization/apple
+            joined: '2019-05-01'
           - item:
             name: Atlassian US, Inc
             homepage_url: https://atlassian.com/
@@ -107,6 +109,7 @@ landscape:
             logo: red_hat_inc.svg
             twitter: https://twitter.com/RedHat
             crunchbase: https://www.crunchbase.com/organization/red-hat
+            joined: '2016-01-01'
           - item:
             name: Sonatype, Inc.
             homepage_url: https://sonatype.com/
@@ -118,6 +121,7 @@ landscape:
             homepage_url: https://vmware.com/
             logo: vmware_inc.svg
             crunchbase: https://www.crunchbase.com/organization/vmware
+            joined: '2016-01-01'
           - item:
             name: Wipro Limited
             homepage_url: https://wipro.com/
@@ -132,6 +136,7 @@ landscape:
             logo: accuknox.svg
             twitter: https://twitter.com/AccuKnox
             crunchbase: https://www.crunchbase.com/organization/accuknox
+            joined: '2021-05-01'
           - item:
             name: Airbyte
             homepage_url: https://airbyte.io/
@@ -144,6 +149,7 @@ landscape:
             homepage_url: https://aiven.io/
             logo: aiven_inc.svg
             crunchbase: https://www.crunchbase.com/organization/aiven
+            joined: '2019-06-01'
           - item:
             name: Akamai Technologies, Inc.
             homepage_url: https://akamai.com/
@@ -161,6 +167,7 @@ landscape:
             logo: amesto_fortytwo.svg
             twitter: https://twitter.com/AmestoFortytwo
             crunchbase: https://www.crunchbase.com/organization/amesto-fortytwo
+            joined: '2023-03-01'
           - item:
             name: Anaconda, Inc
             homepage_url: https://anaconda.com/
@@ -171,17 +178,20 @@ landscape:
             homepage_url: https://anchore.com/
             logo: anchore_inc.svg
             crunchbase: https://www.crunchbase.com/organization/anchore-inc
+            joined: '2021-07-01'
           - item:
             name: Apiiro
             homepage_url: https://apiiro.com/
             logo: apiiro.svg
             twitter: https://twitter.com/ApiiroSecurity
             crunchbase: https://www.crunchbase.com/organization/apiiro-ltd
+            joined: '2021-08-01'
           - item:
             name: Arnica
             homepage_url: https://arnica.io/
             logo: arnica.svg
             crunchbase: https://www.crunchbase.com/organization/arnica-io
+            joined: '2023-01-01'
           - item:
             name: AuriStor Inc.
             homepage_url: https://auristor.com/
@@ -212,6 +222,7 @@ landscape:
             homepage_url: https://chainguard.dev/
             logo: chainguard.svg
             crunchbase: https://www.crunchbase.com/organization/chainguard
+            joined: '2022-06-01'
           - item:
             name: Checkmarx
             homepage_url: https://checkmarx.com/
@@ -223,6 +234,7 @@ landscape:
             homepage_url: https://cloudsmith.com/
             logo: cloudsmith_ltd.svg
             crunchbase: https://www.crunchbase.com/organization/cloudsmith-io
+            joined: '2021-08-01'
           - item:
             name: Code Intelligence
             homepage_url: https://code-intelligence.com/
@@ -252,6 +264,7 @@ landscape:
             homepage_url: https://control-plane.io/
             logo: controlplaneio.svg
             crunchbase: https://www.crunchbase.com/organization/controlplane
+            joined: '2019-02-01'
           - item:
             name: Cybertrust Japan Co., Ltd.
             homepage_url: https://cybertrust.co.jp/
@@ -263,6 +276,7 @@ landscape:
             homepage_url: https://cycode.com/
             logo: cycode_inc.svg
             crunchbase: https://www.crunchbase.com/organization/cycode
+            joined: '2022-04-01'
           - item:
             name: DeployHub, Inc.
             homepage_url: https://deployhub.com/
@@ -299,6 +313,7 @@ landscape:
             homepage_url: https://fidelity.com/
             logo: fidelity_investments.svg
             crunchbase: https://www.crunchbase.com/organization/fidelity-investments
+            joined: '2019-08-01'
           - item:
             name: FOSSA
             homepage_url: https://fossa.io/
@@ -332,16 +347,19 @@ landscape:
             logo: hitachi_ltd.svg
             twitter: https://twitter.com/Hitachi
             crunchbase: https://www.crunchbase.com/organization/hitachi
+            joined: '2023-03-01'
           - item:
             name: JFrog, Inc
             homepage_url: https://jfrog.com/
             logo: jfrog_inc.svg
             crunchbase: https://www.crunchbase.com/organization/jfrog-ltd
+            joined: '2017-11-01'
           - item:
             name: Kasten, Inc.
             homepage_url: https://kasten.io/
             logo: kasten_inc.svg
             crunchbase: https://www.crunchbase.com/organization/kasten
+            joined: '2017-07-01'
           - item:
             name: Kusari Inc
             homepage_url: https://kusari.dev/
@@ -405,6 +423,7 @@ landscape:
             logo: sap.svg
             twitter: https://twitter.com/sapcp
             crunchbase: https://www.crunchbase.com/organization/sap
+            joined: '2017-10-01'
           - item:
             name: Scantist Pte. Ltd.
             homepage_url: https://scantist.com/
