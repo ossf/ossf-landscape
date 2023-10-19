@@ -47,11 +47,13 @@ landscape:
             homepage_url: https://delltechnologies.com/
             logo: dell_technologies.svg
             crunchbase: https://www.crunchbase.com/organization/dell
+            joined: '2017-01-01'
           - item:
             name: Ericsson
             homepage_url: https://ericsson.com/
             logo: ericsson.svg
             crunchbase: https://www.crunchbase.com/organization/ericsson
+            joined: '2018-12-01'
           - item:
             name: GitHub, Inc.
             homepage_url: https://github.com/
@@ -83,6 +85,7 @@ landscape:
             homepage_url: https://jpmorganchase.com/
             logo: jpmorgan_chase.svg
             crunchbase: https://www.crunchbase.com/organization/jpmorgan-chase-co
+            joined: '2018-08-01'
           - item:
             name: Meta Platforms, Inc.
             homepage_url: https://meta.com/
@@ -98,6 +101,7 @@ landscape:
             homepage_url: https://morganstanley.com/
             logo: morgan_stanley.svg
             crunchbase: https://www.crunchbase.com/organization/morgan-stanley
+            joined: '2017-06-01'
           - item:
             name: Oracle America Inc.
             homepage_url: https://oracle.com/
@@ -295,6 +299,7 @@ landscape:
             logo: docker_inc.svg
             twitter: https://twitter.com/Docker
             crunchbase: https://www.crunchbase.com/organization/docker
+            joined: '2016-01-01'
           - item:
             name: Endor Labs
             homepage_url: https://endor.ai/
@@ -308,6 +313,7 @@ landscape:
             logo: f5_inc.svg
             twitter: https://twitter.com/F5
             crunchbase: https://www.crunchbase.com/organization/f5-networks
+            joined: '2017-11-01'
           - item:
             name: Fidelity Investments
             homepage_url: https://fidelity.com/
@@ -319,16 +325,19 @@ landscape:
             homepage_url: https://fossa.io/
             logo: fossa.svg
             crunchbase: https://www.crunchbase.com/organization/fossa-2
+            joined: '2019-04-01'
           - item:
             name: Futurewei Technologies, Inc.
             homepage_url: https://futurewei.com/
             logo: futurewei_technologies_inc.svg
             crunchbase: https://www.crunchbase.com/organization/futurewei-technologies
+            joined: '2020-04-01'
           - item:
             name: GitLab Inc.
             homepage_url: https://gitlab.com/
             logo: gitlab_inc.svg
             crunchbase: https://www.crunchbase.com/organization/gitlab-com
+            joined: '2017-07-01'
           - item:
             name: Goldman Sachs & Co. LLC
             homepage_url: https://goldmansachs.com/
@@ -372,6 +381,7 @@ landscape:
             logo: legit_security.svg
             twitter: https://twitter.com/LegitSecurity1
             crunchbase: https://www.crunchbase.com/organization/legit-security
+            joined: '2022-07-01'
           - item:
             name: Lockheed Martin
             homepage_url: https://lmco.com/
@@ -395,12 +405,14 @@ landscape:
             homepage_url: https://nutanix.com/
             logo: nutanix_inc.svg
             crunchbase: https://www.crunchbase.com/organization/nutanix
+            joined: '2018-08-01'
           - item:
             name: Privado
             homepage_url: https://privado.ai/
             logo: privado.svg
             twitter: https://twitter.com/PrivadoHQ
             crunchbase: https://www.crunchbase.com/organization/privado
+            joined: '2022-12-01'
           - item:
             name: Renesas Electronics Corporation
             homepage_url: https://renesas.com/
@@ -448,12 +460,14 @@ landscape:
             logo: she_bash.svg
             twitter: https://twitter.com/SHEBASHIO
             crunchbase: https://www.crunchbase.com/organization/she-bash-llc
+            joined: '2023-02-01'
           - item:
             name: Shopify Inc.
             homepage_url: https://shopify.com/
             logo: shopify_inc.svg
             twitter: https://twitter.com/Shopify
             crunchbase: https://www.crunchbase.com/organization/shopify
+            joined: '2017-12-01'
           - item:
             name: Slim.AI
             homepage_url: https://slim.ai/
@@ -466,6 +480,7 @@ landscape:
             logo: snyk_limited.svg
             twitter: https://twitter.com/snyksec
             crunchbase: https://www.crunchbase.com/organization/snyk
+            joined: '2019-08-01'
           - item:
             name: Socket
             homepage_url: https://socket.dev/
@@ -485,12 +500,14 @@ landscape:
             logo: spotify_ab.svg
             twitter: https://twitter.com/Spotify
             crunchbase: https://www.crunchbase.com/organization/spotify
+            joined: '2018-03-01'
           - item:
             name: StackHawk
             homepage_url: https://stackhawk.com/
             logo: stackhawk.svg
             twitter: https://twitter.com/StackHawk
             crunchbase: https://www.crunchbase.com/organization/stackhawk
+            joined: '2020-08-01'
           - item:
             name: Stacklok
             homepage_url: https://stacklok.com/
@@ -502,6 +519,7 @@ landscape:
             homepage_url: https://suse.com/
             logo: suse_llc.svg
             crunchbase: https://www.crunchbase.com/organization/suse
+            joined: '2017-04-01'
           - item:
             name: Suzuki Motor Corporation
             homepage_url: https://suzuki.com/
@@ -512,6 +530,7 @@ landscape:
             homepage_url: https://sysdig.com/
             logo: sysdig_inc.svg
             crunchbase: https://www.crunchbase.com/organization/sysdig
+            joined: '2015-11-01'
           - item:
             name: Technology Innovation Institute
             homepage_url: https://tii.ae/
@@ -523,6 +542,7 @@ landscape:
             homepage_url: https://tenable.com/
             logo: tenable_inc.svg
             crunchbase: https://www.crunchbase.com/organization/tenable-network-security
+            joined: '2022-04-01'
           - item:
             name: Tencent Holdings Limited
             homepage_url: https://tencent.com/
