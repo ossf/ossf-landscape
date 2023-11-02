@@ -309,6 +309,12 @@ landscape:
             organization:
               name: Endor Labs
           - item:
+            name: Ensignia
+            homepage_url: https://ensignia.co/
+            logo: ensignia.svg
+            organization:
+              name: Ensignia
+          - item:
             name: F5, Inc.
             homepage_url: https://f5.com/
             logo: f5_inc.svg
