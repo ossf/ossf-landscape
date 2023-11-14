@@ -1108,6 +1108,16 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/python-software-foundation
             extra:
               how_to_verify_url: https://github.com/urllib3/urllib3/releases/tag/1.26.10
+          - item:
+            name: updatecli
+            homepage_url: https://www.updatecli.io/
+            repo_url: https://github.com/updatecli/updatecli
+            logo: updatecli.svg
+            twitter: https://twitter.com/updatecliio
+            organization:
+              name: updatecli
+            extra:
+              how_to_verify_url: https://www.updatecli.io/docs/prologue/introduction/
       - subcategory:
         name: Case Studies
         items:
