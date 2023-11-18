@@ -249,9 +249,9 @@ landscape:
             twitter: https://twitter.com/Xfinity
             crunchbase: https://www.crunchbase.com/organization/comcast
           - item:
-            name: ControlPlane.io
+            name: Control-Plane.io
             homepage_url: https://control-plane.io/
-            logo: controlplaneio.svg
+            logo: control-planeio.svg
             crunchbase: https://www.crunchbase.com/organization/controlplane
             joined: '2019-02-01'
           - item:
