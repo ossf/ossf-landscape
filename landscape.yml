@@ -20,6 +20,12 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/apple
             joined: '2019-05-01'
           - item:
+            name: Atlassian US, Inc
+            homepage_url: https://atlassian.com/
+            logo: atlassian_us_inc.svg
+            twitter: https://twitter.com/Atlassian
+            crunchbase: https://www.crunchbase.com/organization/atlassian
+          - item:
             name: Capital One Services LLC
             homepage_url: https://capitalone.com/
             logo: capital_one_services_llc.svg
