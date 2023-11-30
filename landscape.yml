@@ -111,9 +111,9 @@ landscape:
             twitter: https://twitter.com/sonatype
             crunchbase: https://www.crunchbase.com/organization/sonatype
           - item:
-            name: VMware, Inc.
+            name: VMware LLC
             homepage_url: https://vmware.com/
-            logo: vmware_inc.svg
+            logo: vmware_llc.svg
             crunchbase: https://www.crunchbase.com/organization/vmware
             joined: '2016-01-01'
           - item:
