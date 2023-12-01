@@ -11,14 +11,14 @@ landscape:
             logo: amazon_web_services_inc.svg
             twitter: https://twitter.com/amazon
             crunchbase: https://www.crunchbase.com/organization/amazon-web-services
-            joined: '2017-08-01'
+            joined: "2017-08-01"
           - item:
             name: Apple Inc.
             homepage_url: https://apple.com/
             logo: apple_inc.svg
             twitter: https://twitter.com/AppleSupport
             crunchbase: https://www.crunchbase.com/organization/apple
-            joined: '2019-05-01'
+            joined: "2019-05-01"
           - item:
             name: Atlassian US, Inc
             homepage_url: https://atlassian.com/
@@ -41,19 +41,19 @@ landscape:
             homepage_url: https://citi.com/
             logo: citi.svg
             crunchbase: https://www.crunchbase.com/organization/citigroup
-            joined: '2021-01-25'
+            joined: "2021-01-25"
           - item:
             name: Dell Technologies
             homepage_url: https://delltechnologies.com/
             logo: dell_technologies.svg
             crunchbase: https://www.crunchbase.com/organization/dell
-            joined: '2017-01-01'
+            joined: "2017-01-01"
           - item:
             name: Ericsson
             homepage_url: https://ericsson.com/
             logo: ericsson.svg
             crunchbase: https://www.crunchbase.com/organization/ericsson
-            joined: '2018-12-01'
+            joined: "2018-12-01"
           - item:
             name: GitHub, Inc.
             homepage_url: https://github.com/
@@ -85,7 +85,7 @@ landscape:
             homepage_url: https://jpmorganchase.com/
             logo: jpmorgan_chase.svg
             crunchbase: https://www.crunchbase.com/organization/jpmorgan-chase-co
-            joined: '2018-08-01'
+            joined: "2018-08-01"
           - item:
             name: Microsoft Corporation
             homepage_url: https://microsoft.com/
@@ -96,14 +96,19 @@ landscape:
             homepage_url: https://morganstanley.com/
             logo: morgan_stanley.svg
             crunchbase: https://www.crunchbase.com/organization/morgan-stanley
-            joined: '2017-06-01'
+            joined: "2017-06-01"
+          - item:
+            name: Oracle America Inc.
+            homepage_url: https://oracle.com/
+            logo: oracle_america_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/oracle
           - item:
             name: Red Hat, Inc.
             homepage_url: https://redhat.com/
             logo: red_hat_inc.svg
             twitter: https://twitter.com/RedHat
             crunchbase: https://www.crunchbase.com/organization/red-hat
-            joined: '2016-01-01'
+            joined: "2016-01-01"
           - item:
             name: Sonatype, Inc.
             homepage_url: https://sonatype.com/
@@ -115,7 +120,7 @@ landscape:
             homepage_url: https://vmware.com/
             logo: vmware_llc.svg
             crunchbase: https://www.crunchbase.com/organization/vmware
-            joined: '2016-01-01'
+            joined: "2016-01-01"
           - item:
             name: Wipro Limited
             homepage_url: https://wipro.com/
@@ -130,7 +135,7 @@ landscape:
             logo: accuknox.svg
             twitter: https://twitter.com/AccuKnox
             crunchbase: https://www.crunchbase.com/organization/accuknox
-            joined: '2021-05-01'
+            joined: "2021-05-01"
           - item:
             name: Airbyte
             homepage_url: https://airbyte.io/
@@ -143,7 +148,7 @@ landscape:
             homepage_url: https://aiven.io/
             logo: aiven_inc.svg
             crunchbase: https://www.crunchbase.com/organization/aiven
-            joined: '2019-06-01'
+            joined: "2019-06-01"
           - item:
             name: Akamai Technologies, Inc.
             homepage_url: https://akamai.com/
@@ -161,7 +166,7 @@ landscape:
             logo: amesto_fortytwo.svg
             twitter: https://twitter.com/AmestoFortytwo
             crunchbase: https://www.crunchbase.com/organization/amesto-fortytwo
-            joined: '2023-03-01'
+            joined: "2023-03-01"
           - item:
             name: Anaconda, Inc
             homepage_url: https://anaconda.com/
@@ -172,27 +177,27 @@ landscape:
             homepage_url: https://anchore.com/
             logo: anchore_inc.svg
             crunchbase: https://www.crunchbase.com/organization/anchore-inc
-            joined: '2021-07-01'
+            joined: "2021-07-01"
           - item:
             name: Apiiro
             homepage_url: https://apiiro.com/
             logo: apiiro.svg
             twitter: https://twitter.com/ApiiroSecurity
             crunchbase: https://www.crunchbase.com/organization/apiiro-ltd
-            joined: '2021-08-01'
+            joined: "2021-08-01"
           - item:
             name: Arnica
             homepage_url: https://arnica.io/
             logo: arnica.svg
             crunchbase: https://www.crunchbase.com/organization/arnica-io
-            joined: '2023-01-01'
+            joined: "2023-01-01"
           - item:
             name: AuriStor Inc.
             homepage_url: https://auristor.com/
             logo: auristor_inc.svg
             twitter: https://twitter.com/AuriStor
             crunchbase: https://www.crunchbase.com/organization/auristor
-            joined: '2023-11-01'
+            joined: "2023-11-01"
           - item:
             name: Block, Inc.
             homepage_url: https://block.xyz/
@@ -217,7 +222,7 @@ landscape:
             homepage_url: https://chainguard.dev/
             logo: chainguard.svg
             crunchbase: https://www.crunchbase.com/organization/chainguard
-            joined: '2022-06-01'
+            joined: "2022-06-01"
           - item:
             name: Checkmarx
             homepage_url: https://checkmarx.com/
@@ -229,7 +234,7 @@ landscape:
             homepage_url: https://cloudsmith.com/
             logo: cloudsmith_ltd.svg
             crunchbase: https://www.crunchbase.com/organization/cloudsmith-io
-            joined: '2021-08-01'
+            joined: "2021-08-01"
           - item:
             name: Code Intelligence
             homepage_url: https://code-intelligence.com/
@@ -247,7 +252,7 @@ landscape:
             homepage_url: https://coinbase.com/
             logo: coinbase_inc.svg
             crunchbase: https://www.crunchbase.com/organization/coinbase
-            joined: '2022-02-17'
+            joined: "2022-02-17"
           - item:
             name: Comcast Cable Communications, LLC
             homepage_url: https://xfinity.com/
@@ -259,7 +264,7 @@ landscape:
             homepage_url: https://control-plane.io/
             logo: control-planeio.svg
             crunchbase: https://www.crunchbase.com/organization/controlplane
-            joined: '2019-02-01'
+            joined: "2019-02-01"
           - item:
             name: Cybertrust Japan Co., Ltd.
             homepage_url: https://cybertrust.co.jp/
@@ -271,7 +276,7 @@ landscape:
             homepage_url: https://cycode.com/
             logo: cycode_inc.svg
             crunchbase: https://www.crunchbase.com/organization/cycode
-            joined: '2022-04-01'
+            joined: "2022-04-01"
           - item:
             name: DeployHub, Inc.
             homepage_url: https://deployhub.com/
@@ -290,7 +295,7 @@ landscape:
             logo: docker_inc.svg
             twitter: https://twitter.com/Docker
             crunchbase: https://www.crunchbase.com/organization/docker
-            joined: '2016-01-01'
+            joined: "2016-01-01"
           - item:
             name: Endor Labs
             homepage_url: https://endor.ai/
@@ -310,31 +315,31 @@ landscape:
             logo: f5_inc.svg
             twitter: https://twitter.com/F5
             crunchbase: https://www.crunchbase.com/organization/f5-networks
-            joined: '2017-11-01'
+            joined: "2017-11-01"
           - item:
             name: Fidelity Investments
             homepage_url: https://fidelity.com/
             logo: fidelity_investments.svg
             crunchbase: https://www.crunchbase.com/organization/fidelity-investments
-            joined: '2019-08-01'
+            joined: "2019-08-01"
           - item:
             name: FOSSA
             homepage_url: https://fossa.io/
             logo: fossa.svg
             crunchbase: https://www.crunchbase.com/organization/fossa-2
-            joined: '2019-04-01'
+            joined: "2019-04-01"
           - item:
             name: Futurewei Technologies, Inc.
             homepage_url: https://futurewei.com/
             logo: futurewei_technologies_inc.svg
             crunchbase: https://www.crunchbase.com/organization/futurewei-technologies
-            joined: '2020-04-01'
+            joined: "2020-04-01"
           - item:
             name: GitLab Inc.
             homepage_url: https://gitlab.com/
             logo: gitlab_inc.svg
             crunchbase: https://www.crunchbase.com/organization/gitlab-com
-            joined: '2017-07-01'
+            joined: "2017-07-01"
           - item:
             name: Goldman Sachs & Co. LLC
             homepage_url: https://goldmansachs.com/
@@ -353,19 +358,19 @@ landscape:
             logo: hitachi_ltd.svg
             twitter: https://twitter.com/Hitachi
             crunchbase: https://www.crunchbase.com/organization/hitachi
-            joined: '2023-03-01'
+            joined: "2023-03-01"
           - item:
             name: JFrog, Inc
             homepage_url: https://jfrog.com/
             logo: jfrog_inc.svg
             crunchbase: https://www.crunchbase.com/organization/jfrog-ltd
-            joined: '2017-11-01'
+            joined: "2017-11-01"
           - item:
             name: Kasten, Inc.
             homepage_url: https://kasten.io/
             logo: kasten_inc.svg
             crunchbase: https://www.crunchbase.com/organization/kasten
-            joined: '2017-07-01'
+            joined: "2017-07-01"
           - item:
             name: Kusari Inc
             homepage_url: https://kusari.dev/
@@ -378,13 +383,13 @@ landscape:
             logo: legit_security.svg
             twitter: https://twitter.com/LegitSecurity1
             crunchbase: https://www.crunchbase.com/organization/legit-security
-            joined: '2022-07-01'
+            joined: "2022-07-01"
           - item:
             name: Lockheed Martin
             homepage_url: https://lmco.com/
             logo: lockheed_martin.svg
             crunchbase: https://www.crunchbase.com/organization/lockheed-martin
-            joined: '2022-02-14'
+            joined: "2022-02-14"
           - item:
             name: Mend.io
             homepage_url: https://mend.io/
@@ -396,14 +401,20 @@ landscape:
             homepage_url: https://nutanix.com/
             logo: nutanix_inc.svg
             crunchbase: https://www.crunchbase.com/organization/nutanix
-            joined: '2018-08-01'
+            joined: "2018-08-01"
+          - item:
+            name: Patchstack
+            homepage_url: https://patchstack.com/
+            logo: patchstack.svg
+            crunchbase: https://www.crunchbase.com/organization/webarx
+            joined: "2023-11-15"
           - item:
             name: Privado
             homepage_url: https://privado.ai/
             logo: privado.svg
             twitter: https://twitter.com/PrivadoHQ
             crunchbase: https://www.crunchbase.com/organization/privado
-            joined: '2022-12-01'
+            joined: "2022-12-01"
           - item:
             name: Renesas Electronics Corporation
             homepage_url: https://renesas.com/
@@ -426,7 +437,7 @@ landscape:
             logo: sap.svg
             twitter: https://twitter.com/sapcp
             crunchbase: https://www.crunchbase.com/organization/sap
-            joined: '2017-10-01'
+            joined: "2017-10-01"
           - item:
             name: Scantist Pte. Ltd.
             homepage_url: https://scantist.com/
@@ -451,14 +462,14 @@ landscape:
             logo: she_bash.svg
             twitter: https://twitter.com/SHEBASHIO
             crunchbase: https://www.crunchbase.com/organization/she-bash-llc
-            joined: '2023-02-01'
+            joined: "2023-02-01"
           - item:
             name: Shopify Inc.
             homepage_url: https://shopify.com/
             logo: shopify_inc.svg
             twitter: https://twitter.com/Shopify
             crunchbase: https://www.crunchbase.com/organization/shopify
-            joined: '2017-12-01'
+            joined: "2017-12-01"
           - item:
             name: Slim.AI
             homepage_url: https://slim.ai/
@@ -471,7 +482,7 @@ landscape:
             logo: snyk_limited.svg
             twitter: https://twitter.com/snyksec
             crunchbase: https://www.crunchbase.com/organization/snyk
-            joined: '2019-08-01'
+            joined: "2019-08-01"
           - item:
             name: Socket
             homepage_url: https://socket.dev/
@@ -491,14 +502,14 @@ landscape:
             logo: spotify_ab.svg
             twitter: https://twitter.com/Spotify
             crunchbase: https://www.crunchbase.com/organization/spotify
-            joined: '2018-03-01'
+            joined: "2018-03-01"
           - item:
             name: StackHawk
             homepage_url: https://stackhawk.com/
             logo: stackhawk.svg
             twitter: https://twitter.com/StackHawk
             crunchbase: https://www.crunchbase.com/organization/stackhawk
-            joined: '2020-08-01'
+            joined: "2020-08-01"
           - item:
             name: Stacklok
             homepage_url: https://stacklok.com/
@@ -510,7 +521,7 @@ landscape:
             homepage_url: https://suse.com/
             logo: suse_llc.svg
             crunchbase: https://www.crunchbase.com/organization/suse
-            joined: '2017-04-01'
+            joined: "2017-04-01"
           - item:
             name: Suzuki Motor Corporation
             homepage_url: https://suzuki.com/
@@ -521,7 +532,7 @@ landscape:
             homepage_url: https://sysdig.com/
             logo: sysdig_inc.svg
             crunchbase: https://www.crunchbase.com/organization/sysdig
-            joined: '2015-11-01'
+            joined: "2015-11-01"
           - item:
             name: Technology Innovation Institute
             homepage_url: https://tii.ae/
@@ -533,13 +544,20 @@ landscape:
             homepage_url: https://tenable.com/
             logo: tenable_inc.svg
             crunchbase: https://www.crunchbase.com/organization/tenable-network-security
-            joined: '2022-04-01'
+            joined: "2022-04-01"
           - item:
             name: Tencent Holdings Limited
             homepage_url: https://tencent.com/
             logo: tencent_holdings_limited.svg
             twitter: https://twitter.com/TencentGlobal
             crunchbase: https://www.crunchbase.com/organization/tencent
+          - item:
+            name: TestifySec
+            homepage_url: https://www.testifysec.com/
+            logo: testifysec.svg
+            twitter: https://twitter.com/testifysec
+            crunchbase: https://www.crunchbase.com/organization/testifysec
+            joined: "2023-11-15"
           - item:
             name: Tidelift, Inc.
             homepage_url: https://tidelift.com/
@@ -605,6 +623,12 @@ landscape:
             logo: institute_of_software_chinese_academy_of_sciences.svg
             crunchbase: https://www.crunchbase.com/organization/institute-of-software-chinese-academy-of-sciences
           - item:
+            name: ISC2
+            homepage_url: https://www.isc2.org/
+            logo: ISC2.svg
+            crunchbase: https://www.crunchbase.com/organization/-isc-2
+            joined: "2023-11-15"
+          - item:
             name: Laboratory for Innovation Science at Harvard
             homepage_url: https://lish.harvard.edu/
             logo: laboratory_for_innovation_science_at_harvard.svg
@@ -614,7 +638,7 @@ landscape:
             homepage_url: https://mitre.org/
             logo: mitre.svg
             crunchbase: https://www.crunchbase.com/organization/mitre
-            joined: '2021-03-02'
+            joined: "2021-03-02"
           - item:
             name: Nanyang Technological University
             homepage_url: https://ntu.edu.sg/
