@@ -392,12 +392,6 @@ landscape:
             twitter: https://twitter.com/Mend_io
             crunchbase: https://www.crunchbase.com/organization/white-source
           - item:
-            name: NCC Group
-            homepage_url: https://nccgroup.trust/
-            logo: ncc_group.svg
-            twitter: https://twitter.com/NCCGroupplc
-            crunchbase: https://www.crunchbase.com/organization/ncc-group
-          - item:
             name: Nutanix, Inc.
             homepage_url: https://nutanix.com/
             logo: nutanix_inc.svg
