@@ -111,7 +111,8 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/sonatype
           - item:
             name: VMware LLC
-            homepage_url: https://vmware.com/
+            homep
+            age_url: https://vmware.com/
             logo: vmware_llc.svg
             crunchbase: https://www.crunchbase.com/organization/vmware
             joined: "2016-01-01"
