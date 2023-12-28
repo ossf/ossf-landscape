@@ -1055,13 +1055,13 @@ landscape:
             extra:
               how_to_verify_url: https://github.com/build-trust/ockam/releases/tag/ockam_v0.76.0
           - item:
-            name: OpenTF
-            homepage_url: https://opentf.org/
-            repo_url: https://github.com/opentffoundation/opentf
-            logo: opentf.svg
-            twitter: https://twitter.com/opentf
+            name: OpenTofu
+            homepage_url: https://opentofu.org
+            repo_url: https://github.com/opentofu/opentofu
+            logo: opentofu.svg
+            twitter: https://twitter.com/OpenTofuOrg
             organization:
-              name: OpenTF
+              name: OpenTofu
           - item:
             name: Pulumi
             homepage_url: https://www.pulumi.com/
