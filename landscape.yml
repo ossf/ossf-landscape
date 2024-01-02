@@ -104,28 +104,9 @@ landscape:
             logo: sonatype_inc.svg
             twitter: https://twitter.com/sonatype
             crunchbase: https://www.crunchbase.com/organization/sonatype
-          - item:
-            name: VMware LLC
-            homepage_url: https://vmware.com/
-            logo: vmware_llc.svg
-            twitter: https://twitter.com/VMware
-            crunchbase: https://www.crunchbase.com/organization/vmware
-            joined: '2016-01-01'
-          - item:
-            name: Wipro Limited
-            homepage_url: https://wipro.com/
-            logo: wipro_limited.svg
-            crunchbase: https://www.crunchbase.com/organization/wipro
       - subcategory:
         name: General
         items:
-          - item:
-            name: Accuknox
-            homepage_url: https://accuknox.com/
-            logo: accuknox.svg
-            twitter: https://twitter.com/AccuKnox
-            crunchbase: https://www.crunchbase.com/organization/accuknox
-            joined: '2021-05-01'
           - item:
             name: Airbyte
             homepage_url: https://airbyte.io/
@@ -175,18 +156,6 @@ landscape:
             twitter: https://twitter.com/ApiiroSecurity
             crunchbase: https://www.crunchbase.com/organization/apiiro-ltd
             joined: '2021-08-01'
-          - item:
-            name: Arnica
-            homepage_url: https://arnica.io/
-            logo: arnica.svg
-            crunchbase: https://www.crunchbase.com/organization/arnica-io
-            joined: '2023-01-01'
-          - item:
-            name: Atlassian US, Inc
-            homepage_url: https://atlassian.com/
-            logo: atlassian_us_inc.svg
-            twitter: https://twitter.com/Atlassian
-            crunchbase: https://www.crunchbase.com/organization/atlassian
           - item:
             name: AuriStor Inc.
             homepage_url: https://auristor.com/
@@ -399,17 +368,6 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/nutanix
             joined: '2018-08-01'
           - item:
-            name: Renesas Electronics Corporation
-            homepage_url: https://renesas.com/
-            logo: renesas_electronics_corporation.svg
-            crunchbase: https://www.crunchbase.com/organization/renesas-electronics-corporation
-          - item:
-            name: ReversingLabs
-            homepage_url: https://reversinglabs.com/
-            logo: reversinglabs.svg
-            twitter: https://twitter.com/ReversingLabs
-            crunchbase: https://www.crunchbase.com/organization/reversinglabs
-          - item:
             name: Salesforce.com, Inc.
             homepage_url: https://salesforce.com/
             logo: salesforcecom_inc.svg
@@ -420,12 +378,6 @@ landscape:
             logo: sap.svg
             crunchbase: https://www.crunchbase.com/organization/sap
             joined: '2017-10-01'
-          - item:
-            name: Scantist Pte. Ltd.
-            homepage_url: https://scantist.com/
-            logo: scantist_pte_ltd.svg
-            twitter: https://twitter.com/ScantistSG
-            crunchbase: https://www.crunchbase.com/organization/scantist
           - item:
             name: Scotiabank
             homepage_url: https://scotiabank.com/
@@ -486,13 +438,6 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/spotify
             joined: '2018-03-01'
           - item:
-            name: StackHawk
-            homepage_url: https://stackhawk.com/
-            logo: stackhawk.svg
-            twitter: https://twitter.com/StackHawk
-            crunchbase: https://www.crunchbase.com/organization/stackhawk
-            joined: '2020-08-01'
-          - item:
             name: Stacklok
             homepage_url: https://stacklok.com/
             logo: stacklok.svg
@@ -527,12 +472,6 @@ landscape:
             logo: tenable_inc.svg
             crunchbase: https://www.crunchbase.com/organization/tenable-network-security
             joined: '2022-04-01'
-          - item:
-            name: Tencent Holdings Limited
-            homepage_url: https://tencent.com/
-            logo: tencent_holdings_limited.svg
-            twitter: https://twitter.com/TencentGlobal
-            crunchbase: https://www.crunchbase.com/organization/tencent
           - item:
             name: TestifySec
             homepage_url: https://testifysec.com/
@@ -571,11 +510,6 @@ landscape:
             homepage_url: https://xilinx.com/
             logo: xilinx_inc.svg
             crunchbase: https://www.crunchbase.com/organization/xilinx
-          - item:
-            name: ZTE Corporation
-            homepage_url: https://zte.com.cn/
-            logo: zte_corporation.svg
-            crunchbase: https://www.crunchbase.com/organization/zte-corporation
       - subcategory:
         name: Associate
         items:
