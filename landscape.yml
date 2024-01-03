@@ -157,6 +157,12 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/apiiro-ltd
             joined: '2021-08-01'
           - item:
+            name: Atlassian US, Inc
+            homepage_url: https://atlassian.com/
+            logo: atlassian_us_inc.svg
+            twitter: https://twitter.com/Atlassian
+            crunchbase: https://www.crunchbase.com/organization/atlassian
+          - item:
             name: AuriStor Inc.
             homepage_url: https://auristor.com/
             logo: auristor_inc.svg
@@ -510,6 +516,11 @@ landscape:
             homepage_url: https://xilinx.com/
             logo: xilinx_inc.svg
             crunchbase: https://www.crunchbase.com/organization/xilinx
+          - item:
+            name: ZTE Corporation
+            homepage_url: https://zte.com.cn/
+            logo: zte_corporation.svg
+            crunchbase: https://www.crunchbase.com/organization/zte-corporation
       - subcategory:
         name: Associate
         items:
