@@ -250,6 +250,13 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/cycode
             joined: '2022-04-01'
           - item:
+            name: Defense Unicorns
+            homepage_url: https://defenseunicorns.com/
+            logo: defense_unicorns.svg
+            twitter: https://twitter.com/DefenseUnicorns
+            crunchbase: https://www.crunchbase.com/organization/defense-unicorns
+            joined: '2023-01-01'
+          - item:
             name: DeployHub, Inc.
             homepage_url: https://deployhub.com/
             logo: deployhub_inc.svg
@@ -550,6 +557,12 @@ landscape:
             project: null
             logo: institute_of_software_chinese_academy_of_sciences.svg
             crunchbase: https://www.crunchbase.com/organization/institute-of-software-chinese-academy-of-sciences
+          - item:
+            name: International Information System Security Certification Consortium Inc
+            homepage_url: https://isc2.org/
+            logo: international_information_system_security_certification_consortium_inc.svg
+            organization:
+              name: International Information System Security Certification Consortium Inc
           - item:
             name: Laboratory for Innovation Science at Harvard
             homepage_url: https://lish.harvard.edu/
