@@ -381,12 +381,6 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/nutanix
             joined: '2018-08-01'
           - item:
-            name: ReversingLabs
-            homepage_url: https://reversinglabs.com/
-            logo: reversinglabs.svg
-            twitter: https://twitter.com/ReversingLabs
-            crunchbase: https://www.crunchbase.com/organization/reversinglabs
-          - item:
             name: Salesforce.com, Inc.
             homepage_url: https://salesforce.com/
             logo: salesforcecom_inc.svg
