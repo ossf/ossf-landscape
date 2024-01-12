@@ -214,11 +214,6 @@ landscape:
             organization:
               name: Code Intelligence
           - item:
-            name: Codethink
-            homepage_url: https://codethink.co.uk/
-            logo: codethink.svg
-            crunchbase: https://www.crunchbase.com/organization/codethink
-          - item:
             name: Coinbase Inc.
             homepage_url: https://coinbase.com/
             logo: coinbase_inc.svg
@@ -519,6 +514,13 @@ landscape:
             logo: vicone_inc.svg
             twitter: https://twitter.com/VicOneAuto
             crunchbase: https://www.crunchbase.com/organization/vicone
+          - item:
+            name: VMware LLC
+            homepage_url: https://vmware.com/
+            logo: vmware_llc.svg
+            twitter: https://twitter.com/VMware
+            crunchbase: https://www.crunchbase.com/organization/vmware
+            joined: '2016-01-01'
           - item:
             name: Wind River Systems, Inc.
             homepage_url: https://windriver.com/
