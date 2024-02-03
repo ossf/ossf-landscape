@@ -239,12 +239,6 @@ landscape:
             twitter: https://twitter.com/Cybertrust_JP
             crunchbase: https://www.crunchbase.com/organization/cybertrust
           - item:
-            name: Cycode, Inc.
-            homepage_url: https://cycode.com/
-            logo: cycode_inc.svg
-            crunchbase: https://www.crunchbase.com/organization/cycode
-            joined: '2022-04-01'
-          - item:
             name: Defense Unicorns
             homepage_url: https://defenseunicorns.com/
             logo: defense_unicorns.svg
@@ -498,11 +492,6 @@ landscape:
             homepage_url: https://tidelift.com/
             logo: tidelift_inc.svg
             crunchbase: https://www.crunchbase.com/organization/tidelift
-          - item:
-            name: Timesys Corporation
-            homepage_url: https://timesys.com/
-            logo: timesys_corporation.svg
-            crunchbase: https://www.crunchbase.com/organization/timesys-corporation
           - item:
             name: Trail of Bits
             homepage_url: https://trailofbits.com/
