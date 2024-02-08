@@ -195,12 +195,6 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/chainguard
             joined: '2022-06-01'
           - item:
-            name: Checkmarx
-            homepage_url: https://checkmarx.com/
-            logo: checkmarx.svg
-            twitter: https://twitter.com/Checkmarx
-            crunchbase: https://www.crunchbase.com/organization/checkmarx
-          - item:
             name: Cloudsmith Ltd
             homepage_url: https://cloudsmith.com/
             logo: cloudsmith_ltd.svg
@@ -238,12 +232,6 @@ landscape:
             logo: cybertrust_japan_co_ltd.svg
             twitter: https://twitter.com/Cybertrust_JP
             crunchbase: https://www.crunchbase.com/organization/cybertrust
-          - item:
-            name: Cycode, Inc.
-            homepage_url: https://cycode.com/
-            logo: cycode_inc.svg
-            crunchbase: https://www.crunchbase.com/organization/cycode
-            joined: '2022-04-01'
           - item:
             name: Defense Unicorns
             homepage_url: https://defenseunicorns.com/
@@ -310,7 +298,7 @@ landscape:
             joined: '2020-04-01'
           - item:
             name: GitLab Inc.
-            homepage_url: https://gitlab.com/
+            homepage_url: https://about.gitlab.com/
             logo: gitlab_inc.svg
             crunchbase: https://www.crunchbase.com/organization/gitlab-com
             joined: '2017-07-01'
@@ -326,6 +314,12 @@ landscape:
             logo: hackerone.svg
             twitter: https://twitter.com/Hacker0x01
             crunchbase: https://www.crunchbase.com/organization/hackerone
+          - item:
+            name: Hedera Hashgraph LLC
+            homepage_url: https://hedera.com/
+            logo: hedera_hashgraph_llc.svg
+            twitter: https://twitter.com/hedera
+            crunchbase: https://www.crunchbase.com/organization/hedera-finances
           - item:
             name: Hitachi, Ltd.
             homepage_url: https://hitachi.com/
@@ -498,11 +492,6 @@ landscape:
             homepage_url: https://tidelift.com/
             logo: tidelift_inc.svg
             crunchbase: https://www.crunchbase.com/organization/tidelift
-          - item:
-            name: Timesys Corporation
-            homepage_url: https://timesys.com/
-            logo: timesys_corporation.svg
-            crunchbase: https://www.crunchbase.com/organization/timesys-corporation
           - item:
             name: Trail of Bits
             homepage_url: https://trailofbits.com/
