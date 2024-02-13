@@ -310,7 +310,7 @@ landscape:
             joined: '2020-04-01'
           - item:
             name: GitLab Inc.
-            homepage_url: https://gitlab.com/
+            homepage_url: https://about.gitlab.com/
             logo: gitlab_inc.svg
             crunchbase: https://www.crunchbase.com/organization/gitlab-com
             joined: '2017-07-01'
@@ -326,6 +326,12 @@ landscape:
             logo: hackerone.svg
             twitter: https://twitter.com/Hacker0x01
             crunchbase: https://www.crunchbase.com/organization/hackerone
+          - item:
+            name: Hedera Hashgraph LLC
+            homepage_url: https://hedera.com/
+            logo: hedera_hashgraph_llc.svg
+            twitter: https://twitter.com/hedera
+            crunchbase: https://www.crunchbase.com/organization/hedera-finances
           - item:
             name: Hitachi, Ltd.
             homepage_url: https://hitachi.com/
