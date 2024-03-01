@@ -226,11 +226,6 @@ landscape:
             twitter: https://twitter.com/Xfinity
             crunchbase: https://www.crunchbase.com/organization/comcast
           - item:
-            name: Open Source Consensus(Shanghai) Network Technology Co., Ltd
-            homepage_url: http://oschina.net/
-            logo: consensus.svg
-            crunchbase: https://www.crunchbase.com/organization/open-source-china
-          - item:
             name: Control-Plane.io
             homepage_url: https://control-plane.io/
             logo: control-planeio.svg
@@ -248,7 +243,7 @@ landscape:
             homepage_url: http://cybozu.com/
             logo: cybozu.svg
             twitter: https://twitter.com/cybozucom
-            crunchbase: https://crunchbase.com/organization/cybozu
+            crunchbase: https://www.crunchbase.com/organization/cybozu
           - item:
             name: Cycode, Inc.
             homepage_url: https://cycode.com/
