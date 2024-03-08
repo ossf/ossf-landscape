@@ -405,6 +405,12 @@ landscape:
             twitter: https://twitter.com/ReversingLabs
             crunchbase: https://www.crunchbase.com/organization/reversinglabs
           - item:
+            name: RTX
+            homepage_url: https://rtx.com/
+            logo: rtx.svg
+            twitter: https://twitter.com/RaytheonTech
+            crunchbase: https://www.crunchbase.com/organization/raytheon
+          - item:
             name: Salesforce.com, Inc.
             homepage_url: https://salesforce.com/
             logo: salesforcecom_inc.svg
