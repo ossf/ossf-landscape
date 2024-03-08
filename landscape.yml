@@ -244,12 +244,6 @@ landscape:
             twitter: https://twitter.com/Cybertrust_JP
             crunchbase: https://www.crunchbase.com/organization/cybertrust
           - item:
-            name: Cybozu, Inc.
-            homepage_url: http://cybozu.com/
-            logo: cybozu.svg
-            twitter: https://twitter.com/cybozucom
-            crunchbase: https://www.crunchbase.com/organization/cybozu
-          - item:
             name: Cycode, Inc.
             homepage_url: https://cycode.com/
             logo: cycode_inc.svg
@@ -391,19 +385,19 @@ landscape:
             homepage_url: https://nutanix.com/
             logo: nutanix_inc.svg
             crunchbase: https://www.crunchbase.com/organization/nutanix
-            joined: "2018-08-01"
-          - item:
-            name: Patchstack
-            homepage_url: https://patchstack.com/
-            logo: patchstack.svg
-            crunchbase: https://www.crunchbase.com/organization/webarx
-            joined: "2023-11-15"
+            joined: '2018-08-01'
           - item:
             name: ReversingLabs
             homepage_url: https://reversinglabs.com/
             logo: reversinglabs.svg
             twitter: https://twitter.com/ReversingLabs
             crunchbase: https://www.crunchbase.com/organization/reversinglabs
+          - item:
+            name: RTX
+            homepage_url: https://rtx.com/
+            logo: rtx.svg
+            twitter: https://twitter.com/RaytheonTech
+            crunchbase: https://www.crunchbase.com/organization/raytheon
           - item:
             name: Salesforce.com, Inc.
             homepage_url: https://salesforce.com/
