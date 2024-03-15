@@ -144,12 +144,6 @@ landscape:
             logo: anaconda_inc.svg
             crunchbase: https://www.crunchbase.com/organization/continuum-analytics
           - item:
-            name: Anchore, Inc
-            homepage_url: https://anchore.com/
-            logo: anchore_inc.svg
-            crunchbase: https://www.crunchbase.com/organization/anchore-inc
-            joined: '2021-07-01'
-          - item:
             name: Apiiro
             homepage_url: https://apiiro.com/
             logo: apiiro.svg
