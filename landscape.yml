@@ -385,13 +385,13 @@ landscape:
             homepage_url: https://nutanix.com/
             logo: nutanix_inc.svg
             crunchbase: https://www.crunchbase.com/organization/nutanix
-            joined: "2018-08-01"
+            joined: '2018-08-01'
           - item:
-            name: Patchstack
+            name: Patchstack OÜ
             homepage_url: https://patchstack.com/
-            logo: patchstack.svg
+            logo: patchstack_ou.svg
             crunchbase: https://www.crunchbase.com/organization/webarx
-            joined: "2023-11-15"
+            joined: '2023-11-15'
           - item:
             name: ReversingLabs
             homepage_url: https://reversinglabs.com/
