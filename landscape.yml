@@ -176,6 +176,13 @@ landscape:
             twitter: https://twitter.com/business
             crunchbase: https://www.crunchbase.com/organization/bloomberg
           - item:
+            name: Boeing
+            homepage_url: https://boeing.com/
+            logo: boeing.svg
+            twitter: https://twitter.com/Boeing
+            crunchbase: https://www.crunchbase.com/organization/boeing-7321
+            joined: '2022-04-22'
+          - item:
             name: Boost Security
             homepage_url: https://boostsecurity.io/
             logo: boost_security.svg
@@ -188,6 +195,11 @@ landscape:
             logo: chainguard.svg
             crunchbase: https://www.crunchbase.com/organization/chainguard
             joined: '2022-06-01'
+          - item:
+            name: Chainloop
+            homepage_url: https://chainloop.dev/
+            logo: chainloop.svg
+            crunchbase: https://www.crunchbase.com/organization/chainloop
           - item:
             name: Checkmarx
             homepage_url: https://checkmarx.com/
@@ -479,6 +491,12 @@ landscape:
             homepage_url: https://stacklok.com/
             logo: stacklok.svg
             crunchbase: https://www.crunchbase.com/organization/stacklok
+          - item:
+            name: StepSecurity
+            homepage_url: https://stepsecurity.io/
+            logo: stepsecurity.svg
+            organization:
+              name: StepSecurity
           - item:
             name: SUSE LLC
             homepage_url: https://suse.com/
