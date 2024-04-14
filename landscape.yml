@@ -255,12 +255,6 @@ landscape:
             twitter: https://twitter.com/Cybertrust_JP
             crunchbase: https://www.crunchbase.com/organization/cybertrust
           - item:
-            name: Cybozu, Inc.
-            homepage_url: http://cybozu.com/
-            logo: cybozu.svg
-            twitter: https://twitter.com/cybozucom
-            crunchbase: https://www.crunchbase.com/organization/cybozu
-          - item:
             name: Cycode, Inc.
             homepage_url: https://cycode.com/
             logo: cycode_inc.svg
@@ -409,6 +403,11 @@ landscape:
             logo: patchstack_ou.svg
             crunchbase: https://www.crunchbase.com/organization/webarx
             joined: '2023-11-15'
+          - item:
+            name: Renesas Electronics Corporation
+            homepage_url: https://renesas.com/
+            logo: renesas_electronics_corporation.svg
+            crunchbase: https://www.crunchbase.com/organization/renesas-electronics-corporation
           - item:
             name: ReversingLabs
             homepage_url: https://reversinglabs.com/
