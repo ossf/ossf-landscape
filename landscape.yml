@@ -410,6 +410,11 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/webarx
             joined: '2023-11-15'
           - item:
+            name: Renesas Electronics Corporation
+            homepage_url: https://renesas.com/
+            logo: renesas_electronics_corporation.svg
+            crunchbase: https://www.crunchbase.com/organization/renesas-electronics-corporation
+          - item:
             name: ReversingLabs
             homepage_url: https://reversinglabs.com/
             logo: reversinglabs.svg
