@@ -256,10 +256,11 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/cybertrust
           - item:
             name: Cybozu, Inc.
-            homepage_url: http://cybozu.com/
-            logo: cybozu.svg
-            twitter: https://twitter.com/cybozucom
+            homepage_url: https://cybozu.com/
+            logo: cybozu_inc.svg
+            twitter: https://twitter.com/cybozu
             crunchbase: https://www.crunchbase.com/organization/cybozu
+            joined: '2019-08-01'
           - item:
             name: Cycode, Inc.
             homepage_url: https://cycode.com/
