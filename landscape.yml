@@ -560,6 +560,12 @@ landscape:
             logo: trail_of_bits.svg
             crunchbase: https://www.crunchbase.com/organization/trail-of-bits
           - item:
+            name: Trenchant Limited (trading as G-Research)
+            homepage_url: https://gresearch.co.uk/
+            logo: trenchant_limited_trading_as_g-research.svg
+            twitter: https://twitter.com/GRESEARCHjobs
+            crunchbase: https://www.crunchbase.com/organization/g-research
+          - item:
             name: VicOne Inc.
             homepage_url: https://vicone.com/
             logo: vicone_inc.svg
