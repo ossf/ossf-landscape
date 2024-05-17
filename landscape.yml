@@ -433,9 +433,10 @@ landscape:
             logo: salesforcecom_inc.svg
             crunchbase: https://www.crunchbase.com/organization/salesforce
           - item:
-            name: SAP
+            name: SAP SE
             homepage_url: https://sap.com/
-            logo: sap.svg
+            logo: sap_se.svg
+            twitter: https://twitter.com/SAP
             crunchbase: https://www.crunchbase.com/organization/sap
             joined: '2017-10-01'
           - item:
