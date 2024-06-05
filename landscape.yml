@@ -37,6 +37,12 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/citigroup
             joined: '2021-01-25'
           - item:
+            name: Datadog, Inc
+            homepage_url: https://datadoghq.com/
+            logo: datadog_inc.svg
+            twitter: https://twitter.com/datadoghq
+            crunchbase: https://www.crunchbase.com/organization/datadog
+          - item:
             name: Dell Technologies
             homepage_url: https://delltechnologies.com/
             logo: dell_technologies.svg
