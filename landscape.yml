@@ -143,13 +143,6 @@ landscape:
             twitter: https://twitter.com/AlibabaB2B
             crunchbase: https://www.crunchbase.com/organization/alibaba-cloud
           - item:
-            name: Amesto Fortytwo
-            homepage_url: https://amestofortytwo.com/
-            logo: amesto_fortytwo.svg
-            twitter: https://twitter.com/AmestoFortytwo
-            crunchbase: https://www.crunchbase.com/organization/amesto-fortytwo
-            joined: '2023-03-01'
-          - item:
             name: Anaconda, Inc
             homepage_url: https://anaconda.com/
             logo: anaconda_inc.svg
