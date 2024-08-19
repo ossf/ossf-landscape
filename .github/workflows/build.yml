@@ -60,3 +60,4 @@ jobs:
           title: Member update
           labels: automatedupdate
           commit-message: Member update
+          signoff: true
