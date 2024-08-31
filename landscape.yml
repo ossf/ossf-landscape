@@ -404,6 +404,12 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/webarx
             joined: '2023-11-15'
           - item:
+            name: Protect AI
+            homepage_url: https://www.protectai.com/
+            logo: protect_ai.svg
+            organization:
+              name: Protect AI
+          - item:
             name: Renesas Electronics Corporation
             homepage_url: https://renesas.com/
             logo: renesas_electronics_corporation.svg
@@ -678,6 +684,12 @@ landscape:
             homepage_url: https://python.org/
             logo: python_software_foundation.svg
             crunchbase: https://www.crunchbase.com/organization/python-software-foundation
+          - item:
+            name: Ruby Central, Inc.
+            homepage_url: https://rubycentral.org/
+            logo: ruby_central_inc.svg
+            organization:
+              name: Ruby Central, Inc.
           - item:
             name: Rust Foundation
             homepage_url: https://rustfoundation.org/
