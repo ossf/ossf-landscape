@@ -417,7 +417,7 @@ landscape:
             joined: '2023-11-15'
           - item:
             name: Protect AI
-            homepage_url: https://www.protectai.com/
+            homepage_url: https://protectai.com/
             logo: protect_ai.svg
             organization:
               name: Protect AI
@@ -476,12 +476,6 @@ landscape:
             twitter: https://twitter.com/Shopify
             crunchbase: https://www.crunchbase.com/organization/shopify
             joined: '2017-12-01'
-          - item:
-            name: SIGHUP s.r.l.
-            homepage_url: https://sighup.io/
-            logo: sighup_s_r_l.svg
-            twitter: https://twitter.com/sighup_
-            crunchbase: https://www.crunchbase.com/organization/sighup
           - item:
             name: Slim.AI
             homepage_url: https://slim.ai/
