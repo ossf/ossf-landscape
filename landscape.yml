@@ -8,6 +8,7 @@ landscape:
           - item:
             name: Amazon Web Services, Inc.
             homepage_url: https://amazon.com/
+            project: null
             logo: amazon_web_services_inc.svg
             twitter: https://twitter.com/amazon
             crunchbase: https://www.crunchbase.com/organization/amazon-web-services
@@ -22,84 +23,99 @@ landscape:
           - item:
             name: Capital One Services LLC
             homepage_url: https://capitalone.com/
+            project: null
             logo: capital_one_services_llc.svg
             crunchbase: https://www.crunchbase.com/organization/capital-one
           - item:
             name: Cisco Systems, Inc.
             homepage_url: https://cisco.com/
+            project: null
             logo: cisco_systems_inc.svg
             twitter: https://twitter.com/Cisco
             crunchbase: https://www.crunchbase.com/organization/cisco
           - item:
             name: Citi
             homepage_url: https://citi.com/
+            project: null
             logo: citi.svg
             crunchbase: https://www.crunchbase.com/organization/citigroup
             joined: '2021-01-25'
           - item:
             name: Datadog, Inc
             homepage_url: https://datadoghq.com/
+            project: null
             logo: datadog_inc.svg
             twitter: https://twitter.com/datadoghq
             crunchbase: https://www.crunchbase.com/organization/datadog
           - item:
             name: Dell Technologies
             homepage_url: https://delltechnologies.com/
+            project: null
             logo: dell_technologies.svg
             crunchbase: https://www.crunchbase.com/organization/dell
             joined: '2017-01-01'
           - item:
             name: Ericsson
             homepage_url: https://ericsson.com/
+            project: null
             logo: ericsson.svg
             crunchbase: https://www.crunchbase.com/organization/ericsson
             joined: '2018-12-01'
           - item:
             name: GitHub, Inc.
             homepage_url: https://github.com/
+            project: null
             logo: github_inc.svg
             crunchbase: https://www.crunchbase.com/organization/github
           - item:
             name: Google LLC
             homepage_url: https://google.com/
+            project: null
             logo: google_llc.svg
             twitter: https://twitter.com/Google
             crunchbase: https://www.crunchbase.com/organization/google
           - item:
             name: Huawei Technologies Co., Ltd
             homepage_url: https://huawei.com/
+            project: null
             logo: huawei_technologies_co_ltd.svg
             crunchbase: https://www.crunchbase.com/organization/huawei
           - item:
             name: Intel Corporation
             homepage_url: https://intel.com/
+            project: null
             logo: intel_corporation.svg
             crunchbase: https://www.crunchbase.com/organization/intel
           - item:
             name: International Business Machines Corporation
             homepage_url: https://ibm.com/
+            project: null
             logo: international_business_machines_corporation.svg
             crunchbase: https://www.crunchbase.com/organization/ibm
           - item:
             name: JPMorgan Chase
             homepage_url: https://jpmorganchase.com/
+            project: null
             logo: jpmorgan_chase.svg
             crunchbase: https://www.crunchbase.com/organization/jpmorgan-chase-co
             joined: '2018-08-01'
           - item:
             name: Microsoft Corporation
             homepage_url: https://microsoft.com/
+            project: null
             logo: microsoft_corporation.svg
             crunchbase: https://www.crunchbase.com/organization/microsoft
           - item:
             name: Morgan Stanley
             homepage_url: https://morganstanley.com/
+            project: null
             logo: morgan_stanley.svg
             crunchbase: https://www.crunchbase.com/organization/morgan-stanley
             joined: '2017-06-01'
           - item:
             name: Red Hat, Inc.
             homepage_url: https://redhat.com/
+            project: null
             logo: red_hat_inc.svg
             twitter: https://twitter.com/RedHat
             crunchbase: https://www.crunchbase.com/organization/red-hat
@@ -107,6 +123,7 @@ landscape:
           - item:
             name: Sonatype, Inc.
             homepage_url: https://sonatype.com/
+            project: null
             logo: sonatype_inc.svg
             twitter: https://twitter.com/sonatype
             crunchbase: https://www.crunchbase.com/organization/sonatype
@@ -116,11 +133,13 @@ landscape:
           - item:
             name: Ada Logics
             homepage_url: https://adalogics.com/
+            project: null
             logo: ada_logics.svg
             crunchbase: https://www.crunchbase.com/organization/ada-logics
           - item:
             name: Airbyte
             homepage_url: https://airbyte.io/
+            project: null
             logo: airbyte.svg
             twitter: https://twitter.com/AirbyteHQ
             organization:
@@ -128,28 +147,33 @@ landscape:
           - item:
             name: Aiven Inc
             homepage_url: https://aiven.io/
+            project: null
             logo: aiven_inc.svg
             crunchbase: https://www.crunchbase.com/organization/aiven
             joined: '2019-06-01'
           - item:
             name: Akamai Technologies, Inc.
             homepage_url: https://akamai.com/
+            project: null
             logo: akamai_technologies_inc.svg
             crunchbase: https://www.crunchbase.com/organization/akamai-technologies
           - item:
             name: Alibaba Cloud (Singapore) Private LTD
             homepage_url: https://alibaba-inc.com/
+            project: null
             logo: alibaba_cloud_singapore_private_ltd.svg
             twitter: https://twitter.com/AlibabaB2B
             crunchbase: https://www.crunchbase.com/organization/alibaba-cloud
           - item:
             name: Anaconda, Inc
             homepage_url: https://anaconda.com/
+            project: null
             logo: anaconda_inc.svg
             crunchbase: https://www.crunchbase.com/organization/continuum-analytics
           - item:
             name: Apiiro
             homepage_url: https://apiiro.com/
+            project: null
             logo: apiiro.svg
             twitter: https://twitter.com/ApiiroSecurity
             crunchbase: https://www.crunchbase.com/organization/apiiro-ltd
@@ -157,12 +181,14 @@ landscape:
           - item:
             name: Atlassian US, Inc
             homepage_url: https://atlassian.com/
+            project: null
             logo: atlassian_us_inc.svg
             twitter: https://twitter.com/Atlassian
             crunchbase: https://www.crunchbase.com/organization/atlassian
           - item:
             name: AuriStor Inc.
             homepage_url: https://auristor.com/
+            project: null
             logo: auristor_inc.svg
             twitter: https://twitter.com/AuriStor
             crunchbase: https://www.crunchbase.com/organization/auristor
@@ -170,18 +196,21 @@ landscape:
           - item:
             name: Block, Inc.
             homepage_url: https://block.xyz/
+            project: null
             logo: block_inc.svg
             twitter: https://twitter.com/blocks
             crunchbase: https://www.crunchbase.com/organization/square
           - item:
             name: Bloomberg Finance L.P.
             homepage_url: https://techatbloomberg.com/
+            project: null
             logo: bloomberg_finance_lp.svg
             twitter: https://twitter.com/business
             crunchbase: https://www.crunchbase.com/organization/bloomberg
           - item:
             name: Boeing
             homepage_url: https://boeing.com/
+            project: null
             logo: boeing.svg
             twitter: https://twitter.com/Boeing
             crunchbase: https://www.crunchbase.com/organization/boeing-7321
@@ -189,6 +218,7 @@ landscape:
           - item:
             name: Boost Security
             homepage_url: https://boostsecurity.io/
+            project: null
             logo: boost_security.svg
             twitter: https://twitter.com/boostsecurityio
             organization:
@@ -196,29 +226,34 @@ landscape:
           - item:
             name: Chainguard
             homepage_url: https://chainguard.dev/
+            project: null
             logo: chainguard.svg
             crunchbase: https://www.crunchbase.com/organization/chainguard
             joined: '2022-06-01'
           - item:
             name: Chainloop
             homepage_url: https://chainloop.dev/
+            project: null
             logo: chainloop.svg
             crunchbase: https://www.crunchbase.com/organization/chainloop
           - item:
             name: Checkmarx
             homepage_url: https://checkmarx.com/
+            project: null
             logo: checkmarx.svg
             twitter: https://twitter.com/Checkmarx
             crunchbase: https://www.crunchbase.com/organization/checkmarx
           - item:
             name: Cloudsmith Ltd
             homepage_url: https://cloudsmith.com/
+            project: null
             logo: cloudsmith_ltd.svg
             crunchbase: https://www.crunchbase.com/organization/cloudsmith-io
             joined: '2021-08-01'
           - item:
             name: Code Intelligence
             homepage_url: https://code-intelligence.com/
+            project: null
             logo: code_intelligence.svg
             twitter: https://twitter.com/CI_Fuzz
             organization:
@@ -226,17 +261,20 @@ landscape:
           - item:
             name: Codethink
             homepage_url: https://codethink.co.uk/
+            project: null
             logo: codethink.svg
             crunchbase: https://www.crunchbase.com/organization/codethink
           - item:
             name: Comcast Cable Communications, LLC
             homepage_url: https://xfinity.com/
+            project: null
             logo: comcast_cable_communications_llc.svg
             twitter: https://twitter.com/Xfinity
             crunchbase: https://www.crunchbase.com/organization/comcast
           - item:
             name: Control-Plane.io
             homepage_url: https://control-plane.io/
+            project: null
             logo: control-planeio.svg
             twitter: https://twitter.com/controlplaneio
             crunchbase: https://www.crunchbase.com/organization/controlplane
@@ -244,12 +282,14 @@ landscape:
           - item:
             name: Cybertrust Japan Co., Ltd.
             homepage_url: https://cybertrust.co.jp/
+            project: null
             logo: cybertrust_japan_co_ltd.svg
             twitter: https://twitter.com/Cybertrust_JP
             crunchbase: https://www.crunchbase.com/organization/cybertrust
           - item:
             name: Cybozu, Inc.
             homepage_url: https://cybozu.com/
+            project: null
             logo: cybozu_inc.svg
             twitter: https://twitter.com/cybozu
             crunchbase: https://www.crunchbase.com/organization/cybozu
@@ -257,12 +297,14 @@ landscape:
           - item:
             name: Cycode, Inc.
             homepage_url: https://cycode.com/
+            project: null
             logo: cycode_inc.svg
             crunchbase: https://www.crunchbase.com/organization/cycode
             joined: '2022-04-01'
           - item:
             name: Defense Unicorns
             homepage_url: https://defenseunicorns.com/
+            project: null
             logo: defense_unicorns.svg
             twitter: https://twitter.com/DefenseUnicorns
             crunchbase: https://www.crunchbase.com/organization/defense-unicorns
@@ -270,18 +312,21 @@ landscape:
           - item:
             name: DeployHub, Inc.
             homepage_url: https://deployhub.com/
+            project: null
             logo: deployhub_inc.svg
             twitter: https://twitter.com/DeployHubProj
             crunchbase: https://www.crunchbase.com/organization/deployhub
           - item:
             name: Depository Trust and Clearing Corporation (DTCC)
             homepage_url: https://dtcc.com/
+            project: null
             logo: depository_trust_and_clearing_corporation_dtcc.svg
             twitter: https://twitter.com/The_DTCC
             crunchbase: https://www.crunchbase.com/organization/dtcc
           - item:
             name: Docker, Inc.
             homepage_url: https://docker.com/
+            project: null
             logo: docker_inc.svg
             twitter: https://twitter.com/Docker
             crunchbase: https://www.crunchbase.com/organization/docker
@@ -289,6 +334,7 @@ landscape:
           - item:
             name: Endor Labs
             homepage_url: https://endor.ai/
+            project: null
             logo: endor_labs.svg
             twitter: https://twitter.com/EndorLabs
             organization:
@@ -296,12 +342,14 @@ landscape:
           - item:
             name: Ensignia
             homepage_url: https://ensignia.co/
+            project: null
             logo: ensignia.svg
             organization:
               name: Ensignia
           - item:
             name: F5, Inc.
             homepage_url: https://f5.com/
+            project: null
             logo: f5_inc.svg
             twitter: https://twitter.com/F5
             crunchbase: https://www.crunchbase.com/organization/f5-networks
@@ -309,84 +357,98 @@ landscape:
           - item:
             name: Fidelity Investments
             homepage_url: https://fidelity.com/
+            project: null
             logo: fidelity_investments.svg
             crunchbase: https://www.crunchbase.com/organization/fidelity-investments
             joined: '2019-08-01'
           - item:
             name: FOSSA
             homepage_url: https://fossa.io/
+            project: null
             logo: fossa.svg
             crunchbase: https://www.crunchbase.com/organization/fossa-2
             joined: '2019-04-01'
           - item:
             name: Futurewei Technologies, Inc.
             homepage_url: https://futurewei.com/
+            project: null
             logo: futurewei_technologies_inc.svg
             crunchbase: https://www.crunchbase.com/organization/futurewei-technologies
             joined: '2020-04-01'
           - item:
             name: GitLab Inc.
             homepage_url: https://about.gitlab.com/
+            project: null
             logo: gitlab_inc.svg
             crunchbase: https://www.crunchbase.com/organization/gitlab-com
             joined: '2017-07-01'
           - item:
             name: Goldman Sachs & Co. LLC
             homepage_url: https://goldmansachs.com/
+            project: null
             logo: goldman_sachs__co_llc.svg
             twitter: https://twitter.com/GSCareers
             crunchbase: https://www.crunchbase.com/organization/goldman-sachs
           - item:
             name: HackerOne
             homepage_url: https://hackerone.com/
+            project: null
             logo: hackerone.svg
             twitter: https://twitter.com/Hacker0x01
             crunchbase: https://www.crunchbase.com/organization/hackerone
           - item:
             name: Hedera Hashgraph LLC
             homepage_url: https://hedera.com/
+            project: null
             logo: hedera_hashgraph_llc.svg
             twitter: https://twitter.com/hedera
             crunchbase: https://www.crunchbase.com/organization/hedera-finances
           - item:
             name: herodevs
             homepage_url: https://herodevs.com/
+            project: null
             logo: herodevs.svg
             organization:
               name: herodevs
           - item:
             name: Hitachi, Ltd.
             homepage_url: https://hitachi.com/
+            project: null
             logo: hitachi_ltd.svg
             crunchbase: https://www.crunchbase.com/organization/hitachi
             joined: '2023-03-01'
           - item:
             name: JFrog, Inc
             homepage_url: https://jfrog.com/
+            project: null
             logo: jfrog_inc.svg
             crunchbase: https://www.crunchbase.com/organization/jfrog-ltd
             joined: '2017-11-01'
           - item:
             name: Kasten, Inc.
             homepage_url: https://kasten.io/
+            project: null
             logo: kasten_inc.svg
             crunchbase: https://www.crunchbase.com/organization/kasten
             joined: '2017-07-01'
           - item:
             name: Keyfactor
             homepage_url: https://keyfactor.com/
+            project: null
             logo: keyfactor.svg
             twitter: https://twitter.com/Keyfactor
             crunchbase: https://www.crunchbase.com/organization/certified-security-solutions
           - item:
             name: Kusari Inc
             homepage_url: https://kusari.dev/
+            project: null
             logo: kusari_inc.svg
             twitter: https://twitter.com/kusaridev
             crunchbase: https://www.crunchbase.com/organization/kusari
           - item:
             name: Legit Security
             homepage_url: https://legitsecurity.com/
+            project: null
             logo: legit_security.svg
             twitter: https://twitter.com/LegitSecurity1
             crunchbase: https://www.crunchbase.com/organization/legit-security
@@ -394,41 +456,48 @@ landscape:
           - item:
             name: Lockheed Martin
             homepage_url: https://lmco.com/
+            project: null
             logo: lockheed_martin.svg
             crunchbase: https://www.crunchbase.com/organization/lockheed-martin
             joined: '2022-02-14'
           - item:
             name: Mend.io
             homepage_url: https://mend.io/
+            project: null
             logo: mendio.svg
             twitter: https://twitter.com/Mend_io
             crunchbase: https://www.crunchbase.com/organization/white-source
           - item:
             name: Nutanix, Inc.
             homepage_url: https://nutanix.com/
+            project: null
             logo: nutanix_inc.svg
             crunchbase: https://www.crunchbase.com/organization/nutanix
             joined: '2018-08-01'
           - item:
             name: Patchstack OÜ
             homepage_url: https://patchstack.com/
+            project: null
             logo: patchstack_ou.svg
             crunchbase: https://www.crunchbase.com/organization/webarx
             joined: '2023-11-15'
           - item:
             name: Protect AI
-            homepage_url: https://www.protectai.com/
+            homepage_url: https://protectai.com/
+            project: null
             logo: protect_ai.svg
             organization:
               name: Protect AI
           - item:
             name: Renesas Electronics Corporation
             homepage_url: https://renesas.com/
+            project: null
             logo: renesas_electronics_corporation.svg
             crunchbase: https://www.crunchbase.com/organization/renesas-electronics-corporation
           - item:
             name: ReversingLabs
             homepage_url: https://reversinglabs.com/
+            project: null
             logo: reversinglabs.svg
             twitter: https://twitter.com/ReversingLabs
             crunchbase: https://www.crunchbase.com/organization/reversinglabs
@@ -441,11 +510,13 @@ landscape:
           - item:
             name: Salesforce.com, Inc.
             homepage_url: https://salesforce.com/
+            project: null
             logo: salesforcecom_inc.svg
             crunchbase: https://www.crunchbase.com/organization/salesforce
           - item:
             name: SAP SE
             homepage_url: https://sap.com/
+            project: null
             logo: sap_se.svg
             twitter: https://twitter.com/SAP
             crunchbase: https://www.crunchbase.com/organization/sap
@@ -453,18 +524,21 @@ landscape:
           - item:
             name: Scotiabank
             homepage_url: https://scotiabank.com/
+            project: null
             logo: scotiabank.svg
             twitter: https://twitter.com/ScotiabankHelps
             crunchbase: https://www.crunchbase.com/organization/bank-of-nova-scotia
           - item:
             name: Shanghai Sectrend Information Technology Co.,Ltd
             homepage_url: https://sectrend.com.cn/
+            project: null
             logo: shanghai_sectrend_information_technology_coltd.svg
             organization:
               name: Shanghai Sectrend Information Technology Co.,Ltd
           - item:
             name: SHE BASH
             homepage_url: https://shebash.io/
+            project: null
             logo: she_bash.svg
             twitter: https://twitter.com/SHEBASHIO
             crunchbase: https://www.crunchbase.com/organization/she-bash-llc
@@ -472,25 +546,22 @@ landscape:
           - item:
             name: Shopify Inc.
             homepage_url: https://shopify.com/
+            project: null
             logo: shopify_inc.svg
             twitter: https://twitter.com/Shopify
             crunchbase: https://www.crunchbase.com/organization/shopify
             joined: '2017-12-01'
           - item:
-            name: SIGHUP s.r.l.
-            homepage_url: https://sighup.io/
-            logo: sighup_s_r_l.svg
-            twitter: https://twitter.com/sighup_
-            crunchbase: https://www.crunchbase.com/organization/sighup
-          - item:
             name: Slim.AI
             homepage_url: https://slim.ai/
+            project: null
             logo: slimai.svg
             twitter: https://twitter.com/SlimDevOps
             crunchbase: https://www.crunchbase.com/organization/slim-ai
           - item:
             name: Snyk Limited
             homepage_url: https://snyk.io/
+            project: null
             logo: snyk_limited.svg
             twitter: https://twitter.com/snyksec
             crunchbase: https://www.crunchbase.com/organization/snyk
@@ -498,6 +569,7 @@ landscape:
           - item:
             name: Socket
             homepage_url: https://socket.dev/
+            project: null
             logo: socket.svg
             twitter: https://twitter.com/SocketSecurity
             organization:
@@ -505,12 +577,14 @@ landscape:
           - item:
             name: Sparkfabrik srl
             homepage_url: https://sparkfabrik.com/
+            project: null
             logo: sparkfabrik_srl.svg
             twitter: https://twitter.com/SparkFabrik
             crunchbase: https://www.crunchbase.com/organization/sparkfabrik
           - item:
             name: Spotify AB
             homepage_url: https://spotify.com/
+            project: null
             logo: spotify_ab.svg
             twitter: https://twitter.com/Spotify
             crunchbase: https://www.crunchbase.com/organization/spotify
@@ -518,46 +592,54 @@ landscape:
           - item:
             name: Stacklok
             homepage_url: https://stacklok.com/
+            project: null
             logo: stacklok.svg
             crunchbase: https://www.crunchbase.com/organization/stacklok
           - item:
             name: StepSecurity
             homepage_url: https://stepsecurity.io/
+            project: null
             logo: stepsecurity.svg
             organization:
               name: StepSecurity
           - item:
             name: SUSE LLC
             homepage_url: https://suse.com/
+            project: null
             logo: suse_llc.svg
             crunchbase: https://www.crunchbase.com/organization/suse
             joined: '2017-04-01'
           - item:
             name: Suzuki Motor Corporation
             homepage_url: https://suzuki.com/
+            project: null
             logo: suzuki_motor_corporation.svg
             crunchbase: https://www.crunchbase.com/organization/suzuki-motor-of-america
           - item:
             name: Sysdig, Inc.
             homepage_url: https://sysdig.com/
+            project: null
             logo: sysdig_inc.svg
             crunchbase: https://www.crunchbase.com/organization/sysdig
             joined: '2015-11-01'
           - item:
             name: Technology Innovation Institute
             homepage_url: https://tii.ae/
+            project: null
             logo: technology_innovation_institute.svg
             twitter: https://twitter.com/TIIuae
             crunchbase: https://www.crunchbase.com/organization/technology-innovation-institute
           - item:
             name: Tenable, Inc.
             homepage_url: https://tenable.com/
+            project: null
             logo: tenable_inc.svg
             crunchbase: https://www.crunchbase.com/organization/tenable-network-security
             joined: '2022-04-01'
           - item:
             name: TestifySec
             homepage_url: https://testifysec.com/
+            project: null
             logo: testifysec.svg
             twitter: https://twitter.com/testifysec
             crunchbase: https://www.crunchbase.com/organization/testifysec
@@ -565,27 +647,32 @@ landscape:
           - item:
             name: Tidelift, Inc.
             homepage_url: https://tidelift.com/
+            project: null
             logo: tidelift_inc.svg
             crunchbase: https://www.crunchbase.com/organization/tidelift
           - item:
             name: Timesys Corporation
             homepage_url: https://timesys.com/
+            project: null
             logo: timesys_corporation.svg
             crunchbase: https://www.crunchbase.com/organization/timesys-corporation
           - item:
             name: Trail of Bits
             homepage_url: https://trailofbits.com/
+            project: null
             logo: trail_of_bits.svg
             crunchbase: https://www.crunchbase.com/organization/trail-of-bits
           - item:
             name: Trenchant Limited (trading as G-Research)
             homepage_url: https://gresearch.co.uk/
+            project: null
             logo: trenchant_limited_trading_as_g-research.svg
             twitter: https://twitter.com/GRESEARCHjobs
             crunchbase: https://www.crunchbase.com/organization/g-research
           - item:
             name: VicOne Inc.
             homepage_url: https://vicone.com/
+            project: null
             logo: vicone_inc.svg
             twitter: https://twitter.com/VicOneAuto
             crunchbase: https://www.crunchbase.com/organization/vicone
@@ -599,6 +686,7 @@ landscape:
           - item:
             name: Wind River Systems, Inc.
             homepage_url: https://windriver.com/
+            project: null
             logo: wind_river_systems_inc.svg
             crunchbase: https://www.crunchbase.com/organization/wind-river
           - item:
@@ -609,6 +697,7 @@ landscape:
           - item:
             name: ZTE Corporation
             homepage_url: https://zte.com.cn/
+            project: null
             logo: zte_corporation.svg
             crunchbase: https://www.crunchbase.com/organization/zte-corporation
       - subcategory:
@@ -622,16 +711,19 @@ landscape:
           - item:
             name: China Academy of Information and Communications Technology (CAICT)
             homepage_url: https://caict.ac.cn/
+            project: null
             logo: china_academy_of_information_and_communications_technology_caict.svg
             crunchbase: https://www.crunchbase.com/organization/china-academy-of-information-and-communication-technology
           - item:
             name: Eclipse Foundation AISBL.
             homepage_url: https://eclipse.org/
+            project: null
             logo: eclipse_foundation_aisbl.svg
             crunchbase: https://www.crunchbase.com/organization/eclipse-foundation
           - item:
             name: FS-ISAC
             homepage_url: https://fsisac.com/
+            project: null
             logo: fs-isac.svg
             crunchbase: https://www.crunchbase.com/organization/fs-isac
           - item:
@@ -643,45 +735,53 @@ landscape:
           - item:
             name: International Information System Security Certification Consortium Inc
             homepage_url: https://isc2.org/
+            project: null
             logo: international_information_system_security_certification_consortium_inc.svg
             organization:
               name: International Information System Security Certification Consortium Inc
           - item:
             name: Laboratory for Innovation Science at Harvard
             homepage_url: https://lish.harvard.edu/
+            project: null
             logo: laboratory_for_innovation_science_at_harvard.svg
             crunchbase: https://www.crunchbase.com/organization/harvard-university
           - item:
             name: MITRE
             homepage_url: https://mitre.org/
+            project: null
             logo: mitre.svg
             crunchbase: https://www.crunchbase.com/organization/mitre
             joined: '2021-03-02'
           - item:
             name: Nanyang Technological University
             homepage_url: https://ntu.edu.sg/
+            project: null
             logo: nanyang_technological_university.svg
             crunchbase: https://www.crunchbase.com/organization/nanyang-technological-university
           - item:
             name: Open Source Business Alliance - Bundesverband für digitale Souveränität e.V.
             homepage_url: https://osb-alliance.com/
+            project: null
             logo: open_source_business_alliance_-_bundesverband_fur_digitale_souveranitat_ev.svg
             crunchbase: https://www.crunchbase.com/organization/open-source-business-alliance
           - item:
             name: Open Source Technology Improvement Fund, Inc.
             homepage_url: https://ostif.org/
+            project: null
             logo: open_source_technology_improvement_fund_inc.svg
             twitter: https://twitter.com/OSTIFofficial
             crunchbase: https://www.crunchbase.com/organization/open-source-technology-improvement-fund
           - item:
             name: Open Web Application Security Project
             homepage_url: https://owasp.org/
+            project: null
             logo: open_web_application_security_project.svg
             twitter: https://twitter.com/owasp
             crunchbase: https://www.crunchbase.com/organization/open-web-application-security-project
           - item:
             name: OpenForum Europe
             homepage_url: https://openforumeurope.org/
+            project: null
             logo: openforum_europe.svg
             twitter: https://twitter.com/OpenForumEurope
             organization:
@@ -690,39 +790,46 @@ landscape:
             name: OpenUK
             description: Where the UK’s Open communities meet and collaborate
             homepage_url: https://openuk.uk/
+            project: null
             logo: openuk.svg
             crunchbase: https://www.crunchbase.com/organization/openuk
           - item:
             name: Purdue University
             homepage_url: https://purdue.edu/
+            project: null
             logo: purdue_university.svg
             crunchbase: https://www.crunchbase.com/organization/purdue-university
           - item:
             name: Python Software Foundation
             homepage_url: https://python.org/
+            project: null
             logo: python_software_foundation.svg
             crunchbase: https://www.crunchbase.com/organization/python-software-foundation
           - item:
             name: Ruby Central, Inc.
             homepage_url: https://rubycentral.org/
+            project: null
             logo: ruby_central_inc.svg
             organization:
               name: Ruby Central, Inc.
           - item:
             name: Rust Foundation
             homepage_url: https://rustfoundation.org/
+            project: null
             logo: rust_foundation.svg
             twitter: https://twitter.com/rustlang
             crunchbase: https://www.crunchbase.com/organization/rust
           - item:
             name: SAFECode
             homepage_url: https://safecode.org/
+            project: null
             logo: safecode.svg
             twitter: https://twitter.com/SAFECode
             crunchbase: https://www.crunchbase.com/organization/safecode-org
           - item:
             name: TODO Group
             homepage_url: https://todogroup.org/
+            project: null
             logo: todo_group.svg
             crunchbase: https://www.crunchbase.com/organization/todo-group
   - category:
