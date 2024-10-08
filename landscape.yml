@@ -857,6 +857,7 @@ landscape:
           - item:
             name: Trifecta Tech Foundation
             homepage_url: https://trifectatech.org/
+            project: null
             logo: trifecta_tech_foundation.svg
             organization:
               name: Trifecta Tech Foundation
