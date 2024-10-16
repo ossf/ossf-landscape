@@ -12,14 +12,13 @@ landscape:
             logo: amazon_web_services_inc.svg
             twitter: https://twitter.com/amazon
             crunchbase: https://www.crunchbase.com/organization/amazon-web-services
-            joined: '2017-08-01'
           - item:
             name: Apple Inc.
             homepage_url: https://apple.com/
+            project: null
             logo: apple_inc.svg
             twitter: https://twitter.com/Apple
             crunchbase: https://www.crunchbase.com/organization/apple
-            joined: '2019-05-01'
           - item:
             name: Capital One Services LLC
             homepage_url: https://capitalone.com/
@@ -39,7 +38,6 @@ landscape:
             project: null
             logo: citi.svg
             crunchbase: https://www.crunchbase.com/organization/citigroup
-            joined: '2021-01-25'
           - item:
             name: Datadog, Inc
             homepage_url: https://datadoghq.com/
@@ -53,14 +51,12 @@ landscape:
             project: null
             logo: dell_technologies.svg
             crunchbase: https://www.crunchbase.com/organization/dell
-            joined: '2017-01-01'
           - item:
             name: Ericsson
             homepage_url: https://ericsson.com/
             project: null
             logo: ericsson.svg
             crunchbase: https://www.crunchbase.com/organization/ericsson
-            joined: '2018-12-01'
           - item:
             name: GitHub, Inc.
             homepage_url: https://github.com/
@@ -78,7 +74,7 @@ landscape:
             name: Huawei Technologies Co., Ltd
             homepage_url: https://huawei.com/
             project: null
-            logo: huawei_technologies_co_ltd.svg
+            logo: huawei_technologies_co.svg
             crunchbase: https://www.crunchbase.com/organization/huawei
           - item:
             name: Intel Corporation
@@ -98,7 +94,6 @@ landscape:
             project: null
             logo: jpmorgan_chase.svg
             crunchbase: https://www.crunchbase.com/organization/jpmorgan-chase-co
-            joined: '2018-08-01'
           - item:
             name: Microsoft Corporation
             homepage_url: https://microsoft.com/
@@ -111,7 +106,6 @@ landscape:
             project: null
             logo: morgan_stanley.svg
             crunchbase: https://www.crunchbase.com/organization/morgan-stanley
-            joined: '2017-06-01'
           - item:
             name: Red Hat, Inc.
             homepage_url: https://redhat.com/
@@ -119,7 +113,6 @@ landscape:
             logo: red_hat_inc.svg
             twitter: https://twitter.com/RedHat
             crunchbase: https://www.crunchbase.com/organization/red-hat
-            joined: '2016-01-01'
           - item:
             name: Sonatype, Inc.
             homepage_url: https://sonatype.com/
@@ -144,13 +137,13 @@ landscape:
             twitter: https://twitter.com/AirbyteHQ
             organization:
               name: Airbyte
+              linkedin: https://www.linkedin.com/company/airbytehq
           - item:
             name: Aiven Inc
             homepage_url: https://aiven.io/
             project: null
             logo: aiven_inc.svg
             crunchbase: https://www.crunchbase.com/organization/aiven
-            joined: '2019-06-01'
           - item:
             name: Akamai Technologies, Inc.
             homepage_url: https://akamai.com/
@@ -176,8 +169,9 @@ landscape:
             project: null
             logo: apiiro.svg
             twitter: https://twitter.com/ApiiroSecurity
-            crunchbase: https://www.crunchbase.com/organization/apiiro-ltd
-            joined: '2021-08-01'
+            organization:
+              name: Apiiro
+              linkedin: https://www.linkedin.com/company/apiiro
           - item:
             name: Arm Limited
             homepage_url: https://arm.com/
@@ -185,7 +179,6 @@ landscape:
             logo: arm_limited.svg
             twitter: https://twitter.com/ArmCommunity
             crunchbase: https://www.crunchbase.com/organization/arm
-            joined: '2019-02-01'
           - item:
             name: Atlassian US, Inc
             homepage_url: https://atlassian.com/
@@ -200,7 +193,6 @@ landscape:
             logo: auristor_inc.svg
             twitter: https://twitter.com/AuriStor
             crunchbase: https://www.crunchbase.com/organization/auristor
-            joined: '2023-11-01'
           - item:
             name: Block, Inc.
             homepage_url: https://block.xyz/
@@ -212,7 +204,7 @@ landscape:
             name: Bloomberg Finance L.P.
             homepage_url: https://techatbloomberg.com/
             project: null
-            logo: bloomberg_finance_lp.svg
+            logo: bloomberg_finance_l_p.svg
             twitter: https://twitter.com/business
             crunchbase: https://www.crunchbase.com/organization/bloomberg
           - item:
@@ -222,7 +214,6 @@ landscape:
             logo: boeing.svg
             twitter: https://twitter.com/Boeing
             crunchbase: https://www.crunchbase.com/organization/boeing-7321
-            joined: '2022-04-22'
           - item:
             name: Boost Security
             homepage_url: https://boostsecurity.io/
@@ -231,13 +222,13 @@ landscape:
             twitter: https://twitter.com/boostsecurityio
             organization:
               name: Boost Security
+              linkedin: https://www.linkedin.com/company/boostsecurity-io
           - item:
             name: Chainguard
             homepage_url: https://chainguard.dev/
             project: null
             logo: chainguard.svg
             crunchbase: https://www.crunchbase.com/organization/chainguard
-            joined: '2022-06-01'
           - item:
             name: Chainloop
             homepage_url: https://chainloop.dev/
@@ -257,7 +248,6 @@ landscape:
             project: null
             logo: cloudsmith_ltd.svg
             crunchbase: https://www.crunchbase.com/organization/cloudsmith-io
-            joined: '2021-08-01'
           - item:
             name: Code Intelligence
             homepage_url: https://code-intelligence.com/
@@ -266,6 +256,7 @@ landscape:
             twitter: https://twitter.com/CI_Fuzz
             organization:
               name: Code Intelligence
+              linkedin: https://www.linkedin.com/company/codeintelligence
           - item:
             name: Codethink
             homepage_url: https://codethink.co.uk/
@@ -283,10 +274,9 @@ landscape:
             name: Control-Plane.io
             homepage_url: https://control-plane.io/
             project: null
-            logo: control-planeio.svg
+            logo: control_plane.svg
             twitter: https://twitter.com/controlplaneio
             crunchbase: https://www.crunchbase.com/organization/controlplane
-            joined: '2019-02-01'
           - item:
             name: Cybertrust Japan Co., Ltd.
             homepage_url: https://cybertrust.co.jp/
@@ -301,14 +291,12 @@ landscape:
             logo: cybozu_inc.svg
             twitter: https://twitter.com/cybozu
             crunchbase: https://www.crunchbase.com/organization/cybozu
-            joined: '2019-08-01'
           - item:
             name: Cycode, Inc.
             homepage_url: https://cycode.com/
             project: null
             logo: cycode_inc.svg
             crunchbase: https://www.crunchbase.com/organization/cycode
-            joined: '2022-04-01'
           - item:
             name: Defense Unicorns
             homepage_url: https://defenseunicorns.com/
@@ -316,7 +304,6 @@ landscape:
             logo: defense_unicorns.svg
             twitter: https://twitter.com/DefenseUnicorns
             crunchbase: https://www.crunchbase.com/organization/defense-unicorns
-            joined: '2023-01-01'
           - item:
             name: DeployHub, Inc.
             homepage_url: https://deployhub.com/
@@ -338,7 +325,6 @@ landscape:
             logo: docker_inc.svg
             twitter: https://twitter.com/Docker
             crunchbase: https://www.crunchbase.com/organization/docker
-            joined: '2016-01-01'
           - item:
             name: embraceable Technology
             homepage_url: https://embraceable.ai/
@@ -354,6 +340,7 @@ landscape:
             twitter: https://twitter.com/EndorLabs
             organization:
               name: Endor Labs
+              linkedin: https://www.linkedin.com/company/endorlabs
           - item:
             name: Ensignia
             homepage_url: https://ensignia.co/
@@ -368,40 +355,35 @@ landscape:
             logo: f5_inc.svg
             twitter: https://twitter.com/F5
             crunchbase: https://www.crunchbase.com/organization/f5-networks
-            joined: '2017-11-01'
           - item:
             name: Fidelity Investments
             homepage_url: https://fidelity.com/
             project: null
             logo: fidelity_investments.svg
             crunchbase: https://www.crunchbase.com/organization/fidelity-investments
-            joined: '2019-08-01'
           - item:
             name: FOSSA
             homepage_url: https://fossa.io/
             project: null
             logo: fossa.svg
             crunchbase: https://www.crunchbase.com/organization/fossa-2
-            joined: '2019-04-01'
           - item:
             name: Futurewei Technologies, Inc.
             homepage_url: https://futurewei.com/
             project: null
             logo: futurewei_technologies_inc.svg
             crunchbase: https://www.crunchbase.com/organization/futurewei-technologies
-            joined: '2020-04-01'
           - item:
             name: GitLab Inc.
             homepage_url: https://about.gitlab.com/
             project: null
             logo: gitlab_inc.svg
             crunchbase: https://www.crunchbase.com/organization/gitlab-com
-            joined: '2017-07-01'
           - item:
             name: Goldman Sachs & Co. LLC
             homepage_url: https://goldmansachs.com/
             project: null
-            logo: goldman_sachs__co_llc.svg
+            logo: goldman_sachs_co.svg
             twitter: https://twitter.com/GSCareers
             crunchbase: https://www.crunchbase.com/organization/goldman-sachs
           - item:
@@ -425,27 +407,25 @@ landscape:
             logo: herodevs.svg
             organization:
               name: herodevs
+              linkedin: https://www.linkedin.com/company/herodevs/
           - item:
             name: Hitachi, Ltd.
             homepage_url: https://hitachi.com/
             project: null
             logo: hitachi_ltd.svg
             crunchbase: https://www.crunchbase.com/organization/hitachi
-            joined: '2023-03-01'
           - item:
             name: JFrog, Inc
             homepage_url: https://jfrog.com/
             project: null
             logo: jfrog_inc.svg
             crunchbase: https://www.crunchbase.com/organization/jfrog-ltd
-            joined: '2017-11-01'
           - item:
             name: Kasten, Inc.
             homepage_url: https://kasten.io/
             project: null
             logo: kasten_inc.svg
             crunchbase: https://www.crunchbase.com/organization/kasten
-            joined: '2017-07-01'
           - item:
             name: Keyfactor
             homepage_url: https://keyfactor.com/
@@ -467,19 +447,17 @@ landscape:
             logo: legit_security.svg
             twitter: https://twitter.com/LegitSecurity1
             crunchbase: https://www.crunchbase.com/organization/legit-security
-            joined: '2022-07-01'
           - item:
             name: Lockheed Martin
             homepage_url: https://lmco.com/
             project: null
             logo: lockheed_martin.svg
             crunchbase: https://www.crunchbase.com/organization/lockheed-martin
-            joined: '2022-02-14'
           - item:
             name: Mend.io
             homepage_url: https://mend.io/
             project: null
-            logo: mendio.svg
+            logo: mend.svg
             twitter: https://twitter.com/Mend_io
             crunchbase: https://www.crunchbase.com/organization/white-source
           - item:
@@ -488,21 +466,20 @@ landscape:
             project: null
             logo: nutanix_inc.svg
             crunchbase: https://www.crunchbase.com/organization/nutanix
-            joined: '2018-08-01'
           - item:
             name: Open Source Consensus(Shanghai) Network Technology Co., Ltd
             homepage_url: https://oschina.net/
             project: null
-            logo: open_source_consensusshanghai_network_technology_co_ltd.svg
+            logo: open_source_consensus_shanghai_network_technology_co.svg
             organization:
               name: Open Source Consensus(Shanghai) Network Technology Co., Ltd
+              linkedin: https://www.linkedin.com/company/%E5%BC%80%E6%BA%90%E4%B8%AD%E5%9B%BD
           - item:
             name: Patchstack OÜ
             homepage_url: https://patchstack.com/
             project: null
             logo: patchstack_ou.svg
             crunchbase: https://www.crunchbase.com/organization/webarx
-            joined: '2023-11-15'
           - item:
             name: Protect AI
             homepage_url: https://protectai.com/
@@ -510,6 +487,7 @@ landscape:
             logo: protect_ai.svg
             organization:
               name: Protect AI
+              linkedin: https://www.linkedin.com/company/protect-ai/
           - item:
             name: Renesas Electronics Corporation
             homepage_url: https://renesas.com/
@@ -526,6 +504,7 @@ landscape:
           - item:
             name: RTX
             homepage_url: https://rtx.com/
+            project: null
             logo: rtx.svg
             twitter: https://twitter.com/RaytheonTech
             crunchbase: https://www.crunchbase.com/organization/raytheon
@@ -533,7 +512,7 @@ landscape:
             name: Salesforce.com, Inc.
             homepage_url: https://salesforce.com/
             project: null
-            logo: salesforcecom_inc.svg
+            logo: salesforce_com_inc.svg
             crunchbase: https://www.crunchbase.com/organization/salesforce
           - item:
             name: SAP SE
@@ -542,7 +521,6 @@ landscape:
             logo: sap_se.svg
             twitter: https://twitter.com/SAP
             crunchbase: https://www.crunchbase.com/organization/sap
-            joined: '2017-10-01'
           - item:
             name: Scotiabank
             homepage_url: https://scotiabank.com/
@@ -554,7 +532,7 @@ landscape:
             name: Shanghai Sectrend Information Technology Co.,Ltd
             homepage_url: https://sectrend.com.cn/
             project: null
-            logo: shanghai_sectrend_information_technology_coltd.svg
+            logo: shanghai_sectrend_information_technology_co.svg
             organization:
               name: Shanghai Sectrend Information Technology Co.,Ltd
           - item:
@@ -564,7 +542,6 @@ landscape:
             logo: she_bash.svg
             twitter: https://twitter.com/SHEBASHIO
             crunchbase: https://www.crunchbase.com/organization/she-bash-llc
-            joined: '2023-02-01'
           - item:
             name: Shopify Inc.
             homepage_url: https://shopify.com/
@@ -572,12 +549,18 @@ landscape:
             logo: shopify_inc.svg
             twitter: https://twitter.com/Shopify
             crunchbase: https://www.crunchbase.com/organization/shopify
-            joined: '2017-12-01'
+          - item:
+            name: SIGHUP s.r.l.
+            homepage_url: https://sighup.io/
+            project: null
+            logo: sighup_s_r_l.svg
+            twitter: https://twitter.com/sighup_
+            crunchbase: https://www.crunchbase.com/organization/sighup
           - item:
             name: Slim.AI
             homepage_url: https://slim.ai/
             project: null
-            logo: slimai.svg
+            logo: slim.svg
             twitter: https://twitter.com/SlimDevOps
             crunchbase: https://www.crunchbase.com/organization/slim-ai
           - item:
@@ -587,7 +570,6 @@ landscape:
             logo: snyk_limited.svg
             twitter: https://twitter.com/snyksec
             crunchbase: https://www.crunchbase.com/organization/snyk
-            joined: '2019-08-01'
           - item:
             name: Socket
             homepage_url: https://socket.dev/
@@ -596,6 +578,7 @@ landscape:
             twitter: https://twitter.com/SocketSecurity
             organization:
               name: Socket
+              linkedin: https://www.linkedin.com/company/socketinc
           - item:
             name: Sparkfabrik srl
             homepage_url: https://sparkfabrik.com/
@@ -610,7 +593,6 @@ landscape:
             logo: spotify_ab.svg
             twitter: https://twitter.com/Spotify
             crunchbase: https://www.crunchbase.com/organization/spotify
-            joined: '2018-03-01'
           - item:
             name: Stacklok
             homepage_url: https://stacklok.com/
@@ -624,13 +606,13 @@ landscape:
             logo: stepsecurity.svg
             organization:
               name: StepSecurity
+              linkedin: https://www.linkedin.com/company/step-security
           - item:
             name: SUSE LLC
             homepage_url: https://suse.com/
             project: null
             logo: suse_llc.svg
             crunchbase: https://www.crunchbase.com/organization/suse
-            joined: '2017-04-01'
           - item:
             name: Suzuki Motor Corporation
             homepage_url: https://suzuki.com/
@@ -643,21 +625,21 @@ landscape:
             project: null
             logo: sysdig_inc.svg
             crunchbase: https://www.crunchbase.com/organization/sysdig
-            joined: '2015-11-01'
           - item:
             name: Technology Innovation Institute
             homepage_url: https://tii.ae/
             project: null
             logo: technology_innovation_institute.svg
             twitter: https://twitter.com/TIIuae
-            crunchbase: https://www.crunchbase.com/organization/technology-innovation-institute
+            organization:
+              name: Technology Innovation Institute
+              linkedin: https://www.linkedin.com/company/tiiuae
           - item:
             name: Tenable, Inc.
             homepage_url: https://tenable.com/
             project: null
             logo: tenable_inc.svg
             crunchbase: https://www.crunchbase.com/organization/tenable-network-security
-            joined: '2022-04-01'
           - item:
             name: TestifySec
             homepage_url: https://testifysec.com/
@@ -665,7 +647,6 @@ landscape:
             logo: testifysec.svg
             twitter: https://twitter.com/testifysec
             crunchbase: https://www.crunchbase.com/organization/testifysec
-            joined: '2023-08-01'
           - item:
             name: Tidelift, Inc.
             homepage_url: https://tidelift.com/
@@ -688,7 +669,7 @@ landscape:
             name: Trenchant Limited (trading as G-Research)
             homepage_url: https://gresearch.co.uk/
             project: null
-            logo: trenchant_limited_trading_as_g-research.svg
+            logo: trenchant_limited_trading_as_g_research.svg
             twitter: https://twitter.com/GRESEARCHjobs
             crunchbase: https://www.crunchbase.com/organization/g-research
           - item:
@@ -701,10 +682,10 @@ landscape:
           - item:
             name: VMware LLC
             homepage_url: https://vmware.com/
+            project: null
             logo: vmware_llc.svg
             twitter: https://twitter.com/VMware
             crunchbase: https://www.crunchbase.com/organization/vmware
-            joined: '2016-01-01'
           - item:
             name: Wind River Systems, Inc.
             homepage_url: https://windriver.com/
@@ -714,6 +695,7 @@ landscape:
           - item:
             name: Xilinx Inc
             homepage_url: https://xilinx.com/
+            project: null
             logo: xilinx_inc.svg
             crunchbase: https://www.crunchbase.com/organization/xilinx
           - item:
@@ -728,6 +710,7 @@ landscape:
           - item:
             name: Carnegie Mellon University
             homepage_url: https://cmu.edu/
+            project: null
             logo: carnegie_mellon_university.svg
             crunchbase: https://www.crunchbase.com/organization/carnegie-mellon-university
           - item:
@@ -746,7 +729,7 @@ landscape:
             name: FS-ISAC
             homepage_url: https://fsisac.com/
             project: null
-            logo: fs-isac.svg
+            logo: fs_isac.svg
             crunchbase: https://www.crunchbase.com/organization/fs-isac
           - item:
             name: Institute of Software Chinese Academy of Sciences
@@ -761,6 +744,7 @@ landscape:
             logo: international_information_system_security_certification_consortium_inc.svg
             organization:
               name: International Information System Security Certification Consortium Inc
+              linkedin: https://www.linkedin.com/company/isc2-bangkok-chapter
           - item:
             name: Laboratory for Innovation Science at Harvard
             homepage_url: https://lish.harvard.edu/
@@ -773,7 +757,6 @@ landscape:
             project: null
             logo: mitre.svg
             crunchbase: https://www.crunchbase.com/organization/mitre
-            joined: '2021-03-02'
           - item:
             name: Nanyang Technological University
             homepage_url: https://ntu.edu.sg/
@@ -784,7 +767,7 @@ landscape:
             name: Open Source Business Alliance - Bundesverband für digitale Souveränität e.V.
             homepage_url: https://osb-alliance.com/
             project: null
-            logo: open_source_business_alliance_-_bundesverband_fur_digitale_souveranitat_ev.svg
+            logo: open_source_business_alliance_bundesverband_fur_digitale_souveranitat_e_v.svg
             crunchbase: https://www.crunchbase.com/organization/open-source-business-alliance
           - item:
             name: Open Source Technology Improvement Fund, Inc.
@@ -808,9 +791,9 @@ landscape:
             twitter: https://twitter.com/OpenForumEurope
             organization:
               name: OpenForum Europe
+              linkedin: https://www.linkedin.com/company/openforum-europe
           - item:
             name: OpenUK
-            description: Where the UK’s Open communities meet and collaborate
             homepage_url: https://openuk.uk/
             project: null
             logo: openuk.svg
@@ -834,6 +817,7 @@ landscape:
             logo: ruby_central_inc.svg
             organization:
               name: Ruby Central, Inc.
+              linkedin: https://www.linkedin.com/company/ruby-central-inc
           - item:
             name: Rust Foundation
             homepage_url: https://rustfoundation.org/
