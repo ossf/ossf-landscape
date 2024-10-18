@@ -529,13 +529,6 @@ landscape:
             twitter: https://twitter.com/ScotiabankHelps
             crunchbase: https://www.crunchbase.com/organization/bank-of-nova-scotia
           - item:
-            name: Shanghai Sectrend Information Technology Co.,Ltd
-            homepage_url: https://sectrend.com.cn/
-            project: null
-            logo: shanghai_sectrend_information_technology_co.svg
-            organization:
-              name: Shanghai Sectrend Information Technology Co.,Ltd
-          - item:
             name: SHE BASH
             homepage_url: https://shebash.io/
             project: null
