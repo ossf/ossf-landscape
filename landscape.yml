@@ -502,6 +502,13 @@ landscape:
             twitter: https://twitter.com/ReversingLabs
             crunchbase: https://www.crunchbase.com/organization/reversinglabs
           - item:
+            name: Root
+            homepage_url: https://root.io/
+            project: null
+            logo: root.svg
+            twitter: https://twitter.com/SlimDevOps
+            crunchbase: https://www.crunchbase.com/organization/slim-ai
+          - item:
             name: RTX
             homepage_url: https://rtx.com/
             project: null
@@ -549,13 +556,6 @@ landscape:
             logo: sighup_s_r_l.svg
             twitter: https://twitter.com/sighup_
             crunchbase: https://www.crunchbase.com/organization/sighup
-          - item:
-            name: Slim.AI
-            homepage_url: https://slim.ai/
-            project: null
-            logo: slim.svg
-            twitter: https://twitter.com/SlimDevOps
-            crunchbase: https://www.crunchbase.com/organization/slim-ai
           - item:
             name: Snyk Limited
             homepage_url: https://snyk.io/
