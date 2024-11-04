@@ -368,6 +368,13 @@ landscape:
             logo: fossa.svg
             crunchbase: https://www.crunchbase.com/organization/fossa-2
           - item:
+            name: Fujitsu Limited
+            homepage_url: https://fujitsu.com/
+            project: null
+            logo: fujitsu_limited.svg
+            twitter: https://twitter.com/Fujitsu_Global
+            crunchbase: https://www.crunchbase.com/organization/fujitsu
+          - item:
             name: Futurewei Technologies, Inc.
             homepage_url: https://futurewei.com/
             project: null
