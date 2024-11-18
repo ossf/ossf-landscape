@@ -337,6 +337,13 @@ landscape:
             twitter: https://twitter.com/GSCareers
             crunchbase: https://www.crunchbase.com/organization/goldman-sachs
           - item:
+            name: Guidewire Software, Inc.
+            homepage_url: https://guidewire.com/
+            logo: guidewire_software_inc.svg
+            organization:
+              name: Guidewire Software, Inc.
+              linkedin: https://www.linkedin.com/company/guidewire-software
+          - item:
             name: HackerOne
             homepage_url: https://hackerone.com/
             logo: hackerone.svg
@@ -360,6 +367,12 @@ landscape:
             homepage_url: https://hitachi.com/
             logo: hitachi_ltd.svg
             crunchbase: https://www.crunchbase.com/organization/hitachi
+          - item:
+            name: Honda Motor Co., Ltd.
+            homepage_url: https://honda.com/
+            logo: honda_motor_co_ltd.svg
+            twitter: https://twitter.com/Honda
+            crunchbase: https://www.crunchbase.com/organization/honda-automobiles
           - item:
             name: JFrog, Inc
             homepage_url: https://jfrog.com/
