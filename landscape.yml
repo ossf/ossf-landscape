@@ -655,11 +655,6 @@ landscape:
             logo: laboratory_for_innovation_science_at_harvard.svg
             crunchbase: https://www.crunchbase.com/organization/harvard-university
           - item:
-            name: MITRE
-            homepage_url: https://mitre.org/
-            logo: mitre.svg
-            crunchbase: https://www.crunchbase.com/organization/mitre
-          - item:
             name: Nanyang Technological University
             homepage_url: https://ntu.edu.sg/
             logo: nanyang_technological_university.svg
@@ -723,6 +718,12 @@ landscape:
             logo: safecode.svg
             twitter: https://twitter.com/SAFECode
             crunchbase: https://www.crunchbase.com/organization/safecode-org
+          - item:
+            name: The Mitre Corporation
+            homepage_url: https://mitre.org/
+            logo: the_mitre_corporation.svg
+            twitter: https://twitter.com/MITREcorp
+            crunchbase: https://www.crunchbase.com/organization/mitre
           - item:
             name: TODO Group
             homepage_url: https://todogroup.org/
