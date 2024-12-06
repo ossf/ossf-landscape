@@ -1513,12 +1513,12 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/ostif
           - item:
-            name: Open Web Application Security Project
+            name: Open Worldwide Application Security Project
             description: >-
-              The Open Web Application Security Project is an online community that produces freely-available articles, methodologies, documentation, tools, and
+              The Open Worldwide Application Security Project is an online community that produces freely-available articles, methodologies, documentation, tools, and
               technologies in the field of web application security.
             homepage_url: https://owasp.org/
-            logo: open_web_application_security_project.svg
+            logo: open_worldwide_application_security_project.svg
             twitter: https://twitter.com/owasp
             crunchbase: https://www.crunchbase.com/organization/open-web-application-security-project
             extra:
