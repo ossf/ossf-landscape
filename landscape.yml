@@ -746,8 +746,11 @@ landscape:
               quality, compliance, and reliability.
             homepage_url: https://embraceable.ai/
             logo: embraceable_technology.svg
+            extra:
+              linkedin_url: https://www.linkedin.com/company/embraceableai
             organization:
               name: embraceable Technology
+              linkedin: https://www.linkedin.com/company/embraceableai
           - item:
             name: Endor Labs
             description: endor labs - software supply chain platform
