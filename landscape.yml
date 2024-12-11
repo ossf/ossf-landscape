@@ -966,6 +966,16 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/legitsecurity
           - item:
+            name: Lineaje
+            description: Lineage solves critical software supply chain security problems faced by every organization that builds or sells software.
+            homepage_url: https://lineaje.com/
+            logo: lineaje.svg
+            extra:
+              linkedin_url: https://www.linkedin.com/company/lineaje
+            organization:
+              name: Lineaje
+              linkedin: https://www.linkedin.com/company/lineaje
+          - item:
             name: Lockheed Martin
             description: >-
               Founded in 1995, Lockheed Martin is a global aerospace, security, defense, and advanced technology company. The company's customers come from
