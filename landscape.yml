@@ -1294,6 +1294,18 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/testifysec
           - item:
+            name: Tianjin Aojin Network Technology Co., Ltd.
+            description: >-
+              OSCHINA is a Chinese open-source technology community that promotes open-source projects and provides a platform for IT developers to discover,
+              use, and exchange open-source technology.
+            homepage_url: https://oschina.net/
+            logo: tianjin_aojin_network_technology_co_ltd.svg
+            extra:
+              linkedin_url: https://www.linkedin.com/company/%E5%BC%80%E6%BA%90%E4%B8%AD%E5%9B%BD
+            organization:
+              name: Tianjin Aojin Network Technology Co., Ltd.
+              linkedin: https://www.linkedin.com/company/%E5%BC%80%E6%BA%90%E4%B8%AD%E5%9B%BD
+          - item:
             name: Tidelift, Inc.
             description: >-
               Tidelift is the largest provider of commercial support and maintenance for the community-led open source behind modern applications. The company
