@@ -1042,6 +1042,18 @@ landscape:
               name: Protect AI
               linkedin: https://www.linkedin.com/company/protect-ai/
           - item:
+            name: ReeVo Spa
+            description: >-
+              ReeVo is the premier Italian Cloud & Cyber Security provider, safeguarding businesses with Secure Cloud and Cyber Security solutions through
+              ISO-certified Data Centers.
+            homepage_url: https://reevo.it/
+            logo: reevo_spa.svg
+            extra:
+              linkedin_url: https://www.linkedin.com/company/reevo-cloud
+            organization:
+              name: ReeVo Spa
+              linkedin: https://www.linkedin.com/company/reevo-cloud
+          - item:
             name: Renesas Electronics Corporation
             description: >-
               Renesas Electronics Corporation delivers trusted embedded design innovation with complete semiconductor solutions that enable billions of
@@ -1143,17 +1155,6 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/shopify
             extra:
               linkedin_url: https://www.linkedin.com/company/shopify
-          - item:
-            name: SIGHUP s.r.l.
-            description: >-
-              Move towards Cloud Native, Kubernetes and DevOps automation with confidence. SIGHUP Powered by ReeVo helps organizations and enterprises during
-              their journey towards software defined infrastructures and process automation.
-            homepage_url: https://sighup.io/
-            logo: sighup_s_r_l.svg
-            twitter: https://twitter.com/sighup_
-            crunchbase: https://www.crunchbase.com/organization/sighup
-            extra:
-              linkedin_url: https://www.linkedin.com/company/sighup
           - item:
             name: Snyk Limited
             description: Snyk helps you use open source and stay secure. Continuously find and fix vulnerabilities for npm, Maven, NuGet, RubyGems, PyPI and much more.
