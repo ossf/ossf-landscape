@@ -53,25 +53,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/cisco
           - item:
-            name: Citi
-            description: >-
-              Citi, the leading global financial services company, has approximately 200 million customer accounts and does business in more than 140 countries.
-              Through its two operating units, Citicorp and Citi Holdings, Citi provides consumers, corporations, governments and institutions with a broad
-              range of financial products and services, including consumer banking and credit, corporate and investment banking, securities brokerage, and
-              wealth management.
-
-
-              --- Merged Data:
-
-
-              Credit Cards, Banking, Mortgage, Personal Loans | Citi.com Citi's mission is to serve as a trusted partner to our clients by responsibly providing
-              financial services that enable growth and economic progress. Our core activities are safeguarding assets,...
-            homepage_url: https://citi.com/
-            logo: citi.svg
-            crunchbase: https://www.crunchbase.com/organization/citigroup
-            extra:
-              linkedin_url: https://www.linkedin.com/company/citi
-          - item:
             name: Datadog, Inc
             description: >-
               Datadog is a monitoring service for IT, Operations and Development teams who write and run applications at scale, and want to turn the massive
@@ -378,17 +359,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/ada-logics
           - item:
-            name: Airbyte
-            description: Airbyte is an open-source data integration platform to build ELT pipelines. Consolidate your data in your data warehouses, lakes and databases.
-            homepage_url: https://airbyte.io/
-            logo: airbyte.svg
-            twitter: https://twitter.com/AirbyteHQ
-            extra:
-              linkedin_url: https://www.linkedin.com/company/airbytehq
-            organization:
-              name: Airbyte
-              linkedin: https://www.linkedin.com/company/airbytehq
-          - item:
             name: Aiven Inc
             description: >-
               Leverage the complete open source ecosystem of extensions and tools to create highly-performant data pipelines for event-driven applications on
@@ -606,14 +576,25 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/chainloop-dev
           - item:
-            name: Checkmarx
-            description: Checkmarx Ltd
-            homepage_url: https://checkmarx.com/
-            logo: checkmarx.svg
-            twitter: https://twitter.com/Checkmarx
-            crunchbase: https://www.crunchbase.com/organization/checkmarx
+            name: Citi
+            description: >-
+              Citi, the leading global financial services company, has approximately 200 million customer accounts and does business in more than 140 countries.
+              Through its two operating units, Citicorp and Citi Holdings, Citi provides consumers, corporations, governments and institutions with a broad
+              range of financial products and services, including consumer banking and credit, corporate and investment banking, securities brokerage, and
+              wealth management.
+
+
+              --- Merged Data:
+
+
+              Credit Cards, Banking, Mortgage, Personal Loans | Citi.com Citi's mission is to serve as a trusted partner to our clients by responsibly providing
+              financial services that enable growth and economic progress. Our core activities are safeguarding assets,...
+            homepage_url: https://citi.com/
+            logo: citi.svg
+            twitter: https://twitter.com/citi
+            crunchbase: https://www.crunchbase.com/organization/citigroup
             extra:
-              linkedin_url: https://www.linkedin.com/company/checkmarx
+              linkedin_url: https://www.linkedin.com/company/citi
           - item:
             name: Cloudsmith Ltd
             description: Cloudsmith is the leading Continuous Packaging platform for engineers looking to set up a secure, cloud-native artifact repository in 60 seconds.
@@ -633,16 +614,6 @@ landscape:
             organization:
               name: Code Intelligence
               linkedin: https://www.linkedin.com/company/codeintelligence
-          - item:
-            name: Codethink
-            description: >-
-              Systems Software Engineering Experts. #opensource.    Independent, Ethical, Effective.     Leading globally in #Enterprise, #Devices and
-              #Automotive.
-            homepage_url: https://codethink.co.uk/
-            logo: codethink.svg
-            crunchbase: https://www.crunchbase.com/organization/codethink
-            extra:
-              linkedin_url: https://www.linkedin.com/company/codethink-limited
           - item:
             name: Comcast Cable Communications, LLC
             description: >-
@@ -779,18 +750,6 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/f5-networks
             extra:
               linkedin_url: https://www.linkedin.com/company/f5
-          - item:
-            name: Fidelity Investments
-            description: >-
-              Fidelitys goal is to make financial expertise broadly accessible and effective in helping people live the lives they want. With assets under
-              administration of $5.6 trillion, including managed assets of $2.1 trillion as of September 30, 2016, the company is focused on meeting the unique
-              needs of a diverse set of customers: helping more than 25 million people invest their own life savings, nearly 20,000 businesses manage employee
-              benefit programs, as well as providing nearly 10,000 advisory firms with investment and technology solutions to invest their own clients money.
-            homepage_url: https://fidelity.com/
-            logo: fidelity_investments.svg
-            crunchbase: https://www.crunchbase.com/organization/fidelity-investments
-            extra:
-              linkedin_url: https://www.linkedin.com/company/fidelity-charitable
           - item:
             name: FOSSA
             description: >-
@@ -992,17 +951,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/lockheed-martin
           - item:
-            name: Mend.io
-            description: >-
-              Mend.io, formerly known as WhiteSource is an application security company built to secure today’s digital world. We want developers to do what
-              they do best: build the applications that power the world
-            homepage_url: https://mend.io/
-            logo: mend.svg
-            twitter: https://twitter.com/Mend_io
-            crunchbase: https://www.crunchbase.com/organization/white-source
-            extra:
-              linkedin_url: https://www.linkedin.com/company/mend-io
-          - item:
             name: Nutanix, Inc.
             description: >-
               Go beyond hyperconverged infrastructure with the solutions provided by Nutanix. We deliver a software-defined enterprise cloud that can run any
@@ -1042,18 +990,17 @@ landscape:
               name: Protect AI
               linkedin: https://www.linkedin.com/company/protect-ai/
           - item:
-            name: Renesas Electronics Corporation
+            name: ReeVo Spa
             description: >-
-              Renesas Electronics Corporation delivers trusted embedded design innovation with complete semiconductor solutions that enable billions of
-              connected, intelligent devices to enhance the way people work and livesecurely and safely. The number one global supplier of microcontrollers, and
-              a leader in Analog & Power and SoC products, Renesas provides the expertise, quality, and comprehensive solutions for a broad range of Automotive,
-              Industrial, Home Electronics (HE), Office Automation (OA) and Information Communication Technology (ICT) applications to help shape a limitless
-              future.
-            homepage_url: https://renesas.com/
-            logo: renesas_electronics_corporation.svg
-            crunchbase: https://www.crunchbase.com/organization/renesas-electronics-corporation
+              ReeVo is the premier Italian Cloud & Cyber Security provider, safeguarding businesses with Secure Cloud and Cyber Security solutions through
+              ISO-certified Data Centers.
+            homepage_url: https://reevo.it/
+            logo: reevo_spa.svg
             extra:
-              linkedin_url: https://www.linkedin.com/company/renesas-electronics-corporation
+              linkedin_url: https://www.linkedin.com/company/reevo-cloud
+            organization:
+              name: ReeVo Spa
+              linkedin: https://www.linkedin.com/company/reevo-cloud
           - item:
             name: ReversingLabs
             description: >-
@@ -1144,17 +1091,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/shopify
           - item:
-            name: SIGHUP s.r.l.
-            description: >-
-              Move towards Cloud Native, Kubernetes and DevOps automation with confidence. SIGHUP Powered by ReeVo helps organizations and enterprises during
-              their journey towards software defined infrastructures and process automation.
-            homepage_url: https://sighup.io/
-            logo: sighup_s_r_l.svg
-            twitter: https://twitter.com/sighup_
-            crunchbase: https://www.crunchbase.com/organization/sighup
-            extra:
-              linkedin_url: https://www.linkedin.com/company/sighup
-          - item:
             name: Snyk Limited
             description: Snyk helps you use open source and stay secure. Continuously find and fix vulnerabilities for npm, Maven, NuGet, RubyGems, PyPI and much more.
             homepage_url: https://snyk.io/
@@ -1229,17 +1165,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/attachmate
           - item:
-            name: Suzuki Motor Corporation
-            description: >-
-              Founded in 1920, Suzuki Motor engages in the research, development, design, manufacture, sale, and distribution of motor vehicles and special
-              machines. It operates through three segments: Motorcycles, Automobiles, and Special Machines. Major products include: automobiles, motorcycles,
-              outboard motors, electric wheelchairs, and industrial equipment. The company is headquartered in Hamamatsu, Japan.
-            homepage_url: https://suzuki.com/
-            logo: suzuki_motor_corporation.svg
-            crunchbase: https://www.crunchbase.com/organization/suzuki-motor-of-america
-            extra:
-              linkedin_url: https://www.linkedin.com/company/suzuki-co-ltd-
-          - item:
             name: Sysdig, Inc.
             description: >-
               Draios Inc. dba Sysdig
@@ -1294,39 +1219,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/testifysec
           - item:
-            name: Tianjin Aojin Network Technology Co., Ltd.
-            description: >-
-              OSCHINA is a Chinese open-source technology community that promotes open-source projects and provides a platform for IT developers to discover,
-              use, and exchange open-source technology.
-            homepage_url: https://oschina.net/
-            logo: tianjin_aojin_network_technology_co_ltd.svg
-            extra:
-              linkedin_url: https://www.linkedin.com/company/%E5%BC%80%E6%BA%90%E4%B8%AD%E5%9B%BD
-            organization:
-              name: Tianjin Aojin Network Technology Co., Ltd.
-              linkedin: https://www.linkedin.com/company/%E5%BC%80%E6%BA%90%E4%B8%AD%E5%9B%BD
-          - item:
-            name: Tidelift, Inc.
-            description: >-
-              Tidelift is the largest provider of commercial support and maintenance for the community-led open source behind modern applications. The company
-              partners with independent project maintainers to make it safer, easier, and more cost-effective for application development teams to build with
-              open source, so they can create even more incredible software, even faster. The Tidelift managed open source solution delivers customizable
-              catalogs of components that are actively maintained, secure, and accurately licensed, enabling development teams to build and deploy with
-              confidence.
-            homepage_url: https://tidelift.com/
-            logo: tidelift_inc.svg
-            crunchbase: https://www.crunchbase.com/organization/tidelift
-            extra:
-              linkedin_url: https://www.linkedin.com/company/tidelift
-          - item:
-            name: Timesys Corporation
-            description: "Pittsburgh Office\n(Headquarters)\nSuite 2100\n428 Forbes Avenue\nPittsburgh, PA 15219\nUNITED STATES\nT: +1.412.232.3250\nToll-free: 1.866.392.4897\nsales@timesys.com\n \n \t\nEMEA Office\nPoznan\nPOLAND\nT: +48 53 733 8080\nemea@timesys.com\n \n \t\nAPAC Office\nNo. 6, M.T.H. Road\nPadi, Chennai 600 040\nINDIA\nT: +91.44.42039193\napac@timesys.com"
-            homepage_url: https://timesys.com/
-            logo: timesys_corporation.svg
-            crunchbase: https://www.crunchbase.com/organization/timesys-corporation
-            extra:
-              linkedin_url: https://www.linkedin.com/company/timesys-corporation
-          - item:
             name: Trail of Bits
             description: >-
               Since 2012, Trail of Bits has helped secure some of the world’s most targeted organizations and products. We combine high-­end security research
@@ -1354,15 +1246,6 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/vicone
             extra:
               linkedin_url: https://www.linkedin.com/company/vicone
-          - item:
-            name: VMware LLC
-            description: VMware is a leading provider of multi-cloud services for all apps, enabling digital innovation with enterprise control.
-            homepage_url: https://vmware.com/
-            logo: vmware_llc.svg
-            twitter: https://twitter.com/VMware
-            crunchbase: https://www.crunchbase.com/organization/vmware
-            extra:
-              linkedin_url: https://www.linkedin.com/company/vmware
           - item:
             name: Wind River Systems, Inc.
             description: >-
@@ -1586,6 +1469,18 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/python-software-foundation
             extra:
               linkedin_url: https://www.linkedin.com/company/python-software-foundation
+          - item:
+            name: RTEMS Project
+            description: >-
+              RTEMS Project develops and maintains an open source Real Time Operating System (RTOS) supporting various processor architectures and BSPs for
+              real-time applications.
+            homepage_url: https://rtems.org/
+            logo: rtems_project.svg
+            extra:
+              linkedin_url: https://www.linkedin.com/company/rtems-project
+            organization:
+              name: RTEMS Project
+              linkedin: https://www.linkedin.com/company/rtems-project
           - item:
             name: Ruby Central, Inc.
             description: >-
