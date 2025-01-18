@@ -1194,20 +1194,6 @@ landscape:
               name: Technology Innovation Institute
               linkedin: https://www.linkedin.com/company/tiiuae
           - item:
-            name: Tenable, Inc.
-            description: >-
-              Tenable Network Security, Inc. provides continuous network monitoring and vulnerability management services to Fortune Global 500 companies across
-              industries, as well as the U.S. Department of Defense and various governments worldwide. The company offers SecurityCenter Continuous View that
-              allows for comprehensive and integrated view of network health; Nessus, a vulnerability assessment and management solution for detecting and
-              assessing network data; and Passive Vulnerability Scanner that eliminates network blind spots by monitoring network traffic in real-time to
-              discover active assets, identify cloud applications, and detect anomalous activity. It serves education, finance, healthcare, PCI, and energy
-              sectors. The company was founded in 2002 and is based in Columbia, Maryland.
-            homepage_url: https://tenable.com/
-            logo: tenable_inc.svg
-            crunchbase: https://www.crunchbase.com/organization/tenable-network-security
-            extra:
-              linkedin_url: https://www.linkedin.com/company/tenable-network-security
-          - item:
             name: TestifySec
             description: >-
               TestifySec is a company that provides a platform to automate the collection, distribution, trust, and evaluation of artifact evidence for secure
