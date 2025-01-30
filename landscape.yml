@@ -597,7 +597,15 @@ landscape:
               linkedin_url: https://www.linkedin.com/company/citi
           - item:
             name: Cloudsmith Ltd
-            description: Cloudsmith is the leading Continuous Packaging platform for engineers looking to set up a secure, cloud-native artifact repository in 60 seconds.
+            description: >-
+              Cloudsmith is the leading Continuous Packaging platform for engineers looking to set up a secure, cloud-native artifact repository in 60 seconds.
+
+
+              --- Merged Data:
+
+
+              Cloudsmith is a provider of cutting-edge software and platforms designed to optimize cloud potential. They offer secure software delivery for a
+              wide range of technologies and provide Cloud consultancy, training, and contracting services for financial a...
             homepage_url: https://cloudsmith.com/
             logo: cloudsmith_ltd.svg
             crunchbase: https://www.crunchbase.com/organization/cloudsmith-io
