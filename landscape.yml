@@ -359,12 +359,13 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/ada-logics
           - item:
-            name: Aiven Inc
+            name: Aiven
             description: >-
               Leverage the complete open source ecosystem of extensions and tools to create highly-performant data pipelines for event-driven applications on
               all major clouds.
             homepage_url: https://aiven.io/
-            logo: aiven_inc.svg
+            logo: aiven.svg
+            twitter: https://twitter.com/aiven_io
             crunchbase: https://www.crunchbase.com/organization/aiven
             extra:
               linkedin_url: https://www.linkedin.com/company/aiven
