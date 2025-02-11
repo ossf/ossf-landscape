@@ -41,18 +41,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/capital-one
           - item:
-            name: Cisco Systems, Inc.
-            description: >-
-              Cisco (NASDAQ: CSCO) is the worldwide technology leader that has been making the Internet work since 1984. Their people, products, and partners
-              help society securely connect and seize tomorrow's digital opportunity today. Cisco and the Cisco logo are trademarks or registered trademarks of
-              Cisco and/or its affiliates in the U.S. and other countries.
-            homepage_url: https://cisco.com/
-            logo: cisco_systems_inc.svg
-            twitter: https://twitter.com/Cisco
-            crunchbase: https://www.crunchbase.com/organization/cisco
-            extra:
-              linkedin_url: https://www.linkedin.com/company/cisco
-          - item:
             name: Datadog, Inc
             description: >-
               Datadog is a monitoring service for IT, Operations and Development teams who write and run applications at scale, and want to turn the massive
@@ -576,6 +564,18 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/chainloop
             extra:
               linkedin_url: https://www.linkedin.com/company/chainloop-dev
+          - item:
+            name: Cisco Systems, Inc.
+            description: >-
+              Cisco (NASDAQ: CSCO) is the worldwide technology leader that has been making the Internet work since 1984. Their people, products, and partners
+              help society securely connect and seize tomorrow's digital opportunity today. Cisco and the Cisco logo are trademarks or registered trademarks of
+              Cisco and/or its affiliates in the U.S. and other countries.
+            homepage_url: https://cisco.com/
+            logo: cisco_systems_inc.svg
+            twitter: https://twitter.com/Cisco
+            crunchbase: https://www.crunchbase.com/organization/cisco
+            extra:
+              linkedin_url: https://www.linkedin.com/company/cisco
           - item:
             name: Citi
             description: >-
