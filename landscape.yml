@@ -547,6 +547,17 @@ landscape:
               name: Boost Security
               linkedin: https://www.linkedin.com/company/boostsecurity-io
           - item:
+            name: Canonical Group Limited
+            description: >-
+              Canonical Ltd. is a UK-based privately held computer software company founded and funded by South African entrepreneur Mark Shuttleworth to market
+              commercial support and related services for Ubuntu and related projects.
+            homepage_url: https://canonical.com/
+            logo: canonical_group_limited.svg
+            twitter: https://twitter.com/Canonical
+            crunchbase: https://www.crunchbase.com/organization/canonical-ltd
+            extra:
+              linkedin_url: https://www.linkedin.com/company/canonical-ltd-
+          - item:
             name: Chainguard
             description: Making the software supply chain secure by default.
             homepage_url: https://chainguard.dev/
