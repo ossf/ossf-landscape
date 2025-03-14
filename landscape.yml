@@ -760,17 +760,6 @@ landscape:
             organization:
               name: Ensignia
           - item:
-            name: F5, Inc.
-            description: >-
-              F5, headquartered in Seattle, Washington, is an application delivery networking company. They specialize in traffic optimization, security, cloud
-              services, and cloud software.
-            homepage_url: https://f5.com/
-            logo: f5_inc.svg
-            twitter: https://twitter.com/F5
-            crunchbase: https://www.crunchbase.com/organization/f5-networks
-            extra:
-              linkedin_url: https://www.linkedin.com/company/f5
-          - item:
             name: FOSSA
             description: >-
               FOSSA, Inc. is a software developer company. It provides open source compliance solutions for real-time defense against license violations. It was
