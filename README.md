@@ -36,7 +36,7 @@ If you cannot access the above resources, please [create a helpdesk ticket](http
 You can build the landscape locally on your machine using the [landscape2](https://github.com/cncf/landscape2) tool. Once [installed](https://github.com/cncf/landscape2?tab=readme-ov-file#installation), you can use the commands below to build the landscape and serve it locally.
 
 ```shell
-landscape2 build --data-file landscape.yml --settings-url https://raw.githubusercontent.com/cncf/landscape2-sites/refs/heads/main/openssf/settings.yml --logos-path hosted_logos --output-dir build
+landscape2 build --data-file landscape.yml --settings-url https://raw.githubusercontent.com/cncf/landscape2-sites/refs/heads/main/openssf/settings.yml --logos-path hosted_logos --output-dir build --guide-url https://raw.githubusercontent.com/cncf/landscape2-sites/refs/heads/main/openssf/guide.yml
 landscape2 serve --landscape-dir build
 ```
 
