@@ -422,6 +422,16 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/bloomberg-bna
           - item:
+            name: Boeing
+            homepage_url: https://boeing.com/
+            logo: boeing.svg
+            description: The Boeing Company provides products and services to customers in 145 countries. Boeing has been the premier manufacturer of commercial jetliners for more than
+              40 years and is a global market leader in military aircraft, satellites, missile defense, human space flight, and launch systems and services.
+            crunchbase: https://www.crunchbase.com/organization/boeing-7321
+            twitter: https://twitter.com/Boeing
+            extra:
+              linkedin_url: https://www.linkedin.com/company/boeing
+          - item:
             name: Boost Security
             homepage_url: https://boostsecurity.io/
             logo: boost_security.svg
