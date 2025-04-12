@@ -443,6 +443,15 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/boostsecurity-io
           - item:
+            name: Buildkite Pty Ltd
+            homepage_url: https://buildkite.com/
+            logo: buildkite_pty_ltd.svg
+            description: Buildkite is a platform for running fast, secure, and scalable continuous integration pipelines on your own infrastructure.
+            crunchbase: https://www.crunchbase.com/organization/buildkite
+            twitter: https://twitter.com/buildkite
+            extra:
+              linkedin_url: https://www.linkedin.com/company/buildkite
+          - item:
             name: Canonical Group Limited
             homepage_url: https://canonical.com/
             logo: canonical_group_limited.svg
