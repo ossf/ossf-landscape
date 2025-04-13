@@ -443,6 +443,15 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/boostsecurity-io
           - item:
+            name: Buildkite Pty Ltd
+            homepage_url: https://buildkite.com/
+            logo: buildkite_pty_ltd.svg
+            description: Buildkite is a platform for running fast, secure, and scalable continuous integration pipelines on your own infrastructure.
+            crunchbase: https://www.crunchbase.com/organization/buildkite
+            twitter: https://twitter.com/buildkite
+            extra:
+              linkedin_url: https://www.linkedin.com/company/buildkite
+          - item:
             name: Canonical Group Limited
             homepage_url: https://canonical.com/
             logo: canonical_group_limited.svg
@@ -1216,6 +1225,17 @@ landscape:
             twitter: https://twitter.com/EclipseFdn
             extra:
               linkedin_url: https://www.linkedin.com/company/eclipse-foundation
+          - item:
+            name: Erlang Ecosystem Foundation
+            homepage_url: https://erlef.org/
+            logo: erlang_ecosystem_foundation.svg
+            description: Erlang Ecosystem Foundation supports and grows a diverse community and technology based on the BEAM, fostering collaboration and advancing Erlang, Elixir, LFE,
+              and other BEAM-based technologies.
+            organization:
+              name: Erlang Ecosystem Foundation
+              linkedin: https://www.linkedin.com/company/erlef
+            extra:
+              linkedin_url: https://www.linkedin.com/company/erlef
           - item:
             name: FS-ISAC
             homepage_url: https://fsisac.com/
