@@ -1065,6 +1065,13 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/testifysec
           - item:
+            name: Trace Machina - Simulate Robotic Systems
+            homepage_url: https://tracemachina.com/
+            logo: trace_machina_simulate_robotic_systems.svg
+            description: Trace Machina is a company that specializes in building tools for ambitious engineering teams to accelerate automation.
+            organization:
+              name: Trace Machina - Simulate Robotic Systems
+          - item:
             name: Trail of Bits
             homepage_url: https://trailofbits.com/
             logo: trail_of_bits.svg
