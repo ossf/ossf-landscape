@@ -882,6 +882,18 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/reevo-cloud
           - item:
+            name: Renesas Electronics Corporation
+            homepage_url: https://renesas.com/
+            logo: renesas_electronics_corporation.svg
+            description: Renesas Electronics Corporation delivers trusted embedded design innovation with complete semiconductor solutions that enable billions of connected, intelligent
+              devices to enhance the way people work and livesecurely and safely. The number one global supplier of microcontrollers, and a leader in Analog & Power and SoC products,
+              Renesas provides the expertise, quality, and comprehensive solutions for a broad range of Automotive, Industrial, Home Electronics (HE), Office Automation (OA) and Information
+              Communication Technology (ICT) applications to help shape a limitless future.
+            crunchbase: https://www.crunchbase.com/organization/renesas-electronics-corporation
+            twitter: https://twitter.com/RenesasGlobal
+            extra:
+              linkedin_url: https://www.linkedin.com/company/renesas-electronics-corporation
+          - item:
             name: ReversingLabs
             homepage_url: https://reversinglabs.com/
             logo: reversinglabs.svg
