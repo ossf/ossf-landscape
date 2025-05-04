@@ -706,9 +706,7 @@ landscape:
             logo: guidewire_software_inc.svg
             description: Guidewire Software provides core back end systems software to the global property, casual and worker's compensation insurance industry. They offer a technology
               platform that combines core processing, data and analytics, and digital engagement to empowe...
-            organization:
-              name: Guidewire Software, Inc.
-              linkedin: https://www.linkedin.com/company/guidewire-software
+            crunchbase: https://www.crunchbase.com/organization/guidewire-software
             extra:
               linkedin_url: https://www.linkedin.com/company/guidewire-software
           - item:
