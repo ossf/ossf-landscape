@@ -567,18 +567,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/cybozu
           - item:
-            name: Cycode, Inc.
-            homepage_url: https://cycode.com/
-            logo: cycode_inc.svg
-            description: |-
-              Introducing the First Source Code Control, Detection, and Response Solution- Cycode.com
-              181 Metro Dr. Suite 290
-              San Jose, CA 95110 - office in CA
-            crunchbase: https://www.crunchbase.com/organization/cycode
-            twitter: https://twitter.com/CycodeHQ
-            extra:
-              linkedin_url: https://www.linkedin.com/company/cycode
-          - item:
             name: Defense Unicorns
             homepage_url: https://defenseunicorns.com/
             logo: defense_unicorns.svg
