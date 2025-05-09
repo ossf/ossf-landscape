@@ -1140,6 +1140,21 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/g-research
           - item:
+            name: Triam Security
+            homepage_url: https://triamsecurity.com/
+            logo: triam_security.svg
+            description: |-
+              Triamsecurity is a leading provider of comprehensive security solutions for businesses. We offer a wide range of products and services to help protect your company from various threats. Our team of experts specializes in risk assessment, security consu...
+
+              --- Merged Data:
+
+              Triamsecurity is a leading provider of comprehensive security solutions for businesses. We offer a wide range of products and services to help protect your company from various threats. Our team of experts specializes in risk assessment, security consu...
+            organization:
+              name: Triam Security
+              linkedin: https://www.linkedin.com/company/triam-security
+            extra:
+              linkedin_url: https://www.linkedin.com/company/triam-security
+          - item:
             name: VicOne Inc.
             homepage_url: https://vicone.com/
             logo: vicone_inc.svg
