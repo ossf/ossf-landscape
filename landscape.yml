@@ -689,6 +689,17 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/goldman-sachs
           - item:
+            name: G-Research
+            homepage_url: https://gresearch.co.uk/
+            logo: g_research.svg
+            description: |-
+              About us
+              G-Research is a leading quantitative research and technology company.  By using the latest scientific techniques, we produce world-beating predictive research and build advanced technology to analyse the world’s data.
+            crunchbase: https://www.crunchbase.com/organization/g-research
+            twitter: https://twitter.com/GRESEARCHjobs
+            extra:
+              linkedin_url: https://www.linkedin.com/company/g-research
+          - item:
             name: Guidewire Software, Inc.
             homepage_url: https://guidewire.com/
             logo: guidewire_software_inc.svg
@@ -1078,67 +1089,6 @@ landscape:
             twitter: https://twitter.com/trailofbits
             extra:
               linkedin_url: https://www.linkedin.com/company/trail-of-bits
-          - item:
-            name: Trenchant Limited (trading as G-Research)
-            homepage_url: https://gresearch.co.uk/
-            logo: trenchant_limited_trading_as_g_research.svg
-            description: |-
-              About us
-              G-Research is a leading quantitative research and technology company.  By using the latest scientific techniques, we produce world-beating predictive research and build advanced technology to analyse the world’s data.
-
-              Join us and you'll explore complex challenges with some of the world's smartest people in an open and informal environment. We are all working towards achieving our long-term goal: human ingenuity limited only by the speed of thought.
-
-              There is also a lively social side to G-Research with many team events and company-wide celebrations.
-
-              Based in the heart of Central London, we are served by 5 stations and 6 tube lines, with the closest station Goodge Street within seconds of the office. Being situated in the vibrant West End means you are in walking distance of many top London attractions and shopping districts.
-
-              Recent updateSee all See all recent updates
-              Image accompanying recent update
-              Tom Andrews on LinkedIn: "A few of us are on our way home after giving a workplace presentation at Bournemouth University. It was great to see so many interested people, for either of our placement or graduate opportunities in our Production IT and Security divisions. https://lnkd.in/gkwnW3m"
-
-              linkedin.com
-
-              12 Likes
-              Company details
-              Website
-              https://www.gresearch.co.uk
-              Headquarters
-              London
-
-              Year founded
-              2001
-
-              Company type
-              Privately Held
-
-              Company size
-              501-1,000 employees
-              Specialties
-              Quantitative Research, IT Infrastructure, IT Systems, Information Security, Machine Learning, and Software Engineering
-
-              Featured Groups
-               Logo for Quantitative Analysts	
-              Quantitative Analysts
-              3,994 members
-               
-               Logo for Software Engineering Professionals	
-              Software Engineering Professionals
-              15,627 members
-               
-               Logo for Information Security Community	
-              Information Security Community
-              399,989 members
-              1 Office location
-              Main
-              Whittington House, 19-30 Alfred Place, London, WC1E 7EA, gb
-
-              --- Merged Data:
-
-              G-Research is Europe’s leading quantitative finance research firm. We hire the brightest minds in the world to tackle the biggest questions in finance.
-            crunchbase: https://www.crunchbase.com/organization/g-research
-            twitter: https://twitter.com/GRESEARCHjobs
-            extra:
-              linkedin_url: https://www.linkedin.com/company/g-research
           - item:
             name: Triam Security
             homepage_url: https://triamsecurity.com/
