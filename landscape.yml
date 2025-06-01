@@ -401,6 +401,16 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/auristor-inc
           - item:
+            name: Balena Ltd.
+            homepage_url: https://balena.io/
+            logo: balena_ltd.svg
+            description: Our goal is to empower you to write great applications for devices - both in the virtual realm and those that cross over into the physical world - without having
+              to worry about the friction involved in getting your hardware working and keeping your application up to date.
+            crunchbase: https://www.crunchbase.com/organization/resin-io
+            twitter: https://twitter.com/balena_io
+            extra:
+              linkedin_url: https://www.linkedin.com/company/balenaio
+          - item:
             name: Block, Inc.
             homepage_url: https://block.xyz/
             logo: block_inc.svg
