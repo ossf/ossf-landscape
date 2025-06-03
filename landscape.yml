@@ -883,9 +883,7 @@ landscape:
             logo: reevo_spa.svg
             description: ReeVo is the premier Italian Cloud & Cyber Security provider, safeguarding businesses with Secure Cloud and Cyber Security solutions through ISO-certified Data
               Centers.
-            organization:
-              name: ReeVo Spa
-              linkedin: https://www.linkedin.com/company/reevo-cloud
+            crunchbase: https://www.crunchbase.com/organization/reevo-4b5e
             extra:
               linkedin_url: https://www.linkedin.com/company/reevo-cloud
           - item:
