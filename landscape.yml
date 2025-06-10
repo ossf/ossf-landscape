@@ -9,9 +9,9 @@ landscape:
             name: Amazon Web Services, Inc.
             homepage_url: https://amazon.com/
             logo: amazon_web_services_inc.svg
-            description: Amazon.com, Inc. is an online retailer, offering new, refurbished and used products including books, DVDs, CDs, MP3 downloads, software, video games, electronics,
-              furniture, apparel, jewelry, and toys. The company also manufactures consumer electronics (notably the Amazon Kindle and the Kindle Fire) and provides cloud computing services.
-              Amazon is a publicly owned company and is based out of Seattle, WA.
+            description: Amazon.com, Inc. is an online retailer, offering new, refurbished and used products including books, DVDs, CDs, MP3 downloads, software, video games, 
+              electronics, furniture, apparel, jewelry, and toys. The company also manufactures consumer electronics (notably the Amazon Kindle and the Kindle Fire) and provides 
+              cloud computing services. Amazon is a publicly owned company and is based out of Seattle, WA.
             crunchbase: https://www.crunchbase.com/organization/amazon-web-services
             twitter: https://twitter.com/amazon
             extra:
@@ -20,10 +20,10 @@ landscape:
             name: Apple Inc.
             homepage_url: https://apple.com/
             logo: apple_inc.svg
-            description: Founded in 1976, Apple ignited the personal computer revolution in the 1970s with the Apple II and reinvented the personal computer in the 1980s with the Macintosh.
-              Today, Apple continues to lead the industry in innovation with its award-winning computers, OS X operating system and iLife and professional applications. Apple is also
-              spearheading the digital media revolution with its iPod portable music and video players, iTunes online store, and the mobile phone market with its revolutionary iPhone.
-              Apple headquarters are located in Cupertino, California.
+            description: Founded in 1976, Apple ignited the personal computer revolution in the 1970s with the Apple II and reinvented the personal computer in the 1980s with the 
+              Macintosh. Today, Apple continues to lead the industry in innovation with its award-winning computers, OS X operating system and iLife and professional applications. 
+              Apple is also spearheading the digital media revolution with its iPod portable music and video players, iTunes online store, and the mobile phone market with its 
+              revolutionary iPhone. Apple headquarters are located in Cupertino, California.
             crunchbase: https://www.crunchbase.com/organization/apple
             twitter: https://twitter.com/Apple
             extra:
@@ -32,8 +32,8 @@ landscape:
             name: Capital One Services LLC
             homepage_url: https://capitalone.com/
             logo: capital_one_services_llc.svg
-            description: Capital One-Europe is a subsidiary of the Capital One Financial Corporation and is based out of Nottingham England. They aim to provide a broad spectrum of financial
-              products and services to consumers, small businesses and commercial clients all over Europe.
+            description: Capital One-Europe is a subsidiary of the Capital One Financial Corporation and is based out of Nottingham England. They aim to provide a broad spectrum of
+              financial products and services to consumers, small businesses and commercial clients all over Europe.
             crunchbase: https://www.crunchbase.com/organization/capital-one
             twitter: https://twitter.com/CapitalOne
             extra:
@@ -42,8 +42,8 @@ landscape:
             name: Datadog, Inc
             homepage_url: https://datadoghq.com/
             logo: datadog_inc.svg
-            description: Datadog is a monitoring service for IT, Operations and Development teams who write and run applications at scale, and want to turn the massive amounts of data
-              produced by their apps, tools and services into actionable insight.
+            description: Datadog is a monitoring service for IT, Operations and Development teams who write and run applications at scale, and want to turn the massive amounts of 
+              data produced by their apps, tools and services into actionable insight.
             crunchbase: https://www.crunchbase.com/organization/datadog
             twitter: https://twitter.com/datadoghq
             extra:
@@ -52,8 +52,8 @@ landscape:
             name: Dell Technologies
             homepage_url: https://delltechnologies.com/
             logo: dell_technologies.svg
-            description: Dell Technologies provides digital technology solutions, products, and services including consulting, deployment, education and residency services, payment solutions,
-              cloud services, and more. Dell Technologies is headquartered in Round Rock, Texas.
+            description: Dell Technologies provides digital technology solutions, products, and services including consulting, deployment, education and residency services, payment
+              solutions, cloud services, and more. Dell Technologies is headquartered in Round Rock, Texas.
             crunchbase: https://www.crunchbase.com/organization/dell
             twitter: https://twitter.com/Dell
             extra:
@@ -62,9 +62,9 @@ landscape:
             name: Ericsson
             homepage_url: https://ericsson.com/
             logo: ericsson.svg
-            description: Founded in 1876, Ericsson is a Swedish communication technology and services provider. The company offers software, services, and infrastructure for information
-              and communications technology used by telecommunications operators, including traditional telecommunications, Internet Protocol networking equipment, mobile and fixed broadband,
-              cable TV, IPTV, video systems, and business support solutions. Ericsson is headquartered in Stockholm, Sweden.
+            description: Founded in 1876, Ericsson is a Swedish communication technology and services provider. The company offers software, services, and infrastructure for 
+              information and communications technology used by telecommunications operators, including traditional telecommunications, Internet Protocol networking equipment, 
+              mobile and fixed broadband, cable TV, IPTV, video systems, and business support solutions. Ericsson is headquartered in Stockholm, Sweden.
             crunchbase: https://www.crunchbase.com/organization/ericsson
             twitter: https://twitter.com/ericsson
             extra:
@@ -73,8 +73,8 @@ landscape:
             name: GitHub, Inc.
             homepage_url: https://github.com/
             logo: github_inc.svg
-            description: Launched in 2008, GitHub is a code hosting company located in San Francisco, California. They provide web-based graphical interface and desktop as a mobile integration,
-              as well as access control and collaboration features such as task management, bug tracking, and wikis.
+            description: Launched in 2008, GitHub is a code hosting company located in San Francisco, California. They provide web-based graphical interface and desktop as a mobile
+              integration, as well as access control and collaboration features such as task management, bug tracking, and wikis.
             crunchbase: https://www.crunchbase.com/organization/github
             twitter: https://twitter.com/github
             extra:
@@ -83,8 +83,8 @@ landscape:
             name: Google LLC
             homepage_url: https://google.com/
             logo: google_llc.svg
-            description: Founded in 1998, Google, Inc. is a multinational corporation that provides Internet-related services and products, including an internet search engine, software,
-              cloud computing, and advertising technologies.
+            description: Founded in 1998, Google, Inc. is a multinational corporation that provides Internet-related services and products, including an internet search engine, 
+              software, cloud computing, and advertising technologies.
             crunchbase: https://www.crunchbase.com/organization/google
             twitter: https://twitter.com/Google
             extra:
@@ -93,7 +93,8 @@ landscape:
             name: Huawei Technologies Co., Ltd
             homepage_url: https://huawei.com/
             logo: huawei_technologies_co.svg
-            description: Huawei is a global provider of information and communications technology (ICT) infrastructure and smart devices. Huawei is headquartered in Shenzhen, China.
+            description: Huawei is a global provider of information and communications technology (ICT) infrastructure and smart devices. Huawei is headquartered in Shenzhen, 
+              China.
             crunchbase: https://www.crunchbase.com/organization/huawei
             twitter: https://twitter.com/Huawei
             extra:
@@ -102,11 +103,12 @@ landscape:
             name: Intel Corporation
             homepage_url: https://intel.com/
             logo: intel_corporation.svg
-            description: Intel Corporation designs, manufactures, and sells computer, networking, and communications platforms worldwide. The company offers microprocessors, chipsets,
-              and input, display, and storage devices, such as keyboard, mouse, monitor, hard drive or solid-state drive, and optical disc drives; and system-on-chip and multichip packaging
-              products. In addition, the company develops computer vision and machine learning-based sensing products, mapping and driving policy technology solutions for advanced driver
-              assistance systems, and autonomous driving technologies. It serves original equipment manufacturers, original design manufacturers, cloud and communications service providers,
-              and industrial, communications, and automotive equipment manufacturers. The company was founded in 1968 and is based in Santa Clara, California.
+            description: Intel Corporation designs, manufactures, and sells computer, networking, and communications platforms worldwide. The company offers microprocessors, 
+              chipsets, and input, display, and storage devices, such as keyboard, mouse, monitor, hard drive or solid-state drive, and optical disc drives; and system-on-chip and 
+              multichip packaging products. In addition, the company develops computer vision and machine learning-based sensing products, mapping and driving policy technology 
+              solutions for advanced driver assistance systems, and autonomous driving technologies. It serves original equipment manufacturers, original design manufacturers, 
+              cloud and communications service providers, and industrial, communications, and automotive equipment manufacturers. The company was founded in 1968 and is based in 
+              Santa Clara, California.
             crunchbase: https://www.crunchbase.com/organization/intel
             twitter: https://twitter.com/intel
             extra:
@@ -138,9 +140,9 @@ landscape:
             name: Microsoft Corporation
             homepage_url: https://microsoft.com/
             logo: microsoft_corporation.svg
-            description: The Microsoft Corporation is a publicly owned American software corporation headquartered in Redmond, Washington. Founded in 1975, the company develops, manufactures,
-              licenses and supports a variety of computing products used by consumers and businesses. Some of their popular products include Windows, Xbox, Microsoft HoloLens, Microsoft
-              Lumia, Outlook, Skype, OneDrive and Microsoft Band.
+            description: The Microsoft Corporation is a publicly owned American software corporation headquartered in Redmond, Washington. Founded in 1975, the company develops, 
+              manufactures, licenses and supports a variety of computing products used by consumers and businesses. Some of their popular products include Windows, Xbox, Microsoft 
+              HoloLens, Microsoft Lumia, Outlook, Skype, OneDrive and Microsoft Band.
             crunchbase: https://www.crunchbase.com/organization/microsoft
             twitter: https://twitter.com/Microsoft
             extra:
@@ -149,9 +151,9 @@ landscape:
             name: Morgan Stanley
             homepage_url: https://morganstanley.com/
             logo: morgan_stanley.svg
-            description: Morgan Stanley is a multinational financial services corporation, providing products and services to a diversified group of clients and customers, including
-              individuals, corporations, governments, and financial institutions through its subsidiaries and affiliates. Formed in 1935, the company is headquartered in New York City,
-              New York.
+            description: Morgan Stanley is a multinational financial services corporation, providing products and services to a diversified group of clients and customers, 
+              including individuals, corporations, governments, and financial institutions through its subsidiaries and affiliates. Formed in 1935, the company is headquartered in 
+              New York City, New York.
             crunchbase: https://www.crunchbase.com/organization/morgan-stanley
             twitter: https://twitter.com/MorganStanley
             extra:
@@ -160,10 +162,10 @@ landscape:
             name: Red Hat, Inc.
             homepage_url: https://redhat.com/
             logo: red_hat_inc.svg
-            description: Red Hat was established in 1993 and is headquartered in Raleigh, North Carolina. Red Hat is the provider of open source software solutions, using a community-powered
-              approach to provide reliable and high-performing cloud, Linux, middleware, storage, and virtualization technologies. Red Hat also offers support, training, and consulting
-              services. As the connective hub in a global network of enterprises, partners, and open source communities, Red Hat helps create relevant, innovative technologies that liberate
-              resources for growth and prepare customers for the future of IT.
+            description: Red Hat was established in 1993 and is headquartered in Raleigh, North Carolina. Red Hat is the provider of open source software solutions, using a 
+              community-powered approach to provide reliable and high-performing cloud, Linux, middleware, storage, and virtualization technologies. Red Hat also offers support, 
+              training, and consulting services. As the connective hub in a global network of enterprises, partners, and open source communities, Red Hat helps create relevant, 
+              innovative technologies that liberate resources for growth and prepare customers for the future of IT.
             crunchbase: https://www.crunchbase.com/organization/red-hat
             twitter: https://twitter.com/RedHat
             extra:
@@ -271,8 +273,8 @@ landscape:
             name: Ada Logics
             homepage_url: https://adalogics.com/
             logo: ada_logics.svg
-            description: ADA Logics specializes in advanced software security by providing vulnerability analysis, software auditing, and security automation services, enabling organizations
-              to develop complex systems with a strong emphasis on safety and security through a com...
+            description: ADA Logics specializes in advanced software security by providing vulnerability analysis, software auditing, and security automation services, enabling 
+              organizations to develop complex systems with a strong emphasis on safety and security through a com...
             crunchbase: https://www.crunchbase.com/organization/ada-logics
             extra:
               linkedin_url: https://www.linkedin.com/company/ada-logics
@@ -280,7 +282,8 @@ landscape:
             name: Aiven
             homepage_url: https://aiven.io/
             logo: aiven.svg
-            description: Leverage the complete open source ecosystem of extensions and tools to create highly-performant data pipelines for event-driven applications on all major clouds.
+            description: Leverage the complete open source ecosystem of extensions and tools to create highly-performant data pipelines for event-driven applications on all major 
+              clouds.
             crunchbase: https://www.crunchbase.com/organization/aiven
             twitter: https://twitter.com/aiven_io
             extra:
@@ -308,9 +311,9 @@ landscape:
             name: Alibaba Cloud (Singapore) Private LTD
             homepage_url: https://alibaba-inc.com/
             logo: alibaba_cloud_singapore_private_ltd.svg
-            description: Alibaba Group, founded in 1999, is a company that helps connect businesses to other businesses through cloud computing, logistics, core commerce, local services
-              sectors, and mobile media and entertainment. Alibaba Group is headquartered in Xixi District of Hangzhou, China and maintains offices in China, France, Germany, Hong Kong,
-              India, Italy, Korea, Taiwan, Turkey, Russia, Singapore, the United Arab Emirates, the United Kingdom and the United States.
+            description: Alibaba Group, founded in 1999, is a company that helps connect businesses to other businesses through cloud computing, logistics, core commerce, local 
+              services sectors, and mobile media and entertainment. Alibaba Group is headquartered in Xixi District of Hangzhou, China and maintains offices in China, France, 
+              Germany, Hong Kong, India, Italy, Korea, Taiwan, Turkey, Russia, Singapore, the United Arab Emirates, the United Kingdom and the United States.
             crunchbase: https://www.crunchbase.com/organization/alibaba-cloud
             twitter: https://twitter.com/AlibabaB2B
             extra:
@@ -339,9 +342,9 @@ landscape:
             name: Arm Limited
             homepage_url: https://arm.com/
             logo: arm_limited.svg
-            description: ARM Ltd. is a British semiconductor and software design company. The company develops microprocessors based on reduced instruction set computing that is licensed
-              by more than 250 computer chip manufacturers. They serve a wide range of industries including automotive, healthcare, infrastructure, IoT, mobile, smart homes, and wearables.
-              ARM has sold 1,379 licenses to more than 450 partners. The company was founded in 1990 and is headquartered in the UK.
+            description: ARM Ltd. is a British semiconductor and software design company. The company develops microprocessors based on reduced instruction set computing that is 
+              licensed by more than 250 computer chip manufacturers. They serve a wide range of industries including automotive, healthcare, infrastructure, IoT, mobile, smart 
+              homes, and wearables. ARM has sold 1,379 licenses to more than 450 partners. The company was founded in 1990 and is headquartered in the UK.
             crunchbase: https://www.crunchbase.com/organization/arm
             twitter: https://twitter.com/ArmCommunity
             extra:
@@ -350,8 +353,8 @@ landscape:
             name: Atlassian US, Inc
             homepage_url: https://atlassian.com/
             logo: atlassian_us_inc.svg
-            description: G’day, we’re Atlassian. We make tools like Jira and Trello that are used by thousands of teams worldwide. And we’re serious about creating amazing products,
-              practices, and open work for all teams.
+            description: G’day, we’re Atlassian. We make tools like Jira and Trello that are used by thousands of teams worldwide. And we’re serious about creating amazing 
+              products, practices, and open work for all teams.
             crunchbase: https://www.crunchbase.com/organization/atlassian
             twitter: https://twitter.com/Atlassian
             extra:
@@ -404,8 +407,8 @@ landscape:
             name: Balena Ltd.
             homepage_url: https://balena.io/
             logo: balena_ltd.svg
-            description: Our goal is to empower you to write great applications for devices - both in the virtual realm and those that cross over into the physical world - without having
-              to worry about the friction involved in getting your hardware working and keeping your application up to date.
+            description: Our goal is to empower you to write great applications for devices - both in the virtual realm and those that cross over into the physical world - without 
+              having to worry about the friction involved in getting your hardware working and keeping your application up to date.
             crunchbase: https://www.crunchbase.com/organization/resin-io
             twitter: https://twitter.com/balena_io
             extra:
@@ -423,10 +426,11 @@ landscape:
             name: Bloomberg Finance L.P.
             homepage_url: https://techatbloomberg.com/
             logo: bloomberg_finance_l_p.svg
-            description: Bloomberg is a privately held mass media, data, and financial software company headquartered in New York, New York. The company is best known for as a provider
-              of business and financial market news, including stock quotes, world economics, and financial advice. Bloomberg includes a global TV network (Bloomberg Television), a radio
-              station (WBBR), three magazines (Bloomberg Businessweek, Bloomberg Markets, and Bloomberg Pursuit), and a wire service (Bloomberg News). The company also provides financial
-              software tools, including data services and an analytics and equity trading platform to financial companies and organizations through the Bloomberg terminal.
+            description: Bloomberg is a privately held mass media, data, and financial software company headquartered in New York, New York. The company is best known for as a 
+              provider of business and financial market news, including stock quotes, world economics, and financial advice. Bloomberg includes a global TV network (Bloomberg 
+              Television), a radio station (WBBR), three magazines (Bloomberg Businessweek, Bloomberg Markets, and Bloomberg Pursuit), and a wire service (Bloomberg News). The 
+              company also provides financial software tools, including data services and an analytics and equity trading platform to financial companies and organizations through 
+              the Bloomberg terminal.
             crunchbase: https://www.crunchbase.com/organization/bloomberg
             twitter: https://twitter.com/business
             extra:
@@ -435,8 +439,8 @@ landscape:
             name: Boeing
             homepage_url: https://boeing.com/
             logo: boeing.svg
-            description: The Boeing Company provides products and services to customers in 145 countries. Boeing has been the premier manufacturer of commercial jetliners for more than
-              40 years and is a global market leader in military aircraft, satellites, missile defense, human space flight, and launch systems and services.
+            description: The Boeing Company provides products and services to customers in 145 countries. Boeing has been the premier manufacturer of commercial jetliners for more 
+              than 40 years and is a global market leader in military aircraft, satellites, missile defense, human space flight, and launch systems and services.
             crunchbase: https://www.crunchbase.com/organization/boeing-7321
             twitter: https://twitter.com/Boeing
             extra:
@@ -465,8 +469,8 @@ landscape:
             name: Canonical Group Limited
             homepage_url: https://canonical.com/
             logo: canonical_group_limited.svg
-            description: Canonical Ltd. is a UK-based privately held computer software company founded and funded by South African entrepreneur Mark Shuttleworth to market commercial
-              support and related services for Ubuntu and related projects.
+            description: Canonical Ltd. is a UK-based privately held computer software company founded and funded by South African entrepreneur Mark Shuttleworth to market 
+              commercial support and related services for Ubuntu and related projects.
             crunchbase: https://www.crunchbase.com/organization/canonical-ltd
             twitter: https://twitter.com/Canonical
             extra:
@@ -484,8 +488,8 @@ landscape:
             name: Chainloop
             homepage_url: https://chainloop.dev/
             logo: chainloop.svg
-            description: Chainloop is an open source software supply chain control plane that simplifies attestation and artifact management for Devs and SecOps, ensuring compliance
-              with ease.
+            description: Chainloop is an open source software supply chain control plane that simplifies attestation and artifact management for Devs and SecOps, ensuring 
+              compliance with ease.
             crunchbase: https://www.crunchbase.com/organization/chainloop
             extra:
               linkedin_url: https://www.linkedin.com/company/chainloop-dev
@@ -543,9 +547,10 @@ landscape:
             name: Comcast Cable Communications, LLC
             homepage_url: https://xfinity.com/
             logo: comcast_cable_communications_llc.svg
-            description: Founded in 1963 and headquartered in Philadelphia, Pennsylvania, Comcast Corporation is an American telecommunications conglomerate. Comcast owns two primary
-              businesses, Comcast Cable and NBCUniversal. Comcast delivers phone service and high-speed internet under the brand Xfinity. Comcast provides its services for both residents
-              and commercial businesses. E! Television Network, Telemundo & NBC are all a part of their broadcast networks. Some of their media includes news, entertainment, and sports.
+            description: Founded in 1963 and headquartered in Philadelphia, Pennsylvania, Comcast Corporation is an American telecommunications conglomerate. Comcast owns two 
+              primary businesses, Comcast Cable and NBCUniversal. Comcast delivers phone service and high-speed internet under the brand Xfinity. Comcast provides its services for 
+              both residents and commercial businesses. E! Television Network, Telemundo & NBC are all a part of their broadcast networks. Some of their media includes news, 
+              entertainment, and sports.
             crunchbase: https://www.crunchbase.com/organization/comcast
             twitter: https://twitter.com/Xfinity
             extra:
@@ -554,7 +559,8 @@ landscape:
             name: Control-Plane.io
             homepage_url: https://control-plane.io/
             logo: control_plane.svg
-            description: ControlPlane ⟁ Secure Kubernetes from supply-chain and runtime attacks ⟁ Zero trust, continuous security ⟁ containers | security | training | quality | open-source
+            description: ControlPlane ⟁ Secure Kubernetes from supply-chain and runtime attacks ⟁ Zero trust, continuous security ⟁ containers | security | training | quality | 
+              open-source
             crunchbase: https://www.crunchbase.com/organization/controlplane
             twitter: https://twitter.com/controlplaneio
             extra:
@@ -570,8 +576,8 @@ landscape:
             name: Cybozu, Inc.
             homepage_url: https://cybozu.com/
             logo: cybozu_inc.svg
-            description: San Francisco-based kintone is making teamwork better with an agile, cloud-based, no-coding-required business application build and deploy platform. kintone
-              empowers teams of all shapes and sizes to collaborate and solve business process inefficiencies...
+            description: San Francisco-based kintone is making teamwork better with an agile, cloud-based, no-coding-required business application build and deploy platform. 
+              kintone empowers teams of all shapes and sizes to collaborate and solve business process inefficiencies...
             crunchbase: https://www.crunchbase.com/organization/cybozu
             twitter: https://twitter.com/cybozu
             extra:
@@ -589,8 +595,8 @@ landscape:
             name: DeployHub, Inc.
             homepage_url: https://deployhub.com/
             logo: deployhub_inc.svg
-            description: DeployHub® is a fast, agentless and safe continuous deployment solution, born in the cloud.  It's deployment version control engine allows you to easily deploy
-              deltas across large Kubernetes clusters driven by your CI/CD pipeline.  It is the open source choice for cloud, container or mixed legacy environments.
+            description: DeployHub® is a fast, agentless and safe continuous deployment solution, born in the cloud.  It's deployment version control engine allows you to easily 
+              deploy deltas across large Kubernetes clusters driven by your CI/CD pipeline.  It is the open source choice for cloud, container or mixed legacy environments.
             crunchbase: https://www.crunchbase.com/organization/deployhub
             twitter: https://twitter.com/DeployHubProj
             extra:
@@ -599,8 +605,8 @@ landscape:
             name: Depository Trust and Clearing Corporation (DTCC)
             homepage_url: https://dtcc.com/
             logo: depository_trust_and_clearing_corporation_dtcc.svg
-            description: Depository Trust company (DTCC), founded in 1973 and headquartered in New York, New York, is an American post-trade financial services company providing clearing
-              and settlement services to the financial markets.
+            description: Depository Trust company (DTCC), founded in 1973 and headquartered in New York, New York, is an American post-trade financial services company providing 
+              clearing and settlement services to the financial markets.
             crunchbase: https://www.crunchbase.com/organization/dtcc
             twitter: https://twitter.com/The_DTCC
             extra:
@@ -609,7 +615,8 @@ landscape:
             name: Docker, Inc.
             homepage_url: https://docker.com/
             logo: docker_inc.svg
-            description: Docker is an open platform for developers and system administrators to build, ship and run distributed applications. They are based in Palo Alto, California.
+            description: Docker is an open platform for developers and system administrators to build, ship and run distributed applications. They are based in Palo Alto, 
+              California.
             crunchbase: https://www.crunchbase.com/organization/docker
             twitter: https://twitter.com/Docker
             extra:
@@ -618,8 +625,8 @@ landscape:
             name: embraceable Technology
             homepage_url: https://embraceable.ai/
             logo: embraceable_technology.svg
-            description: embraceableAI offers intelligent digital assistants that outperform standard RAG frameworks and AI co-pilots, setting new benchmarks in result quality, compliance,
-              and reliability.
+            description: embraceableAI offers intelligent digital assistants that outperform standard RAG frameworks and AI co-pilots, setting new benchmarks in result quality, 
+              compliance, and reliability.
             organization:
               name: embraceable Technology
               linkedin: https://www.linkedin.com/company/embraceableai
@@ -646,8 +653,8 @@ landscape:
             name: FOSSA
             homepage_url: https://fossa.io/
             logo: fossa.svg
-            description: FOSSA, Inc. is a software developer company. It provides open source compliance solutions for real-time defense against license violations. It was Founded in
-              2013 and is based in San Francisco, California.
+            description: FOSSA, Inc. is a software developer company. It provides open source compliance solutions for real-time defense against license violations. It was Founded 
+              in 2013 and is based in San Francisco, California.
             crunchbase: https://www.crunchbase.com/organization/fossa-2
             twitter: https://twitter.com/getfossa
             extra:
@@ -656,12 +663,12 @@ landscape:
             name: Fujitsu Limited
             homepage_url: https://fujitsu.com/
             logo: fujitsu_limited.svg
-            description: Fujitsu is the leading Japanese information and communication technology (ICT) company offering a full range of technology products, solutions and services.
-              Approximately 162, 000 Fujitsu people support customers in more than 100 countries. The company uses its experience and the power of ICT to shape the future of society
-              with its customers. Fujitsu Limited reported consolidated revenues of 4.8 trillion yen (US$46 billion) for the fiscal year ended March 31, 2014. Fujitsu is the world's
-              fourth largest IT services provider and No.1 in Japan. Fujitsu is among the world's top five providers of servers. FORTUNE named Fujitsu as one of 'the World's Most Admired
-              Companies' in 2013. Fujitsu Group holds about 97, 000 patents worldwide. Fujitsu is part of the Dow Jones Sustainability Indexes (World), FTSE4Good Index Series, and Oekom
-              research.
+            description: Fujitsu is the leading Japanese information and communication technology (ICT) company offering a full range of technology products, solutions and 
+              services. Approximately 162, 000 Fujitsu people support customers in more than 100 countries. The company uses its experience and the power of ICT to shape the future
+              of society with its customers. Fujitsu Limited reported consolidated revenues of 4.8 trillion yen (US$46 billion) for the fiscal year ended March 31, 2014. Fujitsu is
+              the world's fourth largest IT services provider and No.1 in Japan. Fujitsu is among the world's top five providers of servers. FORTUNE named Fujitsu as one of 'the 
+              World's Most Admired Companies' in 2013. Fujitsu Group holds about 97, 000 patents worldwide. Fujitsu is part of the Dow Jones Sustainability Indexes (World), 
+              FTSE4Good Index Series, and Oekom research.
             crunchbase: https://www.crunchbase.com/organization/fujitsu
             twitter: https://twitter.com/Fujitsu_Global
             extra:
@@ -670,10 +677,10 @@ landscape:
             name: Futurewei Technologies, Inc.
             homepage_url: https://futurewei.com/
             logo: futurewei_technologies_inc.svg
-            description: FutureWei, based in Plano, Texas, is the North American subsidiary of Huawei Technologies Co. Ltd., a leading global vendor of telecommunications systems and
-              network solutions based in Shenzhen, China. Huawei posted US$5.58 billion in sales in 2004 and has products deployed in over 90 countries. With a strong focus on network
-              infrastructure, FutureWei Technologies, Inc. designs, markets and supports a wide range of advanced telecommunication products for service providers and enterprise network
-              solutions.
+            description: FutureWei, based in Plano, Texas, is the North American subsidiary of Huawei Technologies Co. Ltd., a leading global vendor of telecommunications systems 
+              and network solutions based in Shenzhen, China. Huawei posted US$5.58 billion in sales in 2004 and has products deployed in over 90 countries. With a strong focus on 
+              network infrastructure, FutureWei Technologies, Inc. designs, markets and supports a wide range of advanced telecommunication products for service providers and 
+              enterprise network solutions.
             crunchbase: https://www.crunchbase.com/organization/futurewei-technologies
             extra:
               linkedin_url: https://www.linkedin.com/company/futureweitechnologiesinc
@@ -681,9 +688,9 @@ landscape:
             name: GitLab Inc.
             homepage_url: https://about.gitlab.com/
             logo: gitlab_inc.svg
-            description: GitLab is a complete DevOps platform built from the ground up as a single application for all stages of the DevOps lifecycle enabling Product, Development, QA,
-              Security, and Operations teams to work concurrently on the same project. GitLab provides a single data store, one user interface, and one permission model across the DevOps
-              lifecycle. Established in 2011, GitLab is headquartered in San Francisco, California, United States.
+            description: GitLab is a complete DevOps platform built from the ground up as a single application for all stages of the DevOps lifecycle enabling Product, Development,
+              QA, Security, and Operations teams to work concurrently on the same project. GitLab provides a single data store, one user interface, and one permission model across 
+              the DevOps lifecycle. Established in 2011, GitLab is headquartered in San Francisco, California, United States.
             crunchbase: https://www.crunchbase.com/organization/gitlab-com
             twitter: https://twitter.com/gitlab
             extra:
@@ -692,8 +699,8 @@ landscape:
             name: Goldman Sachs & Co. LLC
             homepage_url: https://goldmansachs.com/
             logo: goldman_sachs_co.svg
-            description: Founded in 1869, Goldman Sachs is a global investment banking, securities, and investment management firm that provides client-based services that include corporations,
-              financial institutions, governments and high net worth individuals. Goldman Sachs is headquartered in New York.
+            description: Founded in 1869, Goldman Sachs is a global investment banking, securities, and investment management firm that provides client-based services that include 
+              corporations, financial institutions, governments and high net worth individuals. Goldman Sachs is headquartered in New York.
             crunchbase: https://www.crunchbase.com/organization/goldman-sachs
             twitter: https://twitter.com/GSCareers
             extra:
@@ -713,8 +720,8 @@ landscape:
             name: Guidewire Software, Inc.
             homepage_url: https://guidewire.com/
             logo: guidewire_software_inc.svg
-            description: Guidewire Software provides core back end systems software to the global property, casual and worker's compensation insurance industry. They offer a technology
-              platform that combines core processing, data and analytics, and digital engagement to empowe...
+            description: Guidewire Software provides core back end systems software to the global property, casual and worker's compensation insurance industry. They offer a 
+              technology platform that combines core processing, data and analytics, and digital engagement to empowe...
             crunchbase: https://www.crunchbase.com/organization/guidewire-software
             extra:
               linkedin_url: https://www.linkedin.com/company/guidewire-software
@@ -722,8 +729,8 @@ landscape:
             name: HackerOne
             homepage_url: https://hackerone.com/
             logo: hackerone.svg
-            description: HackerOne, Inc. provides a solution for security vulnerability disclosure. It offers HackerOne, a solution that helps organizations in creating vulnerability
-              disclosure and response programs. The company was founded in 2012 and is based in San Francisco, California.
+            description: HackerOne, Inc. provides a solution for security vulnerability disclosure. It offers HackerOne, a solution that helps organizations in creating 
+              vulnerability disclosure and response programs. The company was founded in 2012 and is based in San Francisco, California.
             crunchbase: https://www.crunchbase.com/organization/hackerone
             twitter: https://twitter.com/Hacker0x01
             extra:
@@ -741,8 +748,8 @@ landscape:
             name: herodevs
             homepage_url: https://herodevs.com/
             logo: herodevs.svg
-            description: HeroDevs is a team of elite web developers who can help your company solve the problems you're facing. Whether you're dealing with code quality issues, are unable
-              to ship product on time, or are struggling to find a partner you can trust, HeroDevs has the experience to help your team.
+            description: HeroDevs is a team of elite web developers who can help your company solve the problems you're facing. Whether you're dealing with code quality issues, are
+              unable to ship product on time, or are struggling to find a partner you can trust, HeroDevs has the experience to help your team.
             organization:
               name: herodevs
               linkedin: https://www.linkedin.com/company/herodevs/
@@ -752,9 +759,9 @@ landscape:
             name: Hitachi, Ltd.
             homepage_url: https://hitachi.com/
             logo: hitachi_ltd.svg
-            description: Founded in 1910, Hitachi provides information and telecommunication systems, social infrastructure and industrial systems, electronic systems and equipment,
-              construction machinery, high functional materials and components, automotive systems, smart life and eco-friendly systems, other products, and financial services in Japan
-              and internationally. The company is headquartered in Tokyo, Japan.
+            description: Founded in 1910, Hitachi provides information and telecommunication systems, social infrastructure and industrial systems, electronic systems and 
+              equipment, construction machinery, high functional materials and components, automotive systems, smart life and eco-friendly systems, other products, and financial 
+              services in Japan and internationally. The company is headquartered in Tokyo, Japan.
             crunchbase: https://www.crunchbase.com/organization/hitachi
             twitter: https://twitter.com/HitachiGlobal
             extra:
@@ -777,8 +784,9 @@ landscape:
             name: JFrog, Inc
             homepage_url: https://jfrog.com/
             logo: jfrog_inc.svg
-            description: Founded in 2008, JFrog Ltd develops and provides a binary repository management solution for software distribution to software developers. The company offers
-              Bintray, a community SaaS social platform for developers to distribute, store, download, and share software packages. The company is headquartered in Sunnyvale, California.
+            description: Founded in 2008, JFrog Ltd develops and provides a binary repository management solution for software distribution to software developers. The company 
+              offers Bintray, a community SaaS social platform for developers to distribute, store, download, and share software packages. The company is headquartered in 
+              Sunnyvale, California.
             crunchbase: https://www.crunchbase.com/organization/jfrog-ltd
             twitter: https://twitter.com/jfrog
             extra:
@@ -847,8 +855,8 @@ landscape:
             name: Nutanix, Inc.
             homepage_url: https://nutanix.com/
             logo: nutanix_inc.svg
-            description: Go beyond hyperconverged infrastructure with the solutions provided by Nutanix. We deliver a software-defined enterprise cloud that can run any application at
-              any scale.
+            description: Go beyond hyperconverged infrastructure with the solutions provided by Nutanix. We deliver a software-defined enterprise cloud that can run any application
+              at any scale.
             crunchbase: https://www.crunchbase.com/organization/nutanix
             twitter: https://twitter.com/nutanix
             extra:
@@ -857,8 +865,8 @@ landscape:
             name: Patchstack OÜ
             homepage_url: https://patchstack.com/
             logo: patchstack_ou.svg
-            description: Patchstack is a company that provides the fastest protection for WordPress security vulnerabilities. They offer vPatching to detect and mitigate vulnerabilities,
-              automatically deploying highly targeted protection rules without affecting site performanc...
+            description: Patchstack is a company that provides the fastest protection for WordPress security vulnerabilities. They offer vPatching to detect and mitigate 
+              vulnerabilities, automatically deploying highly targeted protection rules without affecting site performanc...
             crunchbase: https://www.crunchbase.com/organization/webarx
             extra:
               linkedin_url: https://www.linkedin.com/company/patchtsack
@@ -881,8 +889,8 @@ landscape:
             name: ReeVo Spa
             homepage_url: https://reevo.it/
             logo: reevo_spa.svg
-            description: ReeVo is the premier Italian Cloud & Cyber Security provider, safeguarding businesses with Secure Cloud and Cyber Security solutions through ISO-certified Data
-              Centers.
+            description: ReeVo is the premier Italian Cloud & Cyber Security provider, safeguarding businesses with Secure Cloud and Cyber Security solutions through ISO-certified 
+              Data Centers.
             crunchbase: https://www.crunchbase.com/organization/reevo-4b5e
             extra:
               linkedin_url: https://www.linkedin.com/company/reevo-cloud
@@ -890,10 +898,10 @@ landscape:
             name: Renesas Electronics Corporation
             homepage_url: https://renesas.com/
             logo: renesas_electronics_corporation.svg
-            description: Renesas Electronics Corporation delivers trusted embedded design innovation with complete semiconductor solutions that enable billions of connected, intelligent
-              devices to enhance the way people work and livesecurely and safely. The number one global supplier of microcontrollers, and a leader in Analog & Power and SoC products,
-              Renesas provides the expertise, quality, and comprehensive solutions for a broad range of Automotive, Industrial, Home Electronics (HE), Office Automation (OA) and Information
-              Communication Technology (ICT) applications to help shape a limitless future.
+            description: Renesas Electronics Corporation delivers trusted embedded design innovation with complete semiconductor solutions that enable billions of connected, 
+              intelligent devices to enhance the way people work and livesecurely and safely. The number one global supplier of microcontrollers, and a leader in Analog & Power and
+              SoC products, Renesas provides the expertise, quality, and comprehensive solutions for a broad range of Automotive, Industrial, Home Electronics (HE), Office 
+              Automation (OA) and Information Communication Technology (ICT) applications to help shape a limitless future.
             crunchbase: https://www.crunchbase.com/organization/renesas-electronics-corporation
             twitter: https://twitter.com/RenesasGlobal
             extra:
@@ -929,9 +937,9 @@ landscape:
             name: Salesforce.com, Inc.
             homepage_url: https://salesforce.com/
             logo: salesforce_com_inc.svg
-            description: Salesforce.com is an enterprise cloud computing company that is leading the shift to the social enterprise. Social enterprises leverage social, mobile and open
-              cloud technologies to maximize customer support. Based on Salesforce.com's real-time, multi-tenant architecture, the company's platform and application services allow customers
-              to create employee and customer social networks, empower small business and extend a company's social enterprise with applications.
+            description: Salesforce.com is an enterprise cloud computing company that is leading the shift to the social enterprise. Social enterprises leverage social, mobile and 
+              open cloud technologies to maximize customer support. Based on Salesforce.com's real-time, multi-tenant architecture, the company's platform and application services 
+              allow customers to create employee and customer social networks, empower small business and extend a company's social enterprise with applications.
             crunchbase: https://www.crunchbase.com/organization/salesforce
             twitter: https://twitter.com/salesforce
             extra:
@@ -940,9 +948,10 @@ landscape:
             name: SAP SE
             homepage_url: https://sap.com/
             logo: sap_se.svg
-            description: Founded in 1972, As a market leader in enterprise application software, SAP helps companies of all sizes and industries run better. From back office to boardroom,
-              warehouse to storefront, desktop to mobile device, SAP empowers people and organizations to work together more efficiently and uses business insight more effectively to
-              stay ahead of the competition. SAP applications and services enable more than 253,500 customers to operate profitably, adapt continuously, and grow sustainably.
+            description: Founded in 1972, As a market leader in enterprise application software, SAP helps companies of all sizes and industries run better. From back office to 
+              boardroom, warehouse to storefront, desktop to mobile device, SAP empowers people and organizations to work together more efficiently and uses business insight more 
+              effectively to stay ahead of the competition. SAP applications and services enable more than 253,500 customers to operate profitably, adapt continuously, and grow 
+              sustainably.
             crunchbase: https://www.crunchbase.com/organization/sap
             twitter: https://twitter.com/SAP
             extra:
@@ -951,8 +960,8 @@ landscape:
             name: Scotiabank
             homepage_url: https://scotiabank.com/
             logo: scotiabank.svg
-            description: Scotiabank is a North American financial institution, and a Canadian international bank. Scotiabank Group and its affiliates offer a range of products and services,
-              including personal, commercial, corporate and investment banking, to ~14.6M customers in some 50 countries around the world.
+            description: Scotiabank is a North American financial institution, and a Canadian international bank. Scotiabank Group and its affiliates offer a range of products and 
+              services, including personal, commercial, corporate and investment banking, to ~14.6M customers in some 50 countries around the world.
             crunchbase: https://www.crunchbase.com/organization/bank-of-nova-scotia
             twitter: https://twitter.com/ScotiabankHelps
             extra:
@@ -970,10 +979,10 @@ landscape:
             name: Shopify Inc.
             homepage_url: https://shopify.com/
             logo: shopify_inc.svg
-            description: Founded in 2004 and launched in 2006, Shopify is a leading cloud-based, multi-channel commerce platform designed for small and medium-sized businesses. Merchants
-              can use the software to design, set up, and manage their stores across multiple sales channels, including web, mobile, social media, marketplaces, brick-and-mortar locations,
-              and pop-up shops. The platform also provides merchants with a powerful back-office and a single view of their business. Shopify currently powers over 500,000 businesses
-              in approximately 175 countries and is used by brands such as Red Bull, Nestle, GE, Kylie Cosmetics, and many more.
+            description: Founded in 2004 and launched in 2006, Shopify is a leading cloud-based, multi-channel commerce platform designed for small and medium-sized businesses. 
+              Merchants can use the software to design, set up, and manage their stores across multiple sales channels, including web, mobile, social media, marketplaces, 
+              brick-and-mortar locations, and pop-up shops. The platform also provides merchants with a powerful back-office and a single view of their business. Shopify currently 
+              powers over 500,000 businesses in approximately 175 countries and is used by brands such as Red Bull, Nestle, GE, Kylie Cosmetics, and many more.
             crunchbase: https://www.crunchbase.com/organization/shopify
             twitter: https://twitter.com/Shopify
             extra:
@@ -1002,8 +1011,8 @@ landscape:
             name: Sparkfabrik srl
             homepage_url: https://sparkfabrik.com/
             logo: sparkfabrik_srl.svg
-            description: SparkFabrik - I maggiori esperti Drupal certificati in Italia. Drupal Milano, Consulenza Drupal, Acquia partner, Scrum Master certificati, Esperti Drupal in
-              Italia, Sviluppatori web Milano, Applicazioni web Milano, Sviluppo agile, Pratiche devops, Svil...
+            description: SparkFabrik - I maggiori esperti Drupal certificati in Italia. Drupal Milano, Consulenza Drupal, Acquia partner, Scrum Master certificati, Esperti Drupal 
+              in Italia, Sviluppatori web Milano, Applicazioni web Milano, Sviluppo agile, Pratiche devops, Svil...
             crunchbase: https://www.crunchbase.com/organization/sparkfabrik
             twitter: https://twitter.com/SparkFabrik
             extra:
@@ -1012,8 +1021,8 @@ landscape:
             name: Spotify AB
             homepage_url: https://spotify.com/
             logo: spotify_ab.svg
-            description: Founded in 2006 and headquartered in Stockholm, Sweden, Spotify is a commercial music streaming, podcast and video service that provides digital rights management-restricted
-              content from record labels and media companies.
+            description: Founded in 2006 and headquartered in Stockholm, Sweden, Spotify is a commercial music streaming, podcast and video service that provides digital rights 
+              management-restricted content from record labels and media companies.
             crunchbase: https://www.crunchbase.com/organization/spotify
             twitter: https://twitter.com/Spotify
             extra:
@@ -1022,8 +1031,8 @@ landscape:
             name: Stacklok
             homepage_url: https://stacklok.com/
             logo: stacklok.svg
-            description: Stacklok is a company dedicated to bringing software supply chain security to developers. They build open source software that developers love, making the world
-              a safer place. Their products include Trusty, a service providing scoring and metrics on pa...
+            description: Stacklok is a company dedicated to bringing software supply chain security to developers. They build open source software that developers love, making the 
+              world a safer place. Their products include Trusty, a service providing scoring and metrics on pa...
             crunchbase: https://www.crunchbase.com/organization/stacklok
             extra:
               linkedin_url: https://www.linkedin.com/company/stacklok
@@ -1031,8 +1040,8 @@ landscape:
             name: StepSecurity
             homepage_url: https://stepsecurity.io/
             logo: stepsecurity.svg
-            description: StepSecurity enhances GitHub Actions security with maintained actions and robust runner runtime security, securing each step of CI/CD pipelines for software
-              supply chain security.
+            description: StepSecurity enhances GitHub Actions security with maintained actions and robust runner runtime security, securing each step of CI/CD pipelines for 
+              software supply chain security.
             organization:
               name: StepSecurity
               linkedin: https://www.linkedin.com/company/step-security
@@ -1042,7 +1051,8 @@ landscape:
             name: SUSE LLC
             homepage_url: https://suse.com/
             logo: suse_llc.svg
-            description: SUSE provides businesses with software solutions. Some solutions they offer include data analytics, cloud management, infrastructure facilitation, and more.
+            description: SUSE provides businesses with software solutions. Some solutions they offer include data analytics, cloud management, infrastructure facilitation, and 
+              more.
             crunchbase: https://www.crunchbase.com/organization/suse
             twitter: https://twitter.com/SUSE
             extra:
@@ -1063,8 +1073,8 @@ landscape:
             name: Technology Innovation Institute
             homepage_url: https://tii.ae/
             logo: technology_innovation_institute.svg
-            description: The Technology Innovation Institute (TII) aims to become a leading global research Centre dedicated to pushing the frontiers of knowledge. Our teams of scientists,
-              researchers and engineers work in an open, flexible and agile environment to deliver dis...
+            description: The Technology Innovation Institute (TII) aims to become a leading global research Centre dedicated to pushing the frontiers of knowledge. Our teams of 
+              scientists, researchers and engineers work in an open, flexible and agile environment to deliver dis...
             twitter: https://twitter.com/TIIuae
             organization:
               name: Technology Innovation Institute
@@ -1075,8 +1085,8 @@ landscape:
             name: TestifySec
             homepage_url: https://testifysec.com/
             logo: testifysec.svg
-            description: TestifySec is a company that provides a platform to automate the collection, distribution, trust, and evaluation of artifact evidence for secure systems from
-              source to production.
+            description: TestifySec is a company that provides a platform to automate the collection, distribution, trust, and evaluation of artifact evidence for secure systems 
+              from source to production.
             crunchbase: https://www.crunchbase.com/organization/testifysec
             twitter: https://twitter.com/testifysec
             extra:
@@ -1092,7 +1102,8 @@ landscape:
             name: Trail of Bits
             homepage_url: https://trailofbits.com/
             logo: trail_of_bits.svg
-            description: Since 2012, Trail of Bits has helped secure some of the world’s most targeted organizations and products. We combine high-­end security research with a real­...
+            description: Since 2012, Trail of Bits has helped secure some of the world’s most targeted organizations and products. We combine high-­end security research with a 
+              real­...
             crunchbase: https://www.crunchbase.com/organization/trail-of-bits
             twitter: https://twitter.com/trailofbits
             extra:
@@ -1123,8 +1134,8 @@ landscape:
             name: Wind River Systems, Inc.
             homepage_url: https://windriver.com/
             logo: wind_river_systems_inc.svg
-            description: Headquartered in Alameda, California, Wind River Systems develops embedded system software consisting of run-time software, industry-specific software, simulation
-              technology, development tools and middleware.
+            description: Headquartered in Alameda, California, Wind River Systems develops embedded system software consisting of run-time software, industry-specific software, 
+              simulation technology, development tools and middleware.
             crunchbase: https://www.crunchbase.com/organization/wind-river
             twitter: https://twitter.com/WindRiver
             extra:
@@ -1133,8 +1144,8 @@ landscape:
             name: Xilinx Inc
             homepage_url: https://xilinx.com/
             logo: xilinx_inc.svg
-            description: Founded in 1984, Xilinx is a technology company that is primarily a supplier of programmable logic devices. Xilinx is the inventor of the FPGA, programmable
-              SoCs, and now, the ACAP.
+            description: Founded in 1984, Xilinx is a technology company that is primarily a supplier of programmable logic devices. Xilinx is the inventor of the FPGA, 
+              programmable SoCs, and now, the ACAP.
             crunchbase: https://www.crunchbase.com/organization/xilinx
             twitter: https://twitter.com/XilinxInc
             extra:
@@ -1205,8 +1216,8 @@ landscape:
             name: Erlang Ecosystem Foundation
             homepage_url: https://erlef.org/
             logo: erlang_ecosystem_foundation.svg
-            description: Erlang Ecosystem Foundation supports and grows a diverse community and technology based on the BEAM, fostering collaboration and advancing Erlang, Elixir, LFE,
-              and other BEAM-based technologies.
+            description: Erlang Ecosystem Foundation supports and grows a diverse community and technology based on the BEAM, fostering collaboration and advancing Erlang, Elixir, 
+              LFE, and other BEAM-based technologies.
             organization:
               name: Erlang Ecosystem Foundation
               linkedin: https://www.linkedin.com/company/erlef
@@ -1225,8 +1236,8 @@ landscape:
             name: Institute of Software Chinese Academy of Sciences
             homepage_url: https://iscas.ac.cn/
             logo: institute_of_software_chinese_academy_of_sciences.svg
-            description: The Institute of Software, Chinese Academy of Sciences (ISCAS) is a research base that focuses on the research and development on theories of computer science
-              and leading edge technologies of software.
+            description: The Institute of Software, Chinese Academy of Sciences (ISCAS) is a research base that focuses on the research and development on theories of computer 
+              science and leading edge technologies of software.
             crunchbase: https://www.crunchbase.com/organization/institute-of-software-chinese-academy-of-sciences
           - item:
             name: International Information System Security Certification Consortium Inc
@@ -1281,8 +1292,8 @@ landscape:
             name: Open Source Business Alliance - Bundesverband für digitale Souveränität e.V.
             homepage_url: https://osb-alliance.com/
             logo: open_source_business_alliance_bundesverband_fur_digitale_souveranitat_e_v.svg
-            description: The Open Source Business Alliance - Bundesverband für digitale Souveränität eV is a German non-profit that operates Europe's biggest network of companies and
-              organizations developing, building and using open source software.
+            description: The Open Source Business Alliance - Bundesverband für digitale Souveränität eV is a German non-profit that operates Europe's biggest network of companies 
+              and organizations developing, building and using open source software.
             crunchbase: https://www.crunchbase.com/organization/open-source-business-alliance
             twitter: https://twitter.com/osballiance
             extra:
@@ -1309,8 +1320,8 @@ landscape:
             name: Open Web Application Security Project
             homepage_url: https://owasp.org/
             logo: open_web_application_security_project.svg
-            description: The Open Web Application Security Project is an online community that produces freely-available articles, methodologies, documentation, tools, and technologies
-              in the field of web application security.
+            description: The Open Web Application Security Project is an online community that produces freely-available articles, methodologies, documentation, tools, and 
+              technologies in the field of web application security.
             crunchbase: https://www.crunchbase.com/organization/open-web-application-security-project
             twitter: https://twitter.com/owasp
             extra:
@@ -1319,9 +1330,9 @@ landscape:
             name: Purdue University
             homepage_url: https://purdue.edu/
             logo: purdue_university.svg
-            description: Purdue University, located in West Lafayette, Indiana, is the flagship university of the six-campus Purdue University system. Purdue is a member of the Big Ten
-              Conference and is a well known world-class research institution. Purdue enrolls the second largest student body of any university in Indiana as well as the fourth largest
-              international student population of any university in the United States.
+            description: Purdue University, located in West Lafayette, Indiana, is the flagship university of the six-campus Purdue University system. Purdue is a member of the Big
+              Ten Conference and is a well known world-class research institution. Purdue enrolls the second largest student body of any university in Indiana as well as the fourth
+              largest international student population of any university in the United States.
             crunchbase: https://www.crunchbase.com/organization/purdue-university
             twitter: https://twitter.com/LifeAtPurdue
             extra:
@@ -1339,7 +1350,8 @@ landscape:
             name: RTEMS Project
             homepage_url: https://rtems.org/
             logo: rtems_project.svg
-            description: RTEMS Project develops and maintains an open source Real Time Operating System (RTOS) supporting various processor architectures and BSPs for real-time applications.
+            description: RTEMS Project develops and maintains an open source Real Time Operating System (RTOS) supporting various processor architectures and BSPs for real-time 
+              applications.
             organization:
               name: RTEMS Project
               linkedin: https://www.linkedin.com/company/rtems-project
@@ -1349,8 +1361,8 @@ landscape:
             name: Ruby Central, Inc.
             homepage_url: https://rubycentral.org/
             logo: ruby_central_inc.svg
-            description: Ruby Central is a non-profit organization dedicated to supporting the global Ruby community by organizing major software conferences such as RubyConf and RailsConf,
-              while also providing essential infrastructure and resources like RubyGems for Ruby
+            description: Ruby Central is a non-profit organization dedicated to supporting the global Ruby community by organizing major software conferences such as RubyConf and 
+              RailsConf, while also providing essential infrastructure and resources like RubyGems for Ruby
             organization:
               name: Ruby Central, Inc.
               linkedin: https://www.linkedin.com/company/ruby-central-inc
@@ -1380,8 +1392,8 @@ landscape:
             name: The MITRE Corporation
             homepage_url: https://mitre.org/
             logo: the_mitre_corporation.svg
-            description: Founded in 1958 and headquartered in McLean, Virginia, The MITRE Corporation is a not-for-profit company providing engineering and technical guidance for the
-              federal government.
+            description: Founded in 1958 and headquartered in McLean, Virginia, The MITRE Corporation is a not-for-profit company providing engineering and technical guidance for 
+              the federal government.
             crunchbase: https://www.crunchbase.com/organization/mitre
             twitter: https://twitter.com/MITREcorp
             extra:
