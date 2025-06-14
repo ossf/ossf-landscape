@@ -633,17 +633,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/embraceableai
           - item:
-            name: Endor Labs
-            homepage_url: https://endor.ai/
-            logo: endor_labs.svg
-            description: endor labs - software supply chain platform
-            twitter: https://twitter.com/EndorLabs
-            organization:
-              name: Endor Labs
-              linkedin: https://www.linkedin.com/company/endorlabs
-            extra:
-              linkedin_url: https://www.linkedin.com/company/endorlabs
-          - item:
             name: Ensignia
             homepage_url: https://ensignia.co/
             logo: ensignia.svg
@@ -792,15 +781,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/jfrog-ltd
           - item:
-            name: Kasten, Inc.
-            homepage_url: https://kasten.io/
-            logo: kasten_inc.svg
-            description: Kasten provides solutions to dramatically reduce the operational and management pain of stateful cloud-native applications.
-            crunchbase: https://www.crunchbase.com/organization/kasten
-            twitter: https://twitter.com/kastenhq
-            extra:
-              linkedin_url: https://www.linkedin.com/company/kasteninc
-          - item:
             name: Keyfactor
             homepage_url: https://keyfactor.com/
             logo: keyfactor.svg
@@ -827,16 +807,6 @@ landscape:
             twitter: https://twitter.com/LegitSecurity1
             extra:
               linkedin_url: https://www.linkedin.com/company/legitsecurity
-          - item:
-            name: Lineaje
-            homepage_url: https://lineaje.com/
-            logo: lineaje.svg
-            description: Lineage solves critical software supply chain security problems faced by every organization that builds or sells software.
-            organization:
-              name: Lineaje
-              linkedin: https://www.linkedin.com/company/lineaje
-            extra:
-              linkedin_url: https://www.linkedin.com/company/lineaje
           - item:
             name: Lockheed Martin
             homepage_url: https://lmco.com/
