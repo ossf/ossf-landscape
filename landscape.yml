@@ -629,9 +629,6 @@ landscape:
               compliance, and reliability.
             organization:
               name: embraceable Technology
-              linkedin: https://www.linkedin.com/company/embraceableai
-            extra:
-              linkedin_url: https://www.linkedin.com/company/embraceableai
           - item:
             name: Ensignia
             homepage_url: https://ensignia.co/
@@ -838,8 +835,6 @@ landscape:
             description: Patchstack is a company that provides the fastest protection for WordPress security vulnerabilities. They offer vPatching to detect and mitigate 
               vulnerabilities, automatically deploying highly targeted protection rules without affecting site performanc...
             crunchbase: https://www.crunchbase.com/organization/webarx
-            extra:
-              linkedin_url: https://www.linkedin.com/company/patchtsack
           - item:
             name: Protect AI
             homepage_url: https://protectai.com/
@@ -1004,8 +999,6 @@ landscape:
             description: Stacklok is a company dedicated to bringing software supply chain security to developers. They build open source software that developers love, making the 
               world a safer place. Their products include Trusty, a service providing scoring and metrics on pa...
             crunchbase: https://www.crunchbase.com/organization/stacklok
-            extra:
-              linkedin_url: https://www.linkedin.com/company/stacklok
           - item:
             name: StepSecurity
             homepage_url: https://stepsecurity.io/
