@@ -1033,6 +1033,16 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/sysdig
           - item:
+            name: Target Corporation
+            homepage_url: https://target.com/
+            logo: target_corporation.svg
+            description: Target Corporation's operations include large, general merchandise and food discount stores and a fully integrated on-line business. Target is traded on 
+              the NYSE under TGT.
+            crunchbase: https://www.crunchbase.com/organization/target-accelerator-2
+            twitter: https://twitter.com/Target
+            extra:
+              linkedin_url: https://www.linkedin.com/company/target
+          - item:
             name: Technology Innovation Institute
             homepage_url: https://tii.ae/
             logo: technology_innovation_institute.svg
