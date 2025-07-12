@@ -723,7 +723,7 @@ landscape:
               linkedin_url: https://www.linkedin.com/company/hackerone
           - item:
             name: Hedera Foundation
-            homepage_url: https://hedera.com/
+            homepage_url: https://hedera.foundation/
             logo: hedera_foundation.svg
             description: 53 employees
             crunchbase: https://www.crunchbase.com/organization/hashgraph
