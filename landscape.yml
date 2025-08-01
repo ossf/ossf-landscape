@@ -110,6 +110,15 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/ibm
           - item:
+            name: JPMorgan Chase
+            homepage_url: https://jpmorganchase.com/
+            logo: jpmorgan_chase.svg
+            description: JPMorgan Chase & Co. is an American multinational investment bank and financial services holding company headquartered in New York City.
+            crunchbase: https://www.crunchbase.com/organization/jpmorgan-chase-co
+            twitter: https://twitter.com/jpmorgan
+            extra:
+              linkedin_url: https://www.linkedin.com/company/jpmorganchase
+          - item:
             name: Microsoft Corporation
             homepage_url: https://microsoft.com/
             logo: microsoft_corporation.svg
@@ -648,9 +657,9 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/hackerone
           - item:
-            name: Hedera Foundation
-            homepage_url: https://hedera.foundation/
-            logo: hedera_foundation.svg
+            name: Hedera Hashgraph LLC
+            homepage_url: https://hedera.com/
+            logo: hedera_hashgraph_llc.svg
             description: 53 employees
             crunchbase: https://www.crunchbase.com/organization/hashgraph
             twitter: https://twitter.com/hedera
@@ -698,15 +707,6 @@ landscape:
             twitter: https://twitter.com/jfrog
             extra:
               linkedin_url: https://www.linkedin.com/company/jfrog-ltd
-          - item:
-            name: JPMorgan Chase
-            homepage_url: https://jpmorganchase.com/
-            logo: jpmorgan_chase.svg
-            description: JPMorgan Chase & Co. is an American multinational investment bank and financial services holding company headquartered in New York City.
-            crunchbase: https://www.crunchbase.com/organization/jpmorgan-chase-co
-            twitter: https://twitter.com/jpmorgan
-            extra:
-              linkedin_url: https://www.linkedin.com/company/jpmorganchase
           - item:
             name: Keyfactor
             homepage_url: https://keyfactor.com/
@@ -763,21 +763,6 @@ landscape:
             logo: patchstack_ou.svg
             description: Patchstack is a company that provides the fastest protection for WordPress security vulnerabilities. They offer vPatching to detect and mitigate vulnerabilities, automatically deploying highly targeted protection rules without affecting site performanc...
             crunchbase: https://www.crunchbase.com/organization/webarx
-          - item:
-            name: Protect AI
-            homepage_url: https://protectai.com/
-            logo: protect_ai.svg
-            description: |-
-              Protect AI provides cybersecurity solutions for machine learning models and AI systems, offering AI Risk Management, Open Source tools, and resources like Radar Guardian and ModelScan.
-
-              --- Merged Data:
-
-              Protect AI provides cybersecurity solutions for machine learning models and AI systems, offering AI Risk Management, Open Source tools, and resources like Radar Guardian and ModelScan.
-            organization:
-              name: Protect AI
-              linkedin: https://www.linkedin.com/company/protect-ai/
-            extra:
-              linkedin_url: https://www.linkedin.com/company/protect-ai/
           - item:
             name: ReeVo Spa
             homepage_url: https://reevo.it/
