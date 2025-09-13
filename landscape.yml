@@ -900,7 +900,7 @@ landscape:
             name: StepSecurity
             homepage_url: https://stepsecurity.io/
             logo: stepsecurity.svg
-            description: StepSecurity enhances GitHub Actions security with maintained actions and robust runner runtime security, securing each step of CI/CD pipelines for software supply chain security.
+            description: StepSecurity provides enhanced security solutions for GitHub Actions by offering maintained actions and robust runner runtime security, focusing on network egress filtering to protect CI/CD pipelines from potential vulnerabilities.
             organization:
               name: StepSecurity
               linkedin: https://www.linkedin.com/company/step-security
