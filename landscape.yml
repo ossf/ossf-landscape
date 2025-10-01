@@ -986,15 +986,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/triam-security
           - item:
-            name: VicOne Inc.
-            homepage_url: https://vicone.com/
-            logo: vicone_inc.svg
-            description: Future-ready vehicle protection reinforced with proven automotive threat intelligence
-            crunchbase: https://www.crunchbase.com/organization/vicone
-            twitter: https://twitter.com/VicOneAuto
-            extra:
-              linkedin_url: https://www.linkedin.com/company/vicone
-          - item:
             name: Wind River Systems, Inc.
             homepage_url: https://windriver.com/
             logo: wind_river_systems_inc.svg
