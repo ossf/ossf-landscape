@@ -688,6 +688,15 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/nutanix
           - item:
+            name: Open Source Technology Improvement Fund, Inc.
+            homepage_url: https://ostif.org/
+            logo: open_source_technology_improvement_fund_inc.svg
+            description: Non-profit organization that connects open-source security projects with much needed funding and logistical support.
+            crunchbase: https://www.crunchbase.com/organization/open-source-technology-improvement-fund
+            twitter: https://twitter.com/OSTIFofficial
+            extra:
+              linkedin_url: https://www.linkedin.com/company/ostif
+          - item:
             name: Patchstack OÜ
             homepage_url: https://patchstack.com/
             logo: patchstack_ou.svg
