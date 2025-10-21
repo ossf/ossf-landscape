@@ -249,15 +249,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/arm
           - item:
-            name: Atlassian US, Inc
-            homepage_url: https://atlassian.com/
-            logo: atlassian_us_inc.svg
-            description: G’day, we’re Atlassian. We make tools like Jira and Trello that are used by thousands of teams worldwide. And we’re serious about creating amazing products, practices, and open work for all teams.
-            crunchbase: https://www.crunchbase.com/organization/atlassian
-            twitter: https://twitter.com/Atlassian
-            extra:
-              linkedin_url: https://www.linkedin.com/company/atlassian
-          - item:
             name: AuriStor Inc.
             homepage_url: https://auristor.com/
             logo: auristor_inc.svg
@@ -1084,15 +1075,6 @@ landscape:
             twitter: https://twitter.com/osballiance
             extra:
               linkedin_url: https://www.linkedin.com/company/osb-alliance
-          - item:
-            name: Open Source Technology Improvement Fund, Inc.
-            homepage_url: https://ostif.org/
-            logo: open_source_technology_improvement_fund_inc.svg
-            description: Non-profit organization that connects open-source security projects with much needed funding and logistical support.
-            crunchbase: https://www.crunchbase.com/organization/open-source-technology-improvement-fund
-            twitter: https://twitter.com/OSTIFofficial
-            extra:
-              linkedin_url: https://www.linkedin.com/company/ostif
           - item:
             name: OpenUK
             homepage_url: https://openuk.uk/
