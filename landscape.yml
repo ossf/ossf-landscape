@@ -887,6 +887,12 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/testifysec
           - item:
+            name: Thread AI
+            homepage_url: https://threadai.com/
+            logo: thread_ai.svg
+            organization:
+              name: Thread AI
+          - item:
             name: Trace Machina - Simulate Robotic Systems
             homepage_url: https://tracemachina.com/
             logo: trace_machina_simulate_robotic_systems.svg
