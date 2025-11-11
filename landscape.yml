@@ -243,7 +243,7 @@ landscape:
             name: Arm Limited
             homepage_url: https://arm.com/
             logo: arm_limited.svg
-            description: ARM Ltd. is a British semiconductor and software design company. The company develops microprocessors based on reduced instruction set computing that is licensed by more than 250 computer chip manufacturers. They serve a wide range of industries including automotive, healthcare, infrastructure, IoT, mobile, smart homes, and wearables. ARM has sold 1,379 licenses to more than 450 partners. The company was founded in 1990 and is headquartered in the UK.
+            description: ARM Ltd. is a British semiconductor and software design company. The company develops microprocessors based on reduced instruction set computing that is licensed by more than 250 computer chip manufacturers. They serve a wide range of industries including automotive, healthcare, infrastructure, IoT, mobile, smart homes, and wearables. ARM has sold 1,379 licenses to more than 450 partners. The company was founded in 1990 and is headquartered in the UK
             crunchbase: https://www.crunchbase.com/organization/arm
             twitter: https://twitter.com/ArmCommunity
             extra:
