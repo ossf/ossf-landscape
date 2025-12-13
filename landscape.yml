@@ -223,7 +223,7 @@ landscape:
             name: Anaconda, Inc
             homepage_url: https://anaconda.com/
             logo: anaconda_inc.svg
-            description: Continuum Analytics, Inc. provides a subscription based data analytics platform that helps companies to adopt open data science analytics architecture.
+            description: Anaconda helps organizations simplify, safeguard, and accelerate AI with open source at scale. The Anaconda Platform bridges the gap between experimentation and production, giving teams the speed they need to innovate alongside the security and governance enterprises require. Over 50 million users and 95% of the Fortune 500 trust Anaconda for data science and AI development. With 21+ billion downloads across a decade of growth, Anaconda operates across hybrid AI environments and cloud platforms including AWS, Databricks, and Snowflake. Learn more at anaconda.com.
             crunchbase: https://www.crunchbase.com/organization/continuum-analytics
             twitter: https://twitter.com/anacondainc
             extra:
