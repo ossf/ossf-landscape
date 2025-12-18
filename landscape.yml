@@ -401,12 +401,7 @@ landscape:
             name: Cloudsmith Ltd
             homepage_url: https://cloudsmith.com/
             logo: cloudsmith_ltd.svg
-            description: |-
-              Cloudsmith is the leading Continuous Packaging platform for engineers looking to set up a secure, cloud-native artifact repository in 60 seconds.
-
-              --- Merged Data:
-
-              Cloudsmith is a provider of cutting-edge software and platforms designed to optimize cloud potential. They offer secure software delivery for a wide range of technologies and provide Cloud consultancy, training, and contracting services for financial a...
+            description: Cloudsmith is a fully managed solution for controlling, securing, and distributing everything that flows through your software supply chain. Operate at enterprise scale, reduce risk, and streamline builds.
             crunchbase: https://www.crunchbase.com/organization/cloudsmith-io
             twitter: https://twitter.com/cloudsmith
             extra:
@@ -943,7 +938,12 @@ landscape:
             name: ZTE Corporation
             homepage_url: https://zte.com.cn/
             logo: zte_corporation.svg
-            description: ZTE Corporation is a Chinese multinational telecommunications equipment and systems company headquartered in Shenzhen, Guangdong, China.
+            description: |-
+              ZTE Corporation is a Chinese multinational telecommunications equipment and systems company headquartered in Shenzhen, Guangdong, China.
+
+              --- Merged Data:
+
+              ZTE Corporation, a global leader in telecommunications and information technology, provides innovative technologies and integrated solutions for global operators, government, enterprise, and consumers in over 160 countries. Serving over 1/4 of the glob...
             crunchbase: https://www.crunchbase.com/organization/zte-corporation
             twitter: https://twitter.com/ZTEPress
             extra:
