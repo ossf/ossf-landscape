@@ -87,15 +87,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/huawei
           - item:
-            name: Intel Corporation
-            homepage_url: https://intel.com/
-            logo: intel_corporation.svg
-            description: Intel Corporation designs, manufactures, and sells computer, networking, and communications platforms worldwide. The company offers microprocessors, chipsets, and input, display, and storage devices, such as keyboard, mouse, monitor, hard drive or solid-state drive, and optical disc drives; and system-on-chip and multichip packaging products. In addition, the company develops computer vision and machine learning-based sensing products, mapping and driving policy technology solutions for advanced driver assistance systems, and autonomous driving technologies. It serves original equipment manufacturers, original design manufacturers, cloud and communications service providers, and industrial, communications, and automotive equipment manufacturers. The company was founded in 1968 and is based in Santa Clara, California.
-            crunchbase: https://www.crunchbase.com/organization/intel
-            twitter: https://twitter.com/intel
-            extra:
-              linkedin_url: https://www.linkedin.com/company/intel-corporation
-          - item:
             name: International Business Machines Corporation
             homepage_url: https://ibm.com/
             logo: international_business_machines_corporation.svg
@@ -211,15 +202,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/akamai-technologies
           - item:
-            name: Alibaba Cloud (Singapore) Private LTD
-            homepage_url: https://alibaba-inc.com/
-            logo: alibaba_cloud_singapore_private_ltd.svg
-            description: Alibaba Group, founded in 1999, is a company that helps connect businesses to other businesses through cloud computing, logistics, core commerce, local services sectors, and mobile media and entertainment. Alibaba Group is headquartered in Xixi District of Hangzhou, China and maintains offices in China, France, Germany, Hong Kong, India, Italy, Korea, Taiwan, Turkey, Russia, Singapore, the United Arab Emirates, the United Kingdom and the United States.
-            crunchbase: https://www.crunchbase.com/organization/alibaba-cloud
-            twitter: https://twitter.com/AlibabaB2B
-            extra:
-              linkedin_url: https://www.linkedin.com/company/alibaba-group
-          - item:
             name: Anaconda, Inc
             homepage_url: https://anaconda.com/
             logo: anaconda_inc.svg
@@ -320,15 +302,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/bloomberg-bna
           - item:
-            name: Boeing
-            homepage_url: https://boeing.com/
-            logo: boeing.svg
-            description: The Boeing Company provides products and services to customers in 145 countries. Boeing has been the premier manufacturer of commercial jetliners for more than 40 years and is a global market leader in military aircraft, satellites, missile defense, human space flight, and launch systems and services.
-            crunchbase: https://www.crunchbase.com/organization/boeing-7321
-            twitter: https://twitter.com/Boeing
-            extra:
-              linkedin_url: https://www.linkedin.com/company/boeing
-          - item:
             name: Boost Security
             homepage_url: https://boostsecurity.io/
             logo: boost_security.svg
@@ -406,17 +379,6 @@ landscape:
             twitter: https://twitter.com/cloudsmith
             extra:
               linkedin_url: https://www.linkedin.com/company/cloudsmith
-          - item:
-            name: Code Intelligence
-            homepage_url: https://code-intelligence.com/
-            logo: code_intelligence.svg
-            description: Code Intelligence
-            twitter: https://twitter.com/CI_Fuzz
-            organization:
-              name: Code Intelligence
-              linkedin: https://www.linkedin.com/company/codeintelligence
-            extra:
-              linkedin_url: https://www.linkedin.com/company/codeintelligence
           - item:
             name: Comcast Cable Communications, LLC
             homepage_url: https://xfinity.com/
@@ -527,15 +489,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/futureweitechnologiesinc
           - item:
-            name: GitLab Inc.
-            homepage_url: https://about.gitlab.com/
-            logo: gitlab_inc.svg
-            description: GitLab is a complete DevOps platform built from the ground up as a single application for all stages of the DevOps lifecycle enabling Product, Development, QA, Security, and Operations teams to work concurrently on the same project. GitLab provides a single data store, one user interface, and one permission model across the DevOps lifecycle. Established in 2011, GitLab is headquartered in San Francisco, California, United States.
-            crunchbase: https://www.crunchbase.com/organization/gitlab-com
-            twitter: https://twitter.com/gitlab
-            extra:
-              linkedin_url: https://www.linkedin.com/company/gitlab-com
-          - item:
             name: Goldman Sachs & Co. LLC
             homepage_url: https://goldmansachs.com/
             logo: goldman_sachs_co.svg
@@ -563,15 +516,6 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/guidewire-software
             extra:
               linkedin_url: https://www.linkedin.com/company/guidewire-software
-          - item:
-            name: HackerOne
-            homepage_url: https://hackerone.com/
-            logo: hackerone.svg
-            description: HackerOne, Inc. provides a solution for security vulnerability disclosure. It offers HackerOne, a solution that helps organizations in creating vulnerability disclosure and response programs. The company was founded in 2012 and is based in San Francisco, California.
-            crunchbase: https://www.crunchbase.com/organization/hackerone
-            twitter: https://twitter.com/Hacker0x01
-            extra:
-              linkedin_url: https://www.linkedin.com/company/hackerone
           - item:
             name: Hedera Hashgraph LLC
             homepage_url: https://hedera.com/
@@ -697,15 +641,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/reevo-cloud
           - item:
-            name: Renesas Electronics Corporation
-            homepage_url: https://renesas.com/
-            logo: renesas_electronics_corporation.svg
-            description: Renesas Electronics Corporation delivers trusted embedded design innovation with complete semiconductor solutions that enable billions of connected, intelligent devices to enhance the way people work and livesecurely and safely. The number one global supplier of microcontrollers, and a leader in Analog & Power and SoC products, Renesas provides the expertise, quality, and comprehensive solutions for a broad range of Automotive, Industrial, Home Electronics (HE), Office Automation (OA) and Information Communication Technology (ICT) applications to help shape a limitless future.
-            crunchbase: https://www.crunchbase.com/organization/renesas-electronics-corporation
-            twitter: https://twitter.com/RenesasGlobal
-            extra:
-              linkedin_url: https://www.linkedin.com/company/renesas-electronics-corporation
-          - item:
             name: ReversingLabs
             homepage_url: https://reversinglabs.com/
             logo: reversinglabs.svg
@@ -750,15 +685,6 @@ landscape:
             twitter: https://twitter.com/SAP
             extra:
               linkedin_url: https://www.linkedin.com/company/sap
-          - item:
-            name: Scotiabank
-            homepage_url: https://scotiabank.com/
-            logo: scotiabank.svg
-            description: Scotiabank is a North American financial institution, and a Canadian international bank. Scotiabank Group and its affiliates offer a range of products and services, including personal, commercial, corporate and investment banking, to ~14.6M customers in some 50 countries around the world.
-            crunchbase: https://www.crunchbase.com/organization/bank-of-nova-scotia
-            twitter: https://twitter.com/ScotiabankHelps
-            extra:
-              linkedin_url: https://www.linkedin.com/company/scotiabank
           - item:
             name: SHE BASH
             homepage_url: https://shebash.io/
@@ -807,14 +733,14 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/sparkfabrik
           - item:
-            name: Spotify AB
-            homepage_url: https://spotify.com/
-            logo: spotify_ab.svg
-            description: Founded in 2006 and headquartered in Stockholm, Sweden, Spotify is a commercial music streaming, podcast and video service that provides digital rights management-restricted content from record labels and media companies.
-            crunchbase: https://www.crunchbase.com/organization/spotify
-            twitter: https://twitter.com/Spotify
+            name: Spectro Cloud, Inc.
+            homepage_url: https://spectrocloud.com/
+            logo: spectro_cloud_inc.svg
+            description: Spectro Cloud provides scalable, policy-based cluster management of Kubernetes for        enterprises that need a high degree of control over their infrastructure, whether it is in public        cloud, private cloud, bare metal or any combinati...
+            crunchbase: https://www.crunchbase.com/organization/spectro-cloud
+            twitter: https://twitter.com/spectrocloudinc
             extra:
-              linkedin_url: https://www.linkedin.com/company/spotify
+              linkedin_url: https://www.linkedin.com/company/spectro-cloud
           - item:
             name: Stacklok
             homepage_url: https://stacklok.com/
@@ -934,20 +860,6 @@ landscape:
             twitter: https://twitter.com/XilinxInc
             extra:
               linkedin_url: https://www.linkedin.com/company/xilinx
-          - item:
-            name: ZTE Corporation
-            homepage_url: https://zte.com.cn/
-            logo: zte_corporation.svg
-            description: |-
-              ZTE Corporation is a Chinese multinational telecommunications equipment and systems company headquartered in Shenzhen, Guangdong, China.
-
-              --- Merged Data:
-
-              ZTE Corporation, a global leader in telecommunications and information technology, provides innovative technologies and integrated solutions for global operators, government, enterprise, and consumers in over 160 countries. Serving over 1/4 of the glob...
-            crunchbase: https://www.crunchbase.com/organization/zte-corporation
-            twitter: https://twitter.com/ZTEPress
-            extra:
-              linkedin_url: https://www.linkedin.com/company/zte
       - subcategory:
         name: Associate
         items:
