@@ -526,6 +526,13 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/hashgraph
           - item:
+            name: Helvethink
+            homepage_url: https://helvethink.ch/
+            logo: helvethink.svg
+            description: Helvethink specializes in DevSecOps and cloud-native consulting, helping organizations design, build, and operate secure, scalable, and observable platforms through automation, infrastructure as code, and platform engineering.
+            organization:
+              name: Helvethink
+          - item:
             name: herodevs
             homepage_url: https://herodevs.com/
             logo: herodevs.svg
