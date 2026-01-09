@@ -675,7 +675,7 @@ landscape:
             name: Root
             homepage_url: https://root.io/
             logo: root.svg
-            description: Because it sucks to go slow at building the apps that power EVERY business.
+            description: Because it sucks to go slow at building the apps that power EVERY business
             crunchbase: https://www.crunchbase.com/organization/slim-ai
             twitter: https://twitter.com/SlimDevOps
             extra:
