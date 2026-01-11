@@ -758,7 +758,7 @@ landscape:
             name: Spectro Cloud, Inc.
             homepage_url: https://spectrocloud.com/
             logo: spectro_cloud_inc.svg
-            description: Spectro Cloud provides scalable, policy-based cluster management of Kubernetes for        enterprises that need a high degree of control over their infrastructure, whether it is in public        cloud, private cloud, bare metal or any combinati...
+            description: Spectro Cloud delivers simplicity and control to organizations running Kubernetes at any scale. With its Palette platform, Spectro Cloud empowers businesses to deploy, manage, and scale Kubernetes clusters effortlessly — from edge to data center to cloud — while maintaining the freedom to build their perfect stack. Trusted by leading organizations worldwide, Spectro Cloud transforms Kubernetes complexity into elegant, scalable solutions, enabling customers to master their cloud-native journey with confidence.
             crunchbase: https://www.crunchbase.com/organization/spectro-cloud
             twitter: https://twitter.com/spectrocloudinc
             extra:
