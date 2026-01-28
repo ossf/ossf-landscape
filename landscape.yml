@@ -821,15 +821,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/tiiuae
           - item:
-            name: TestifySec
-            homepage_url: https://testifysec.com/
-            logo: testifysec.svg
-            description: TestifySec is a company that provides a platform to automate the collection, distribution, trust, and evaluation of artifact evidence for secure systems from source to production.
-            crunchbase: https://www.crunchbase.com/organization/testifysec
-            twitter: https://twitter.com/testifysec
-            extra:
-              linkedin_url: https://www.linkedin.com/company/testifysec
-          - item:
             name: Thread AI
             homepage_url: https://threadai.com/
             logo: thread_ai.svg
