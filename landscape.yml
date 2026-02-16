@@ -101,15 +101,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/ibm
           - item:
-            name: JPMorgan Chase
-            homepage_url: https://jpmorganchase.com/
-            logo: jpmorgan_chase.svg
-            description: JPMorgan Chase & Co. is an American multinational investment bank and financial services holding company headquartered in New York City.
-            crunchbase: https://www.crunchbase.com/organization/jpmorgan-chase-co
-            twitter: https://twitter.com/jpmorgan
-            extra:
-              linkedin_url: https://www.linkedin.com/company/jpmorganchase
-          - item:
             name: Microsoft Corporation
             homepage_url: https://microsoft.com/
             logo: microsoft_corporation.svg
