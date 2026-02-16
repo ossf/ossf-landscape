@@ -767,7 +767,7 @@ landscape:
             name: Stacklok
             homepage_url: https://stacklok.com/
             logo: stacklok.svg
-            description: Stacklok is a company dedicated to bringing software supply chain security to developers. They build open source software that developers love, making the world a safer place. Their products include Trusty, a service providing scoring and metrics on pa...
+            description: Stacklok's customers use the Model Context Protocol (MCP) to multiply the impact of their AI agents by securely connecting them to data and systems behind their corporate firewall. Stacklok's MCP Platform allows enterprises to curate a registry of trusted MCP servers, operate a secure gateway, scale MCP with Kubernetes and more. Stacklok's team helps maintain the official MCP registry and builds the popular, open source ToolHive MCP Platform with a growing community of contributors.
             crunchbase: https://www.crunchbase.com/organization/stacklok
           - item:
             name: StepSecurity
