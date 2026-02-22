@@ -557,12 +557,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/american-honda-motor-company-inc-
           - item:
-            name: InCaaSS - Integrity & Compliance as a Service
-            homepage_url: https://incaass.site/
-            logo: incaass_integrity_compliance_as_a_service.svg
-            organization:
-              name: InCaaSS - Integrity & Compliance as a Service
-          - item:
             name: JFrog, Inc
             homepage_url: https://jfrog.com/
             logo: jfrog_inc.svg
@@ -636,6 +630,12 @@ landscape:
             logo: patchstack_ou.svg
             description: Patchstack is a company that provides the fastest protection for WordPress security vulnerabilities. They offer vPatching to detect and mitigate vulnerabilities, automatically deploying highly targeted protection rules without affecting site performanc...
             crunchbase: https://www.crunchbase.com/organization/webarx
+          - item:
+            name: Quantrexion – Governance & Risk Intelligence
+            homepage_url: https://quantrexion.com/
+            logo: quantrexion_governance_risk_intelligence.svg
+            organization:
+              name: Quantrexion – Governance & Risk Intelligence
           - item:
             name: ReeVo Spa
             homepage_url: https://reevo.it/
