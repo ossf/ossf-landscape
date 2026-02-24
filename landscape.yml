@@ -815,6 +815,7 @@ landscape:
             name: Thread AI
             homepage_url: https://threadai.com/
             logo: thread_ai.svg
+            description: Thread AI is an AI infrastructure company founded by AI product and engineering leaders from Palantir Technologies. Its AI workflow orchestration infrastructure, Lemma, enables regulated enterprises to build production-ready AI workflows and agents for their critical operations. It empowers enterprises to implement governed, reliable, and controlled AI-powered workflows without replacing their existing tech stack, providing the infrastructure for agents to reason, plan, and act within observable guardrails, at scale.
             organization:
               name: Thread AI
           - item:
