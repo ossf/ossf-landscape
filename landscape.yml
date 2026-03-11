@@ -616,6 +616,11 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/lockheed-martin
           - item:
+            name: Minimus
+            homepage_url: https://minimus.io/
+            logo: minimus.svg
+            crunchbase: https://www.crunchbase.com/organization/minimus-077e
+          - item:
             name: Nutanix, Inc.
             homepage_url: https://nutanix.com/
             logo: nutanix_inc.svg
