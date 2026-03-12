@@ -566,15 +566,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/american-honda-motor-company-inc-
           - item:
-            name: JFrog, Inc
-            homepage_url: https://jfrog.com/
-            logo: jfrog_inc.svg
-            description: Founded in 2008, JFrog Ltd develops and provides a binary repository management solution for software distribution to software developers. The company offers Bintray, a community SaaS social platform for developers to distribute, store, download, and share software packages. The company is headquartered in Sunnyvale, California.
-            crunchbase: https://www.crunchbase.com/organization/jfrog-ltd
-            twitter: https://twitter.com/jfrog
-            extra:
-              linkedin_url: https://www.linkedin.com/company/jfrog-ltd
-          - item:
             name: Keyfactor
             homepage_url: https://keyfactor.com/
             logo: keyfactor.svg
