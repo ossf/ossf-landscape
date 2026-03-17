@@ -926,9 +926,7 @@ landscape:
             homepage_url: https://erlef.org/
             logo: erlang_ecosystem_foundation.svg
             description: Erlang Ecosystem Foundation supports and grows a diverse community and technology based on the BEAM, fostering collaboration and advancing Erlang, Elixir, LFE, and other BEAM-based technologies.
-            organization:
-              name: Erlang Ecosystem Foundation
-              linkedin: https://www.linkedin.com/company/erlef
+            crunchbase: https://www.crunchbase.com/organization/erlang-ecosystem-foundation
             extra:
               linkedin_url: https://www.linkedin.com/company/erlef
           - item:
