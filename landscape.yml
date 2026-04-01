@@ -157,6 +157,30 @@ landscape:
         name: General
         items:
           - item:
+            name: ActiveState Software, Inc.
+            homepage_url: https://activestate.com/
+            logo: activestate_software_inc.svg
+            description: |-
+              ActiveState empowers innovation from code to cloud smarter, safer, and faster. ActiveState��_��_s cutting-edge solutions give developers and enterprises the power and flexibility to develop in Java, Ruby, Python, Perl, Node.js, PHP, Tcl, and more. Stackato is ActiveState��_��_s groundbreaking cloud platform for creating a private platform as a service (PaaS), and is the cost-effective, secure, and portable way to develop and deploy apps to the cloud. ActiveState is proven for the enterprise: More than two million developers and 97% of Fortune-1000 companies use ActiveState��_��_s end-to-end solutions to develop, distribute, and manage their software applications. Global customers like Cisco, CA, HP, Bank of America, Siemens, and Lockheed Martin look to ActiveState to save time, save money, minimize risk, ensure compliance, and reduce time to market.
+
+
+
+              From Wikipedia: 
+
+              ActiveState is a Canadian software company headquartered in Vancouver, British Columbia. It develops, sells, and supports cross-platform development tools for dynamic languages such as Perl, PHP, Python, Ruby, and Tcl, as well as language distributions and enterprise services.
+
+              The newest offering from ActiveState is Stackato, a cloud application platform for creating a private, secure, flexible Platform as a Service (PaaS) using any language on any stack on any cloud. Stackato easily allows customers to develop, deploy, migrate, scale, manage, and monitor applications on any cloud. Developers can simulate a production environment on a local machine, code, test, and then launch an application to any cloud. It also helps enterprise IT to achieve new levels of data security, reduce time to market, save money, ensure compliance, and gain greater control over the cloud.
+
+              Other products from ActiveState include ActiveState Komodo, an integrated development environment (IDE) for dynamic languages; the Perl Dev Kit (PDK), productivity and deployment tools for Perl programmers; and the Tcl Dev Kit (TDK), productivity and deployment tools for Tcl programmers. Language distributions include Perl (ActivePerl and PerlScript), Python (ActivePython and PythonScript), and Tcl (ActiveTcl and TclScript) for AIX, HP-UX, Linux, Mac OS X, Solaris, and Windows.
+
+              In October 2006, ActiveState (then a subsidiary Sophos) was named one of Canada's Top 100 Employers, as published in Maclean's magazine, one of only a handful of software developers to receive this honour.[1]
+
+              ActiveState is owned by its employees and Pender Financial Group, an investment company focused on technology and healthcare sectors in British Columbia[2] after briefly being a member of the Sophos group.
+            crunchbase: https://www.crunchbase.com/organization/activestate
+            twitter: https://twitter.com/ActiveState
+            extra:
+              linkedin_url: https://www.linkedin.com/company/activestate
+          - item:
             name: Ada Logics
             homepage_url: https://adalogics.com/
             logo: ada_logics.svg
@@ -1078,6 +1102,15 @@ landscape:
             twitter: https://twitter.com/SAFECode
             extra:
               linkedin_url: https://www.linkedin.com/company/safecode-org
+          - item:
+            name: The FreeBSD Foundation
+            homepage_url: https://freebsdfoundation.org/
+            logo: the_freebsd_foundation.svg
+            description: FreeBSD Foundation is a non-profit organization that celebrates, elevates, and empowers users of the world's best open source operating system. Make a Donation
+            crunchbase: https://www.crunchbase.com/organization/the-freebsd-foundation
+            twitter: https://twitter.com/freebsdfndation
+            extra:
+              linkedin_url: https://www.linkedin.com/company/freebsd-foundation
           - item:
             name: The MITRE Corporation
             homepage_url: https://mitre.org/
