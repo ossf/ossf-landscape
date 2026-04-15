@@ -1103,6 +1103,15 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/safecode-org
           - item:
+            name: The FreeBSD Foundation
+            homepage_url: https://freebsdfoundation.org/
+            logo: the_freebsd_foundation.svg
+            description: FreeBSD Foundation is a non-profit organization that celebrates, elevates, and empowers users of the world's best open source operating system. Make a Donation
+            crunchbase: https://www.crunchbase.com/organization/the-freebsd-foundation
+            twitter: https://twitter.com/freebsdfndation
+            extra:
+              linkedin_url: https://www.linkedin.com/company/freebsd-foundation
+          - item:
             name: The MITRE Corporation
             homepage_url: https://mitre.org/
             logo: the_mitre_corporation.svg
