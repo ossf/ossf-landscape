@@ -231,9 +231,6 @@ landscape:
             logo: apiiro.svg
             description: Industry-first Code Risk Platform™. Complete risk visibility with every change, from design to code to cloud.
             twitter: https://twitter.com/ApiiroSecurity
-            organization:
-              name: Apiiro
-              linkedin: https://www.linkedin.com/company/apiiro
             extra:
               linkedin_url: https://www.linkedin.com/company/apiiro
           - item:
@@ -331,9 +328,6 @@ landscape:
             logo: boost_security.svg
             description: Developer-first zero friction DevSecOps automation platform that builds trust into your software supply chain.
             twitter: https://twitter.com/boostsecurityio
-            organization:
-              name: Boost Security
-              linkedin: https://www.linkedin.com/company/boostsecurity-io
             extra:
               linkedin_url: https://www.linkedin.com/company/boostsecurity-io
           - item:
@@ -478,14 +472,10 @@ landscape:
             homepage_url: https://embraceable.ai/
             logo: embraceable_technology.svg
             description: embraceableAI offers intelligent digital assistants that outperform standard RAG frameworks and AI co-pilots, setting new benchmarks in result quality, compliance, and reliability.
-            organization:
-              name: embraceable Technology
           - item:
             name: Ensignia
             homepage_url: https://ensignia.co/
             logo: ensignia.svg
-            organization:
-              name: Ensignia
           - item:
             name: FOSSA
             homepage_url: https://fossa.io/
@@ -554,16 +544,11 @@ landscape:
             homepage_url: https://helvethink.ch/
             logo: helvethink.svg
             description: Helvethink specializes in DevSecOps and cloud-native consulting, helping organizations design, build, and operate secure, scalable, and observable platforms through automation, infrastructure as code, and platform engineering.
-            organization:
-              name: Helvethink
           - item:
             name: herodevs
             homepage_url: https://herodevs.com/
             logo: herodevs.svg
             description: HeroDevs is a team of elite web developers who can help your company solve the problems you're facing. Whether you're dealing with code quality issues, are unable to ship product on time, or are struggling to find a partner you can trust, HeroDevs has the experience to help your team.
-            organization:
-              name: herodevs
-              linkedin: https://www.linkedin.com/company/herodevs/
             extra:
               linkedin_url: https://www.linkedin.com/company/herodevs/
           - item:
@@ -664,8 +649,6 @@ landscape:
             homepage_url: https://quantrexion.com/
             logo: quantrexion_governance_risk_intelligence.svg
             description: .
-            organization:
-              name: Quantrexion – Governance & Risk Intelligence
           - item:
             name: ReeVo Spa
             homepage_url: https://reevo.it/
@@ -761,9 +744,6 @@ landscape:
             logo: socket.svg
             description: Socket
             twitter: https://twitter.com/SocketSecurity
-            organization:
-              name: Socket
-              linkedin: https://www.linkedin.com/company/socketinc
             extra:
               linkedin_url: https://www.linkedin.com/company/socketinc
           - item:
@@ -795,9 +775,6 @@ landscape:
             homepage_url: https://stepsecurity.io/
             logo: stepsecurity.svg
             description: StepSecurity provides enhanced security solutions for GitHub Actions by offering maintained actions and robust runner runtime security, focusing on network egress filtering to protect CI/CD pipelines from potential vulnerabilities.
-            organization:
-              name: StepSecurity
-              linkedin: https://www.linkedin.com/company/step-security
             extra:
               linkedin_url: https://www.linkedin.com/company/step-security
           - item:
@@ -836,9 +813,6 @@ landscape:
             logo: technology_innovation_institute.svg
             description: The Technology Innovation Institute (TII) aims to become a leading global research Centre dedicated to pushing the frontiers of knowledge. Our teams of scientists, researchers and engineers work in an open, flexible and agile environment to deliver dis...
             twitter: https://twitter.com/TIIuae
-            organization:
-              name: Technology Innovation Institute
-              linkedin: https://www.linkedin.com/company/tiiuae
             extra:
               linkedin_url: https://www.linkedin.com/company/tiiuae
           - item:
@@ -846,15 +820,11 @@ landscape:
             homepage_url: https://threadai.com/
             logo: thread_ai.svg
             description: Thread AI is an AI infrastructure company founded by AI product and engineering leaders from Palantir Technologies. Its AI workflow orchestration infrastructure, Lemma, enables regulated enterprises to build production-ready AI workflows and agents for their critical operations. It empowers enterprises to implement governed, reliable, and controlled AI-powered workflows without replacing their existing tech stack, providing the infrastructure for agents to reason, plan, and act within observable guardrails, at scale.
-            organization:
-              name: Thread AI
           - item:
             name: Trace Machina - Simulate Robotic Systems
             homepage_url: https://tracemachina.com/
             logo: trace_machina_simulate_robotic_systems.svg
             description: Trace Machina is a company that specializes in building tools for ambitious engineering teams to accelerate automation.
-            organization:
-              name: Trace Machina - Simulate Robotic Systems
           - item:
             name: Trail of Bits
             homepage_url: https://trailofbits.com/
@@ -978,9 +948,6 @@ landscape:
               --- Merged Data:
 
               ISC2 is the world’s leading member association for cybersecurity professionals. Our members, candidates and associates are leading the cybersecurity profession and safeguarding the way we live by creating a safe and secure cyber world. (ISC)² is an int...
-            organization:
-              name: International Information System Security Certification Consortium Inc
-              linkedin: https://www.linkedin.com/company/isc2-bangkok-chapter
             extra:
               linkedin_url: https://www.linkedin.com/company/isc2-bangkok-chapter
           - item:
@@ -1012,9 +979,6 @@ landscape:
             logo: openforum_europe.svg
             description: OpenForum Europe
             twitter: https://twitter.com/OpenForumEurope
-            organization:
-              name: OpenForum Europe
-              linkedin: https://www.linkedin.com/company/openforum-europe
             extra:
               linkedin_url: https://www.linkedin.com/company/openforum-europe
           - item:
@@ -1067,9 +1031,6 @@ landscape:
             homepage_url: https://rtems.org/
             logo: rtems_project.svg
             description: RTEMS Project develops and maintains an open source Real Time Operating System (RTOS) supporting various processor architectures and BSPs for real-time applications.
-            organization:
-              name: RTEMS Project
-              linkedin: https://www.linkedin.com/company/rtems-project
             extra:
               linkedin_url: https://www.linkedin.com/company/rtems-project
           - item:
@@ -1077,9 +1038,6 @@ landscape:
             homepage_url: https://rubycentral.org/
             logo: ruby_central_inc.svg
             description: Ruby Central is a non-profit organization dedicated to supporting the global Ruby community by organizing major software conferences such as RubyConf and RailsConf, while also providing essential infrastructure and resources like RubyGems for Ruby
-            organization:
-              name: Ruby Central, Inc.
-              linkedin: https://www.linkedin.com/company/ruby-central-inc
             extra:
               linkedin_url: https://www.linkedin.com/company/ruby-central-inc
           - item:
@@ -1133,8 +1091,6 @@ landscape:
             name: Trifecta Tech Foundation
             homepage_url: https://trifectatech.org/
             logo: trifecta_tech_foundation.svg
-            organization:
-              name: Trifecta Tech Foundation
   - category:
     name: Sigstore
     subcategories:
