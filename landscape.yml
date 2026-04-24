@@ -812,7 +812,12 @@ landscape:
             name: International Information System Security Certification Consortium Inc
             homepage_url: https://isc2.org/
             logo: international_information_system_security_certification_consortium_inc.svg
-            description: "ISC2 is the world’s leading member association for cybersecurity professionals. Our members, candidates and associates are leading the cybersecurity profession and safeguarding the way we live by creating a safe and secure cyber world. (ISC)² is an int...\n\n--- Merged Data:\n\nISC2 is the world’s leading member association for cybersecurity professionals. Our members, candidates and associates are leading the cybersecurity profession and safeguarding the way we live by creating a safe and secure cyber world. (ISC)² is an int..."
+            description: |-
+              ISC2 is the world’s leading member association for cybersecurity professionals. Our members, candidates and associates are leading the cybersecurity profession and safeguarding the way we live by creating a safe and secure cyber world. (ISC)² is an int...
+
+              --- Merged Data:
+
+              ISC2 is the world’s leading member association for cybersecurity professionals. Our members, candidates and associates are leading the cybersecurity profession and safeguarding the way we live by creating a safe and secure cyber world. (ISC)² is an int...
             extra:
               linkedin_url: https://www.linkedin.com/company/isc2-bangkok-chapter
           - item:
