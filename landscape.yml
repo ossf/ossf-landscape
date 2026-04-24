@@ -90,12 +90,7 @@ landscape:
             name: International Business Machines Corporation
             homepage_url: https://ibm.com/
             logo: international_business_machines_corporation.svg
-            description: |-
-              Founded in 1911, International Business Machines (IBM) is a multinational computer, technology, and IT consulting corporation that manufactures and sells computer hardware and software, and offers infrastructure services, hosting services, and consulting services. They are headquartered in Armonk, New York.
-
-              --- Merged Data:
-
-              IBM is an IT technology and consulting firm providing computer hardware, software, and infrastructure and hosting services.
+            description: "Founded in 1911, International Business Machines (IBM) is a multinational computer, technology, and IT consulting corporation that manufactures and sells computer hardware and software, and offers infrastructure services, hosting services, and consulting services. They are headquartered in Armonk, New York.\n\n--- Merged Data:\n\nIBM is an IT technology and consulting firm providing computer hardware, software, and infrastructure and hosting services."
             crunchbase: https://www.crunchbase.com/organization/ibm
             twitter: https://twitter.com/IBM
             extra:
@@ -131,24 +126,7 @@ landscape:
             name: Sonatype, Inc.
             homepage_url: https://sonatype.com/
             logo: sonatype_inc.svg
-            description: |-
-              Global Headquarters
-
-              Sonatype, Inc.
-
-              12501 Prosperity Drive, Suite 350
-
-              Silver Spring, MD 20904
-
-
-
-              Canadian Office
-
-              Sonatype, Inc.
-
-              147 Wyndham St N, Suite 302
-
-              Guelph, ON, N1H 4E9
+            description: "Global Headquarters\n\nSonatype, Inc.\n\n12501 Prosperity Drive, Suite 350\n\nSilver Spring, MD 20904\n\n\n\nCanadian Office\n\nSonatype, Inc.\n\n147 Wyndham St N, Suite 302\n\nGuelph, ON, N1H 4E9"
             crunchbase: https://www.crunchbase.com/organization/sonatype
             twitter: https://twitter.com/sonatype
             extra:
@@ -160,22 +138,7 @@ landscape:
             name: ActiveState Software, Inc.
             homepage_url: https://activestate.com/
             logo: activestate_software_inc.svg
-            description: |-
-              ActiveState empowers innovation from code to cloud smarter, safer, and faster. ActiveState��_��_s cutting-edge solutions give developers and enterprises the power and flexibility to develop in Java, Ruby, Python, Perl, Node.js, PHP, Tcl, and more. Stackato is ActiveState��_��_s groundbreaking cloud platform for creating a private platform as a service (PaaS), and is the cost-effective, secure, and portable way to develop and deploy apps to the cloud. ActiveState is proven for the enterprise: More than two million developers and 97% of Fortune-1000 companies use ActiveState��_��_s end-to-end solutions to develop, distribute, and manage their software applications. Global customers like Cisco, CA, HP, Bank of America, Siemens, and Lockheed Martin look to ActiveState to save time, save money, minimize risk, ensure compliance, and reduce time to market.
-
-
-
-              From Wikipedia: 
-
-              ActiveState is a Canadian software company headquartered in Vancouver, British Columbia. It develops, sells, and supports cross-platform development tools for dynamic languages such as Perl, PHP, Python, Ruby, and Tcl, as well as language distributions and enterprise services.
-
-              The newest offering from ActiveState is Stackato, a cloud application platform for creating a private, secure, flexible Platform as a Service (PaaS) using any language on any stack on any cloud. Stackato easily allows customers to develop, deploy, migrate, scale, manage, and monitor applications on any cloud. Developers can simulate a production environment on a local machine, code, test, and then launch an application to any cloud. It also helps enterprise IT to achieve new levels of data security, reduce time to market, save money, ensure compliance, and gain greater control over the cloud.
-
-              Other products from ActiveState include ActiveState Komodo, an integrated development environment (IDE) for dynamic languages; the Perl Dev Kit (PDK), productivity and deployment tools for Perl programmers; and the Tcl Dev Kit (TDK), productivity and deployment tools for Tcl programmers. Language distributions include Perl (ActivePerl and PerlScript), Python (ActivePython and PythonScript), and Tcl (ActiveTcl and TclScript) for AIX, HP-UX, Linux, Mac OS X, Solaris, and Windows.
-
-              In October 2006, ActiveState (then a subsidiary Sophos) was named one of Canada's Top 100 Employers, as published in Maclean's magazine, one of only a handful of software developers to receive this honour.[1]
-
-              ActiveState is owned by its employees and Pender Financial Group, an investment company focused on technology and healthcare sectors in British Columbia[2] after briefly being a member of the Sophos group.
+            description: "ActiveState empowers innovation from code to cloud smarter, safer, and faster. ActiveState��_��_s cutting-edge solutions give developers and enterprises the power and flexibility to develop in Java, Ruby, Python, Perl, Node.js, PHP, Tcl, and more. Stackato is ActiveState��_��_s groundbreaking cloud platform for creating a private platform as a service (PaaS), and is the cost-effective, secure, and portable way to develop and deploy apps to the cloud. ActiveState is proven for the enterprise: More than two million developers and 97% of Fortune-1000 companies use ActiveState��_��_s end-to-end solutions to develop, distribute, and manage their software applications. Global customers like Cisco, CA, HP, Bank of America, Siemens, and Lockheed Martin look to ActiveState to save time, save money, minimize risk, ensure compliance, and reduce time to market.\n\n\n\nFrom Wikipedia: \n\nActiveState is a Canadian software company headquartered in Vancouver, British Columbia. It develops, sells, and supports cross-platform development tools for dynamic languages such as Perl, PHP, Python, Ruby, and Tcl, as well as language distributions and enterprise services.\n\nThe newest offering from ActiveState is Stackato, a cloud application platform for creating a private, secure, flexible Platform as a Service (PaaS) using any language on any stack on any cloud. Stackato easily allows customers to develop, deploy, migrate, scale, manage, and monitor applications on any cloud. Developers can simulate a production environment on a local machine, code, test, and then launch an application to any cloud. It also helps enterprise IT to achieve new levels of data security, reduce time to market, save money, ensure compliance, and gain greater control over the cloud.\n\nOther products from ActiveState include ActiveState Komodo, an integrated development environment (IDE) for dynamic languages; the Perl Dev Kit (PDK), productivity and deployment tools for Perl programmers; and the Tcl Dev Kit (TDK), productivity and deployment tools for Tcl programmers. Language distributions include Perl (ActivePerl and PerlScript), Python (ActivePython and PythonScript), and Tcl (ActiveTcl and TclScript) for AIX, HP-UX, Linux, Mac OS X, Solaris, and Windows.\n\nIn October 2006, ActiveState (then a subsidiary Sophos) was named one of Canada's Top 100 Employers, as published in Maclean's magazine, one of only a handful of software developers to receive this honour.[1]\n\nActiveState is owned by its employees and Pender Financial Group, an investment company focused on technology and healthcare sectors in British Columbia[2] after briefly being a member of the Sophos group."
             crunchbase: https://www.crunchbase.com/organization/activestate
             twitter: https://twitter.com/ActiveState
             extra:
@@ -201,17 +164,7 @@ landscape:
             name: Akamai Technologies, Inc.
             homepage_url: https://akamai.com/
             logo: akamai_technologies_inc.svg
-            description: |-
-              U.S. offices Corporate headquarters
-              8 Cambridge Center 
-              Cambridge, MA 02142
-
-              Telephone:
-              Sales: (877) 4-AKAMAI
-                        (877) 425-2624
-
-              Employees	2380 (December 2011)
-              Website	Akamai.com
+            description: "U.S. offices Corporate headquarters\n8 Cambridge Center \nCambridge, MA 02142\n\nTelephone:\nSales: (877) 4-AKAMAI\n          (877) 425-2624\n\nEmployees\t2380 (December 2011)\nWebsite\tAkamai.com"
             crunchbase: https://www.crunchbase.com/organization/akamai-technologies
             twitter: https://twitter.com/Akamai
             extra:
@@ -246,42 +199,7 @@ landscape:
             name: AuriStor Inc.
             homepage_url: https://auristor.com/
             logo: auristor_inc.svg
-            description: |-
-              AuriStor, Inc. (formerly Your File System, Inc.), is taking the next step in transitioning enterprise file systems to global file systems by building a 21st century successor to AFS. In addition to continued support of the Enterprise File System space, AuriStor is making global file storage personal through the use of subscription services, personal storage servers and partnership arrangements with digital content providers, internet service providers, and cloud computing services.
-               
-              AuriStor builds upon and nurtures the OpenAFS community of developers and users. Core AuriStor products will be available for free as open source. AuriStor offers storage appliances and commercial licenses which bundle the latest features, higher level functionality, automated updates, on-going technical support, and knowledge base access.
-              Specialties
-              OpenAFS, AuriStor, Kerberos, Heimdal
-
-              Website
-              https://www.auristor.com
-              Industry
-              Information Technology and Services
-              Type
-              Privately Held
-              Headquarters
-              255 W 94TH ST APT 6B NEW YORK, NEW YORK 10025-6985 United States
-              Company Size
-              1-10 employees
-              Founded
-              2007
-
-              Gerry Seidman
-              > President, AuriStor
-              > 917-501-8287
-              > gerry@auriStor.com
-
-              NYC Office
-              255 W 94th Street
-              New York NY 10025
-              United States
-              +1 (212) 769-9018
-
-              London Office
-              Fingate 5-7 Cranwood Street
-              London EC1V 9EE
-              United Kingdom
-              +44 (0) 20 3239 1966
+            description: "AuriStor, Inc. (formerly Your File System, Inc.), is taking the next step in transitioning enterprise file systems to global file systems by building a 21st century successor to AFS. In addition to continued support of the Enterprise File System space, AuriStor is making global file storage personal through the use of subscription services, personal storage servers and partnership arrangements with digital content providers, internet service providers, and cloud computing services.\n \nAuriStor builds upon and nurtures the OpenAFS community of developers and users. Core AuriStor products will be available for free as open source. AuriStor offers storage appliances and commercial licenses which bundle the latest features, higher level functionality, automated updates, on-going technical support, and knowledge base access.\nSpecialties\nOpenAFS, AuriStor, Kerberos, Heimdal\n\nWebsite\nhttps://www.auristor.com\nIndustry\nInformation Technology and Services\nType\nPrivately Held\nHeadquarters\n255 W 94TH ST APT 6B NEW YORK, NEW YORK 10025-6985 United States\nCompany Size\n1-10 employees\nFounded\n2007\n\nGerry Seidman\n> President, AuriStor\n> 917-501-8287\n> gerry@auriStor.com\n\nNYC Office\n255 W 94th Street\nNew York NY 10025\nUnited States\n+1 (212) 769-9018\n\nLondon Office\nFingate 5-7 Cranwood Street\nLondon EC1V 9EE\nUnited Kingdom\n+44 (0) 20 3239 1966"
             crunchbase: https://www.crunchbase.com/organization/auristor
             twitter: https://twitter.com/AuriStor
             extra:
@@ -378,12 +296,7 @@ landscape:
             name: Citi
             homepage_url: https://citi.com/
             logo: citi.svg
-            description: |-
-              Citi, the leading global financial services company, has approximately 200 million customer accounts and does business in more than 140 countries. Through its two operating units, Citicorp and Citi Holdings, Citi provides consumers, corporations, governments and institutions with a broad range of financial products and services, including consumer banking and credit, corporate and investment banking, securities brokerage, and wealth management.
-
-              --- Merged Data:
-
-              Credit Cards, Banking, Mortgage, Personal Loans | Citi.com Citi's mission is to serve as a trusted partner to our clients by responsibly providing financial services that enable growth and economic progress. Our core activities are safeguarding assets,...
+            description: "Citi, the leading global financial services company, has approximately 200 million customer accounts and does business in more than 140 countries. Through its two operating units, Citicorp and Citi Holdings, Citi provides consumers, corporations, governments and institutions with a broad range of financial products and services, including consumer banking and credit, corporate and investment banking, securities brokerage, and wealth management.\n\n--- Merged Data:\n\nCredit Cards, Banking, Mortgage, Personal Loans | Citi.com Citi's mission is to serve as a trusted partner to our clients by responsibly providing financial services that enable growth and economic progress. Our core activities are safeguarding assets,..."
             crunchbase: https://www.crunchbase.com/organization/citigroup
             twitter: https://twitter.com/citi
             extra:
@@ -515,9 +428,7 @@ landscape:
             name: G-Research
             homepage_url: https://gresearch.co.uk/
             logo: g_research.svg
-            description: |-
-              About us
-              G-Research is a leading quantitative research and technology company.  By using the latest scientific techniques, we produce world-beating predictive research and build advanced technology to analyse the world’s data.
+            description: "About us\nG-Research is a leading quantitative research and technology company.  By using the latest scientific techniques, we produce world-beating predictive research and build advanced technology to analyse the world’s data."
             crunchbase: https://www.crunchbase.com/organization/g-research
             twitter: https://twitter.com/GRESEARCHjobs
             extra:
@@ -564,12 +475,7 @@ landscape:
             name: Honda Motor Co., Ltd.
             homepage_url: https://honda.com/
             logo: honda_motor_co_ltd.svg
-            description: |-
-              AGL Steering Committee Participation Agreement - Bronze
-
-              Honda's R&D subsidiary.
-
-              Parent company of Honda R&D America and  Honda R&D Innovations (formerly Honda Silicon Valley Labs)
+            description: "AGL Steering Committee Participation Agreement - Bronze\n\nHonda's R&D subsidiary.\n\nParent company of Honda R&D America and  Honda R&D Innovations (formerly Honda Silicon Valley Labs)"
             crunchbase: https://www.crunchbase.com/organization/honda-automobiles
             twitter: https://twitter.com/Honda
             extra:
@@ -605,12 +511,7 @@ landscape:
             name: Lockheed Martin
             homepage_url: https://lmco.com/
             logo: lockheed_martin.svg
-            description: |-
-              Founded in 1995, Lockheed Martin is a global aerospace, security, defense, and advanced technology company. The company's customers come from domestic and international defense and civil markets, with its principal customers being agencies of the US government.
-
-              --- Merged Data:
-
-              Lockheed Martin Corporation
+            description: "Founded in 1995, Lockheed Martin is a global aerospace, security, defense, and advanced technology company. The company's customers come from domestic and international defense and civil markets, with its principal customers being agencies of the US government.\n\n--- Merged Data:\n\nLockheed Martin Corporation"
             crunchbase: https://www.crunchbase.com/organization/lockheed-martin
             twitter: https://twitter.com/LockheedMartin
             extra:
@@ -790,10 +691,7 @@ landscape:
             name: Sysdig, Inc.
             homepage_url: https://sysdig.com/
             logo: sysdig_inc.svg
-            description: |-
-              Draios Inc. dba Sysdig
-
-              "Sysdig Cloud" is a SaaS monitoring, troubleshooting, and alerting suite designed from the ground up to provide deep, process-level visibility into distributed, containerized environments in the datacenter and cloud.  Sysdig Cloud captures, correlates, and visualizes data from across every layer of your infrastructure enabling rapid troubleshooting and proactive performance management.  The solution can be deployed in minutes with no configuration or plugins needed - it just works out of the box.  Plus, Sysdig Cloud requires practically zero maintenance effort meaning Ops teams can spend more time on the fun part of their jobs. Try it free at sysdig.com.
+            description: "Draios Inc. dba Sysdig\n\n\"Sysdig Cloud\" is a SaaS monitoring, troubleshooting, and alerting suite designed from the ground up to provide deep, process-level visibility into distributed, containerized environments in the datacenter and cloud.  Sysdig Cloud captures, correlates, and visualizes data from across every layer of your infrastructure enabling rapid troubleshooting and proactive performance management.  The solution can be deployed in minutes with no configuration or plugins needed - it just works out of the box.  Plus, Sysdig Cloud requires practically zero maintenance effort meaning Ops teams can spend more time on the fun part of their jobs. Try it free at sysdig.com."
             crunchbase: https://www.crunchbase.com/organization/sysdig
             twitter: https://twitter.com/sysdig
             extra:
@@ -838,12 +736,7 @@ landscape:
             name: Triam Security
             homepage_url: https://cleanstart.com/
             logo: triam_security.svg
-            description: |-
-              Triamsecurity is a leading provider of comprehensive security solutions for businesses. We offer a wide range of products and services to help protect your company from various threats. Our team of experts specializes in risk assessment, security consu...
-
-              --- Merged Data:
-
-              Triamsecurity is a leading provider of comprehensive security solutions for businesses. We offer a wide range of products and services to help protect your company from various threats. Our team of experts specializes in risk assessment, security consu...
+            description: "Triamsecurity is a leading provider of comprehensive security solutions for businesses. We offer a wide range of products and services to help protect your company from various threats. Our team of experts specializes in risk assessment, security consu...\n\n--- Merged Data:\n\nTriamsecurity is a leading provider of comprehensive security solutions for businesses. We offer a wide range of products and services to help protect your company from various threats. Our team of experts specializes in risk assessment, security consu..."
             crunchbase: https://www.crunchbase.com/organization/triam-security
             extra:
               linkedin_url: https://www.linkedin.com/company/triam-security
@@ -881,36 +774,13 @@ landscape:
             name: China Academy of Information and Communications Technology (CAICT)
             homepage_url: https://caict.ac.cn/
             logo: china_academy_of_information_and_communications_technology_caict.svg
-            description: |-
-              Founded in 1957, the China Academy of Information and Communications Technology (hereinafter referred to as “CAICT”) is a scientific research institute directly under the Ministry of Industry and Information Technology (MIIT) of China. While sticking to the positioning of “a specialized think-tank for the government, and an innovation and development platform for the industry” and cherishing the cultural philosophy of “boosting prosperity with virtues and expertise” for years, CAICT provides strong support for the industry’s major strategies,...
-
-              · Decision-Making Support
-              · Test beds
-              · Test and Certification
-              · Consultancy
-              · Regulation services
-
-              Business Departments
-
-              Policy and Economics Research Institute
-              Technology and Standards Research Institute
-              Industry and Planning Research Institute
-              Cloud Computing & Big Data Research Institute
-              Informatization and Industrialization Integration Research Institute
-              Security Research Institute
-              CTTL System Laboratory
-              CTTL Terminal labs
-              TL Certification Institute
-              ICT Project Quota & Quality Supervision Center
+            description: "Founded in 1957, the China Academy of Information and Communications Technology (hereinafter referred to as “CAICT”) is a scientific research institute directly under the Ministry of Industry and Information Technology (MIIT) of China. While sticking to the positioning of “a specialized think-tank for the government, and an innovation and development platform for the industry” and cherishing the cultural philosophy of “boosting prosperity with virtues and expertise” for years, CAICT provides strong support for the industry’s major strategies,...\n\n· Decision-Making Support\n· Test beds\n· Test and Certification\n· Consultancy\n· Regulation services\n\nBusiness Departments\n\nPolicy and Economics Research Institute\nTechnology and Standards Research Institute\nIndustry and Planning Research Institute\nCloud Computing & Big Data Research Institute\nInformatization and Industrialization Integration Research Institute\nSecurity Research Institute\nCTTL System Laboratory\nCTTL Terminal labs\nTL Certification Institute\nICT Project Quota & Quality Supervision Center"
             crunchbase: https://www.crunchbase.com/organization/china-academy-of-information-and-communication-technology
           - item:
             name: Eclipse Foundation AISBL.
             homepage_url: https://eclipse.org/
             logo: eclipse_foundation_aisbl.svg
-            description: |-
-              102 Centrepointe Drive
-              Ottawa, Ontario,
-              Canada, K2G 6B1
+            description: "102 Centrepointe Drive\nOttawa, Ontario,\nCanada, K2G 6B1"
             crunchbase: https://www.crunchbase.com/organization/eclipse-foundation
             twitter: https://twitter.com/EclipseFdn
             extra:
@@ -963,12 +833,7 @@ landscape:
             name: Nanyang Technological University
             homepage_url: https://ntu.edu.sg/
             logo: nanyang_technological_university.svg
-            description: |-
-              The Nanyang Technological University, Singapore is the second oldest public autonomous research university in Singapore.
-
-              --- Merged Data:
-
-              With 33,500 students, and 10,000 faculty and staff, NTU is the second largest university in Singapore.
+            description: "The Nanyang Technological University, Singapore is the second oldest public autonomous research university in Singapore.\n\n--- Merged Data:\n\nWith 33,500 students, and 10,000 faculty and staff, NTU is the second largest university in Singapore."
             crunchbase: https://www.crunchbase.com/organization/nanyang-technological-university
             twitter: https://twitter.com/NTUsg
             extra:
@@ -1053,9 +918,7 @@ landscape:
             name: SAFECode
             homepage_url: https://safecode.org/
             logo: safecode.svg
-            description: |-
-              About Us 
-                SAFECode is a global nonprofit organization that brings business leaders and technical experts together to exchange insights and ideas on creating, improving and promoting scalable and effective software security programs. JOIN THE COLLABOR...
+            description: "About Us \n  SAFECode is a global nonprofit organization that brings business leaders and technical experts together to exchange insights and ideas on creating, improving and promoting scalable and effective software security programs. JOIN THE COLLABOR..."
             crunchbase: https://www.crunchbase.com/organization/safecode-org
             twitter: https://twitter.com/SAFECode
             extra:
