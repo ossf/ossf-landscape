@@ -540,12 +540,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/ostif
           - item:
-            name: Patchstack OÜ
-            homepage_url: https://patchstack.com/
-            logo: patchstack_ou.svg
-            description: Patchstack is a company that provides the fastest protection for WordPress security vulnerabilities. They offer vPatching to detect and mitigate vulnerabilities, automatically deploying highly targeted protection rules without affecting site performanc...
-            crunchbase: https://www.crunchbase.com/organization/webarx
-          - item:
             name: Quantrexion – Governance & Risk Intelligence
             homepage_url: https://quantrexion.com/
             logo: quantrexion_governance_risk_intelligence.svg
