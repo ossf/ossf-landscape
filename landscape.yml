@@ -355,9 +355,9 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/canonical-ltd-
           - item:
-            name: Chainguard
+            name: Chainguard, Inc.
             homepage_url: https://chainguard.dev/
-            logo: chainguard.svg
+            logo: chainguard_inc.svg
             description: Making the software supply chain secure by default.
             crunchbase: https://www.crunchbase.com/organization/chainguard
             twitter: https://twitter.com/chainguard_dev
