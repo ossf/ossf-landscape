@@ -848,6 +848,15 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/triam-security
           - item:
+            name: TuxCare, Inc.
+            homepage_url: https://tuxcare.com/
+            logo: tuxcare_inc.svg
+            description: Making Linux secure, stable, and profitable for thousands of hosting providers and data centers worldwide.
+            crunchbase: https://www.crunchbase.com/organization/cloud-linux-inc
+            twitter: https://twitter.com/CloudLinuxOS
+            extra:
+              linkedin_url: https://www.linkedin.com/company/cloudlinux
+          - item:
             name: Wind River Systems, Inc.
             homepage_url: https://windriver.com/
             logo: wind_river_systems_inc.svg
