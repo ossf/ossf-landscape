@@ -249,6 +249,11 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/arm
           - item:
+            name: A-Team Systems LLC
+            homepage_url: https://ateamsystems.com/
+            logo: a_team_systems_llc.svg
+            description: A-Team Systems specializes in providing expert systems administration and monitoring services for cloud, container, and server environments, ensuring reliable and secure infrastructure management for clients ranging from small servers to high-volume we...
+          - item:
             name: AuriStor Inc.
             homepage_url: https://auristor.com/
             logo: auristor_inc.svg
