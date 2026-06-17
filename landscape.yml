@@ -18,7 +18,12 @@ landscape:
             name: Apple Inc.
             homepage_url: https://apple.com/
             logo: apple_inc.svg
-            description: Founded in 1976, Apple ignited the personal computer revolution in the 1970s with the Apple II and reinvented the personal computer in the 1980s with the Macintosh. Today, Apple continues to lead the industry in innovation with its award-winning computers, OS X operating system and iLife and professional applications. Apple is also spearheading the digital media revolution with its iPod portable music and video players, iTunes online store, and the mobile phone market with its revolutionary iPhone. Apple headquarters are located in Cupertino, California.
+            description: |-
+              Founded in 1976, Apple ignited the personal computer revolution in the 1970s with the Apple II and reinvented the personal computer in the 1980s with the Macintosh. Today, Apple continues to lead the industry in innovation with its award-winning computers, OS X operating system and iLife and professional applications. Apple is also spearheading the digital media revolution with its iPod portable music and video players, iTunes online store, and the mobile phone market with its revolutionary iPhone. Apple headquarters are located in Cupertino, California.
+
+              --- Merged Data:
+
+              Apple is a multinational technology corporation that designs, manufactures, and markets a wide range of consumer electronics, personal computers, and software, including popular products like the iPhone, iPad, Mac, and Apple Watch, while also providing...
             crunchbase: https://www.crunchbase.com/organization/apple
             twitter: https://twitter.com/Apple
             extra:
