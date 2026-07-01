@@ -1113,6 +1113,15 @@ landscape:
             name: Trifecta Tech Foundation
             homepage_url: https://trifectatech.org/
             logo: trifecta_tech_foundation.svg
+          - item:
+            name: University of California, Berkeley
+            homepage_url: https://berkeley.edu/
+            logo: university_of_california_berkeley.svg
+            description: University of California Berkeley is the oldest of the campuses under the University of California umbrella. The university has made its mark as one of the premier research institutions in the country. The student body consists of an estimated 25,000+ undergraduates and 10,000+ graduate students.
+            crunchbase: https://www.crunchbase.com/organization/university-of-california-berkeley
+            twitter: https://twitter.com/UCBerkeley
+            extra:
+              linkedin_url: https://www.linkedin.com/company/uc-berkeley
   - category:
     name: Sigstore
     subcategories:
