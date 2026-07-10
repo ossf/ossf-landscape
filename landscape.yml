@@ -738,15 +738,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/sap
           - item:
-            name: SHE BASH
-            homepage_url: https://shebash.io/
-            logo: she_bash.svg
-            description: 'Bringing much needed capacity to #DoD #DevSecOps.'
-            crunchbase: https://www.crunchbase.com/organization/she-bash-llc
-            twitter: https://twitter.com/SHEBASHIO
-            extra:
-              linkedin_url: https://www.linkedin.com/company/shebash
-          - item:
             name: Shopify Inc.
             homepage_url: https://shopify.com/
             logo: shopify_inc.svg
