@@ -502,6 +502,11 @@ landscape:
             logo: embraceable_technology.svg
             description: embraceableAI offers intelligent digital assistants that outperform standard RAG frameworks and AI co-pilots, setting new benchmarks in result quality, compliance, and reliability.
           - item:
+            name: Emphere
+            homepage_url: https://emphere.com/
+            logo: emphere.svg
+            description: Emphere automates cloud security remediation by generating infrastructure as code fixes for vulnerabilities in AWS, Azure, and GCP, significantly reducing mean time to recovery from weeks to minutes while ensuring secure deployment back to the cloud.
+          - item:
             name: Ensignia
             homepage_url: https://ensignia.co/
             logo: ensignia.svg
