@@ -720,8 +720,8 @@ landscape:
             name: RTX
             homepage_url: https://rtx.com/
             logo: rtx.svg
-            description: Raytheon Technologies Corporation is a multinational conglomerate headquartered in Waltham, Massachusetts United States.
-            crunchbase: https://www.crunchbase.com/organization/raytheon
+            description: RTX Corporation is a multinational conglomerate headquartered in Arlington, Virginia United States.
+            crunchbase: https://www.crunchbase.com/organization/rtx-corp
             twitter: https://twitter.com/RaytheonTech
             extra:
               linkedin_url: https://www.linkedin.com/company/raytheontechnologies
