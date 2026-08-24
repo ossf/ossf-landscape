@@ -505,7 +505,7 @@ landscape:
             name: Emphere
             homepage_url: https://emphere.com/
             logo: emphere.svg
-            description: Emphere automates cloud security remediation by generating infrastructure as code fixes for vulnerabilities in AWS, Azure, and GCP, significantly reducing mean time to recovery from weeks to minutes while ensuring secure deployment back to the cloud.
+            description: Emphere automates cloud security remediation by generating infrastructure as code fixes for vulnerabilities in AWS, Azure, and GCP, significantly reducing mean time to recovery from weeks to minutes while ensuring secure deployment back to the cloud
             crunchbase: https://www.crunchbase.com/organization/emphere
           - item:
             name: Ensignia
