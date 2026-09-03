@@ -197,7 +197,12 @@ landscape:
             name: Aikido Security
             homepage_url: https://aikido.dev/
             logo: aikido_security.svg
-            description: Aikido Security provides a comprehensive security platform that centralizes the protection of code, cloud, and runtime environments by automatically identifying and resolving vulnerabilities while offering a clear overview of security issues.
+            description: |-
+              Aikido Security provides a comprehensive security platform that centralizes the protection of code, cloud, and runtime environments by automatically identifying and resolving vulnerabilities while offering a clear overview of security issues.
+
+              --- Merged Data:
+
+              Aikido Security provides a comprehensive security platform that centralizes the protection of code, cloud, and runtime environments by automatically identifying and resolving vulnerabilities while offering a clear overview of security issues.
             crunchbase: https://www.crunchbase.com/organization/aikido-security
           - item:
             name: Aiven
