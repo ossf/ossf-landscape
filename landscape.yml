@@ -432,15 +432,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/cloudsmith
           - item:
-            name: Comcast Cable Communications, LLC
-            homepage_url: https://xfinity.com/
-            logo: comcast_cable_communications_llc.svg
-            description: Founded in 1963 and headquartered in Philadelphia, Pennsylvania, Comcast Corporation is an American telecommunications conglomerate. Comcast owns two primary businesses, Comcast Cable and NBCUniversal. Comcast delivers phone service and high-speed internet under the brand Xfinity. Comcast provides its services for both residents and commercial businesses. E! Television Network, Telemundo & NBC are all a part of their broadcast networks. Some of their media includes news, entertainment, and sports.
-            crunchbase: https://www.crunchbase.com/organization/comcast
-            twitter: https://twitter.com/Xfinity
-            extra:
-              linkedin_url: https://www.linkedin.com/company/comcast
-          - item:
             name: Control-Plane.io
             homepage_url: https://control-plane.io/
             logo: control_plane.svg
@@ -681,11 +672,6 @@ landscape:
             twitter: https://twitter.com/OSTIFofficial
             extra:
               linkedin_url: https://www.linkedin.com/company/ostif
-          - item:
-            name: Quantrexion – Governance & Risk Intelligence
-            homepage_url: https://quantrexion.com/
-            logo: quantrexion_governance_risk_intelligence.svg
-            description: .
           - item:
             name: ReeVo Spa
             homepage_url: https://reevo.it/
