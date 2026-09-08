@@ -432,15 +432,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/cloudsmith
           - item:
-            name: Comcast Cable Communications, LLC
-            homepage_url: https://xfinity.com/
-            logo: comcast_cable_communications_llc.svg
-            description: Founded in 1963 and headquartered in Philadelphia, Pennsylvania, Comcast Corporation is an American telecommunications conglomerate. Comcast owns two primary businesses, Comcast Cable and NBCUniversal. Comcast delivers phone service and high-speed internet under the brand Xfinity. Comcast provides its services for both residents and commercial businesses. E! Television Network, Telemundo & NBC are all a part of their broadcast networks. Some of their media includes news, entertainment, and sports.
-            crunchbase: https://www.crunchbase.com/organization/comcast
-            twitter: https://twitter.com/Xfinity
-            extra:
-              linkedin_url: https://www.linkedin.com/company/comcast
-          - item:
             name: Control-Plane.io
             homepage_url: https://control-plane.io/
             logo: control_plane.svg
@@ -618,6 +609,17 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/american-honda-motor-company-inc-
           - item:
+            name: JetBrains s.r.o.
+            homepage_url: https://jetbrains.com/
+            logo: jetbrains_s_r_o.svg
+            description: |-
+              JetBrains creates intelligent software development tools trusted by over 15 million users and 88 Fortune Global Top 100 companies. Its lineup of more than 30 products includes award-winning IDEs like IntelliJ IDEA and PyCharm, as well as the JetBrains AI-powered coding assistant, coding agent Junie, Mellum, JetBrains’ focal LLM, purpose-built for code-related tasks, and productivity-boosting team tools like YouTrack, Qodana, and TeamCity. JetBrains is also the creator of Kotlin, a cross-platform language used by more than 2.5 million developers a year, worldwide. The company is headquartered in Amsterdam, the Netherlands, and has offices around the world.
+              For more information, please visit https://www.jetbrains.com/.
+            crunchbase: https://www.crunchbase.com/organization/jetbrains
+            twitter: https://twitter.com/jetbrains
+            extra:
+              linkedin_url: https://www.linkedin.com/company/jetbrains
+          - item:
             name: Keyfactor
             homepage_url: https://keyfactor.com/
             logo: keyfactor.svg
@@ -681,11 +683,6 @@ landscape:
             twitter: https://twitter.com/OSTIFofficial
             extra:
               linkedin_url: https://www.linkedin.com/company/ostif
-          - item:
-            name: Quantrexion – Governance & Risk Intelligence
-            homepage_url: https://quantrexion.com/
-            logo: quantrexion_governance_risk_intelligence.svg
-            description: .
           - item:
             name: ReeVo Spa
             homepage_url: https://reevo.it/
