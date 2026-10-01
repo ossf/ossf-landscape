@@ -846,11 +846,6 @@ landscape:
             logo: thread_ai.svg
             description: Thread AI is an AI infrastructure company founded by AI product and engineering leaders from Palantir Technologies. Its AI workflow orchestration infrastructure, Lemma, enables regulated enterprises to build production-ready AI workflows and agents for their critical operations. It empowers enterprises to implement governed, reliable, and controlled AI-powered workflows without replacing their existing tech stack, providing the infrastructure for agents to reason, plan, and act within observable guardrails, at scale.
           - item:
-            name: Trace Machina - Simulate Robotic Systems
-            homepage_url: https://tracemachina.com/
-            logo: trace_machina_simulate_robotic_systems.svg
-            description: Trace Machina is a company that specializes in building tools for ambitious engineering teams to accelerate automation.
-          - item:
             name: Trail of Bits
             homepage_url: https://trailofbits.com/
             logo: trail_of_bits.svg
