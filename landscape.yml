@@ -493,6 +493,11 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/dtcc
           - item:
+            name: DevGuard
+            homepage_url: https://devguard.org/
+            logo: devguard.svg
+            description: DevGuard provides an open source developer security platform designed to enhance the security of the Software Supply Chain by managing vulnerabilities, securing dependencies, and facilitating the development of secure software through a unified workflo...
+          - item:
             name: Docker, Inc.
             homepage_url: https://docker.com/
             logo: docker_inc.svg
