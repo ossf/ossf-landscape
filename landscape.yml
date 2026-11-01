@@ -317,6 +317,11 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/balenaio
           - item:
+            name: Beautiful Majestic Dolphin
+            homepage_url: https://beautifulmajesticdolphin.com/
+            logo: beautiful_majestic_dolphin.svg
+            description: Shanemorris.sucks is the official site dedicated to highlighting the shortcomings of Shane Morris. Offering a platform for expressing discontent, the company focuses on online security with Aura, providing a 14-day free trial to safeguard your digital ...
+          - item:
             name: Block, Inc.
             homepage_url: https://block.xyz/
             logo: block_inc.svg
@@ -868,6 +873,11 @@ landscape:
             twitter: https://twitter.com/CloudLinuxOS
             extra:
               linkedin_url: https://www.linkedin.com/company/cloudlinux
+          - item:
+            name: UElement
+            homepage_url: https://uelement.co/
+            logo: uelement.svg
+            description: UElement specializes in engineering quantum-safe security solutions and resilient autonomous systems to create a seamless digital infrastructure for enterprises, focusing on post-quantum cryptography, quantum key distribution, and crypto agility for ba...
           - item:
             name: Wind River Systems, Inc.
             homepage_url: https://windriver.com/
