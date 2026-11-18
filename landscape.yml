@@ -85,7 +85,7 @@ landscape:
           - item:
             name: Huawei Technologies Co., Ltd
             homepage_url: https://huawei.com/
-            logo: huawei_technologies_co.svg
+            logo: huawei_technologies_co_ltd.svg
             description: Huawei is a global provider of information and communications technology (ICT) infrastructure and smart devices. Huawei is headquartered in Shenzhen, China.
             crunchbase: https://www.crunchbase.com/organization/huawei
             twitter: https://twitter.com/Huawei
@@ -439,7 +439,7 @@ landscape:
           - item:
             name: Control-Plane.io
             homepage_url: https://control-plane.io/
-            logo: control_plane.svg
+            logo: control_plane_io.svg
             description: ControlPlane ⟁ Secure Kubernetes from supply-chain and runtime attacks ⟁ Zero trust, continuous security ⟁ containers | security | training | quality | open-source
             crunchbase: https://www.crunchbase.com/organization/controlplane
             twitter: https://twitter.com/controlplaneio
@@ -549,7 +549,7 @@ landscape:
           - item:
             name: Goldman Sachs & Co. LLC
             homepage_url: https://goldmansachs.com/
-            logo: goldman_sachs_co.svg
+            logo: goldman_sachs_co_llc.svg
             description: Founded in 1869, Goldman Sachs is a global investment banking, securities, and investment management firm that provides client-based services that include corporations, financial institutions, governments and high net worth individuals. Goldman Sachs is headquartered in New York.
             crunchbase: https://www.crunchbase.com/organization/goldman-sachs
             twitter: https://twitter.com/GSCareers
